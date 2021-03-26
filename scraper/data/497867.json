@@ -1,0 +1,173 @@
+{
+    "adult": false,
+    "backdrop_path": "/sZ74vCGAXqHJxnFraZUn1j1OHry.jpg",
+    "genre_ids": [
+        18
+    ],
+    "id": 497867,
+    "original_language": "en",
+    "original_title": "Child Bringing Bouquet to Woman",
+    "overview": "Eadweard Muybridge's motion photography film depicts a child bringing a bouquet of flowers to a topless woman who kisses his cheek.",
+    "popularity": 1.345,
+    "poster_path": "/ftL61w9QMfqzHg1iW5JziDBGhPi.jpg",
+    "release_date": "1886-12-31",
+    "title": "Child Bringing Bouquet to Woman",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 12,
+    "trakt": {
+        "base": {
+            "title": "Child Bringing Bouquet to Woman",
+            "year": 1886,
+            "ids": {
+                "trakt": 344804,
+                "slug": "child-bringing-bouquet-to-woman-1886",
+                "imdb": "tt7411790",
+                "tmdb": 497867
+            }
+        },
+        "aliases": [],
+        "releases": [
+            {
+                "country": "gb",
+                "certification": "",
+                "release_date": "1886-12-31",
+                "release_type": "theatrical",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "Child Bringing Bouquet to Woman",
+                "overview": "Eadweard Muybridge's motion photography film depicts a child bringing a bouquet of flowers to a topless woman who kisses his cheek.",
+                "tagline": "",
+                "language": "en"
+            }
+        ],
+        "lists": [
+            {
+                "name": "All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nContent Type: Filters\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 0\r\nMax runtime: 999\r\nMin year: 1800\r\nMax year: 2021",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-09-23T02:50:33.000Z",
+                "updated_at": "2021-01-20T14:20:14.000Z",
+                "item_count": 574610,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 19783261,
+                    "slug": "all-movies"
+                },
+                "user": {
+                    "username": "smalger",
+                    "private": false,
+                    "name": "Sean Alger",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "smalger"
+                    }
+                }
+            },
+            {
+                "name": "List of All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 1\r\nMax runtime: 2500\r\nMin year: 1850\r\nMax year: 2120",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-05-03T17:38:14.000Z",
+                "updated_at": "2021-01-20T23:29:02.000Z",
+                "item_count": 519385,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 11484917,
+                    "slug": "list-of-all-movies"
+                },
+                "user": {
+                    "username": "Zeniic",
+                    "private": false,
+                    "name": "Zeniic",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "zeniic"
+                    }
+                }
+            },
+            {
+                "name": "Watchlist",
+                "description": "Movies, shows, seasons, and episodes I plan to watch.",
+                "privacy": null,
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2019-05-03T20:55:26.000Z",
+                "updated_at": "2019-08-29T14:01:31.000Z",
+                "item_count": 109425,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 6629304,
+                    "slug": null
+                },
+                "user": {
+                    "username": "durocoqui",
+                    "private": false,
+                    "name": "",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "durocoqui"
+                    }
+                }
+            }
+        ],
+        "people": {
+            "cast": [],
+            "crew": {
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Eadweard Muybridge",
+                            "ids": {
+                                "trakt": 244956,
+                                "slug": "eadweard-muybridge",
+                                "imdb": "nm1155956",
+                                "tmdb": 1077300,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 5.25,
+            "votes": 4,
+            "distribution": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 2,
+                "8": 0,
+                "9": 0,
+                "10": 0
+            }
+        }
+    }
+}
