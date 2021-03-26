@@ -4,4 +4,4 @@
 
 * NodeJS + Express
 
-> GET /api/query 
+- ```GET /api/query``` 
