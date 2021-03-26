@@ -20,10 +20,10 @@ async function storeMovies(movies) {
     }
 }
 
-async function getAllMovies() {
+async function getAllMovies(iterations) {
     let currentCursor = 1
 
-    while (currentCursor < 100) {
+    while (currentCursor < iterations) {
         console.log(`Getting movies page ${currentCursor}`);
         const res = await getMovies(currentCursor)
         await storeMovies(res.data.results)

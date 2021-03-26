@@ -20,10 +20,10 @@ async function storeTv(shows) {
     }
 }
 
-async function getAllShows() {
+async function getAllShows(iterations) {
     let currentCursor = 1
 
-    while (currentCursor < 100) {
+    while (currentCursor < iterations) {
         console.log(`Getting movies page ${currentCursor}`);
         const res = await getTv(currentCursor)
         await storeTv(res.data.results)
