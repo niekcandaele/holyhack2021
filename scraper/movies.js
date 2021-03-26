@@ -1,5 +1,5 @@
 const axios = require('axios').default
-const trakt = require('./trakt');
+const { traktMovies } = require('./trakt');
 const fs = require('fs');
 const { wait, logstash } = require('./lib');
 const baseUrlMovieDB = `https://api.themoviedb.org/3`;
@@ -7,13 +7,13 @@ const baseUrlMovieDB = `https://api.themoviedb.org/3`;
 async function storeMovies(movies) {
     for (let movie of movies) {
         console.log(`Storing movie ${movie.title}`);
-        const traktData = await trakt(movie)
+        const traktData = await traktMovies(movie)
         console.log(traktData);
         movie.trakt = traktData
         console.log(movie);
 
         if (process.env.DEBUG) {
-            fs.writeFileSync(`./data/${movie.id}.json`, JSON.stringify(movie, null, 4))
+            fs.writeFileSync(`./data/movies/${movie.id}.json`, JSON.stringify(movie, null, 4))
         }
 
         await logstash.send(movie)
@@ -36,7 +36,7 @@ async function getAllMovies() {
 async function getMovies(page) {
     return axios.get(`${baseUrlMovieDB}/discover/movie`, {
         params: {
-            sort_by: 'primary_release_date.asc',
+            sort_by: 'popularity.desc',
             page,
             api_key: process.env.TMDB_API_KEY,
         }
