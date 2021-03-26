@@ -20,3 +20,7 @@ case 6 is more on getting an overview of what we have in terms of rights, what a
 https://app.swaggerhub.com/apis-docs/thetvdb/tvdb-api_v_4/4.2.8#/movies/getAllMovie
 
 Honestly dont think we'll do much collecting... good sources are hard to find. It'd be web scraping then
+
+
+Thanks Popcorntime for the api keys!
+`https://github.com/popcorn-official/popcorn-desktop/blob/development/src/app/settings.js`
