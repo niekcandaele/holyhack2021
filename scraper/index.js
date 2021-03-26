@@ -5,8 +5,8 @@ const baseUrl = `https://api.themoviedb.org/3`;
 
 const logstash = new Logstash({
     type: 'tcp',
-    host: 'ergens',
-    port: 1337
+    host: '127.0.0.1',
+    port: 1338
 })
 
 
