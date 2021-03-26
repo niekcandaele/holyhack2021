@@ -4,4 +4,6 @@
 
 * NodeJS + Express
 
-- ```GET /api/query``` 
+- ```GET /api/query_movies```
+
+- ```GET /api/query_shows``` 
