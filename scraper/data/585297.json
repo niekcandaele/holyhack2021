@@ -1,0 +1,173 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+        16
+    ],
+    "id": 585297,
+    "original_language": "fr",
+    "original_title": "L'homme machine",
+    "overview": "Animated stick drawings representing a man walking",
+    "popularity": 0.6,
+    "poster_path": "/rMPIortXNBUtQb8fNSt5TnIRWSw.jpg",
+    "release_date": "1885-01-01",
+    "title": "L'homme machine",
+    "video": false,
+    "vote_average": 3.8,
+    "vote_count": 6,
+    "trakt": {
+        "base": {
+            "title": "L'homme machine",
+            "year": 1885,
+            "ids": {
+                "trakt": 432917,
+                "slug": "l-homme-machine-1885",
+                "imdb": "tt8588366",
+                "tmdb": 585297
+            }
+        },
+        "aliases": [],
+        "releases": [
+            {
+                "country": "gb",
+                "certification": "",
+                "release_date": "1885-01-01",
+                "release_type": "physical",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "L'homme machine",
+                "overview": "Animated stick drawings representing a man walking",
+                "tagline": "",
+                "language": "en"
+            }
+        ],
+        "lists": [
+            {
+                "name": "All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nContent Type: Filters\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 0\r\nMax runtime: 999\r\nMin year: 1800\r\nMax year: 2021",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-09-23T02:50:33.000Z",
+                "updated_at": "2021-01-20T14:20:14.000Z",
+                "item_count": 574610,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 19783261,
+                    "slug": "all-movies"
+                },
+                "user": {
+                    "username": "smalger",
+                    "private": false,
+                    "name": "Sean Alger",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "smalger"
+                    }
+                }
+            },
+            {
+                "name": "mdblist-1500-1900",
+                "description": "This list is maintained by mdblist.com\r\nCreate your own by customizing this list: https://mdblist.com/?list=19671204\r\nUpdated at 2020-12-01 22:12:10",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": true,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-09-03T08:17:45.000Z",
+                "updated_at": "2020-12-01T22:12:11.000Z",
+                "item_count": 9027,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 19671204,
+                    "slug": "mdblist-1500-1900"
+                },
+                "user": {
+                    "username": "steffenpoulsen",
+                    "private": false,
+                    "name": "steffenpoulsen",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "steffenpoulsen"
+                    }
+                }
+            },
+            {
+                "name": "List of All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 1\r\nMax runtime: 2500\r\nMin year: 1850\r\nMax year: 2120",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-05-03T17:38:14.000Z",
+                "updated_at": "2021-01-20T23:29:02.000Z",
+                "item_count": 519385,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 11484917,
+                    "slug": "list-of-all-movies"
+                },
+                "user": {
+                    "username": "Zeniic",
+                    "private": false,
+                    "name": "Zeniic",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "zeniic"
+                    }
+                }
+            }
+        ],
+        "people": {
+            "cast": [],
+            "crew": {
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Étienne-Jules Marey",
+                            "ids": {
+                                "trakt": 273219,
+                                "slug": "etienne-jules-marey",
+                                "imdb": "nm4620889",
+                                "tmdb": 1135153,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 5,
+            "votes": 3,
+            "distribution": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0,
+                "6": 2,
+                "7": 0,
+                "8": 0,
+                "9": 0,
+                "10": 0
+            }
+        }
+    }
+}

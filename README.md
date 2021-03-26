@@ -14,9 +14,11 @@ Case 6: In order to make smart decisions about which content TV channels and str
 case 6 is more on getting an overview of what we have in terms of rights, what ar emy competitors doing, what is being released next year, what is doing well in the netherlands. to get a basis for some intelligence to propose/recommend what I should buy or do
 ```
 
-
 ## Collect data
 
 https://app.swaggerhub.com/apis-docs/thetvdb/tvdb-api_v_4/4.2.8#/movies/getAllMovie
+http://developer.rovicorp.com/docs
+https://developers.themoviedb.org/3/
 
-Honestly dont think we'll do much collecting... good sources are hard to find. It'd be web scraping then
+Thanks Popcorntime for the api keys!
+`https://github.com/popcorn-official/popcorn-desktop/blob/development/src/app/settings.js`
