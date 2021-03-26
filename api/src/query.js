@@ -1,11 +1,11 @@
 const esclient = require('./connection');
 
 query = async (req, res) => {
-    if (!req.body.query) {
+    if (!req.body || !req.body.query) {
         res.status(400);
         res.json({
             error: 'Bad request',
-            message: 'Missing parameter <body.query>',
+            message: 'Missing parameter: body.query',
             statuscode: 400
         });
         return;

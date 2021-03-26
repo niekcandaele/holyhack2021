@@ -10,4 +10,8 @@ router.get('/', (req, res) => {
     res.send('GET test request');
 });
 
+router.get('/query', async (req, res) => {
+    await query(req, res);
+});
+
 module.exports = router;
