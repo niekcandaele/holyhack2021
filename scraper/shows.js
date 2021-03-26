@@ -26,6 +26,12 @@ async function getAllShows(iterations) {
     while (currentCursor < iterations) {
         console.log(`Getting movies page ${currentCursor}`);
         const res = await getTv(currentCursor)
+
+        // Empty response, end the loop
+        if (!res.data.results.length) {
+            currentCursor = iterations
+        }
+
         await storeTv(res.data.results)
         currentCursor++
         await wait()
