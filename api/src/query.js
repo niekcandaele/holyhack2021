@@ -1,6 +1,6 @@
 const esclient = require('./connection');
 
-query = async (req, res) => {
+query_movies = async (req, res, idx) => {
     if (!req.body || !req.body.query) {
         res.status(400);
         res.json({
@@ -13,7 +13,7 @@ query = async (req, res) => {
 
     try {
         const response = await esclient.search({
-            index: 'idx',
+            index: idx,
             body: {
                 query: JSON.parse(req.body.query)
             }

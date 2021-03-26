@@ -4,13 +4,22 @@ import { Router } from './router';
 import { DEFAULT } from 'styled/theme';
 import { GlobalStyle } from 'styled/globalStyle';
 import { Loading } from 'components';
+import { Provider } from 'use-http';
 
 export const App: FC = () => {
+  const options = {
+    headers: {
+      Accept: 'application/json'
+    }
+  };
+
   return (
     <StrictMode>
       <ThemeProvider theme={DEFAULT}>
         <Suspense fallback={<Loading />}>
-          <GlobalStyle />
+          <Provider options={options} url={process.env.REACT_APP_API}>
+            <GlobalStyle />
+          </Provider>
           <Router />
         </Suspense>
       </ThemeProvider>
