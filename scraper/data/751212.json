@@ -1,0 +1,285 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+        16
+    ],
+    "id": 751212,
+    "original_language": "fr",
+    "original_title": "Le Singe Musicien",
+    "overview": "A pre-cinematograph colour animation of the monkey playing his violin.",
+    "popularity": 0.6,
+    "poster_path": "/fx2gnyV2n9KdOCyGzQtVnpB9bIg.jpg",
+    "release_date": "1878-05-07",
+    "title": "The Musician Monkey",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 4,
+    "trakt": {
+        "base": {
+            "title": "The Musician Monkey",
+            "year": 1878,
+            "ids": {
+                "trakt": 591016,
+                "slug": "the-musician-monkey-1878",
+                "imdb": "tt12592084",
+                "tmdb": 751212
+            }
+        },
+        "aliases": [],
+        "releases": [
+            {
+                "country": "fr",
+                "certification": "U",
+                "release_date": "1878-05-07",
+                "release_type": "limited",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "The Musician Monkey",
+                "overview": "A pre-cinematograph colour animation of the monkey playing his violin.",
+                "tagline": "",
+                "language": "en"
+            }
+        ],
+        "lists": [
+            {
+                "name": "All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nContent Type: Filters\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 0\r\nMax runtime: 999\r\nMin year: 1800\r\nMax year: 2021",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-09-23T02:50:33.000Z",
+                "updated_at": "2021-01-20T14:20:14.000Z",
+                "item_count": 574610,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 19783261,
+                    "slug": "all-movies"
+                },
+                "user": {
+                    "username": "smalger",
+                    "private": false,
+                    "name": "Sean Alger",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "smalger"
+                    }
+                }
+            },
+            {
+                "name": "mdblist-1500-1900",
+                "description": "This list is maintained by mdblist.com\r\nCreate your own by customizing this list: https://mdblist.com/?list=19671204\r\nUpdated at 2020-12-01 22:12:10",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": true,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-09-03T08:17:45.000Z",
+                "updated_at": "2020-12-01T22:12:11.000Z",
+                "item_count": 9027,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 19671204,
+                    "slug": "mdblist-1500-1900"
+                },
+                "user": {
+                    "username": "steffenpoulsen",
+                    "private": false,
+                    "name": "steffenpoulsen",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "steffenpoulsen"
+                    }
+                }
+            },
+            {
+                "name": "List of All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 1\r\nMax runtime: 2500\r\nMin year: 1850\r\nMax year: 2120",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-05-03T17:38:14.000Z",
+                "updated_at": "2021-01-20T23:29:02.000Z",
+                "item_count": 519385,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 11484917,
+                    "slug": "list-of-all-movies"
+                },
+                "user": {
+                    "username": "Zeniic",
+                    "private": false,
+                    "name": "Zeniic",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "zeniic"
+                    }
+                }
+            }
+        ],
+        "people": {
+            "cast": [],
+            "crew": {
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Émile Reynaud",
+                            "ids": {
+                                "trakt": 70898,
+                                "slug": "emile-reynaud",
+                                "imdb": "nm0721526",
+                                "tmdb": 935707,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 6.66667,
+            "votes": 3,
+            "distribution": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 1,
+                "10": 0
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Moana",
+                "year": 2016,
+                "ids": {
+                    "trakt": 175475,
+                    "slug": "moana-2016",
+                    "imdb": "tt3521164",
+                    "tmdb": 277834
+                }
+            },
+            {
+                "title": "Frozen",
+                "year": 2013,
+                "ids": {
+                    "trakt": 77349,
+                    "slug": "frozen-2013",
+                    "imdb": "tt2294629",
+                    "tmdb": 109445
+                }
+            },
+            {
+                "title": "Zootopia",
+                "year": 2016,
+                "ids": {
+                    "trakt": 167397,
+                    "slug": "zootopia-2016",
+                    "imdb": "tt2948356",
+                    "tmdb": 269149
+                }
+            },
+            {
+                "title": "Inside Out",
+                "year": 2015,
+                "ids": {
+                    "trakt": 98998,
+                    "slug": "inside-out-2015",
+                    "imdb": "tt2096673",
+                    "tmdb": 150540
+                }
+            },
+            {
+                "title": "Finding Nemo",
+                "year": 2003,
+                "ids": {
+                    "trakt": 8,
+                    "slug": "finding-nemo-2003",
+                    "imdb": "tt0266543",
+                    "tmdb": 12
+                }
+            },
+            {
+                "title": "The Secret Life of Pets",
+                "year": 2016,
+                "ids": {
+                    "trakt": 209011,
+                    "slug": "the-secret-life-of-pets-2016",
+                    "imdb": "tt2709768",
+                    "tmdb": 328111
+                }
+            },
+            {
+                "title": "Up",
+                "year": 2009,
+                "ids": {
+                    "trakt": 8476,
+                    "slug": "up-2009",
+                    "imdb": "tt1049413",
+                    "tmdb": 14160
+                }
+            },
+            {
+                "title": "WALL·E",
+                "year": 2008,
+                "ids": {
+                    "trakt": 5853,
+                    "slug": "wall-e-2008",
+                    "imdb": "tt0910970",
+                    "tmdb": 10681
+                }
+            },
+            {
+                "title": "The Lion King",
+                "year": 1994,
+                "ids": {
+                    "trakt": 4242,
+                    "slug": "the-lion-king-1994",
+                    "imdb": "tt0110357",
+                    "tmdb": 8587
+                }
+            },
+            {
+                "title": "Toy Story",
+                "year": 1995,
+                "ids": {
+                    "trakt": 705,
+                    "slug": "toy-story-1995",
+                    "imdb": "tt0114709",
+                    "tmdb": 862
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 5,
+            "plays": 7,
+            "collectors": 0,
+            "comments": 0,
+            "lists": 3,
+            "votes": 3,
+            "recommended": 0
+        },
+        "watching": 0
+    }
+}

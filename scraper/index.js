@@ -1,7 +1,10 @@
-const axios = require('axios').default
-const Logstash = require('logstash-client')
 require('dotenv').config()
-const baseUrl = `https://api.themoviedb.org/3`;
+const axios = require('axios').default
+const Logstash = require('logstash-client');
+const trakt = require('./trakt');
+const fs = require('fs')
+const baseUrlMovieDB = `https://api.themoviedb.org/3`;
+
 
 const logstash = new Logstash({
     type: 'tcp',
@@ -9,10 +12,20 @@ const logstash = new Logstash({
     port: 1338
 })
 
+getAllMovies()
 
 async function storeMovies(movies) {
-    for (const movie of movies) {
+    for (let movie of movies) {
         console.log(`Storing movie ${movie.title}`);
+        const traktData = await trakt(movie)
+        console.log(traktData);
+        movie.trakt = traktData
+        console.log(movie);
+
+        if (process.env.DEBUG) {
+            fs.writeFileSync(`./data/${movie.id}.json`, JSON.stringify(movie, null, 4))
+        }
+
         await logstash.send(movie)
     }
 }
@@ -31,20 +44,17 @@ async function getAllMovies() {
 
 
 async function getMovies(page) {
-    return axios.get(`${baseUrl}/discover/movie`, {
+    return axios.get(`${baseUrlMovieDB}/discover/movie`, {
         params: {
-            sort_by: 'primary_release_date.desc',
+            sort_by: 'primary_release_date.asc',
             page,
             api_key: process.env.TMDB_API_KEY,
         }
     })
 }
 
-getAllMovies()
-
-
-
 async function wait(seconds = 1) {
+    // Reeee rate limits
     return new Promise((resolve, reject) => {
         setTimeout(() => {
             resolve()

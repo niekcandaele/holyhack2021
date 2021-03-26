@@ -1,0 +1,145 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+        16
+    ],
+    "id": 766094,
+    "original_language": "fr",
+    "original_title": "La Rosace Magique",
+    "overview": "Praxinoscope strip of a shifting rosette.",
+    "popularity": 0.6,
+    "poster_path": "/5zeVMAp3R4QHGarSc4Bf3B1uBY2.jpg",
+    "release_date": "1879-01-01",
+    "title": "The Magic Rosette",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 3,
+    "trakt": {
+        "base": {
+            "title": "The Magic Rosette",
+            "year": 1879,
+            "ids": {
+                "trakt": 604587,
+                "slug": "the-magic-rosette-1879",
+                "imdb": null,
+                "tmdb": 766094
+            }
+        },
+        "aliases": [],
+        "releases": [
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "1879-01-01",
+                "release_type": "premiere",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "The Magic Rosette",
+                "overview": "Praxinoscope strip of a shifting rosette.",
+                "tagline": "",
+                "language": "en"
+            }
+        ],
+        "lists": [
+            {
+                "name": "All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nContent Type: Filters\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 0\r\nMax runtime: 999\r\nMin year: 1800\r\nMax year: 2021",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-09-23T02:50:33.000Z",
+                "updated_at": "2021-01-20T14:20:14.000Z",
+                "item_count": 574610,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 19783261,
+                    "slug": "all-movies"
+                },
+                "user": {
+                    "username": "smalger",
+                    "private": false,
+                    "name": "Sean Alger",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "smalger"
+                    }
+                }
+            },
+            {
+                "name": "List of All Movies",
+                "description": "List created and maintained by https://listrr.pro\r\n\r\nNormal Filters:\r\nMin rating: 0\r\nMax rating: 100\r\nMin votes: 0\r\nMin runtime: 1\r\nMax runtime: 2500\r\nMin year: 1850\r\nMax year: 2120",
+                "privacy": "public",
+                "display_numbers": false,
+                "allow_comments": false,
+                "sort_by": "rank",
+                "sort_how": "asc",
+                "created_at": "2020-05-03T17:38:14.000Z",
+                "updated_at": "2021-01-20T23:29:02.000Z",
+                "item_count": 519385,
+                "comment_count": 0,
+                "likes": 0,
+                "ids": {
+                    "trakt": 11484917,
+                    "slug": "list-of-all-movies"
+                },
+                "user": {
+                    "username": "Zeniic",
+                    "private": false,
+                    "name": "Zeniic",
+                    "vip": false,
+                    "vip_ep": false,
+                    "ids": {
+                        "slug": "zeniic"
+                    }
+                }
+            }
+        ],
+        "people": {
+            "cast": [],
+            "crew": {
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Émile Reynaud",
+                            "ids": {
+                                "trakt": 70898,
+                                "slug": "emile-reynaud",
+                                "imdb": "nm0721526",
+                                "tmdb": 935707,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 5.5,
+            "votes": 2,
+            "distribution": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 1,
+                "8": 0,
+                "9": 0,
+                "10": 0
+            }
+        }
+    }
+}
