@@ -7,11 +7,11 @@ const Container = styled.div`
   align-items: center;
   justify-content: space-between;
   width: fit-content;
-  padding: 3px;
-  background-color: ${({ theme }) => theme.primary};
+  background: ${({ theme }) => theme.gradient};
   color: white;
+  margin: 0 5px;
   border-radius: 1.5rem;
-  padding: 3px 10px 3px 15px;
+  padding: 5px 10px 5px 15px;
   font-weight: 700;
   span {
     font-size: 1.2rem;
@@ -34,10 +34,10 @@ const Cross = styled(Plus)`
 
 interface ChipProps {
   text: string;
-  onDelete: () => void;
+  onDelete?: () => void;
 }
 
-export const Chip: FC<ChipProps> = ({ text, onDelete }) => {
+export const Chip: FC<ChipProps> = ({ text, onDelete = null }) => {
   return (
     <Container>
       <span>{text}</span>

@@ -20,7 +20,7 @@ export const Container = styled.div`
 `;
 
 const schema = Joi.object({
-  title: Joi.string()
+  search: Joi.string()
 });
 
 const SearchContainer = styled.div`
@@ -55,20 +55,29 @@ const SpinnerContainer = styled.div`
 `;
 
 interface IFormInputs {
-  title: string;
+  search: string;
 }
 export const Discover: FC = () => {
   const [items, setItems] = useState<any[]>();
   const [loading, setLoading] = useState(false);
   const { register, handleSubmit, errors } = useForm<IFormInputs>({ mode: 'onSubmit', resolver: joiResolver(schema) });
 
-  const onSubmit: SubmitHandler<IFormInputs> = async ({ title }) => {
+  const onSubmit: SubmitHandler<IFormInputs> = async ({ search }) => {
     setLoading(true);
     try {
+      const s = search.split(',');
+      const queries = s.map((searchTerm) => {
+        const keyval = searchTerm.split(':');
+        return {
+          match: { [keyval[0].trim()]: keyval[1].trim() }
+        };
+      });
+      console.log(queries);
+
       const response = await httpService.post('/query_movies', {
         query: {
-          match: {
-            title: title
+          bool: {
+            must: queries
           }
         }
       });
@@ -95,8 +104,10 @@ export const Discover: FC = () => {
       <h1>Discover</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <SearchContainer>
-          <SearchField error={errors.title} name="title" placeholder="Insert title 🧐" ref={register} />
-          <SearchIconContainer onKeyPress={handleKeyPress} type="submit"><Search/></SearchIconContainer>
+          <SearchField error={errors.search} name="search" placeholder="Insert search here 🧐" ref={register} />
+          <SearchIconContainer onKeyPress={handleKeyPress} type="submit">
+            <Search pointer />
+          </SearchIconContainer>
         </SearchContainer>
       </form>
 

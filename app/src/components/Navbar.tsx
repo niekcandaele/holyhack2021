@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import styled from 'styled';
 import { Link } from 'react-router-dom';
-import { Dashboard, Book, Server } from 'icons';
+import { Dashboard, Book, Server, CheckMark } from 'icons';
 import { NavLink } from 'react-router-dom';
 
 const Container = styled.div`
@@ -9,6 +9,7 @@ const Container = styled.div`
   height: 100vh;
   background-color: white;
   padding: 25px 20px;
+  z-index: 2;
   box-shadow: ${({ theme }): string => theme.shadow};
 
   h2 {
@@ -58,10 +59,11 @@ const Nav = styled.ul`
 export const Navbar: FC = () => {
   return (
     <Container>
-      <Link to="/dashboard"><h2>VATICAN</h2></Link>
+      <Link to="/view/dashboard"><h2>VATICAN</h2></Link>
       <Nav>
         <NavLink to="/view/dashboard"><Dashboard /><p>Dashboard</p></NavLink>
         <NavLink to="/view/discover"><Book /><p>Discover</p></NavLink>
+        <NavLink to="/view/editor"><CheckMark /><p>Editor</p></NavLink>
         <NavLink to="/view/statistics"><Server /><p>Statistics</p></NavLink>
       </Nav>
     </Container>

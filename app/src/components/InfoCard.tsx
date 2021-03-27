@@ -3,9 +3,9 @@ import styled from 'styled';
 
 const Container = styled.div<{ active: boolean }>`
   background: ${({ active, theme }) => active ? theme.gradient : 'white'};
-  height: 125px;
+  height: 100px;
   border-radius: 1.5rem;
-  padding: 25px;
+  padding: 10px 25px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,7 +19,7 @@ const Container = styled.div<{ active: boolean }>`
 `;
 
 const Amount = styled.p<{ active: boolean }>`
-  font-size: 4.5rem;
+  font-size: 4rem;
   color: ${({ theme, active }): string => active ? 'white' : theme.primary};
   font-weight: 800;
 `;

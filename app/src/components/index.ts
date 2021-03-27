@@ -10,3 +10,5 @@ export { InfoCard } from './InfoCard';
 export { SearchField } from './SearchField';
 export { ItemCard } from './ItemCard';
 export { Spinner } from './Spinner';
+export { TabSwitch } from './TabSwitch';
+export { Top5 } from './Top5';

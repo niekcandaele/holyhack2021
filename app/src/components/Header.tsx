@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import styled from 'styled';
-import { Avatar } from './Avatar';
+import { Avatar, Chip } from 'components';
 import { Bell } from 'icons';
 
 const Container = styled.div`
@@ -10,7 +10,7 @@ const Container = styled.div`
   padding: 10px 50px;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
   box-shadow: ${({ theme }): string => theme.shadow};
 `;
 
@@ -36,14 +36,30 @@ const IconContainer = styled.div`
   cursor: pointer;
 `;
 
+const Left = styled.div`
+  display: flex;
+  align-items: center;
+ `;
+
+const Right = styled.div`
+  display: flex;
+
+`;
+
 export const Header: FC = () => {
   return (
     <Container>
-      <IconContainer>
-        <Bell fill="white" pointer />
-      </IconContainer>
-      <Name><span>Welcome</span><p>Elise</p></Name>
-      <Avatar size="small" src="https://image.shutterstock.com/image-photo/pretty-smiling-joyfully-female-fair-260nw-776697943.jpg" />
+      <Left>
+        <Chip text="Vatican City" />
+        <Chip text="Ketnet Junior" />
+      </Left>
+      <Right>
+        <IconContainer>
+          <Bell fill="white" pointer />
+        </IconContainer>
+        <Name><span>Welcome</span><p>Elise</p></Name>
+        <Avatar size="small" src="https://image.shutterstock.com/image-photo/pretty-smiling-joyfully-female-fair-260nw-776697943.jpg" />
+      </Right>
     </Container>
   );
 };
