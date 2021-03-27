@@ -40,6 +40,13 @@ async function store(data, type) {
             element.trakt = traktData
         }
 
+        if (element.name) {
+            element.title = element.name
+        }
+
+        if (element.title) {
+            element.name = element.title
+        }
 
         element.videoType = type
         if (process.env.DEBUG) {
