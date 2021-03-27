@@ -41,7 +41,6 @@ async function traktMovies(movie) {
 
 async function traktTv(show) {
     const baseData = (await request.get(`/search/tmdb/${show.id}`, { params: { type: 'show' }, })).data
-    console.log(baseData);
     if (!baseData[0]) {
         console.log(`Movie ${show.id} not found in Trakt`);
         return null

@@ -12,6 +12,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "dotenv": "^8.2.0",
-    "logstash-client": "^1.1.1"
+    "ioredis": "^4.24.4"
   }
 }

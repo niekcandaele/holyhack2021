@@ -1,24 +1,10 @@
 const axios = require('axios').default
 const { traktTv } = require('./trakt');
 const fs = require('fs');
-const { wait, logstash } = require('./lib');
+const { wait, logstash, store } = require('./lib');
 const baseUrlMovieDB = `https://api.themoviedb.org/3`;
 
-async function storeTv(shows) {
-    for (let show of shows) {
-        console.log(`Storing tv show ${show.name}`);
-        const traktData = await traktTv(show)
-        console.log(traktData);
-        show.trakt = traktData
-        console.log(show);
 
-        if (process.env.DEBUG) {
-            fs.writeFileSync(`./data/shows/${show.id}.json`, JSON.stringify(show, null, 4))
-        }
-
-        await logstash.send(show)
-    }
-}
 
 async function getAllShows(iterations) {
     let currentCursor = 1
@@ -32,7 +18,8 @@ async function getAllShows(iterations) {
             currentCursor = iterations
         }
 
-        await storeTv(res.data.results)
+        await store(res.data.results, 'shows')
+
         currentCursor++
         await wait()
     }
