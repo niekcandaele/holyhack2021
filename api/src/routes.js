@@ -9,11 +9,11 @@ router.get('/', (req, res) => {
     res.send('GET test request');
 });
 
-router.get('/query_movies', bodyParser.json(), async (req, res) => {
+router.post('/query_movies', bodyParser.json(), async (req, res) => {
     await query(req, res, 'movies');
 });
 
-router.get('/query_shows',bodyParser.json(), async (req, res) => {
+router.post('/query_shows',bodyParser.json(), async (req, res) => {
     await query(req, res, 'shows');
 });
 

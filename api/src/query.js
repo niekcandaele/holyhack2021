@@ -21,7 +21,7 @@ query = async (req, res, idx) => {
                 query: req.body.query
             }
         });
-        res.json(response.body);
+        res.json(response.hits.hits);
     } catch (e) {
         res.status(e.statuscode || 500);
         res.json({
