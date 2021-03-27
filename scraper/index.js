@@ -36,8 +36,6 @@ async function getAll(type) {
 
             res.data.results = await Promise.all(res.data.results)
 
-            console.log(res.data.results[0]);
-
             await store(res.data.results, type)
             await wait()
             await redis.set(`${type}:${currentCursor}`, true);
