@@ -4,6 +4,14 @@
 
 * NodeJS + Express
 
-- ```GET /api/query_movies```
+- ```POST /api/query_movies```
 
-- ```GET /api/query_shows``` 
+- ```GET /api/genres/count/:name```
+
+- ```GET /api/query/count/:type```
+
+- ```GET /api/query/top/:type?size=```
+
+- ```GET /update?id=```
+
+- ```PUT /api/query/top/:type```
