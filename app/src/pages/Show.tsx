@@ -9,7 +9,7 @@ interface Series {
 
 }
 
-export const Series: FC = () => {
+export const Show: FC = () => {
   const { id } = useParams();
   const { loading, error, data = [] } = useFetch(`/movie/${id}`);
 

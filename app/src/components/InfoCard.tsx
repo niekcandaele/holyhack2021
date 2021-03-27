@@ -27,9 +27,18 @@ const Amount = styled.p<{ active: boolean }>`
 interface InfoCardProps {
   text: string;
   amount: number;
+  loading: boolean;
   isActive?: boolean;
 }
-export const InfoCard: FC<InfoCardProps> = ({ isActive = false, text, amount }) => {
+export const InfoCard: FC<InfoCardProps> = ({ isActive = false, loading, text, amount }) => {
+  if (loading) {
+    return (
+      <Container active={isActive}>
+        loading...
+      </Container>
+    );
+  }
+
   return (
     <Container active={isActive}>
       <Amount active={isActive}>{amount}</Amount>

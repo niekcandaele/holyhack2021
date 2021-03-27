@@ -30,7 +30,7 @@ interface MovieCardProps {
 export const ItemCard: FC<MovieCardProps> = ({ id, title, imagePath }) => {
   return (
     <Container>
-      <Link to={`/view/movie/${id}`}>
+      <Link to={`/movie/${id}`}>
         <Image url={`https://www.themoviedb.org/t/p/w300/${imagePath}`}/>
       </Link>
       <h3>{title}</h3>
