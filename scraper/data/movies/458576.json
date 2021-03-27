@@ -1,0 +1,1098 @@
+{
+    "adult": false,
+    "backdrop_path": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+    "genre_ids": [
+        14,
+        28,
+        12
+    ],
+    "id": 458576,
+    "original_language": "en",
+    "original_title": "Monster Hunter",
+    "overview": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+    "popularity": 1898.599,
+    "poster_path": "/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
+    "release_date": "2020-12-03",
+    "title": "Monster Hunter",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 1238,
+    "trakt": {
+        "base": {
+            "title": "Monster Hunter",
+            "year": 2020,
+            "ids": {
+                "trakt": 305432,
+                "slug": "monster-hunter-2020",
+                "imdb": "tt6475714",
+                "tmdb": 458576
+            }
+        },
+        "aliases": [
+            {
+                "title": "魔物獵人",
+                "country": "tw"
+            },
+            {
+                "title": "モンスターハンター",
+                "country": "jp"
+            },
+            {
+                "title": "Охотник на монстров",
+                "country": "ru"
+            },
+            {
+                "title": "Thợ Săn Quái Vật",
+                "country": "vn"
+            },
+            {
+                "title": "Monster Hunters",
+                "country": "gb"
+            },
+            {
+                "title": "Monster Hunter",
+                "country": "br"
+            }
+        ],
+        "releases": [
+            {
+                "country": "sk",
+                "certification": "12",
+                "release_date": "2020-12-03",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "ua",
+                "certification": "",
+                "release_date": "2020-12-03",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "nl",
+                "certification": "16",
+                "release_date": "2020-12-03",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "hu",
+                "certification": "12",
+                "release_date": "2020-12-03",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "tw",
+                "certification": "保護級",
+                "release_date": "2020-12-04",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "PG-13",
+                "release_date": "2020-12-18",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "au",
+                "certification": "M",
+                "release_date": "2021-01-01",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "id",
+                "certification": "",
+                "release_date": "2021-01-13",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "ru",
+                "certification": "16+",
+                "release_date": "2021-01-14",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "cz",
+                "certification": "",
+                "release_date": "2021-02-04",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "kr",
+                "certification": "12",
+                "release_date": "2021-02-10",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "PG-13",
+                "release_date": "2021-02-16",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "br",
+                "certification": "12",
+                "release_date": "2021-02-25",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "hk",
+                "certification": "",
+                "release_date": "2021-02-25",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "PG-13",
+                "release_date": "2021-03-02",
+                "release_type": "physical",
+                "note": null
+            },
+            {
+                "country": "es",
+                "certification": "",
+                "release_date": "2021-03-26",
+                "release_type": "theatrical",
+                "note": null
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2021-04-14",
+                "release_type": "digital",
+                "note": "VOD"
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2021-04-28",
+                "release_type": "physical",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "Monster Hunter",
+                "overview": "بوابة تنقل الملازم أرتميس ووحدة نخبة من الجنود إلى عالم غريب حيث تحكم الوحوش القوية بشراسة مميتة. يواجه الفريق خطرًا لا هوادة فيه ، ويواجه صيادًا غامضًا قد يكون أملهم الوحيد في إيجاد طريق للعودة إلى المنزل.",
+                "tagline": "خلف عالمنا ، هناك عالم آخر.",
+                "language": "ar"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Portál přenese poručici Artemis a elitní jednotku vojáků do podivného světa, kde vládnou mocné příšery se smrtící dravostí. Tváří v tvář neúnavnému nebezpečí narazí tým na záhadného lovce, který může být jejich jedinou nadějí na nalezení cesty domů.",
+                "tagline": "Za naším světem je další svět.",
+                "language": "cs"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Da LT Artemis og hendes elitenhed bliver transporteret til en ny verden, er det op til hende at få hendes enhed hjem igen. I hendes desperate forsøg på at finde hjem møder hun en mystisk jæger, hvis unikke evner har gjort det muligt for ham at overleve i det barske miljø. Da de bliver tvunget ud i farlige angreb fra monstre, må de stå sig sammen for at finde vej hjem.",
+                "tagline": "",
+                "language": "da"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Ein Portal transportiert Lt. Artemis und eine Eliteeinheit an einen seltsamen Ort, der von tödlichen Monstern bevölkert wird.",
+                "tagline": "",
+                "language": "de"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Μια πύλη μεταφέρει την λοχαγό Άρτεμις και μια ελίτ μονάδα στρατιωτών σ' έναν παράξενο κόσμο που κυβερνάται από πανίσχυρα, άγρια και θανατηφόρα τέρατα. Αντιμέτωποι μ' αυτόν τον αμείλικτο κίνδυνο, η ομάδα συναντά έναν μυστηριώδη κυνηγό που αποδεικνύεται οτι μπορεί να είναι τελικά η μόνη ελπίδα τους να βρουν τον δρόμο της επιστροφής.",
+                "tagline": "",
+                "language": "el"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
+                "tagline": "Behind our world, there is another.",
+                "language": "en"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Tras nuestro mundo hay otro: un mundo de monstruos peligrosos y poderosos que gobiernan sus dominios con una ferocidad mortal. Cuando la teniente Artemis y sus leales soldados son transportados de nuestro mundo al nuevo mundo, la imperturbable teniente recibe el golpe de su vida. En su desesperada batalla por sobrevivir contra enormes enemigos con poderes increíbles y ataques imparables y repugnantes, Artemis se unirá a un hombre misterioso que ha encontrado la forma de defenderse.",
+                "tagline": "Detrás de nuestro mundo hay otro.",
+                "language": "es"
+            },
+            {
+                "title": "شکارچی هیولا",
+                "overview": "بعد از انتقال ستوان آرتمیس و سربازان وفادارش به دنیایی جدید، آن ها درگیر نبردی سخت برای بقا، در برابر تعداد زیادی از دشمنان با قدرت هایی فوق العاده، می شوند. این فیلم بر اساس یک بازی ویدئویی با همین نام، ساخته ی کمپانی کپکام، ساخته شده است.",
+                "tagline": "",
+                "language": "fa"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Kun hiekkamyrsky yllättää kapteeni Artemisin ja hänen eliittiyksikkönsä eksyttäen heidät outoon maailmaan, he saavat järkytyksekseen huomata harhautuneensa vihamieliseen ja tuntemattomaan ympäristöön. Sitä asuttavat hirmuiset ja jättiläismäiset hirviöt, joihin heidän aseensa eivät tehoa. Taistellessaan epätoivoisesti henkensä edestä he kohtaavat salaperäisen Metsästäjän, joka on ainutlaatuisten taitojensa ansiosta aina askeleen edellä noita väkivahvoja olentoja. Heidän opittuaan vähitellen luottamaan toisiinsa Artemisille selviää, että Metsästäjä kuuluu ryhmään, jota johtaa Amiraali. Heitä kaikkia uhkaa vaara, joka voi vielä tuhota koko maailman, joten nuo urheat soturit yhdistävät poikkeukselliset kykynsä kohdatakseen vastustajansa ratkaisevassa taistelussa.",
+                "tagline": "Meidän maailmamme taustalla piilee toinen maailma",
+                "language": "fi"
+            },
+            {
+                "title": "Monster hunter",
+                "overview": "Notre monde en cache un autre, dominé par de puissants et dangereux monstres. Lorsque le Lieutenant Artemis et son unité d’élite traversent un portail qui les transporte dans ce monde parallèle, ils subissent le choc de leur vie. Au cours d’une tentative désespérée pour rentrer chez elle, le brave lieutenant rencontre un chasseur mystérieux, qui a survécu dans ce monde hostile grâce à ses aptitudes uniques. Faisant face à de terrifiantes et incessantes attaques de monstres, ces guerriers font équipe pour se défendre et trouver un moyen de retourner dans notre monde.",
+                "tagline": "Plus ils sont gros, plus ils sont difficiles à tuer.",
+                "language": "fr"
+            },
+            {
+                "title": "ציידת מפלצות",
+                "overview": "סמ\"לת ארטמיס (מילה ג'ובוביץ, \"האויב שבפנים\") מועברת עם חייליה אל עולם חדש שבו הם נקלעים לקרב חסר סיכוי מול אויבים ענקיים עם כוחות שלא ייאמן.",
+                "tagline": "ההשרדות על החיים מתחילה",
+                "language": "he"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "",
+                "tagline": "",
+                "language": "hi"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Kad neočekivana pješčana oluja prebaci kapetanicu Artemis (Milla Jovovich) i njenu jedinicu u novi svijet, vojnike će šokirati otkriće da je neprijateljsko i nepoznato okružje stanište ogromnim i zastrašujućim čudovištima koja su imuna na njihova vatrena oružja. Suočeni s opasnošću koja prijeti uništenjem njihova svijeta, hrabri ratnici udružuju svoje jedinstvene sposobnosti i udružuju se za krajnji obračun.",
+                "tagline": "Osim našeg svijeta, postoji i drugi.",
+                "language": "hr"
+            },
+            {
+                "title": "Monster Hunter - Szörnybirodalom",
+                "overview": "Artemis hadnagy és emberei egy távoli bolygóra kerülnek – és az új világ régi lakói nem fogadják őket szeretettel. A hatalmas, elképesztő erejű, meghökkentő harci technikákkal felszerelt szörnyek kérdés nélkül, azonnal végezni akarnak látszólag védtelen ellenfeleikkel.",
+                "tagline": "",
+                "language": "hu"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "",
+                "tagline": "",
+                "language": "id"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Dietro al nostro mondo ne esiste un altro: un mondo fatto di mostri potenti e pericolosi che regnano sui loro domini con ferocia mortale. Quando la luogotenente Artemis (Milla Jovovich) e i suoi fedeli soldati vengono trasportati dal nostro mondo al nuovo, l’imperturbabile luogotenente riceve lo shock più grande della sua vita. Nella sua disperata battaglia per la sopravvivenza contro nemici enormi e dai poteri incredibili, inarrestabili e rivoltanti, dovrà collaborare con un uomo misterioso che ha trovato una maniera per combattere queste creature.",
+                "tagline": "",
+                "language": "it"
+            },
+            {
+                "title": "モンスターハンター",
+                "overview": "",
+                "tagline": "",
+                "language": "ja"
+            },
+            {
+                "title": "몬스터 헌터",
+                "overview": "UN합동 보안 작전부 아르테미스 대위(밀라 요보비치)는 행방불명된 팀원들을 찾기 위해 나서지만 실종된 그들과 같은 이상 현상으로 거대 몬스터의 세계로 빠진다. 하지만 눈앞에 닥친 강력한 몬스터들의 습격으로 유일한 생존자가 된 그녀는 몬스터 헌터(토니 자)와 마주하게 되는데… 다시 인류의 세계로 돌아갈 수 있는 방법은 단 하나. 몬스터와 맞서 반드시 살아남아야 한다!",
+                "tagline": "몬스터의 사냥감이 될 것인가? 맞설 것인가?",
+                "language": "ko"
+            },
+            {
+                "title": "Monstrų medžiotoja",
+                "overview": "Kai kapitonė Artemidė ir jos ištikimi kariai perkeliami į naują pasaulį, jiems dėl išgyvenimo tenka kovoti su milžiniškais priešais, turinčiais nepaprastų galių.",
+                "tagline": "",
+                "language": "lt"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Een portaal vervoert luitenant Artemis en een elite-eenheid van soldaten naar een vreemde wereld waar machtige monsters met dodelijke wreedheid regeren. Geconfronteerd met meedogenloos gevaar, ontmoet het team een ​​mysterieuze jager die misschien wel hun enige hoop is om een ​​weg naar huis te vinden.",
+                "tagline": "",
+                "language": "nl"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Nasz świat to tylko jeden świat. Gdzieś za nim istnieje inny - świat niebezpiecznych, potężnych potworów, którym rządzą siejąc śmiertelny strach.\r Do tego świata zostaje wysłana porucznik Artemis wraz z elitarną jednostką wyspecjalizowanych żołnierzy. Szokujące uniwersum przeraża. W desperackiej próbie powrotu do naszego świata odważna porucznik spotyka tajemniczego łowcę, którego niezwykłe umiejętności pozwoliły mu przetrwać i zadomowić się w tym potwornym miejscu. Mierząc się z brutalnymi atakami przerażających potworów, wojownicy łączą siły, by odnaleźć drogę do domu.  Film na podstawie światowego fenomenu - gry \"Monster Hunter\".",
+                "tagline": "",
+                "language": "pl"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "",
+                "tagline": "",
+                "language": "pt"
+            },
+            {
+                "title": "Охотник на монстров",
+                "overview": "Лейтенант Артемис и её солдаты с Земли случайно попадают в параллельный мир, где обитают разнообразные монстры. Закалённые бойцы оказываются в необычной ситуации и вынуждены использовать все свои навыки, чтобы пережить встречу с фантастическими тварями. Спасти их может только загадочный Охотник, который как никто умеет убивать монстров.",
+                "tagline": "За нашим миром стоит другой.",
+                "language": "ru"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Za hranicou nášho sveta leží iná dimenzia, v ktorej vládnu zúrivé a nebezpečné monštrá. Keď sa do tohto sveta dostane poručíčka Artemis so svojou elitnou jednotkou, začne sa boj o holý život. V snahe vrátiť sa domov sa spoja so záhadným lovcom, ktorého zručnosti a skúsenosti sú pre prežitie v nehostinnej zemi viac než užitočné. Tím bojovníkov tak musí odvracať nespočetné útoky zákerných príšer a zároveň nájsť cestu domov.",
+                "tagline": "",
+                "language": "sk"
+            },
+            {
+                "title": "Monster Hunter",
+                "overview": "Bakom vår värld gömmer sig en annan: en värld med mäktiga och kraftfulla monster som våldsamt härskar över deras rike. När en oväntad sandstorm förflyttar Kapten Artemis och hennes trupp till en ny värld, blir soldaterna chockade över att upptäcka att den okända världen är hem till enorma och hotfulla monster som är immuna mot soldaternas vapen. Under deras desperata kamp för överlevnad, stöter truppen på den mystiska monsterjägaren Hunter, som med sina unika färdigheter lyckas vara ett steg före monsterna. När Artemis och Hunter sakta bygger upp ett samarbete, upptäcker hon att han är del av en annan trupp ledd av Admiral. När de möter en fara så stor att den kan förstöra världen, kombinerar de modiga krigarna sina färdigheter för att kämpa i den avgörande uppgörelsen.",
+                "tagline": "",
+                "language": "sv"
+            },
+            {
+                "title": "มอนสเตอร์ ฮันเตอร์",
+                "overview": "ผนึกพลังเหล่านักรบ เพื่อสยบฝูงอสูรนรก ปฐมบทความมันส์ครั้งใหม่จากผู้กำกับ Resident Evil\r “มิลล่า โจโววิช” และ “โทนี่ จา”",
+                "tagline": "",
+                "language": "th"
+            },
+            {
+                "title": "Canavar Avcısı",
+                "overview": "Bir portal, Yüzbaşı Artemis ve seçkin askeri birliğini, güçlü canavarların ölümcül vahşilikle hüküm sürdüğü garip bir dünyaya yollar. Amansız bir tehlikeyle karşı karşıya kalan ekip, eve dönmelerine yardımcı olabilecek gizemli bir avcıyla karşılaşır.",
+                "tagline": "Dünyamızın ardında başka bir dünya daha var",
+                "language": "tr"
+            },
+            {
+                "title": "Мисливець на монстрів",
+                "overview": "Лейтенант Артеміс і її солдати з Землі випадково потрапляють в паралельний світ, де живуть різноманітні монстри. Загартовані бійці виявляються в незвичайній ситуації і змушені використовувати всі свої навички, щоб пережити зустріч з фантастичними тваринами. Врятувати їх може тільки загадковий Мисливець, який як ніхто вміє вбивати монстрів.",
+                "tagline": "",
+                "language": "uk"
+            },
+            {
+                "title": "Thợ Săn Quái Vật",
+                "overview": "Monster Hunter được chuyển thể từ series game nổi tiếng cùng tên của Capcom. Trong phim, đội trưởng Artemis của nữ diễn viên Milla Jovovich (Resident Evil) và đồng đội đã vô tình bước qua một cánh cửa bí ẩn dẫn tới thế giới khác. Tại đây, họ phải chiến đấu với nhiều loài quái vật khổng lồ trong hành trình trở về thế giới. Đồng hành với họ trong trận chiến là nhân vật “Thợ săn” của nam diễn viên Tony Jaa (Ong Bak). Monster Hunter hứa hẹn sẽ là bom tấn hành động với những màn săn quái vật khổng lồ hoành tráng nhất năm 2020.",
+                "tagline": "",
+                "language": "vi"
+            },
+            {
+                "title": "怪物猎人",
+                "overview": "　　阿尔忒弥斯中尉（米拉·乔沃维奇 饰）和她的精英小队在沙漠执行任务时，意外进入到一个陌生凶残的异世界。这里有喷火的巨龙，有巨大的蜘蛛，有各种致命的怪物，中尉和队员们拼命寻找归途，却惨遭怪物追杀屠戮……最绝望的时候，阿尔忒弥斯遇到了一位猎人（托尼·贾 饰），他掌握着怪物世界里独特的生存技能、和可以击杀怪物的武器。面对越来越多来势汹汹的怪物，勇士们决定携手杀出一条血路！影片改编自全球现象级同名电子游戏《怪物猎人》（暂译），将在2020年全球上映。",
+                "tagline": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Artemis",
+                    "characters": [
+                        "Artemis"
+                    ],
+                    "person": {
+                        "name": "Milla Jovovich",
+                        "ids": {
+                            "trakt": 306,
+                            "slug": "milla-jovovich",
+                            "imdb": "nm0000170",
+                            "tmdb": 63,
+                            "tvrage": 57747
+                        }
+                    }
+                },
+                {
+                    "character": "The Hunter",
+                    "characters": [
+                        "The Hunter"
+                    ],
+                    "person": {
+                        "name": "Tony Jaa",
+                        "ids": {
+                            "trakt": 422945,
+                            "slug": "tony-jaa",
+                            "imdb": "nm1388074",
+                            "tmdb": 57207,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Link",
+                    "characters": [
+                        "Link"
+                    ],
+                    "person": {
+                        "name": "T.I.",
+                        "ids": {
+                            "trakt": 419911,
+                            "slug": "t-i",
+                            "imdb": "nm1939267",
+                            "tmdb": 76126,
+                            "tvrage": 51905
+                        }
+                    }
+                },
+                {
+                    "character": "Admiral",
+                    "characters": [
+                        "Admiral"
+                    ],
+                    "person": {
+                        "name": "Ron Perlman",
+                        "ids": {
+                            "trakt": 8631,
+                            "slug": "ron-perlman",
+                            "imdb": "nm0000579",
+                            "tmdb": 2372,
+                            "tvrage": 15389
+                        }
+                    }
+                },
+                {
+                    "character": "Marshall",
+                    "characters": [
+                        "Marshall"
+                    ],
+                    "person": {
+                        "name": "Diego Boneta",
+                        "ids": {
+                            "trakt": 445304,
+                            "slug": "diego-boneta",
+                            "imdb": "nm1546300",
+                            "tmdb": 935201,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Dash",
+                    "characters": [
+                        "Dash"
+                    ],
+                    "person": {
+                        "name": "Meagan Good",
+                        "ids": {
+                            "trakt": 413251,
+                            "slug": "meagan-good",
+                            "imdb": "nm0328709",
+                            "tmdb": 22122,
+                            "tvrage": 36589
+                        }
+                    }
+                },
+                {
+                    "character": "Steeler",
+                    "characters": [
+                        "Steeler"
+                    ],
+                    "person": {
+                        "name": "Josh Helman",
+                        "ids": {
+                            "trakt": 451813,
+                            "slug": "josh-helman",
+                            "imdb": "nm2890541",
+                            "tmdb": 1056053,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Axe",
+                    "characters": [
+                        "Axe"
+                    ],
+                    "person": {
+                        "name": "Jin Au-Yeung",
+                        "ids": {
+                            "trakt": 413499,
+                            "slug": "jin-au-yeung",
+                            "imdb": "nm1266102",
+                            "tmdb": 8178,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Aiden",
+                    "characters": [
+                        "Aiden"
+                    ],
+                    "person": {
+                        "name": "Jannik Schümann",
+                        "ids": {
+                            "trakt": 193364,
+                            "slug": "jannik-schumann",
+                            "imdb": "nm2583479",
+                            "tmdb": 585494,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Handler",
+                    "characters": [
+                        "Handler"
+                    ],
+                    "person": {
+                        "name": "Hirona Yamazaki",
+                        "ids": {
+                            "trakt": 329663,
+                            "slug": "hirona-yamazaki",
+                            "imdb": "nm5193462",
+                            "tmdb": 1276842,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Sergeant Roark",
+                    "characters": [
+                        "Sergeant Roark"
+                    ],
+                    "person": {
+                        "name": "Nic Rasenti",
+                        "ids": {
+                            "trakt": 447426,
+                            "slug": "nic-rasenti",
+                            "imdb": "nm3797176",
+                            "tmdb": 1373437,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Lea",
+                    "characters": [
+                        "Lea"
+                    ],
+                    "person": {
+                        "name": "Nanda Costa",
+                        "ids": {
+                            "trakt": 443272,
+                            "slug": "nanda-costa",
+                            "imdb": "nm2273474",
+                            "tmdb": 1045953,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Palico",
+                    "characters": [
+                        "Palico"
+                    ],
+                    "person": {
+                        "name": "Aaron Beelner",
+                        "ids": {
+                            "trakt": 319204,
+                            "slug": "aaron-beelner",
+                            "imdb": "nm2371323",
+                            "tmdb": 1188389,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Comms Officer",
+                    "characters": [
+                        "Comms Officer"
+                    ],
+                    "person": {
+                        "name": "Schelaine Bennett",
+                        "ids": {
+                            "trakt": 1572579,
+                            "slug": "schelaine-bennett",
+                            "imdb": "nm7988295",
+                            "tmdb": 2387571,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Hunter #2",
+                    "characters": [
+                        "Hunter #2"
+                    ],
+                    "person": {
+                        "name": "Adrián Muñoz",
+                        "ids": {
+                            "trakt": 1859253,
+                            "slug": "adrian-munoz-cf9635c4-6f84-4d27-a45d-9ed614ba0356",
+                            "imdb": "nm8452579",
+                            "tmdb": 2672568,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "JSO V22 Pilot #1",
+                    "characters": [
+                        "JSO V22 Pilot #1"
+                    ],
+                    "person": {
+                        "name": "Clyde Berning",
+                        "ids": {
+                            "trakt": 632291,
+                            "slug": "clyde-berning",
+                            "imdb": null,
+                            "tmdb": 1541472,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "JSO Soldier #2",
+                    "characters": [
+                        "JSO Soldier #2"
+                    ],
+                    "person": {
+                        "name": "Paul Hampshire",
+                        "ids": {
+                            "trakt": 556328,
+                            "slug": "paul-hampshire",
+                            "imdb": "nm2518215",
+                            "tmdb": 1503832,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Commander West E3 Sentry",
+                    "characters": [
+                        "Commander West E3 Sentry"
+                    ],
+                    "person": {
+                        "name": "Bart Fouche",
+                        "ids": {
+                            "trakt": 205020,
+                            "slug": "bart-fouche",
+                            "imdb": "nm0288230",
+                            "tmdb": 181269,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "E3 Sentry Pilot",
+                    "characters": [
+                        "E3 Sentry Pilot"
+                    ],
+                    "person": {
+                        "name": "Pope Jerrod",
+                        "ids": {
+                            "trakt": 876607,
+                            "slug": "pope-jerrod",
+                            "imdb": null,
+                            "tmdb": 1809405,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Paul W. S. Anderson",
+                            "ids": {
+                                "trakt": 310,
+                                "slug": "paul-w-s-anderson",
+                                "imdb": "nm0027271",
+                                "tmdb": 4014,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "visual effects": [
+                    {
+                        "job": "Visual Effects",
+                        "jobs": [
+                            "Visual Effects"
+                        ],
+                        "person": {
+                            "name": "Ahsan Uddin Ahmed",
+                            "ids": {
+                                "trakt": 2140373,
+                                "slug": "ahsan-uddin-ahmed",
+                                "imdb": null,
+                                "tmdb": 2957533,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "person": {
+                            "name": "Kabelo Bouga Chalatsane",
+                            "ids": {
+                                "trakt": 929055,
+                                "slug": "kabelo-bouga-chalatsane",
+                                "imdb": "nm7334096",
+                                "tmdb": 1844670,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "person": {
+                            "name": "Doobie White",
+                            "ids": {
+                                "trakt": 534802,
+                                "slug": "doobie-white",
+                                "imdb": "nm2658285",
+                                "tmdb": 1452611,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Costume Design",
+                        "jobs": [
+                            "Costume Design"
+                        ],
+                        "person": {
+                            "name": "Danielle Knox",
+                            "ids": {
+                                "trakt": 499800,
+                                "slug": "danielle-knox",
+                                "imdb": "nm1686772",
+                                "tmdb": 1420857,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Production Manager",
+                        "jobs": [
+                            "Production Manager"
+                        ],
+                        "person": {
+                            "name": "Calvin Hayward",
+                            "ids": {
+                                "trakt": 469480,
+                                "slug": "calvin-hayward",
+                                "imdb": "nm2721546",
+                                "tmdb": 1376094,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Martin Moszkowicz",
+                            "ids": {
+                                "trakt": 415982,
+                                "slug": "martin-moszkowicz",
+                                "imdb": "nm0609265",
+                                "tmdb": 17080,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Dennis Berardi",
+                            "ids": {
+                                "trakt": 41105,
+                                "slug": "dennis-berardi",
+                                "imdb": "nm0073268",
+                                "tmdb": 1002652,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Tamara Notcutt",
+                            "ids": {
+                                "trakt": 13627,
+                                "slug": "tamara-notcutt",
+                                "imdb": "nm1041057",
+                                "tmdb": 17612,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Paul W. S. Anderson",
+                            "ids": {
+                                "trakt": 310,
+                                "slug": "paul-w-s-anderson",
+                                "imdb": "nm0027271",
+                                "tmdb": 4014,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Jeremy Bolt",
+                            "ids": {
+                                "trakt": 313,
+                                "slug": "jeremy-bolt",
+                                "imdb": "nm0093337",
+                                "tmdb": 4016,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Robert Kulzer",
+                            "ids": {
+                                "trakt": 314,
+                                "slug": "robert-kulzer",
+                                "imdb": "nm0474709",
+                                "tmdb": 4017,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Supervising Art Director",
+                        "jobs": [
+                            "Supervising Art Director"
+                        ],
+                        "person": {
+                            "name": "Guy Potgieter",
+                            "ids": {
+                                "trakt": 73533,
+                                "slug": "guy-potgieter",
+                                "imdb": "nm1786287",
+                                "tmdb": 967459,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Decoration",
+                        "jobs": [
+                            "Set Decoration"
+                        ],
+                        "person": {
+                            "name": "Tracy Perkins",
+                            "ids": {
+                                "trakt": 20026,
+                                "slug": "tracy-perkins",
+                                "imdb": "nm2219886",
+                                "tmdb": 23851,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Screenplay",
+                        "jobs": [
+                            "Screenplay"
+                        ],
+                        "person": {
+                            "name": "Paul W. S. Anderson",
+                            "ids": {
+                                "trakt": 310,
+                                "slug": "paul-w-s-anderson",
+                                "imdb": "nm0027271",
+                                "tmdb": 4014,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Original Music Composer",
+                        "jobs": [
+                            "Original Music Composer"
+                        ],
+                        "person": {
+                            "name": "Paul Haslinger",
+                            "ids": {
+                                "trakt": 2018,
+                                "slug": "paul-haslinger",
+                                "imdb": "nm0368248",
+                                "tmdb": 2214,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "person": {
+                            "name": "Glen MacPherson",
+                            "ids": {
+                                "trakt": 18044,
+                                "slug": "glen-macpherson",
+                                "imdb": "nm0534215",
+                                "tmdb": 22818,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 6.11015,
+            "votes": 3123,
+            "distribution": {
+                "1": 112,
+                "2": 92,
+                "3": 140,
+                "4": 232,
+                "5": 424,
+                "6": 805,
+                "7": 616,
+                "8": 360,
+                "9": 124,
+                "10": 218
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Street Fighter Assassin's Fist",
+                "year": 2014,
+                "ids": {
+                    "trakt": 531657,
+                    "slug": "street-fighter-assassin-s-fist-2014-531657",
+                    "imdb": "tt3069212",
+                    "tmdb": 687354
+                }
+            },
+            {
+                "title": "Dragon Quest: Your Story",
+                "year": 2019,
+                "ids": {
+                    "trakt": 438877,
+                    "slug": "dragon-quest-your-story-2019",
+                    "imdb": "tt10127562",
+                    "tmdb": 592867
+                }
+            },
+            {
+                "title": "Resident Evil: Vendetta",
+                "year": 2017,
+                "ids": {
+                    "trakt": 244489,
+                    "slug": "resident-evil-vendetta-2017",
+                    "imdb": "tt5776208",
+                    "tmdb": 400136
+                }
+            },
+            {
+                "title": "Resident Evil: Degeneration",
+                "year": 2008,
+                "ids": {
+                    "trakt": 8079,
+                    "slug": "resident-evil-degeneration-2008",
+                    "imdb": "tt1174954",
+                    "tmdb": 13648
+                }
+            },
+            {
+                "title": "Resident Evil: Damnation",
+                "year": 2012,
+                "ids": {
+                    "trakt": 90277,
+                    "slug": "resident-evil-damnation-2012",
+                    "imdb": "tt1753496",
+                    "tmdb": 133121
+                }
+            },
+            {
+                "title": "Warcraft",
+                "year": 2016,
+                "ids": {
+                    "trakt": 50145,
+                    "slug": "warcraft-2016",
+                    "imdb": "tt0803096",
+                    "tmdb": 68735
+                }
+            },
+            {
+                "title": "Digimon: The Movie",
+                "year": 2000,
+                "ids": {
+                    "trakt": 12563,
+                    "slug": "digimon-the-movie-2000",
+                    "imdb": "tt0259974",
+                    "tmdb": 20455
+                }
+            },
+            {
+                "title": "Street Fighter",
+                "year": 1994,
+                "ids": {
+                    "trakt": 6741,
+                    "slug": "street-fighter-1994",
+                    "imdb": "tt0111301",
+                    "tmdb": 11667
+                }
+            },
+            {
+                "title": "Sonic the Hedgehog",
+                "year": 2020,
+                "ids": {
+                    "trakt": 301015,
+                    "slug": "sonic-the-hedgehog-2020",
+                    "imdb": "tt3794354",
+                    "tmdb": 454626
+                }
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "year": 2020,
+                "ids": {
+                    "trakt": 498373,
+                    "slug": "mortal-kombat-legends-scorpion-s-revenge-2020",
+                    "imdb": "tt9580138",
+                    "tmdb": 664767
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 100695,
+            "plays": 134260,
+            "collectors": 20962,
+            "comments": 67,
+            "lists": 10700,
+            "votes": 3125,
+            "recommended": 55
+        },
+        "watching": 29
+    }
+}

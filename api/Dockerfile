@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 3000
 
-ENTRYPOINT ["./node_modules/pm2/bin/pm2-runtime", "./src/index.js"]
+ENTRYPOINT ["./node_modules/pm2/bin/pm2-runtime", "./src/app.js"]

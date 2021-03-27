@@ -1,0 +1,88 @@
+version: "3.8"
+services:
+  # ELK stack
+  es01:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.11.1
+    container_name: es01
+    environment:
+      - node.name=es01
+      - cluster.name=es-docker-cluster
+      - cluster.initial_master_nodes=es01
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - data01:/usr/share/elasticsearch/data
+    expose:
+      - 9200
+    networks:
+      - elastic
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.11.1
+    container_name: log01
+    ports:
+      - 8080:8080
+    expose:
+      - 8080
+    volumes:
+      - ./elastic/logstash/pipelines:/pipelines:ro
+      - ./elastic/logstash/data:/data:ro
+      - ./elastic/logstash/logstash.yml:/usr/share/logstash/config/logstash.yml
+    networks:
+      - elastic
+  kib01:
+    image: docker.elastic.co/kibana/kibana:7.11.1
+    container_name: kib01
+    ports:
+      - 5601:5601
+    expose:
+      - 5601
+    environment:
+      ELASTICSEARCH_URL: http://es01:9200
+      ELASTICSEARCH_HOSTS: '["http://es01:9200"]'
+    networks:
+      - elastic
+  # web scraper
+  scraper:
+    build: ./scraper/
+    env_file: ./scraper/.env
+    networks:
+      - elastic
+    depends_on:
+      - redis
+      - logstash
+  redis:
+    image: redis
+    expose:
+      - 6379
+    ports:
+      - 6379:6379
+    networks:
+      - elastic
+    volumes:
+      - redis-data:/data
+    command: ["redis-server", "--appendonly", "yes"]
+    restart: unless-stopped
+  # query api
+  api:
+    build: ./api/
+    ports:
+      - 3000:3000
+    networks:
+      - elastic
+volumes:
+  data01:
+    driver: local
+  data02:
+    driver: local
+  data03:
+    driver: local
+  redis-data:
+    driver: local
+
+networks:
+  elastic:
+    driver: bridge

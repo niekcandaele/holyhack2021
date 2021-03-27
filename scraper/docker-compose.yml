@@ -1,0 +1,10 @@
+version: "3.5"
+
+services:
+  scraper:
+    build: .
+    env_file: .env
+  redis:
+    image: redis
+    ports:
+      - 127.0.0.1:6379:6379

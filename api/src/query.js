@@ -1,7 +1,8 @@
 const esclient = require('./connection');
 
-query_movies = async (req, res, idx) => {
+query = async (req, res, idx) => {
     if (!req.body || !req.body.query) {
+        console.log(req.body);
         res.status(400);
         res.json({
             error: 'Bad request',
@@ -15,16 +16,16 @@ query_movies = async (req, res, idx) => {
         const response = await esclient.search({
             index: idx,
             body: {
-                query: JSON.parse(req.body.query)
+                query: req.body.query
             }
         });
-        res.json(response.body);
+        res.json(response.hits.hits);
     } catch (e) {
         res.status(e.statuscode || 500);
         res.json({
             error: e.name,
-            message: err.message,
-            statusCode: err.statusCode || 500
+            message: e.message,
+            statusCode: e.statusCode || 500
         });
     }
 };
