@@ -1,9 +1,15 @@
 const axios = require('axios').default
-
+const { getRandomInt } = require('./lib/getRandomInt')
 
 const request = axios.create({
     headers: { 'trakt-api-key': process.env.TRAKT_API_KEY },
     baseURL: `https://api.trakt.tv`
+})
+
+request.interceptors.request.use(config => {
+    const key = getRandomInt(1, 2)
+    config.headers['trakt-api-key'] = process.env[`TRAKT_API_KEY${key}`]
+    return config
 })
 
 async function traktMovies(movie) {

@@ -1,7 +1,5 @@
 const axios = require('axios').default
-const Redis = require("ioredis");
-const { traktTv, traktMovies } = require('./trakt');
-const redis = new Redis({ host: process.env.REDIS_HOST });
+const { traktTv, traktMovies } = require('../trakt');
 const fs = require('fs')
 
 const logstash = {
@@ -25,6 +23,7 @@ async function wait(seconds = 30) {
         }, seconds * 1000)
     })
 }
+
 
 
 async function store(data, type) {
@@ -67,7 +66,6 @@ const TYPES = {
 module.exports = {
     wait,
     logstash,
-    redis,
     store,
-    TYPES
+    TYPES,
 }
