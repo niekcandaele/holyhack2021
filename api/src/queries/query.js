@@ -1,43 +1,6 @@
 const esclient = require('../connection');
 const esb = require('elastic-builder');
 
-const queryType = async (req, res, idx) => {
-    if (!req.query || !req.query.type || !req.query.query) {
-        console.log(req.body);
-        res.status(400);
-        res.json({
-            error: 'Bad request',
-            message: 'Missing parameter: body.query',
-            statuscode: 400
-        });
-        return;
-    }
-    console.log(req.query);
-    try {
-        const response = await esclient.search({
-            index: idx,
-            body: {
-                query: req.query.query,
-                aggs: {
-                    type: {
-                        terms: {
-                            field: JSON.parse(req.query.type)
-                        }
-                    }
-                }
-            }
-        });
-        res.json(response.hits.hits);
-    } catch (e) {
-        res.status(e.statuscode || 500);
-        res.json({
-            error: e.name,
-            message: e.message,
-            statusCode: e.statusCode || 500
-        });
-    }
-};
-
 const countType = async (req, res, idx, type) => {
     try {
         const response = await esclient.count({
@@ -90,13 +53,40 @@ const queryAll = async (req, res, idx) => {
     }
 };
 
-const getMovies = async (req, res, idx) => {
-    const responseBody = esb.mat
+const getTopVideos = async (req, res, idx, type, size) => {
+    try {
+        const response = await esclient.search({
+            index: idx,
+            body: {
+                "_source": ["title", "name", "popularity"],
+                "sort": [
+                    {
+                        "popularity": {
+                        "order": "desc"
+                        }
+                    }
+                ],
+                "query": {
+                  "match": {
+                    "videoType": type
+                  }
+                },
+                "size": size
+            }
+        });
+        res.json(response.hits.hits);
+    } catch (e) {
+        res.status(e.statuscode || 500);
+        res.json({
+            error: e.name,
+            message: e.message,
+            statusCode: e.statusCode || 500
+        });
+    }
 };
 
-
 module.exports = {
-    queryType: queryType,
     queryAll: queryAll,
-    countType: countType
+    countType: countType,
+    getTopVideos
 }
