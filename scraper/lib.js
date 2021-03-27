@@ -42,9 +42,9 @@ async function store(data, type) {
 
         if (process.env.DEBUG) {
             fs.writeFileSync(`./data/movies/${element.id}.json`, JSON.stringify(element, null, 4))
+        } else {
+            await logstash.send(element)
         }
-
-        await logstash.send(element)
     });
 
     return Promise.all(promises)
