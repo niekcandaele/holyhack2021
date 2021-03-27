@@ -1,5 +1,5 @@
 require('dotenv').config()
-const { wait, store, TYPES, redis } = require('./lib');
+const { wait, store, TYPES, redis } = require('./lib/lib');
 const baseUrlMovieDB = `https://api.themoviedb.org/3`;
 const axios = require('axios').default
 
@@ -38,7 +38,6 @@ async function getAll(type) {
 
             await store(res.data.results, type)
             await wait()
-            await redis.set(`${type}:${currentCursor}`, true);
         } catch (error) {
             if (process.env.DEBUG) {
                 console.log(error);
@@ -73,14 +72,6 @@ async function getDetails(id, type) {
 }
 
 async function get(page, type) {
-
-    const exists = await redis.exists(`${type}:${page}`)
-    if (exists) {
-        console.log(`${type}:${page} already exists, skipping.`);
-        return
-    }
-
-
     switch (type) {
         case TYPES.MOVIE:
             return axios.get(`${baseUrlMovieDB}/discover/movie`, {
