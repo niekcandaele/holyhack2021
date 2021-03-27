@@ -47,7 +47,7 @@ services:
       - elastic
   # web scraper
   scraper:
-    build: ./scraper/Dockerfile
+    build: ./scraper/
     env_file: ./scraper/.env
     networks:
       - elastic
@@ -61,7 +61,7 @@ services:
       - elastic
   # query api
   api:
-    image: ./api/Dockerfile
+    build: ./api/
     ports:
       - 3000:3000
     networks:
