@@ -47,8 +47,8 @@ services:
       - elastic
   # web scraper
   scraper:
-    build: .
-    env_file: ./scraper/env
+    build: ./scraper/Dockerfile
+    env_file: ./scraper/.env
     networks:
       - elastic
   redis:
