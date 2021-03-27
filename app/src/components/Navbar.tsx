@@ -59,7 +59,7 @@ const Nav = styled.ul`
 export const Navbar: FC = () => {
   return (
     <Container>
-      <Link to="/dashboard"><h2>VATICAN</h2></Link>
+      <Link to="/dashboard"><h2>🔥 VATICAN󠁢󠀰󠀱󠁿</h2></Link>
       <Nav>
         <NavLink to="/dashboard"><Dashboard /><p>Dashboard</p></NavLink>
         <NavLink to="/discover"><Book /><p>Discover</p></NavLink>

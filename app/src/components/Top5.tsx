@@ -1,75 +1,141 @@
 import { FC, useState, useEffect } from 'react';
-import { TabSwitch, Spinner } from 'components';
+import { Link } from 'react-router-dom';
+import { TabSwitch } from 'components';
 import styled from 'styled';
 import { httpService } from 'services';
+import { Chip } from './Chip';
 
-const Container = styled.div<{loading: boolean}>`
+const Container = styled.div<{ loading?: boolean }>`
   box-shadow: ${({ theme }) => theme.shadow};
   background-color: white;
   border-radius: 1.5rem;
   padding: 20px 40px;
-  min-height: 350px;
-  display: ${({ loading }) => loading ? 'flex' : 'block'};
+  min-height: 570px;
 `;
 
 const Tab = styled.div<{ label: string }>``;
 
-const List = styled.ul``;
-const Item = styled.li``;
+const List = styled.ul`
 
-const StyledSpinner = styled(Spinner)`
-  stroke: ${({ theme }): string => theme.primary};
-  fill: ${({ theme }): string => theme.primary};
+  text-align: center;
+  .title {
+    width: 300px;
+  }
+  .releaseDate {
+    width: 200px;
+  }
+  .genre {
+    width: 150px;
+  }
+`;
+
+const Header = styled.li`
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px 15px;
+  p{
+    font-size: 120%;
+    font-weight: 600;
+    color: ${({ theme }): string => theme.secondary};
+  }
 `;
 
 export const Top5: FC = () => {
   const [loading, setLoading] = useState(true);
-  const [movieData, setMovieData] = useState<any[]>();
-  const [seriesData, setSeriesData] = useState<any[]>();
+  const [movieData, setMovieData] = useState<any[]>([]);
+  const [showData, setShowData] = useState<any[]>([]);
 
   async function getTop5Movies(){
-    const response = await httpService.get('query_movies');
+    const response = await httpService.get('/query/top/movie?size=5');
     if (response.ok) {
       const json = await response.json();
       setMovieData(json);
-      setLoading(false);
     }
   }
-  async function getTop5Series() {
-    const response = await httpService.get('query_movies');
+  async function getTop5Shows() {
+    const response = await httpService.get('/query/top/show?size=5');
     if (response.ok) {
       const json = await response.json();
-      setSeriesData(json);
+      setShowData(json);
+      setLoading(false);
     }
   }
 
   useEffect(() => {
-    getTop5Movies();
-    getTop5Series();
+    setTimeout(() => {
+      getTop5Movies();
+      getTop5Shows();
+    }, 1500);
   }, []);
 
   if (loading) {
     return (
-      <Container loading={true}>
-        <StyledSpinner />
-      </Container>
+      <Container className="placeholder"/>
     );
   }
 
   return (
-    <Container loading={false}>
+    <Container>
       <TabSwitch>
         <Tab label="Movies">
           <h2>Five most popular movies (VA)</h2>
-          <List></List>
+          <List>
+            <Header>
+              <p className="title">Title</p>
+              <p className="releaseDate">Release date</p>
+              <p className="genre">Genre</p>
+            </Header>
+            {movieData.map((movie) => <Item genre={movie._source.genres} id={movie._id.split('_')[0]} releaseDate={movie._source.release_date} title={movie._source.name} type="movie" />)}
+          </List>
         </Tab>
-        <Tab label="Series">
+        <Tab label="Shows">
           <h2>Five most popular series (VA)</h2>
           <List>
-            { }
+            <Header>
+              <p className="title">Title</p>
+              <p className="genre">Genre</p>
+            </Header>
+            {showData.map((show) => <Item genre={show._source.genres} id={show._id.split('_')[0]} title={show._source.name} type="show"/>)}
           </List>
         </Tab>
       </TabSwitch>
     </Container>
+  );
+};
+
+const ItemContainer = styled.li`
+   width: 100%;
+  height: 60px;
+  margin: 15px 0px;
+  padding: 10px 15px;
+  background-color:${({ theme }): string => theme.gray};
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+
+  a {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  }
+  `;
+interface ItemProps {
+  releaseDate?: string;
+  title: string;
+  type: 'movie' | 'show',
+  id: string;
+  genre: [any];
+}
+
+const Item: FC<ItemProps> = ({ id, releaseDate, title, type, genre }) => {
+  return (
+    <ItemContainer>
+      <Link to={`/${type}/${id}`}>
+        <p className="title">{title}</p>
+        {releaseDate && <p className="releaseDate">{releaseDate}</p>}
+        <Chip text={genre[0].name}/>
+      </Link>
+    </ItemContainer>
   );
 };

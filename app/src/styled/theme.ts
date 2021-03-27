@@ -9,7 +9,9 @@ export const DEFAULT = {
   error: '#FF4252',
   text: '#656686',
   gradient: 'linear-gradient(180deg, #2da3ff 0%, #146aff 100%)',
-  shadow: 'rgb(0 0 0 / 10%) 0px 15px 45px 0px'
+  shadow: 'rgb(0 0 0 / 10%) 0px 15px 45px 0px',
+  placeholder: '#f5f5f5',
+  placeholderHighlight: '#ffffff'
 };
 
 export type ThemeType = typeof DEFAULT;

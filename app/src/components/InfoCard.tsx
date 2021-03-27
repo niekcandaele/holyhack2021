@@ -33,9 +33,7 @@ interface InfoCardProps {
 export const InfoCard: FC<InfoCardProps> = ({ isActive = false, loading, text, amount }) => {
   if (loading) {
     return (
-      <Container active={isActive}>
-        loading...
-      </Container>
+      <Container active={false} className="placeholder"/>
     );
   }
 
