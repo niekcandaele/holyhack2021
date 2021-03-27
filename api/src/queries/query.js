@@ -58,7 +58,7 @@ const getTopVideos = async (req, res, idx, type, size) => {
         const response = await esclient.search({
             index: idx,
             body: {
-                "_source": ["title", "name", "popularity", type === 'movie' ? "release_date" : "first_air_date", "genres.name"],
+                "_source": ["title", "name", "popularity", type === "movie" ? "release_date" : "first_air_date", "genres.name", "vote_average", type === "movie" ? "runtime" : "seasons", "production_companies.name"],
                 "sort": [
                     {
                         "popularity": {
