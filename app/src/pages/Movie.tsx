@@ -7,11 +7,11 @@ import { Helmet } from 'react-helmet';
 
 const Container = styled.div``;
 
-const FlexContainer = styled.div`
+export const FlexContainer = styled.div`
   display: flex;
 `;
 
-const FlexItem = styled.div`
+export const FlexItem = styled.div`
   padding: 0 8px 0 8px;
 
   &.details {
@@ -27,7 +27,7 @@ const FlexItem = styled.div`
 
 `;
 
-const StyledList = styled.ul`
+export const StyledList = styled.ul`
   display: inline-flex;
   flex-direction: row;
   align-items: center;
@@ -37,7 +37,7 @@ const StyledList = styled.ul`
   }
 `;
 
-const Image = styled.div<{ url: string }>`
+export const Image = styled.div<{ url: string }>`
   width: 500px;
   height: 800px;
   background-image: ${({ url }) => url ? `url(${url})` : null};
@@ -54,7 +54,7 @@ const Part1 = styled.div`
   }
 `;
 
-const Title = styled.h1`
+export const Title = styled.h1`
   font-size: 4rem;
   display: flex;
   align-items: center;
