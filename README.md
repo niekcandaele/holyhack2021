@@ -22,3 +22,10 @@ https://developers.themoviedb.org/3/
 
 Thanks Popcorntime for the api keys!
 `https://github.com/popcorn-official/popcorn-desktop/blob/development/src/app/settings.js`
+
+---
+
+extra data:
+
+- In hoeveel sources komt het voor? (globale populariteit)
+- Voor pitch: AI Vision die film 'bekijkt' -> data uithalen
