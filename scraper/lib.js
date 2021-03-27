@@ -41,6 +41,7 @@ async function store(data, type) {
         }
 
 
+        element.videoType = type
         if (process.env.DEBUG) {
             fs.writeFileSync(`./data/movies/${element.id}.json`, JSON.stringify(element, null, 4))
         } else {
