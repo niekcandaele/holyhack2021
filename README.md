@@ -47,7 +47,6 @@ TMDB_API_KEY=<your api key>
 Also add the following lines to the `scraper/.env` file
 ```
 LOGSTASH_URL="http://logstash:8080/"
-REDIS_HOST="redis"
 ```
 ### 2. Build images
 
