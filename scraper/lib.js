@@ -9,7 +9,7 @@ const logstash = {
     }
 }
 
-async function wait(seconds = 5) {
+async function wait(seconds = 10) {
     // Reeee rate limits
     return new Promise((resolve, reject) => {
         setTimeout(() => {
@@ -20,15 +20,14 @@ async function wait(seconds = 5) {
 
 
 async function store(data, type) {
-    for (let element of data) {
-
-        if (type === 'movie') {
-            console.log(`Storing ${element.title}`);
+    const promises = data.map(async (element) => {
+        if (type === TYPES.MOVIE) {
+            console.log(`Storing ${type} ${element.title}`);
             const traktData = await traktMovies(element)
             element.trakt = traktData
 
         } else {
-            console.log(`Storing ${element.name}`);
+            console.log(`Storing ${type} ${element.name}`);
             const traktData = await traktTv(element)
             element.trakt = traktData
         }
@@ -39,12 +38,20 @@ async function store(data, type) {
         }
 
         await logstash.send(element)
-    }
+    });
+
+    return Promise.all(promises)
+}
+
+const TYPES = {
+    MOVIE: 'movie',
+    SHOW: 'show'
 }
 
 module.exports = {
     wait,
     logstash,
     redis,
-    store
+    store,
+    TYPES
 }
