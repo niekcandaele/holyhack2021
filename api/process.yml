@@ -1,5 +1,5 @@
 apps:
     - name: holyhack-api
-      script: ./src/index.js
+      script: ./src/app.js
       exec_mode: cluster
       instances: max
