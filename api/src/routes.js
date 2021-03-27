@@ -5,6 +5,7 @@ const router = express.Router();
 
 const { queryAll, countType, getTopVideos } = require('./queries/query');
 const { countGenres } = require('./queries/genre')
+const { updateOverview } = require('./queries/update');
 
 router.get('/', (req, res) => {
     res.send('GET test request');
@@ -24,6 +25,10 @@ router.get('/query/count/:type', bodyParser.json(), async (req, res) => {
 
 router.get('/query/top/:type', bodyParser.json(), async (req, res) => {
     await getTopVideos(req, res, 'movies', req.params.type, req.query.size);
+});
+
+router.put('/update', bodyParser.json(), async (req, res) => {
+    await updateOverview(req, res, 'movies', req.query.id);
 });
 
 module.exports = router;
