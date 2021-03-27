@@ -18,11 +18,24 @@ request.interceptors.request.use(config => {
     return config
 })
 
+
 // Get this many pages of objects, or until empty responses
 const iterations = 500
 
-getAll(TYPES.MOVIE)
-getAll(TYPES.SHOW)
+
+async function main() {
+
+    if (!process.env.DEBUG) {
+        // This can be smarter but ¯\_(ツ)_/¯
+        console.log(`Waiting 60 seconds before starting so logstash & es are booted fully`);
+        await wait(60)
+    }
+
+    getAll(TYPES.MOVIE)
+    getAll(TYPES.SHOW)
+}
+
+main()
 
 async function getAll(type) {
     let currentCursor = 1
