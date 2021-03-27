@@ -9,13 +9,63 @@
     "original_language": "en",
     "original_title": "Godzilla vs. Kong",
     "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
-    "popularity": 3745.657,
+    "popularity": 5243.92,
     "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
     "release_date": "2021-03-24",
     "title": "Godzilla vs. Kong",
     "video": false,
-    "vote_average": 7.3,
-    "vote_count": 49,
+    "vote_average": 7.4,
+    "vote_count": 75,
+    "belongs_to_collection": {
+        "id": 535313,
+        "name": "Godzilla Collection",
+        "poster_path": "/inNN466SKHNjbGmpfhfsaPQNleS.jpg",
+        "backdrop_path": "/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.godzillavskong.com",
+    "imdb_id": "tt5034838",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "One Will Fall",
     "trakt": {
         "base": {
             "title": "Godzilla vs. Kong",
@@ -2986,19 +3036,19 @@
             }
         },
         "ratings": {
-            "rating": 7.44681,
-            "votes": 94,
+            "rating": 7.39252,
+            "votes": 107,
             "distribution": {
                 "1": 5,
                 "2": 2,
                 "3": 1,
                 "4": 1,
                 "5": 9,
-                "6": 14,
-                "7": 8,
-                "8": 16,
+                "6": 16,
+                "7": 9,
+                "8": 17,
                 "9": 2,
-                "10": 31
+                "10": 36
             }
         },
         "relatedMovies": [
@@ -3112,6 +3162,8 @@
             "votes": 94,
             "recommended": 19
         },
-        "watching": 7
-    }
+        "watching": 4
+    },
+    "name": "Godzilla vs. Kong",
+    "videoType": "movie"
 }

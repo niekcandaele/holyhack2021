@@ -1,0 +1,3257 @@
+{
+    "adult": false,
+    "backdrop_path": "/jeAQdDX9nguP6YOX6QSWKDPkbBo.jpg",
+    "genre_ids": [
+        14,
+        28,
+        878
+    ],
+    "id": 590706,
+    "original_language": "en",
+    "original_title": "Jiu Jitsu",
+    "overview": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+    "popularity": 889.19,
+    "poster_path": "/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg",
+    "release_date": "2020-11-20",
+    "title": "Jiu Jitsu",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 341,
+    "belongs_to_collection": null,
+    "budget": 23000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.paramountmovies.com/movies/jiu-jitsu",
+    "imdb_id": "tt9624766",
+    "production_companies": [
+        {
+            "id": 141998,
+            "logo_path": null,
+            "name": "Acme Rocket Fuel",
+            "origin_country": "US"
+        },
+        {
+            "id": 138013,
+            "logo_path": null,
+            "name": "Green Olive Films",
+            "origin_country": "CY"
+        },
+        {
+            "id": 147219,
+            "logo_path": null,
+            "name": "Double Tree Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CY",
+            "name": "Cyprus"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 99924,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "From the darkness, the ultimate fighter rises.",
+    "trakt": {
+        "base": {
+            "title": "Jiu Jitsu",
+            "year": 2020,
+            "ids": {
+                "trakt": 437419,
+                "slug": "jiu-jitsu-2020",
+                "imdb": "tt9624766",
+                "tmdb": 590706
+            }
+        },
+        "aliases": [
+            {
+                "title": "Джиу-джитсу",
+                "country": "ru"
+            }
+        ],
+        "releases": [
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "limited",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-11-20",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "ru",
+                "certification": "18+",
+                "release_date": "2020-11-24",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "gb",
+                "certification": "15",
+                "release_date": "2021-01-04",
+                "release_type": "physical",
+                "note": "DVD"
+            },
+            {
+                "country": "fi",
+                "certification": "",
+                "release_date": "2021-01-15",
+                "release_type": "premiere",
+                "note": "Night Visions Film Festival"
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2021-03-03",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "de",
+                "certification": "16",
+                "release_date": "2021-03-05",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2021-03-17",
+                "release_type": "physical",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "Jiu Jitsu",
+                "overview": "",
+                "tagline": "",
+                "language": "ar"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Každých šest let spojuje síly starodávný řád bojovníků jiu-jitsu, aby bojovali s brutální rasou mimozemských útočníků. Ale když oslavovaný válečný hrdina prohraje, osud planety a lidstva visí na vlásku.",
+                "tagline": "",
+                "language": "cs"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "En oldgammel orden af kampsportsmestre stilles over for en udenjordisk trussel og må kæmpe for jordens fremtid. Men jordens chancer ser uventet dårlige ud...",
+                "tagline": "",
+                "language": "da"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Als Jake Barnes, ein Meister des Jiu Jitsu-Kämpfers, sich weigert, sich Brax, einer unbezwingbaren außerirdischen Kreatur, zu stellen, hängt die Zukunft der Menschheit im Gleichgewicht. Jake ist verletzt und leidet unter schwerer Amnesie. Er wird von einem Militärkommando gefangen genommen, das nicht ausgerüstet ist, um den gnadenlosen Eindringling zu bekämpfen, der auf den Planeten herabgestiegen ist. Jake wird von Wylie und einem alten Orden von Jiu Jitsu-Kämpfern gerettet, die ihm helfen müssen, sein Gedächtnis wiederzugewinnen und seine Kräfte wiederzugewinnen, um sich zusammenzuschließen und Brax in einem epischen Kampf zu besiegen, der das Schicksal der Menschheit bestimmen wird.",
+                "tagline": "",
+                "language": "de"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Μια αρχαία σειρά ειδικών μαχητών Jiu Jitsu αντιμετωπίζουν φοβερούς εξωγήινους εισβολείς σε μια μάχη για τη Γη κάθε έξι χρόνια.",
+                "tagline": "",
+                "language": "el"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+                "tagline": "From the darkness, the ultimate fighter rises.",
+                "language": "en"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Una antigua orden de expertos luchadores Jiu Jitsu se enfrenta a temibles invasores alienígenas en una batalla por la Tierra cada seis años.",
+                "tagline": "",
+                "language": "es"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Cada seis años, una antigua orden de luchadores de jiu-jitsu une fuerzas para luchar contra una feroz raza de invasores alienígenas. Pero cuando un célebre héroe de guerra cae derrotado, el destino del planeta y la humanidad está en juego.",
+                "tagline": "De la oscuridad, el luchador definitivo se eleva.",
+                "language": "es"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Kamppailulajimestarien ikivanha veljeskunta joutuu maapallon ulkopuolisen uhan kohteeksi, kamppailuun maapallon tulevaisuudesta. Kun tunkeutujat päihittävät planeetan parhaan jujutsukamppailijan, mahdollisuudet näyttävät yhtäkkiä huonoilta.",
+                "tagline": "",
+                "language": "fi"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Un ancien ordre de combattants experts du Jiu Jitsu doit faire face à un extraterrestre vicieux afin de protéger la Terre. L'avenir de l'humanité repose sur eux...",
+                "tagline": "De l'obscurité, le combattant ultime se lèvera.",
+                "language": "fr"
+            },
+            {
+                "title": "ג'יו ג'יטסו",
+                "overview": "אחת לשש שנים, מנהג עתיק של לוחמי ג'יו-ג'יטסו מאחד כוחות למאבק במירוץ אכזרי של פולשים זרים. אבל כשגיבור המלחמה נופל בתבוסה, גורל הפלנטה והאנושות נמצא בסיכון.",
+                "tagline": "",
+                "language": "he"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Svakih šest godina, Jiu Jitsu borci suočavaju se sa opakom rasom vanzemaljskih osvajača u borbi za Zemlju. Hiljadama godina borci koji štite Zemlju pobjeđivali su … sve do sada. Kad proslavljenog heroja rata Jakea Barnesa (Alain Moussi) porazi Brax, nesalomivi vođa osvajača, budućnost čovječanstva visi o koncu.\r Ozlijeđenog i koji pati od amnezije, Jakea spašavaju Wylie (Nicolas Cage), Keung i njegov tim kolega iz Jiu Jitsu borca. Moraju pomoći Jakeu da povrati snagu kako bi pobijedio Braxa u epskoj bici koja će opet odrediti sudbinu čovječanstva …",
+                "tagline": "",
+                "language": "hr"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Jake Barnes háborús hős és jiu jitsu mester nem hajlandó felvenni a harcot a megszálló földönkívüliek vezérével, Braxszal szemben. A férfi azonban nem kerülheti el a sorsát, egy súlyos támadás során elveszti az emlékeit, és komolyabban megsérül, Wylie azonban megmenti az életét. Jake-nek nem marad más választása, nem csupán az emlékeit kell visszaszereznie, hanem sokkal keményebben kell edzenie, hogy legyőzhesse a megszállók vezetőjét, hiszen az emberiség sorsa a tét.",
+                "tagline": "",
+                "language": "hu"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Ogni sei anni, un antico ordine di esperti combattenti di Jiu Jitsu devono affrontare una feroce razza di invasori alieni in una battaglia per difendere la Terra. Per migliaia di anni, le forze che hanno protetto la Terra hanno ottenuto la vittoria... Fino ad ora.",
+                "tagline": "",
+                "language": "it"
+            },
+            {
+                "title": "アースフォール JIU JITSU",
+                "overview": "",
+                "tagline": "",
+                "language": "ja"
+            },
+            {
+                "title": "주짓수",
+                "overview": "혜성이 지구에 나타나고 제이크는 미지의 존재를 피해 달아나다 칼을 맞고 절벽 밑 바다로 떨어진다.  미얀마의 한 어부가 정신을 잃은 제이크를 발견하고 어부의 아내가 그를 치료한 뒤 미군 기지로 향한다.  그녀는 6년마다 혜성이 지구를 지날 때 죽음의 전사가 사원의 구멍을 통해 나타난다고 말하고 제이크를 넘겨준 뒤 미군 기지를 떠난다.  제이크의 몸에서 방사능이 검출되는 것을 수상히 여긴 육군 정보부 요원은 제이크를 심문하지만 제이크는 이전 일을 아무것도 기억하지 못한다.  얼마 후 쿠엥이 나타나 수많은 미군을 제압하고 제이크를 구해 기지에서 달아난다.  해리건, 마이라 등의 동료들과 재회한 제이크는 외계 존재 브랙스에 대한 이야기를 듣게 된다.  그리고 브랙스와 대결하지 않고 도망가면 마을 사람들이 대신 죽게 된다는 사실을 알게 된다.  제이크와 연인 마이라, 아버지 와일리 카르멘 9명의 전사는 치유능력과 첨단 무기로 무장한 브랙스와의 일전을 준비하는데...",
+                "tagline": "",
+                "language": "ko"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Elke zes jaar vormen buitenaardse indringers een gevaar voor de mensheid. Daarom bestaat er een oude orde van Jiu Jitsu meesters die elke zes jaar het gevecht aangaan met deze buitenaardse indringers. Het voortbestaan van de mensheid ligt in de handen van deze orde.",
+                "tagline": "",
+                "language": "nl"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Co sześć lat starożytny zakon Jiu Jitsu stawia czoła okrutnej rasie kosmitów wystawiając w walce o Ziemię najsprawniejszego wojownika. Od tysięcy lat herosi, którzy chronią Ziemię, wygrywali. Aż do teraz. Młody wojownik tuż przed decydującą walką zostaje ranny i traci nadludzkie siły. Przyszłość ludzkości wisi na włosku...",
+                "tagline": "",
+                "language": "pl"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "",
+                "tagline": "",
+                "language": "pt"
+            },
+            {
+                "title": "Джиу-джитсу: Битва за Землю",
+                "overview": "Каждые шесть лет древний орден мастеров джиу-джитсу сражается за Землю с Браксом, безжалостным пришельцем из космоса. Так было тысячи лет, пока ветеран Джейк Барнс не потерпел поражение, и безопасность человечества оказалась под угрозой. Побитого и потерявшего сознание Джейка находят Уайли, Кюн и Харриган. Вместе они должны помочь Джейку набраться сил и остановить Бракса.",
+                "tagline": "Древний орден на защите нашего мира",
+                "language": "ru"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Každých šesť rokov, starodávny rád bojovníkov džiu-džicu spojí sily, aby bojoval proti zákernej rase útočníkov. Ale keď porazia slávneho vojnového hrdinu rádu, osud planéty a ľudstva zostane visieť na vlásku.",
+                "tagline": "",
+                "language": "sk"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "En uråldrig klan med jiu jitsu-krigare måste vart sjätte år försvara jorden mot invaderande utomjordingar. Nu måste de besegra utomjordingarnas ledare Brax.",
+                "tagline": "",
+                "language": "sv"
+            },
+            {
+                "title": "โคตรคน ชนเอเลี่ยน",
+                "overview": "เรื่องราวในโลกอนาคตอันไกลจากปัจจุบัน ในทุกๆ 6 ปี ประตูมิติระหว่างโลกมนุษย์กับโลกต่างดาวจะเปิดขึ้น ทำให้เหล่านักสู้ผู้ช่ำชองจากทั่วสารทิศจะต้องมารวมตัวกันเพื่อออกโรงปกป้องโลกให้พ้นจากภัยการรุกรานของมนุษย์ต่างดาว",
+                "tagline": "เมื่อโครตคนมหาประลัยจะชนศัตรูจากต่างดาว",
+                "language": "th"
+            },
+            {
+                "title": "Jiu Jitsu",
+                "overview": "Her altı yılda bir, Jiu Jitsu konusunda uzmanlaşmış eski bir savaşçı grubu uzaylı istilacılar ile karşı karşıya kalır. Ancak ünlü bir savaş kahramanı ve Jiu Jitsu ustası olan Jake Barnes, işgalcilerin yılmaz lideri Brax ile yüzleşmeyi reddettiğinde, insanlığın geleceği tehlike altına girer. Yaralı ve hafıza kaybı yaşayan Jake’e bir Jiu Jitsu ekibi eski gücüne kavuşması için yardım eder. Artık insanlığın kaderini onlar belirleyecektir.",
+                "tagline": "",
+                "language": "tr"
+            },
+            {
+                "title": "Джиу-джитсу",
+                "overview": "Кожні шість років древній орден майстрів джиу-джитсу бореться за Землю з расою безжальних прибульців з космосу. Так було тисячі років, поки ветеран Джейк Барнс не стерпів поразку, і безпека людства опиняється під загрозою. Побитого і без свідомості Джейка знаходять Вайлі, Кюн і Гарріґан. Разом вони повинні допомогти Джейку набратися сил і зупинити прибульця Бракса.",
+                "tagline": "",
+                "language": "uk"
+            },
+            {
+                "title": "Đấu Sĩ Tối Thượng",
+                "overview": "Trận chiến sinh tử quyết định số phận của Trái đất của các đấu sĩ nhân loại với Kẻ du hành sẽ bắt đầu ngay khi cánh cổng kết nối giữa 2 thế giới được mở ra. Danh hiệu đấu sĩ tối thượng và vận mệnh của Trái đất sẽ rơi vào tay ai?",
+                "tagline": "",
+                "language": "vi"
+            },
+            {
+                "title": "柔道煞星",
+                "overview": "尼古拉斯·凯奇、阿兰·莫西(《泰坦》《搏击之王》系列)将主演动作片《柔道煞星》(Jiu Jitsu)，迪米特里·洛戈塞蒂斯(《搏击之王》系列)自编自导。基于同名漫画，讲述一群古代的柔术高手每隔六年就要在一场争夺地球的战斗中面对可怕的外星入侵者。凯奇的角色和他的柔术团队与莫西 的角色联手获得胜利。",
+                "tagline": "柔道煞星",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Wylie",
+                    "characters": [
+                        "Wylie"
+                    ],
+                    "person": {
+                        "name": "Nicolas Cage",
+                        "ids": {
+                            "trakt": 15197,
+                            "slug": "nicolas-cage",
+                            "imdb": "nm0000115",
+                            "tmdb": 2963,
+                            "tvrage": 58910
+                        }
+                    }
+                },
+                {
+                    "character": "Jake",
+                    "characters": [
+                        "Jake"
+                    ],
+                    "person": {
+                        "name": "Alain Moussi",
+                        "ids": {
+                            "trakt": 507455,
+                            "slug": "alain-moussi",
+                            "imdb": "nm3857692",
+                            "tmdb": 1427888,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Harrigan",
+                    "characters": [
+                        "Harrigan"
+                    ],
+                    "person": {
+                        "name": "Frank Grillo",
+                        "ids": {
+                            "trakt": 427166,
+                            "slug": "frank-grillo",
+                            "imdb": "nm0342029",
+                            "tmdb": 81685,
+                            "tvrage": 19976
+                        }
+                    }
+                },
+                {
+                    "character": "Kueng",
+                    "characters": [
+                        "Kueng"
+                    ],
+                    "person": {
+                        "name": "Tony Jaa",
+                        "ids": {
+                            "trakt": 422945,
+                            "slug": "tony-jaa",
+                            "imdb": "nm1388074",
+                            "tmdb": 57207,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Carmen",
+                    "characters": [
+                        "Carmen"
+                    ],
+                    "person": {
+                        "name": "JuJu Chan",
+                        "ids": {
+                            "trakt": 353903,
+                            "slug": "juju-chan",
+                            "imdb": "nm3634777",
+                            "tmdb": 1296430,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Myra",
+                    "characters": [
+                        "Myra"
+                    ],
+                    "person": {
+                        "name": "Marie Avgeropoulos",
+                        "ids": {
+                            "trakt": 433153,
+                            "slug": "marie-avgeropoulos",
+                            "imdb": "nm2955595",
+                            "tmdb": 140114,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Capt Sand",
+                    "characters": [
+                        "Capt Sand"
+                    ],
+                    "person": {
+                        "name": "Rick Yune",
+                        "ids": {
+                            "trakt": 303524,
+                            "slug": "rick-yune",
+                            "imdb": "nm0950935",
+                            "tmdb": 10883,
+                            "tvrage": 8358
+                        }
+                    }
+                },
+                {
+                    "character": "Tex",
+                    "characters": [
+                        "Tex"
+                    ],
+                    "person": {
+                        "name": "Eddie Steeples",
+                        "ids": {
+                            "trakt": 451761,
+                            "slug": "eddie-steeples-b726a5fc-38cb-42dd-a8dd-3cffa35bb007",
+                            "imdb": "nm1100337",
+                            "tmdb": 202958,
+                            "tvrage": 35636
+                        }
+                    }
+                },
+                {
+                    "character": "Franz",
+                    "characters": [
+                        "Franz"
+                    ],
+                    "person": {
+                        "name": "Dan Rizzuto",
+                        "ids": {
+                            "trakt": 177222,
+                            "slug": "dan-rizzuto",
+                            "imdb": "nm1575227",
+                            "tmdb": 557806,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Brax",
+                    "characters": [
+                        "Brax"
+                    ],
+                    "person": {
+                        "name": "Ryan Tarran",
+                        "ids": {
+                            "trakt": 1545478,
+                            "slug": "ryan-tarran",
+                            "imdb": "nm4292353",
+                            "tmdb": 2360768,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Sgt. Hickman",
+                    "characters": [
+                        "Sgt. Hickman"
+                    ],
+                    "person": {
+                        "name": "John D. Hickman",
+                        "ids": {
+                            "trakt": 872755,
+                            "slug": "john-d-hickman",
+                            "imdb": "nm6545385",
+                            "tmdb": 1788486,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Private Tommy",
+                    "characters": [
+                        "Private Tommy"
+                    ],
+                    "person": {
+                        "name": "Tommy Walker",
+                        "ids": {
+                            "trakt": 1052263,
+                            "slug": "tommy-walker-1052263",
+                            "imdb": "nm2142537",
+                            "tmdb": 1959486,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Hector",
+                    "characters": [
+                        "Hector"
+                    ],
+                    "person": {
+                        "name": "Jack Kingsley",
+                        "ids": {
+                            "trakt": 2097803,
+                            "slug": "jack-kingsley-5f5a7a5e-eef9-468d-9214-8dc1a9cafe95",
+                            "imdb": null,
+                            "tmdb": 2913930,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "sound": [
+                    {
+                        "job": "Foley Artist",
+                        "jobs": [
+                            "Foley Artist"
+                        ],
+                        "person": {
+                            "name": "Zane D. Bruce",
+                            "ids": {
+                                "trakt": 10656,
+                                "slug": "zane-d-bruce-10656",
+                                "imdb": "nm0115601",
+                                "tmdb": 13175,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Effects Editor",
+                        "jobs": [
+                            "Sound Effects Editor"
+                        ],
+                        "person": {
+                            "name": "Lisa Neidhardt",
+                            "ids": {
+                                "trakt": 87653,
+                                "slug": "lisa-neidhardt",
+                                "imdb": "nm2966172",
+                                "tmdb": 92609,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Re-Recording Mixer",
+                        "jobs": [
+                            "Sound Re-Recording Mixer"
+                        ],
+                        "person": {
+                            "name": "Michael Holcomb",
+                            "ids": {
+                                "trakt": 332716,
+                                "slug": "michael-holcomb",
+                                "imdb": "nm3767433",
+                                "tmdb": 1203307,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Effects Editor",
+                        "jobs": [
+                            "Sound Effects Editor"
+                        ],
+                        "person": {
+                            "name": "Reece Miller",
+                            "ids": {
+                                "trakt": 344541,
+                                "slug": "reece-miller",
+                                "imdb": "nm2910647",
+                                "tmdb": 1303887,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Designer, Supervising Sound Editor",
+                        "jobs": [
+                            "Sound Designer",
+                            "Supervising Sound Editor"
+                        ],
+                        "person": {
+                            "name": "Andrés de la Torre",
+                            "ids": {
+                                "trakt": 375735,
+                                "slug": "andres-de-la-torre",
+                                "imdb": null,
+                                "tmdb": 1329448,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "person": {
+                            "name": "Adam Dorn",
+                            "ids": {
+                                "trakt": 451219,
+                                "slug": "adam-dorn",
+                                "imdb": "nm0233818",
+                                "tmdb": 1380048,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "ADR Supervisor",
+                        "jobs": [
+                            "ADR Supervisor"
+                        ],
+                        "person": {
+                            "name": "Mehrnaz Mohabati",
+                            "ids": {
+                                "trakt": 561785,
+                                "slug": "mehrnaz-mohabati",
+                                "imdb": "nm5296516",
+                                "tmdb": 1522319,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Foley Artist",
+                        "jobs": [
+                            "Foley Artist"
+                        ],
+                        "person": {
+                            "name": "Lindsay Pepper",
+                            "ids": {
+                                "trakt": 574848,
+                                "slug": "lindsay-pepper",
+                                "imdb": "nm7097493",
+                                "tmdb": 1546360,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Re-Recording Mixer",
+                        "jobs": [
+                            "Sound Re-Recording Mixer"
+                        ],
+                        "person": {
+                            "name": "Yu-Ting Su",
+                            "ids": {
+                                "trakt": 792572,
+                                "slug": "yu-ting-su",
+                                "imdb": "nm3498766",
+                                "tmdb": 1746650,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Boom Operator",
+                        "jobs": [
+                            "Boom Operator"
+                        ],
+                        "person": {
+                            "name": "Csongor Fazekas",
+                            "ids": {
+                                "trakt": 1013434,
+                                "slug": "csongor-fazekas",
+                                "imdb": null,
+                                "tmdb": 1923110,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Foley Editor",
+                        "jobs": [
+                            "Foley Editor"
+                        ],
+                        "person": {
+                            "name": "Antony Zeller",
+                            "ids": {
+                                "trakt": 1245619,
+                                "slug": "antony-zeller",
+                                "imdb": null,
+                                "tmdb": 2101063,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "person": {
+                            "name": "Csaba Major",
+                            "ids": {
+                                "trakt": 1348860,
+                                "slug": "csaba-major",
+                                "imdb": "nm1899887",
+                                "tmdb": 2188668,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Boom Operator",
+                        "jobs": [
+                            "Boom Operator"
+                        ],
+                        "person": {
+                            "name": "András Horváth",
+                            "ids": {
+                                "trakt": 1348878,
+                                "slug": "andras-horvath-20850d1d-18a9-421b-814e-c6f241553da3",
+                                "imdb": null,
+                                "tmdb": 2188730,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Sound Mixer",
+                        "jobs": [
+                            "Production Sound Mixer"
+                        ],
+                        "person": {
+                            "name": "Stavros Terlikkas",
+                            "ids": {
+                                "trakt": 1837120,
+                                "slug": "stavros-terlikkas",
+                                "imdb": null,
+                                "tmdb": 2650417,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "ADR Editor",
+                        "jobs": [
+                            "ADR Editor"
+                        ],
+                        "person": {
+                            "name": "Rian Balvin",
+                            "ids": {
+                                "trakt": 1883961,
+                                "slug": "rian-balvin",
+                                "imdb": null,
+                                "tmdb": 2697731,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "ADR Editor",
+                        "jobs": [
+                            "ADR Editor"
+                        ],
+                        "person": {
+                            "name": "Justin M. Green",
+                            "ids": {
+                                "trakt": 1883962,
+                                "slug": "justin-m-green",
+                                "imdb": null,
+                                "tmdb": 2697732,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Sound Editor",
+                        "jobs": [
+                            "Assistant Sound Editor"
+                        ],
+                        "person": {
+                            "name": "Andree Hsiao-Chu Lin",
+                            "ids": {
+                                "trakt": 2002900,
+                                "slug": "andree-hsiao-chu-lin",
+                                "imdb": "nm8469928",
+                                "tmdb": 2817125,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Sound Editor",
+                        "jobs": [
+                            "Assistant Sound Editor"
+                        ],
+                        "person": {
+                            "name": "Kayleb Lee",
+                            "ids": {
+                                "trakt": 2115890,
+                                "slug": "kayleb-lee",
+                                "imdb": null,
+                                "tmdb": 2932040,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Sound Editor",
+                        "jobs": [
+                            "Assistant Sound Editor"
+                        ],
+                        "person": {
+                            "name": "Nova Meza",
+                            "ids": {
+                                "trakt": 2115891,
+                                "slug": "nova-meza",
+                                "imdb": null,
+                                "tmdb": 2932042,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Dialogue Editor",
+                        "jobs": [
+                            "Dialogue Editor"
+                        ],
+                        "person": {
+                            "name": "Jessica Arkoff",
+                            "ids": {
+                                "trakt": 2115893,
+                                "slug": "jessica-arkoff",
+                                "imdb": null,
+                                "tmdb": 2932046,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Designer",
+                        "jobs": [
+                            "Sound Designer"
+                        ],
+                        "person": {
+                            "name": "Domenic Orsi",
+                            "ids": {
+                                "trakt": 2115896,
+                                "slug": "domenic-orsi",
+                                "imdb": null,
+                                "tmdb": 2932049,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Effects Editor",
+                        "jobs": [
+                            "Sound Effects Editor"
+                        ],
+                        "person": {
+                            "name": "sean Fitzgerald",
+                            "ids": {
+                                "trakt": 2115897,
+                                "slug": "sean-fitzgerald-f143e5da-a487-47db-b4e7-14501caf4198",
+                                "imdb": null,
+                                "tmdb": 2932054,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Boom Operator",
+                        "jobs": [
+                            "Boom Operator"
+                        ],
+                        "person": {
+                            "name": "Panagiotis Krineos",
+                            "ids": {
+                                "trakt": 2141299,
+                                "slug": "panagiotis-krineos",
+                                "imdb": null,
+                                "tmdb": 2958187,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Dean E. Fronk",
+                            "ids": {
+                                "trakt": 21614,
+                                "slug": "dean-e-fronk",
+                                "imdb": "nm0296403",
+                                "tmdb": 30876,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Donald Paul Pemrick",
+                            "ids": {
+                                "trakt": 21616,
+                                "slug": "donald-paul-pemrick",
+                                "imdb": "nm0671518",
+                                "tmdb": 30874,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Dimitri Logothetis",
+                            "ids": {
+                                "trakt": 30788,
+                                "slug": "dimitri-logothetis",
+                                "imdb": "nm0517768",
+                                "tmdb": 41355,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Line Producer",
+                        "jobs": [
+                            "Line Producer"
+                        ],
+                        "person": {
+                            "name": "Scott Putman",
+                            "ids": {
+                                "trakt": 64005,
+                                "slug": "scott-putman",
+                                "imdb": "nm0701203",
+                                "tmdb": 76467,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Shaun S. Sanghani",
+                            "ids": {
+                                "trakt": 476845,
+                                "slug": "shaun-s-sanghani",
+                                "imdb": "nm2228167",
+                                "tmdb": 1384817,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Martin J. Barab",
+                            "ids": {
+                                "trakt": 601355,
+                                "slug": "martin-j-barab",
+                                "imdb": "nm0052774",
+                                "tmdb": 1515547,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Coordinator",
+                        "jobs": [
+                            "Production Coordinator"
+                        ],
+                        "person": {
+                            "name": "Daniela Kriston",
+                            "ids": {
+                                "trakt": 886766,
+                                "slug": "daniela-kriston",
+                                "imdb": "nm8675630",
+                                "tmdb": 1819111,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Unit Production Manager",
+                        "jobs": [
+                            "Unit Production Manager"
+                        ],
+                        "person": {
+                            "name": "John Craighead",
+                            "ids": {
+                                "trakt": 908882,
+                                "slug": "john-craighead",
+                                "imdb": null,
+                                "tmdb": 1826469,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Assistant",
+                        "jobs": [
+                            "Production Assistant"
+                        ],
+                        "person": {
+                            "name": "Johnny Woj",
+                            "ids": {
+                                "trakt": 1038839,
+                                "slug": "johnny-woj",
+                                "imdb": "nm6757198",
+                                "tmdb": 1946914,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Gary Wood",
+                            "ids": {
+                                "trakt": 1094877,
+                                "slug": "gary-wood-4386fd37-a24a-4b89-8dcc-276a3f37134c",
+                                "imdb": null,
+                                "tmdb": 1998641,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Euthymios Logothetis",
+                            "ids": {
+                                "trakt": 1545479,
+                                "slug": "euthymios-logothetis",
+                                "imdb": null,
+                                "tmdb": 2360769,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "person": {
+                            "name": "Anastasia Mikhaylova",
+                            "ids": {
+                                "trakt": 1545480,
+                                "slug": "anastasia-mikhaylova",
+                                "imdb": null,
+                                "tmdb": 2360770,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Data Management Technician",
+                        "jobs": [
+                            "Data Management Technician"
+                        ],
+                        "person": {
+                            "name": "Ryan Gatt",
+                            "ids": {
+                                "trakt": 2115900,
+                                "slug": "ryan-gatt",
+                                "imdb": null,
+                                "tmdb": 2932059,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Accountant",
+                        "jobs": [
+                            "First Assistant Accountant"
+                        ],
+                        "person": {
+                            "name": "Karen Everett Spicer",
+                            "ids": {
+                                "trakt": 2115914,
+                                "slug": "karen-everett-spicer",
+                                "imdb": null,
+                                "tmdb": 2932087,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Accountant",
+                        "jobs": [
+                            "Production Accountant"
+                        ],
+                        "person": {
+                            "name": "Jawaun Spicer",
+                            "ids": {
+                                "trakt": 2115915,
+                                "slug": "jawaun-spicer",
+                                "imdb": null,
+                                "tmdb": 2932088,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Coordinator",
+                        "jobs": [
+                            "Production Coordinator"
+                        ],
+                        "person": {
+                            "name": "Sarah Cossart",
+                            "ids": {
+                                "trakt": 2115916,
+                                "slug": "sarah-cossart",
+                                "imdb": null,
+                                "tmdb": 2932089,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Location Manager",
+                        "jobs": [
+                            "Location Manager"
+                        ],
+                        "person": {
+                            "name": "Peter Stephanou",
+                            "ids": {
+                                "trakt": 2115919,
+                                "slug": "peter-stephanou",
+                                "imdb": null,
+                                "tmdb": 2932094,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Extras Casting",
+                        "jobs": [
+                            "Extras Casting"
+                        ],
+                        "person": {
+                            "name": "Eleni Nicolaou",
+                            "ids": {
+                                "trakt": 2139823,
+                                "slug": "eleni-nicolaou",
+                                "imdb": null,
+                                "tmdb": 2957367,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Unit Production Manager",
+                        "jobs": [
+                            "Unit Production Manager"
+                        ],
+                        "person": {
+                            "name": "Costas Pitsillides",
+                            "ids": {
+                                "trakt": 2139824,
+                                "slug": "costas-pitsillides",
+                                "imdb": null,
+                                "tmdb": 2957373,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Extras Casting Assistant",
+                        "jobs": [
+                            "Extras Casting Assistant"
+                        ],
+                        "person": {
+                            "name": "Vera Andreou",
+                            "ids": {
+                                "trakt": 2141311,
+                                "slug": "vera-andreou",
+                                "imdb": null,
+                                "tmdb": 2958234,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Consultant",
+                        "jobs": [
+                            "Production Consultant"
+                        ],
+                        "person": {
+                            "name": "Simos Manganis",
+                            "ids": {
+                                "trakt": 2141313,
+                                "slug": "simos-manganis",
+                                "imdb": null,
+                                "tmdb": 2958243,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Location Assistant",
+                        "jobs": [
+                            "Location Assistant"
+                        ],
+                        "person": {
+                            "name": "Alexis Nicolaides",
+                            "ids": {
+                                "trakt": 2141315,
+                                "slug": "alexis-nicolaides",
+                                "imdb": null,
+                                "tmdb": 2958250,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Accountant",
+                        "jobs": [
+                            "Second Assistant Accountant"
+                        ],
+                        "person": {
+                            "name": "Ourania Stadiotou",
+                            "ids": {
+                                "trakt": 2142763,
+                                "slug": "ourania-stadiotou",
+                                "imdb": null,
+                                "tmdb": 2959408,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Accountant",
+                        "jobs": [
+                            "First Assistant Accountant"
+                        ],
+                        "person": {
+                            "name": "Yiannis Georgiades",
+                            "ids": {
+                                "trakt": 2142764,
+                                "slug": "yiannis-georgiades",
+                                "imdb": null,
+                                "tmdb": 2959412,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Dimitri Logothetis",
+                            "ids": {
+                                "trakt": 30788,
+                                "slug": "dimitri-logothetis",
+                                "imdb": "nm0517768",
+                                "tmdb": 41355,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Director",
+                        "jobs": [
+                            "First Assistant Director"
+                        ],
+                        "person": {
+                            "name": "Brian O'Sullivan",
+                            "ids": {
+                                "trakt": 995880,
+                                "slug": "brian-o-sullivan-82b5d9fc-0543-45ba-86bf-c93f9bb2122d",
+                                "imdb": null,
+                                "tmdb": 1906065,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Action Director",
+                        "jobs": [
+                            "Action Director"
+                        ],
+                        "person": {
+                            "name": "Supoj Khaowwong",
+                            "ids": {
+                                "trakt": 1646033,
+                                "slug": "supoj-khaowwong",
+                                "imdb": null,
+                                "tmdb": 2477785,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "person": {
+                            "name": "Jessica Dean Rose",
+                            "ids": {
+                                "trakt": 1860090,
+                                "slug": "jessica-dean-rose",
+                                "imdb": null,
+                                "tmdb": 2673960,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Third Assistant Director",
+                        "jobs": [
+                            "Third Assistant Director"
+                        ],
+                        "person": {
+                            "name": "Eleni Nicolaou",
+                            "ids": {
+                                "trakt": 2139823,
+                                "slug": "eleni-nicolaou",
+                                "imdb": null,
+                                "tmdb": 2957367,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Script Supervisor",
+                        "jobs": [
+                            "Script Supervisor"
+                        ],
+                        "person": {
+                            "name": "Katerina Xini",
+                            "ids": {
+                                "trakt": 2141312,
+                                "slug": "katerina-xini",
+                                "imdb": null,
+                                "tmdb": 2958242,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Dimitri Logothetis",
+                            "ids": {
+                                "trakt": 30788,
+                                "slug": "dimitri-logothetis",
+                                "imdb": "nm0517768",
+                                "tmdb": 41355,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Jim McGrath",
+                            "ids": {
+                                "trakt": 507458,
+                                "slug": "jim-mcgrath-92a884d3-a0f2-4f70-8f15-175127ee03a2",
+                                "imdb": "nm5832288",
+                                "tmdb": 1427887,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Special Effects Makeup Artist",
+                        "jobs": [
+                            "Special Effects Makeup Artist"
+                        ],
+                        "person": {
+                            "name": "Alan Tuskes",
+                            "ids": {
+                                "trakt": 219568,
+                                "slug": "alan-tuskes",
+                                "imdb": "nm0878252",
+                                "tmdb": 1015060,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Makeup Department Head",
+                        "jobs": [
+                            "Makeup Department Head"
+                        ],
+                        "person": {
+                            "name": "Zera Azmi",
+                            "ids": {
+                                "trakt": 489703,
+                                "slug": "zera-azmi",
+                                "imdb": "nm3902909",
+                                "tmdb": 1411798,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Makeup & Hair",
+                        "jobs": [
+                            "Makeup & Hair"
+                        ],
+                        "person": {
+                            "name": "Pamela Warden",
+                            "ids": {
+                                "trakt": 725009,
+                                "slug": "pamela-warden",
+                                "imdb": "nm2994175",
+                                "tmdb": 1514150,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Supervisor",
+                        "jobs": [
+                            "Costume Supervisor"
+                        ],
+                        "person": {
+                            "name": "Steve O'Sullivan",
+                            "ids": {
+                                "trakt": 783938,
+                                "slug": "steve-o-sullivan",
+                                "imdb": null,
+                                "tmdb": 1739262,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Key Costumer, Set Costumer",
+                        "jobs": [
+                            "Key Costumer",
+                            "Set Costumer"
+                        ],
+                        "person": {
+                            "name": "Irma Lotosova",
+                            "ids": {
+                                "trakt": 1212004,
+                                "slug": "irma-lotosova",
+                                "imdb": null,
+                                "tmdb": 2067699,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Design",
+                        "jobs": [
+                            "Costume Design"
+                        ],
+                        "person": {
+                            "name": "Angela Schnoeke-Paasch",
+                            "ids": {
+                                "trakt": 1212007,
+                                "slug": "angela-schnoeke-paasch",
+                                "imdb": null,
+                                "tmdb": 2067702,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Special Effects Makeup Artist",
+                        "jobs": [
+                            "Special Effects Makeup Artist"
+                        ],
+                        "person": {
+                            "name": "William Spataro",
+                            "ids": {
+                                "trakt": 1429989,
+                                "slug": "william-spataro",
+                                "imdb": null,
+                                "tmdb": 2246726,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Special Effects Makeup Artist",
+                        "jobs": [
+                            "Special Effects Makeup Artist"
+                        ],
+                        "person": {
+                            "name": "Michael Burnett",
+                            "ids": {
+                                "trakt": 1832510,
+                                "slug": "michael-burnett-53939505-cbf8-426f-9349-ba66e0e76812",
+                                "imdb": null,
+                                "tmdb": 2646708,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Hairstylist",
+                        "jobs": [
+                            "Assistant Hairstylist"
+                        ],
+                        "person": {
+                            "name": "Sotiris Finiris",
+                            "ids": {
+                                "trakt": 2115885,
+                                "slug": "sotiris-finiris",
+                                "imdb": null,
+                                "tmdb": 2932014,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Makeup Artist",
+                        "jobs": [
+                            "Assistant Makeup Artist"
+                        ],
+                        "person": {
+                            "name": "Rakel Arnarsdottir",
+                            "ids": {
+                                "trakt": 2115886,
+                                "slug": "rakel-arnarsdottir",
+                                "imdb": null,
+                                "tmdb": 2932015,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Hair Department Head",
+                        "jobs": [
+                            "Hair Department Head"
+                        ],
+                        "person": {
+                            "name": "Marios Neophytou",
+                            "ids": {
+                                "trakt": 2115887,
+                                "slug": "marios-neophytou",
+                                "imdb": null,
+                                "tmdb": 2932016,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Hairstylist",
+                        "jobs": [
+                            "Hairstylist"
+                        ],
+                        "person": {
+                            "name": "Andreas Flouris",
+                            "ids": {
+                                "trakt": 2115888,
+                                "slug": "andreas-flouris",
+                                "imdb": null,
+                                "tmdb": 2932026,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Hairstylist",
+                        "jobs": [
+                            "Hairstylist"
+                        ],
+                        "person": {
+                            "name": "Andreas Papakyriakou",
+                            "ids": {
+                                "trakt": 2115889,
+                                "slug": "andreas-papakyriakou",
+                                "imdb": null,
+                                "tmdb": 2932028,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costumer",
+                        "jobs": [
+                            "Costumer"
+                        ],
+                        "person": {
+                            "name": "Caterina Ttakka",
+                            "ids": {
+                                "trakt": 2115912,
+                                "slug": "caterina-ttakka",
+                                "imdb": null,
+                                "tmdb": 2932079,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Costumer",
+                        "jobs": [
+                            "Set Costumer"
+                        ],
+                        "person": {
+                            "name": "Joanna Syrimi",
+                            "ids": {
+                                "trakt": 2141309,
+                                "slug": "joanna-syrimi",
+                                "imdb": null,
+                                "tmdb": 2958230,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Seamstress",
+                        "jobs": [
+                            "Seamstress"
+                        ],
+                        "person": {
+                            "name": "Andrie Charalambous",
+                            "ids": {
+                                "trakt": 2141310,
+                                "slug": "andrie-charalambous",
+                                "imdb": null,
+                                "tmdb": 2958233,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "lighting": [
+                    {
+                        "job": "Key Rigging Grip",
+                        "jobs": [
+                            "Key Rigging Grip"
+                        ],
+                        "person": {
+                            "name": "Manuel Nevosad",
+                            "ids": {
+                                "trakt": 237743,
+                                "slug": "manuel-nevosad",
+                                "imdb": "nm4322135",
+                                "tmdb": 1201956,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Electrician",
+                        "jobs": [
+                            "Electrician"
+                        ],
+                        "person": {
+                            "name": "Kyriakos Politis",
+                            "ids": {
+                                "trakt": 319704,
+                                "slug": "kyriakos-politis",
+                                "imdb": "nm3949298",
+                                "tmdb": 1368633,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Gaffer",
+                        "jobs": [
+                            "Gaffer"
+                        ],
+                        "person": {
+                            "name": "Mickey Petersen",
+                            "ids": {
+                                "trakt": 1742309,
+                                "slug": "mickey-petersen",
+                                "imdb": null,
+                                "tmdb": 2556913,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Rigging Grip",
+                        "jobs": [
+                            "Rigging Grip"
+                        ],
+                        "person": {
+                            "name": "Matthias Ganster",
+                            "ids": {
+                                "trakt": 2060422,
+                                "slug": "matthias-ganster",
+                                "imdb": null,
+                                "tmdb": 2876005,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Electrician",
+                        "jobs": [
+                            "Electrician"
+                        ],
+                        "person": {
+                            "name": "Srdan Tintor",
+                            "ids": {
+                                "trakt": 2140528,
+                                "slug": "srdan-tintor",
+                                "imdb": null,
+                                "tmdb": 2958141,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Electrician",
+                        "jobs": [
+                            "Electrician"
+                        ],
+                        "person": {
+                            "name": "Sandro Camilleri",
+                            "ids": {
+                                "trakt": 2141294,
+                                "slug": "sandro-camilleri",
+                                "imdb": null,
+                                "tmdb": 2958153,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Electrician",
+                        "jobs": [
+                            "Electrician"
+                        ],
+                        "person": {
+                            "name": "Franco Farrugia",
+                            "ids": {
+                                "trakt": 2141295,
+                                "slug": "franco-farrugia",
+                                "imdb": null,
+                                "tmdb": 2958158,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Electrician",
+                        "jobs": [
+                            "Electrician"
+                        ],
+                        "person": {
+                            "name": "Chris Reed",
+                            "ids": {
+                                "trakt": 2141296,
+                                "slug": "chris-reed-d2d7458d-b84a-4a14-b64c-20a25bd78f3a",
+                                "imdb": null,
+                                "tmdb": 2958159,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Rigging Gaffer",
+                        "jobs": [
+                            "Rigging Gaffer"
+                        ],
+                        "person": {
+                            "name": "Oliver Agius",
+                            "ids": {
+                                "trakt": 2141297,
+                                "slug": "oliver-agius",
+                                "imdb": null,
+                                "tmdb": 2958180,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Rigging Grip",
+                        "jobs": [
+                            "Rigging Grip"
+                        ],
+                        "person": {
+                            "name": "Alexander Ranacer",
+                            "ids": {
+                                "trakt": 2141298,
+                                "slug": "alexander-ranacer",
+                                "imdb": null,
+                                "tmdb": 2958183,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "visual effects": [
+                    {
+                        "job": "Visual Effects Producer",
+                        "jobs": [
+                            "Visual Effects Producer"
+                        ],
+                        "person": {
+                            "name": "Jason Richard Miller",
+                            "ids": {
+                                "trakt": 300291,
+                                "slug": "jason-richard-miller",
+                                "imdb": "nm2390386",
+                                "tmdb": 1206429,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Special Effects Supervisor",
+                        "jobs": [
+                            "Special Effects Supervisor"
+                        ],
+                        "person": {
+                            "name": "Kenneth Cassar",
+                            "ids": {
+                                "trakt": 570761,
+                                "slug": "kenneth-cassar",
+                                "imdb": null,
+                                "tmdb": 1556505,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Garret Roosa",
+                            "ids": {
+                                "trakt": 625224,
+                                "slug": "garret-roosa",
+                                "imdb": null,
+                                "tmdb": 1616379,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Runjeev Ignatius",
+                            "ids": {
+                                "trakt": 1056014,
+                                "slug": "runjeev-ignatius",
+                                "imdb": null,
+                                "tmdb": 1962795,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Key Animation",
+                        "jobs": [
+                            "Key Animation"
+                        ],
+                        "person": {
+                            "name": "Vasilina Mikhaylova",
+                            "ids": {
+                                "trakt": 2115899,
+                                "slug": "vasilina-mikhaylova",
+                                "imdb": null,
+                                "tmdb": 2932057,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Visual Effects Supervisor",
+                        "jobs": [
+                            "Visual Effects Supervisor"
+                        ],
+                        "person": {
+                            "name": "Chad J. Fox",
+                            "ids": {
+                                "trakt": 2115910,
+                                "slug": "chad-j-fox",
+                                "imdb": null,
+                                "tmdb": 2932073,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Jameson Mitchell",
+                            "ids": {
+                                "trakt": 2142758,
+                                "slug": "jameson-mitchell",
+                                "imdb": null,
+                                "tmdb": 2959393,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Matt Wauhkonen",
+                            "ids": {
+                                "trakt": 2142759,
+                                "slug": "matt-wauhkonen",
+                                "imdb": null,
+                                "tmdb": 2959395,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Ben Deutscher",
+                            "ids": {
+                                "trakt": 2142760,
+                                "slug": "ben-deutscher",
+                                "imdb": null,
+                                "tmdb": 2959401,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Eric Langlay",
+                            "ids": {
+                                "trakt": 2142761,
+                                "slug": "eric-langlay",
+                                "imdb": null,
+                                "tmdb": 2959404,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Paracha Bunchalaksi",
+                            "ids": {
+                                "trakt": 2142762,
+                                "slug": "paracha-bunchalaksi",
+                                "imdb": null,
+                                "tmdb": 2959407,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "VFX Artist",
+                        "jobs": [
+                            "VFX Artist"
+                        ],
+                        "person": {
+                            "name": "Sathanapong Nganpeerapong",
+                            "ids": {
+                                "trakt": 2142765,
+                                "slug": "sathanapong-nganpeerapong",
+                                "imdb": null,
+                                "tmdb": 2959418,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "\"C\" Camera Operator",
+                        "jobs": [
+                            "\"C\" Camera Operator"
+                        ],
+                        "person": {
+                            "name": "Liviu Pojoni Jr.",
+                            "ids": {
+                                "trakt": 388695,
+                                "slug": "liviu-pojoni-jr",
+                                "imdb": "nm0688661",
+                                "tmdb": 1357351,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "person": {
+                            "name": "Gerardo Madrazo",
+                            "ids": {
+                                "trakt": 556828,
+                                "slug": "gerardo-madrazo",
+                                "imdb": "nm1031048",
+                                "tmdb": 1494252,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "\"C\" Camera Operator",
+                        "jobs": [
+                            "\"C\" Camera Operator"
+                        ],
+                        "person": {
+                            "name": "Richard Cornelius",
+                            "ids": {
+                                "trakt": 577767,
+                                "slug": "richard-cornelius",
+                                "imdb": null,
+                                "tmdb": 1570037,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Steadicam Operator, \"A\" Camera Operator",
+                        "jobs": [
+                            "Steadicam Operator",
+                            "\"A\" Camera Operator"
+                        ],
+                        "person": {
+                            "name": "Adam Mendry",
+                            "ids": {
+                                "trakt": 585939,
+                                "slug": "adam-mendry",
+                                "imdb": "nm5463924",
+                                "tmdb": 1497636,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant \"A\" Camera",
+                        "jobs": [
+                            "Second Assistant \"A\" Camera"
+                        ],
+                        "person": {
+                            "name": "Renni Pollock",
+                            "ids": {
+                                "trakt": 1253644,
+                                "slug": "renni-pollock",
+                                "imdb": null,
+                                "tmdb": 2109673,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant \"A\" Camera",
+                        "jobs": [
+                            "First Assistant \"A\" Camera"
+                        ],
+                        "person": {
+                            "name": "Josh Miller",
+                            "ids": {
+                                "trakt": 1352178,
+                                "slug": "josh-miller-161a0006-8068-46fb-a970-1c0382570506",
+                                "imdb": null,
+                                "tmdb": 2192263,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Unit Director of Photography, \"B\" Camera Operator",
+                        "jobs": [
+                            "Second Unit Director of Photography",
+                            "\"B\" Camera Operator"
+                        ],
+                        "person": {
+                            "name": "Ryan Hogue",
+                            "ids": {
+                                "trakt": 1736668,
+                                "slug": "ryan-hogue",
+                                "imdb": null,
+                                "tmdb": 2552693,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant \"B\" Camera",
+                        "jobs": [
+                            "Second Assistant \"B\" Camera"
+                        ],
+                        "person": {
+                            "name": "James Malamatinas",
+                            "ids": {
+                                "trakt": 2075172,
+                                "slug": "james-malamatinas",
+                                "imdb": null,
+                                "tmdb": 2891355,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Dolly Grip",
+                        "jobs": [
+                            "Dolly Grip"
+                        ],
+                        "person": {
+                            "name": "Agamemnonas Zakos",
+                            "ids": {
+                                "trakt": 2115901,
+                                "slug": "agamemnonas-zakos",
+                                "imdb": null,
+                                "tmdb": 2932060,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant \"C\" Camera",
+                        "jobs": [
+                            "First Assistant \"C\" Camera"
+                        ],
+                        "person": {
+                            "name": "Kyriacos Mosfiliotis",
+                            "ids": {
+                                "trakt": 2115904,
+                                "slug": "kyriacos-mosfiliotis",
+                                "imdb": null,
+                                "tmdb": 2932064,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant \"C\" Camera",
+                        "jobs": [
+                            "First Assistant \"C\" Camera"
+                        ],
+                        "person": {
+                            "name": "Andrzej Hijewski",
+                            "ids": {
+                                "trakt": 2115905,
+                                "slug": "andrzej-hijewski",
+                                "imdb": null,
+                                "tmdb": 2932065,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Grip",
+                        "jobs": [
+                            "Grip"
+                        ],
+                        "person": {
+                            "name": "Florian Schabel",
+                            "ids": {
+                                "trakt": 2115906,
+                                "slug": "florian-schabel",
+                                "imdb": null,
+                                "tmdb": 2932066,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Key Grip",
+                        "jobs": [
+                            "Key Grip"
+                        ],
+                        "person": {
+                            "name": "Luke Poole",
+                            "ids": {
+                                "trakt": 2115907,
+                                "slug": "luke-poole",
+                                "imdb": null,
+                                "tmdb": 2932067,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Still Photographer",
+                        "jobs": [
+                            "Still Photographer"
+                        ],
+                        "person": {
+                            "name": "Daniel Herron",
+                            "ids": {
+                                "trakt": 2115908,
+                                "slug": "daniel-herron",
+                                "imdb": null,
+                                "tmdb": 2932068,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant \"C\" Camera",
+                        "jobs": [
+                            "Second Assistant \"C\" Camera"
+                        ],
+                        "person": {
+                            "name": "John Babas Farrugia",
+                            "ids": {
+                                "trakt": 2139830,
+                                "slug": "john-babas-farrugia",
+                                "imdb": null,
+                                "tmdb": 2957379,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Data Wrangler",
+                        "jobs": [
+                            "Data Wrangler"
+                        ],
+                        "person": {
+                            "name": "Elias Alsadi",
+                            "ids": {
+                                "trakt": 2139831,
+                                "slug": "elias-alsadi",
+                                "imdb": null,
+                                "tmdb": 2957383,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Digital Imaging Technician",
+                        "jobs": [
+                            "Digital Imaging Technician"
+                        ],
+                        "person": {
+                            "name": "Roman Simenc",
+                            "ids": {
+                                "trakt": 2139832,
+                                "slug": "roman-simenc",
+                                "imdb": null,
+                                "tmdb": 2957390,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Dolly Grip",
+                        "jobs": [
+                            "Dolly Grip"
+                        ],
+                        "person": {
+                            "name": "Jake Poole",
+                            "ids": {
+                                "trakt": 2139833,
+                                "slug": "jake-poole",
+                                "imdb": null,
+                                "tmdb": 2957392,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Dolly Grip",
+                        "jobs": [
+                            "Dolly Grip"
+                        ],
+                        "person": {
+                            "name": "Alexander Preisch",
+                            "ids": {
+                                "trakt": 2139835,
+                                "slug": "alexander-preisch",
+                                "imdb": null,
+                                "tmdb": 2957394,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "person": {
+                            "name": "Kyros Papavassiliou",
+                            "ids": {
+                                "trakt": 489790,
+                                "slug": "kyros-papavassiliou",
+                                "imdb": "nm2708824",
+                                "tmdb": 1411883,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "person": {
+                            "name": "Daniel McDonald",
+                            "ids": {
+                                "trakt": 1094871,
+                                "slug": "daniel-mcdonald-3c193f00-08ba-42c6-a15f-287645a4186b",
+                                "imdb": null,
+                                "tmdb": 1998646,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Digital Intermediate Colorist",
+                        "jobs": [
+                            "Digital Intermediate Colorist"
+                        ],
+                        "person": {
+                            "name": "Elliott Powell",
+                            "ids": {
+                                "trakt": 1929954,
+                                "slug": "elliott-powell",
+                                "imdb": null,
+                                "tmdb": 2743820,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "person": {
+                            "name": "Kayleb Lee",
+                            "ids": {
+                                "trakt": 2115890,
+                                "slug": "kayleb-lee",
+                                "imdb": null,
+                                "tmdb": 2932040,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "person": {
+                            "name": "Sydney Marineau",
+                            "ids": {
+                                "trakt": 2115913,
+                                "slug": "sydney-marineau",
+                                "imdb": null,
+                                "tmdb": 2932081,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "person": {
+                            "name": "Dustin Mulstay",
+                            "ids": {
+                                "trakt": 2141316,
+                                "slug": "dustin-mulstay",
+                                "imdb": null,
+                                "tmdb": 2958256,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "person": {
+                            "name": "Surat Kadeeroj",
+                            "ids": {
+                                "trakt": 641388,
+                                "slug": "surat-kadeeroj",
+                                "imdb": "nm2019190",
+                                "tmdb": 1629462,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Conceptual Design",
+                        "jobs": [
+                            "Conceptual Design"
+                        ],
+                        "person": {
+                            "name": "Daniel Carrasco",
+                            "ids": {
+                                "trakt": 699329,
+                                "slug": "daniel-carrasco",
+                                "imdb": "nm5669664",
+                                "tmdb": 1653096,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "person": {
+                            "name": "Noppadon Pheamboonsak",
+                            "ids": {
+                                "trakt": 1987954,
+                                "slug": "noppadon-pheamboonsak",
+                                "imdb": null,
+                                "tmdb": 2802300,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Property Master",
+                        "jobs": [
+                            "Property Master"
+                        ],
+                        "person": {
+                            "name": "Sosse Eskidjian",
+                            "ids": {
+                                "trakt": 2115909,
+                                "slug": "sosse-eskidjian",
+                                "imdb": null,
+                                "tmdb": 2932070,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "person": {
+                            "name": "John Budgen",
+                            "ids": {
+                                "trakt": 2141300,
+                                "slug": "john-budgen",
+                                "imdb": null,
+                                "tmdb": 2958200,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Department Coordinator",
+                        "jobs": [
+                            "Art Department Coordinator"
+                        ],
+                        "person": {
+                            "name": "Theodora Makariou",
+                            "ids": {
+                                "trakt": 2141301,
+                                "slug": "theodora-makariou",
+                                "imdb": null,
+                                "tmdb": 2958204,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Designer",
+                        "jobs": [
+                            "Set Designer"
+                        ],
+                        "person": {
+                            "name": "Constantina Andreou",
+                            "ids": {
+                                "trakt": 2141302,
+                                "slug": "constantina-andreou",
+                                "imdb": null,
+                                "tmdb": 2958206,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Dresser",
+                        "jobs": [
+                            "Set Dresser"
+                        ],
+                        "person": {
+                            "name": "Maria Georgiou",
+                            "ids": {
+                                "trakt": 2141303,
+                                "slug": "maria-georgiou",
+                                "imdb": null,
+                                "tmdb": 2958208,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Production Design",
+                        "jobs": [
+                            "Assistant Production Design"
+                        ],
+                        "person": {
+                            "name": "Nathachareeya Suepsaengsulwan",
+                            "ids": {
+                                "trakt": 2141304,
+                                "slug": "nathachareeya-suepsaengsulwan",
+                                "imdb": null,
+                                "tmdb": 2958213,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Property Master",
+                        "jobs": [
+                            "Assistant Property Master"
+                        ],
+                        "person": {
+                            "name": "Filios Sazeiges",
+                            "ids": {
+                                "trakt": 2141307,
+                                "slug": "filios-sazeiges",
+                                "imdb": null,
+                                "tmdb": 2958225,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Special Effects Technician",
+                        "jobs": [
+                            "Special Effects Technician"
+                        ],
+                        "person": {
+                            "name": "Lawrence Attard",
+                            "ids": {
+                                "trakt": 1516375,
+                                "slug": "lawrence-attard",
+                                "imdb": null,
+                                "tmdb": 2333173,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "person": {
+                            "name": "Ryan Tarran",
+                            "ids": {
+                                "trakt": 1545478,
+                                "slug": "ryan-tarran",
+                                "imdb": "nm4292353",
+                                "tmdb": 2360768,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Special Effects Technician",
+                        "jobs": [
+                            "Special Effects Technician"
+                        ],
+                        "person": {
+                            "name": "Joe Calleja",
+                            "ids": {
+                                "trakt": 2115911,
+                                "slug": "joe-calleja",
+                                "imdb": null,
+                                "tmdb": 2932074,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Transportation Coordinator",
+                        "jobs": [
+                            "Transportation Coordinator"
+                        ],
+                        "person": {
+                            "name": "Zenon Hadjipavlou",
+                            "ids": {
+                                "trakt": 2115917,
+                                "slug": "zenon-hadjipavlou",
+                                "imdb": null,
+                                "tmdb": 2932091,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Transportation Coordinator",
+                        "jobs": [
+                            "Transportation Coordinator"
+                        ],
+                        "person": {
+                            "name": "Giannis Nikoletos",
+                            "ids": {
+                                "trakt": 2115918,
+                                "slug": "giannis-nikoletos",
+                                "imdb": null,
+                                "tmdb": 2932092,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Prop Maker",
+                        "jobs": [
+                            "Prop Maker"
+                        ],
+                        "person": {
+                            "name": "Sofia Mavromichali",
+                            "ids": {
+                                "trakt": 2141305,
+                                "slug": "sofia-mavromichali",
+                                "imdb": null,
+                                "tmdb": 2958219,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Prop Maker",
+                        "jobs": [
+                            "Prop Maker"
+                        ],
+                        "person": {
+                            "name": "Stavri Papadoulou",
+                            "ids": {
+                                "trakt": 2141306,
+                                "slug": "stavri-papadoulou",
+                                "imdb": null,
+                                "tmdb": 2958224,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Weapons Master",
+                        "jobs": [
+                            "Weapons Master"
+                        ],
+                        "person": {
+                            "name": "Konstantinos Charalambous",
+                            "ids": {
+                                "trakt": 2141308,
+                                "slug": "konstantinos-charalambous",
+                                "imdb": null,
+                                "tmdb": 2958226,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 4.53968,
+            "votes": 819,
+            "distribution": {
+                "1": 100,
+                "2": 112,
+                "3": 94,
+                "4": 105,
+                "5": 102,
+                "6": 142,
+                "7": 73,
+                "8": 37,
+                "9": 17,
+                "10": 37
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Eddie Bravo Invitational 7",
+                "year": 2016,
+                "ids": {
+                    "trakt": 260430,
+                    "slug": "eddie-bravo-invitational-7-2016",
+                    "imdb": null,
+                    "tmdb": 415412
+                }
+            },
+            {
+                "title": "Eddie Bravo Invitational 8",
+                "year": 2016,
+                "ids": {
+                    "trakt": 264248,
+                    "slug": "eddie-bravo-invitational-8-2016",
+                    "imdb": null,
+                    "tmdb": 419040
+                }
+            },
+            {
+                "title": "Flash Point",
+                "year": 2007,
+                "ids": {
+                    "trakt": 22728,
+                    "slug": "flash-point-2007",
+                    "imdb": "tt0992911",
+                    "tmdb": 35854
+                }
+            },
+            {
+                "title": "UFC Fight Night 184: Overeem vs. Volkov",
+                "year": 2021,
+                "ids": {
+                    "trakt": 626624,
+                    "slug": "ufc-fight-night-184-overeem-vs-volkov-2021",
+                    "imdb": null,
+                    "tmdb": 791076
+                }
+            },
+            {
+                "title": "UFC 258: Usman vs. Burns",
+                "year": 2021,
+                "ids": {
+                    "trakt": 618858,
+                    "slug": "ufc-258-usman-vs-burns-2021",
+                    "imdb": null,
+                    "tmdb": 781955
+                }
+            },
+            {
+                "title": "Hard Target 2",
+                "year": 2016,
+                "ids": {
+                    "trakt": 246909,
+                    "slug": "hard-target-2-2016",
+                    "imdb": "tt5241578",
+                    "tmdb": 402331
+                }
+            },
+            {
+                "title": "UFC 259: Blachowicz vs. Adesanya",
+                "year": 2021,
+                "ids": {
+                    "trakt": 632470,
+                    "slug": "ufc-259-blachowicz-vs-adesanya-2021",
+                    "imdb": null,
+                    "tmdb": 797026
+                }
+            },
+            {
+                "title": "Bloodsport",
+                "year": 1988,
+                "ids": {
+                    "trakt": 6763,
+                    "slug": "bloodsport-1988",
+                    "imdb": "tt0092675",
+                    "tmdb": 11690
+                }
+            },
+            {
+                "title": "Warrior",
+                "year": 2011,
+                "ids": {
+                    "trakt": 42600,
+                    "slug": "warrior-2011",
+                    "imdb": "tt1291584",
+                    "tmdb": 59440
+                }
+            },
+            {
+                "title": "UFC on ESPN 21: Brunson vs. Holland",
+                "year": 2021,
+                "ids": {
+                    "trakt": 638591,
+                    "slug": "ufc-on-espn-21-brunson-vs-holland-2021",
+                    "imdb": null,
+                    "tmdb": 803699
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 23373,
+            "plays": 31164,
+            "collectors": 13347,
+            "comments": 30,
+            "lists": 3423,
+            "votes": 819,
+            "recommended": 6
+        },
+        "watching": 1
+    },
+    "name": "Jiu Jitsu",
+    "videoType": "movie"
+}

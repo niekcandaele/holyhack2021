@@ -10,13 +10,91 @@
     "original_language": "en",
     "original_title": "Wonder Woman 1984",
     "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
-    "popularity": 1703.052,
+    "popularity": 1861.792,
     "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
     "release_date": "2020-12-16",
     "title": "Wonder Woman 1984",
     "video": false,
     "vote_average": 6.8,
-    "vote_count": 4456,
+    "vote_count": 4480,
+    "belongs_to_collection": {
+        "id": 468552,
+        "name": "Wonder Woman Collection",
+        "poster_path": "/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg",
+        "backdrop_path": "/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/wonder-woman-1984",
+    "imdb_id": "tt7126948",
+    "production_companies": [
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 114152,
+            "logo_path": null,
+            "name": "The Stone Quarry",
+            "origin_country": "US"
+        },
+        {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 429,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 165160000,
+    "runtime": 151,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A new era of wonder begins.",
     "trakt": {
         "base": {
             "title": "Wonder Woman 1984",
@@ -7900,19 +7978,19 @@
             }
         },
         "ratings": {
-            "rating": 6.13138,
-            "votes": 10222,
+            "rating": 6.13224,
+            "votes": 10239,
             "distribution": {
                 "1": 311,
                 "2": 303,
                 "3": 473,
-                "4": 860,
+                "4": 861,
                 "5": 1442,
-                "6": 2428,
-                "7": 2083,
-                "8": 1121,
+                "6": 2432,
+                "7": 2087,
+                "8": 1125,
                 "9": 445,
-                "10": 757
+                "10": 758
             }
         },
         "relatedMovies": [
@@ -8026,6 +8104,8 @@
             "votes": 10223,
             "recommended": 176
         },
-        "watching": 17
-    }
+        "watching": 6
+    },
+    "name": "Wonder Woman 1984",
+    "videoType": "movie"
 }

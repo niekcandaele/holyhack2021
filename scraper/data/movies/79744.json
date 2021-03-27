@@ -1,0 +1,2730 @@
+{
+    "backdrop_path": "/Aof7R1if9jKhHCk6M7UGyEQWQSk.jpg",
+    "first_air_date": "2018-10-16",
+    "genre_ids": [
+        80,
+        18
+    ],
+    "id": 79744,
+    "name": "The Rookie",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Rookie",
+    "overview": "Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "popularity": 394.421,
+    "poster_path": "/6hChiX0vIjWY4y2kz1WndHVMsDu.jpg",
+    "vote_average": 7.9,
+    "vote_count": 415,
+    "created_by": [
+        {
+            "id": 67855,
+            "credit_id": "5b12fbf10e0a263dbb0089e5",
+            "name": "Alexi Hawley",
+            "gender": 2,
+            "profile_path": "/eIyGbyHTfsIxEOPlD5lByW9A80y.jpg"
+        }
+    ],
+    "episode_run_time": [
+        43
+    ],
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://abc.go.com/shows/the-rookie",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-02-28",
+    "last_episode_to_air": {
+        "air_date": "2021-02-28",
+        "episode_number": 7,
+        "id": 2757495,
+        "name": "True Crime",
+        "overview": "The team gets the true crime docuseries treatment when they analyze a recent case featuring a former child actor whose adult life has garnered him a cult following.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/6J4UTvKrPpEC9CSJP8vUKdNpK4o.jpg",
+        "vote_average": 9,
+        "vote_count": 1
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-03-28",
+        "episode_number": 8,
+        "id": 2787224,
+        "name": "Bad Blood",
+        "overview": "Officer Nolan, Officer Harper and Detective Lopez are assigned to the kidnapping of the son of a criminal court judge who has a long list of enemies who could possibly be involved.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/5z05FOcANCgPPJaqhYenc9RMVH1.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "ABC",
+            "id": 2,
+            "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 49,
+    "number_of_seasons": 3,
+    "production_companies": [
+        {
+            "id": 1557,
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 19366,
+            "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+            "name": "ABC Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 8147,
+            "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+            "name": "Entertainment One",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-10-16",
+            "episode_count": 20,
+            "id": 104126,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/c5tWybs91GuwEFOucnj7yZu2YLu.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-09-29",
+            "episode_count": 20,
+            "id": 127101,
+            "name": "Season 2",
+            "overview": "Six months into his career as a cop, John Nolan, the oldest rookie in the LAPD, has used his life experience, determination and sense of humor to keep up with rookies 20 years his junior. But as he embarks on the second half of his rookie year, Nolan will be put to the test by a host of new challenges, romantic relationships and deadly criminals, as he looks to figure out what kind of cop he ultimately wants to be.",
+            "poster_path": "/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2021-01-03",
+            "episode_count": 9,
+            "id": 173119,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/6hChiX0vIjWY4y2kz1WndHVMsDu.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "He’s got this.",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "הטירון",
+                "country": "il"
+            },
+            {
+                "title": "טירון",
+                "country": "il"
+            },
+            {
+                "title": "Новачок",
+                "country": "ua"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            },
+            {
+                "title": "中年菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Новобранец",
+                "country": "ru"
+            },
+            {
+                "title": "老菜鸟",
+                "country": "cn"
+            },
+            {
+                "title": "Салага",
+                "country": "ru"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Новобранецът",
+                "overview": "Сериалът проследява живота на Джон Нолан, 40-годишен мъж, който се премества от удобния си живот в малък град в Лос Анджелис, за да преследва мечтата си да бъде полицейски служител.",
+                "language": "bg"
+            },
+            {
+                "title": "Zelenáč",
+                "overview": "John Nolan se rozhodne přestěhovat do Los Angeles, kde se chce stát policistou. Svůj životní sen si však začal vyplňoval poměrně pozdě, protože v jeho věku dosahují policisté svého vrcholu. Nyní se ocitá mezi nováčky, kterým je o 20 let méně. Nachází se tak na dlouhé cestě, která bude nebezpečná a nepředvídatelná. Příběh je inspirován skutečnými událostmi.",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "In einem Alter, in dem sich andere zur Ruhe setzen wollen, tauscht John Nolan das beschauliche Kleinstadtleben gegen einen Neuanfang in Los Angeles ein: Er möchte seinen Lebenstraum verwirklichen und als Polizist arbeiten. Inmitten von Anwärtern in ihren 20ern muss sich Nolan nun als ältester Rookie des LAPD bewähren.",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Η σειρά ακολουθεί τον John Nolan, έναν σαράντα χρονών, ο οποίος γίνεται ο αρχαιότερος αρχηγός του αστυνομικού τμήματος του Λος Άντζελες ο οποίος ήταν κάτοχος μιας κατασκευαστικής εταιρείας, προσφατα διαζευγμένος με έναν γιο στο κολλέγιο, ο οποίος, αφού κατά λάθος βοήθησε αστυνομικούς κατά τη διάρκεια ληστείας τραπεζών, μετακόμισε στο Λος Άντζελες για να ακολουθήσει μια νέα σταδιοδρομία ένας αστυνομικός στο Αστυνομικό Τμήμα του Λος Άντζελες . Αφού αποφοίτησε από την Αστυνομική Ακαδημία, ως ο αρχαιότερος αρχηγός της δύναμης, ο John πρέπει να περιηγηθεί στον επικίνδυνο και απρόβλεπτο χαρακτήρα της δουλειάς του και είναι αποφασισμένος να το κάνει στη νέα του καριέρα παρά τις προκλήσεις.",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+                "language": "en"
+            },
+            {
+                "title": "El Novato",
+                "overview": "Comenzar de nuevo no es fácil, especialmente para el chico de una pequeña ciudad John Nolan que, después de un incidente que cambia su vida, está persiguiendo su sueño de ser un oficial de policía de Los Ángeles. Como el novato más viejo de la fuerza, se ha encontrado con el escepticismo de algunos de los superiores que lo ven como una crisis ambulante.",
+                "language": "es"
+            },
+            {
+                "title": "The Rookie : le flic de Los Angeles",
+                "overview": "Lorsque sa femme le quitte et que son fils part à la fac, John Nolan, la quarantaine, est à un tournant de sa vie et décide de réaliser un vieux rêve : devenir flic ! Il part vivre à Los Angeles et se retrouve, malgré son âge, un bleu parmi les bleus...",
+                "language": "fr"
+            },
+            {
+                "title": "הטירון",
+                "overview": "ג'ון נולן בן ה- 40, בעליה לשעבר של חברת בנייה וגרוש טרי, עוזר במקרה לשוטרים במהלך שוד בנק ומחליט לעבור ללוס אנג'לס ולפצוח בקריירה חדשה כשוטר. לאחר שהוא מסיים את הכשרתו באקדמיה לשוטרים- הטירון המבוגר ביותר- הוא צריך להתמודד עם אופיו המסוכן והלא צפוי של תפקידו החדש, והוא נחוש להצליח למרות האתגרים. כטירון המבוגר ביותר בכוח, הוא נתקל בסקפטיות מבעלי הדרגות מעליו שחושבים שעובר עליו משבר אמצע החיים. אם לא יצליח לעמוד בקצב של השוטרים הצעירים ושל הפושעים, הוא יכול לסכן את חייהם ואת חייו. אבל אם יוכל להפוך את ניסיון החיים שלו, נחישותו וחוש ההומור המפותח שלו ליתרון, אולי יוכל גם להפוך את הקושי להצלחה בפרק החדש בחייו.",
+                "language": "he"
+            },
+            {
+                "title": "Az újonc",
+                "overview": "Az újrakezdés sohasem könnyű, főleg nem a vidékről érkezett John Nolan számára, aki az életét megváltoztató esemény után próbálja megvalósítani álmát, hogy los angelesi rendőr legyen. A rendőrség legidősebb újoncaként a felettesei közül néhányan szkeptikusan szemlélik, és egy igazi csődtömegnek tartják. Ha nem képes tartani a lépést a fiatalabb zsarukkal és a bűnözőkkel, akkor azzal életeket tehet kockára, beleértve a sajátját is. De ha képes saját előnyére használni élettapasztalatát, eltökéltségét és humorérzékét, akkor akár sikeres is lehet életének ezen új szakaszában.",
+                "language": "hu"
+            },
+            {
+                "title": null,
+                "overview": "La serie segue John Nolan, un uomo di quarant'anni, che si sposta dalla sua confortevole vita in città a Los Angeles per perseguire il suo sogno di diventare un agente del dipartimento di polizia di Los Angeles. Nolan deve però navigare nel pericoloso, umoristico e imprevedibile mondo di un poliziotto \"giovane\".",
+                "language": "it"
+            },
+            {
+                "title": "더 루키",
+                "overview": "이혼 후 은행 강도를 당한 일을 계기로 LAPD에 지원한 40세의 최고령 신입을 중심으로 펼쳐지는 이야기",
+                "language": "ko"
+            },
+            {
+                "title": "Jauniņais",
+                "overview": "",
+                "language": "lv"
+            },
+            {
+                "title": "The Rookie",
+                "overview": "John Nolan is net veertig. Hij bevindt zich op een keerpunt in zijn leven: hij is net gescheiden van zijn vrouw en zijn zoon gaat naar de universiteit. John besluit vervolgens om een ​​oude droom waar te gaan maken en politieagent te worden. Hij verhuisd naar Los Angeles en vervoegt de Los Angeles Police Department, waar hij de oudste \"jonge rekruut\" is.",
+                "language": "nl"
+            },
+            {
+                "title": "Rekrut",
+                "overview": "John Nolan to 40-letni mężczyzna, który podążając za swoim marzeniem przeprowadza się do Los Angeles, gdzie zostaje oficerem policji. Jak policjant poradzi sobie w zupełnie nowym, niebezpiecznym świecie?",
+                "language": "pl"
+            },
+            {
+                "title": "The Rookie",
+                "overview": "John Nolan, de 40 anos, muda sua vida para ser um agente policial no Departamento de Polícia de Los Angeles.",
+                "language": "pt"
+            },
+            {
+                "title": "Новичок",
+                "overview": "Начинать с чистого листа всегда нелегко, особенно для уроженца маленького городка Джона Нолана, который после инцидента, перевернувшего его жизнь, решил воплотить в жизнь давнюю мечту и присоединиться к полиции Лос-Анджелеса. Возрастного новичка встречают с понятным скептицизмом, однако жизненный опыт, упорство и чувство юмора дают Джону преимущество.",
+                "language": "ru"
+            },
+            {
+                "title": null,
+                "overview": "John Nolan sa rozhodne presťahovať do Los Angeles, kde sa chce stať policajtom. Svoj životný sen si však začal vyplňoval pomerne neskoro, pretože v jeho veku dosahujú policajti svoj vrchol. Teraz sa ocitá medzi nováčikmi, ktorým je o 20 rokov menej. Nachádza sa tak na dlhej ceste, ktorá bude nebezpečná a nepredvídateľná. Príbeh je inšpirovaný skutočnými udalosťami.",
+                "language": "sk"
+            },
+            {
+                "title": null,
+                "overview": "Küçük bir kasabada yaşayan kırk yaşındaki John Nolan’ın en büyük hayali polis memuru olmaktır. Yaşadığı ölümcül kazanın ardından hayallerinin peşinden koşan John, yaşadığı kasabayı terk ederek Los Angeles’a gider. Los Angeles Polis Departmanı’nda göreve başlayan John, çalıştığı birimde orta yaş krizi de dahil birçok farklı sorunla boğuşmak zorunda kalır.",
+                "language": "tr"
+            },
+            {
+                "title": "Новобранець",
+                "overview": "Починати з чистого аркуша завжди нелегко, особливо для мешканця маленького містечка Джона Нолана. Після інциденту, який перевернув його життя, він вирішив здійснити давню мрію і приєднатися до поліції Лос-Анджелеса. Старого новачка зустрічають із зрозумілим скептицизмом, проте життєвий досвід, наполегливість та почуття гумору дають Джону перевагу.",
+                "language": "uk"
+            },
+            {
+                "title": "菜鸟老警",
+                "overview": "　　Alexi Hawley执笔﹑Liz Friedlander导演的ABC警察剧《菜鸟老警 The Rookie》过去被直接预订成剧，由《灵书妙探 Castle》男主Nathan Fillion主演。《菜鸟老警》根据真人真事改编，Nathan Fillion饰演主角John Nolan，他是洛杉矶警局里最老的菜鸟警察。John离开了舒适的小城镇，来到洛杉矶追求自己的警察梦；此刻他身边的其他菜鸟都是二十出头，被上司认为只是遇上中年危机的主角，得跟年轻的同伴一样应付这个危险﹑滑稽﹑不可预测的世界。《黑暗物质 Dark Matter》主演Melissa O’Neil饰演女主 - 洛杉矶菜鸟警察Lucy Chen，将会与John有感情发展。Afton Williamson饰演刚被提升为训练警官的Talia Bishop，第一个被指派给她训练的就是菜鸟John﹑ Eric Winter饰演咄咄逼人的训练警官Tim Bradford﹑Richard T. Jones饰演警长Wade Grey，身为警局监管警官的他与John成了死对头。Titus Makin饰演热心的菜鸟Jackson West警官，他父亲是洛杉矶警局的高层指挥官。Alyssa Diaz饰演希望当上警探的训练警官Angela，不过当Jackson West被指派给她时倒成了麻烦，因为他的父亲可是对警局有发言权。Mercedes Mason饰演警监Zoe Andersen，主角那自信无礼的指挥警官。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "John Nolan",
+                    "characters": [
+                        "John Nolan"
+                    ],
+                    "episode_count": 47,
+                    "person": {
+                        "name": "Nathan Fillion",
+                        "ids": {
+                            "trakt": 414867,
+                            "slug": "nathan-fillion",
+                            "imdb": "nm0277213",
+                            "tmdb": 51797,
+                            "tvrage": 30410
+                        }
+                    }
+                },
+                {
+                    "character": "Lucy Chen",
+                    "characters": [
+                        "Lucy Chen"
+                    ],
+                    "episode_count": 47,
+                    "person": {
+                        "name": "Melissa O'Neil",
+                        "ids": {
+                            "trakt": 536588,
+                            "slug": "melissa-o-neil",
+                            "imdb": "nm2047780",
+                            "tmdb": 1234713,
+                            "tvrage": 145145
+                        }
+                    }
+                },
+                {
+                    "character": "Jackson West",
+                    "characters": [
+                        "Jackson West"
+                    ],
+                    "episode_count": 47,
+                    "person": {
+                        "name": "Titus Makin Jr.",
+                        "ids": {
+                            "trakt": 451376,
+                            "slug": "titus-makin-jr",
+                            "imdb": "nm3600675",
+                            "tmdb": 564632,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Tim Bradford",
+                    "characters": [
+                        "Tim Bradford"
+                    ],
+                    "episode_count": 47,
+                    "person": {
+                        "name": "Eric Winter",
+                        "ids": {
+                            "trakt": 428423,
+                            "slug": "eric-winter",
+                            "imdb": "nm0935721",
+                            "tmdb": 74409,
+                            "tvrage": 26503
+                        }
+                    }
+                },
+                {
+                    "character": "Angela Lopez",
+                    "characters": [
+                        "Angela Lopez"
+                    ],
+                    "episode_count": 47,
+                    "person": {
+                        "name": "Alyssa Diaz",
+                        "ids": {
+                            "trakt": 442474,
+                            "slug": "alyssa-diaz",
+                            "imdb": "nm1595801",
+                            "tmdb": 134180,
+                            "tvrage": 51267
+                        }
+                    }
+                },
+                {
+                    "character": "Wade Grey",
+                    "characters": [
+                        "Wade Grey"
+                    ],
+                    "episode_count": 47,
+                    "person": {
+                        "name": "Richard T. Jones",
+                        "ids": {
+                            "trakt": 9577,
+                            "slug": "richard-t-jones",
+                            "imdb": "nm0429114",
+                            "tmdb": 55755,
+                            "tvrage": 10152
+                        }
+                    }
+                },
+                {
+                    "character": "Zoe Andersen",
+                    "characters": [
+                        "Zoe Andersen"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Mercedes Mason",
+                        "ids": {
+                            "trakt": 430190,
+                            "slug": "mercedes-mason-430190",
+                            "imdb": "nm1997689",
+                            "tmdb": 83862,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Talia Bishop",
+                    "characters": [
+                        "Talia Bishop"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Afton Williamson",
+                        "ids": {
+                            "trakt": 444716,
+                            "slug": "afton-williamson",
+                            "imdb": "nm4182855",
+                            "tmdb": 970631,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Nyla Harper",
+                    "characters": [
+                        "Nyla Harper"
+                    ],
+                    "episode_count": 7,
+                    "person": {
+                        "name": "Mekia Cox",
+                        "ids": {
+                            "trakt": 454900,
+                            "slug": "mekia-cox",
+                            "imdb": "nm2065368",
+                            "tmdb": 202952,
+                            "tvrage": 68656
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Nathan Fillion",
+                            "ids": {
+                                "trakt": 414867,
+                                "slug": "nathan-fillion",
+                                "imdb": "nm0277213",
+                                "tmdb": 51797,
+                                "tvrage": 30410
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Michelle Chapman",
+                            "ids": {
+                                "trakt": 1594915,
+                                "slug": "michelle-chapman",
+                                "imdb": null,
+                                "tmdb": 2409164,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Alexi Hawley",
+                            "ids": {
+                                "trakt": 52713,
+                                "slug": "alexi-hawley",
+                                "imdb": "nm1149075",
+                                "tmdb": 67855,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Rob Bowman",
+                            "ids": {
+                                "trakt": 414779,
+                                "slug": "rob-bowman-68bebf4c-cef0-4c36-a87a-e21bb7895688",
+                                "imdb": "nm0101385",
+                                "tmdb": 12523,
+                                "tvrage": 356
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Terence Paul Winter",
+                            "ids": {
+                                "trakt": 415163,
+                                "slug": "terence-paul-winter",
+                                "imdb": "nm0935834",
+                                "tmdb": 553985,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Mark Gordon",
+                            "ids": {
+                                "trakt": 4566,
+                                "slug": "mark-gordon",
+                                "imdb": "nm0330428",
+                                "tmdb": 6048,
+                                "tvrage": 69592
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Jon Steinberg",
+                            "ids": {
+                                "trakt": 1594914,
+                                "slug": "jon-steinberg-1a23a90c-6a45-4119-b168-32eecf14f08b",
+                                "imdb": null,
+                                "tmdb": 2409170,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Bill Norcross",
+                            "ids": {
+                                "trakt": 1594913,
+                                "slug": "bill-norcross",
+                                "imdb": null,
+                                "tmdb": 2409166,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 12,
+                        "person": {
+                            "name": "Alexi Hawley",
+                            "ids": {
+                                "trakt": 52713,
+                                "slug": "alexi-hawley",
+                                "imdb": "nm1149075",
+                                "tmdb": 67855,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Fredrick Kotto",
+                            "ids": {
+                                "trakt": 681939,
+                                "slug": "fredrick-kotto",
+                                "imdb": "nm3088759",
+                                "tmdb": 1658553,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Robert Bella",
+                            "ids": {
+                                "trakt": 153172,
+                                "slug": "robert-bella",
+                                "imdb": "nm0068624",
+                                "tmdb": 222658,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Brynn Malone",
+                            "ids": {
+                                "trakt": 407564,
+                                "slug": "brynn-malone",
+                                "imdb": "nm2963554",
+                                "tmdb": 1252002,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Vincent Angell",
+                            "ids": {
+                                "trakt": 282328,
+                                "slug": "vincent-angell",
+                                "imdb": "nm0029646",
+                                "tmdb": 154680,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Elizabeth Beall",
+                            "ids": {
+                                "trakt": 1390500,
+                                "slug": "elizabeth-beall",
+                                "imdb": "nm1937188",
+                                "tmdb": 1097037,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Terence Paul Winter",
+                            "ids": {
+                                "trakt": 415163,
+                                "slug": "terence-paul-winter",
+                                "imdb": "nm0935834",
+                                "tmdb": 553985,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Natalie Callaghan",
+                            "ids": {
+                                "trakt": 1455525,
+                                "slug": "natalie-callaghan",
+                                "imdb": "nm8005470",
+                                "tmdb": 2273305,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Corey Miller",
+                            "ids": {
+                                "trakt": 795332,
+                                "slug": "corey-miller",
+                                "imdb": "nm0588128",
+                                "tmdb": 1334202,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Bill Rinier",
+                            "ids": {
+                                "trakt": 1455640,
+                                "slug": "bill-rinier",
+                                "imdb": "nm1044098",
+                                "tmdb": 2273304,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Liz Alper",
+                            "ids": {
+                                "trakt": 932314,
+                                "slug": "liz-alper",
+                                "imdb": null,
+                                "tmdb": 1847266,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Ally Seibert",
+                            "ids": {
+                                "trakt": 932315,
+                                "slug": "ally-seibert",
+                                "imdb": null,
+                                "tmdb": 1847267,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Mary Trahan",
+                            "ids": {
+                                "trakt": 1504897,
+                                "slug": "mary-trahan",
+                                "imdb": "nm2919044",
+                                "tmdb": 1108460,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Inda Craig-Galván",
+                            "ids": {
+                                "trakt": 1455511,
+                                "slug": "inda-craig-galvan",
+                                "imdb": "nm3251191",
+                                "tmdb": 1582726,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "David Radcliff",
+                            "ids": {
+                                "trakt": 1413287,
+                                "slug": "david-radcliff",
+                                "imdb": "nm3251765",
+                                "tmdb": 2225790,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Racheal Seymour",
+                            "ids": {
+                                "trakt": 706343,
+                                "slug": "racheal-seymour",
+                                "imdb": "nm1351833",
+                                "tmdb": 1680905,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Nick Hurwitz",
+                            "ids": {
+                                "trakt": 1815976,
+                                "slug": "nick-hurwitz",
+                                "imdb": null,
+                                "tmdb": 2629412,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Diana Mendez Boucher",
+                            "ids": {
+                                "trakt": 938912,
+                                "slug": "diana-mendez-boucher",
+                                "imdb": "nm2248326",
+                                "tmdb": 1853376,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Paula Puryear",
+                            "ids": {
+                                "trakt": 2196573,
+                                "slug": "paula-puryear",
+                                "imdb": null,
+                                "tmdb": 3014867,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Michael Goi",
+                            "ids": {
+                                "trakt": 155988,
+                                "slug": "michael-goi",
+                                "imdb": "nm0003922",
+                                "tmdb": 236592,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Sylvain White",
+                            "ids": {
+                                "trakt": 416247,
+                                "slug": "sylvain-white",
+                                "imdb": "nm1234893",
+                                "tmdb": 31119,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Bill Roe",
+                            "ids": {
+                                "trakt": 422772,
+                                "slug": "bill-roe",
+                                "imdb": "nm0736200",
+                                "tmdb": 60712,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Liz Friedlander",
+                            "ids": {
+                                "trakt": 427981,
+                                "slug": "liz-friedlander",
+                                "imdb": "nm0295107",
+                                "tmdb": 60024,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Toa Fraser",
+                            "ids": {
+                                "trakt": 428037,
+                                "slug": "toa-fraser-74442244-b309-43e7-a403-25bbe50b283c",
+                                "imdb": "nm1089736",
+                                "tmdb": 73875,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Bill Johnson",
+                            "ids": {
+                                "trakt": 420204,
+                                "slug": "bill-johnson-1815d9cd-07b2-4c11-b176-7031d6fc3de8",
+                                "imdb": "nm0424594",
+                                "tmdb": 41563,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "David McWhirter",
+                            "ids": {
+                                "trakt": 1382841,
+                                "slug": "david-mcwhirter",
+                                "imdb": "nm0574765",
+                                "tmdb": 585459,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Chi-Yoon Chung",
+                            "ids": {
+                                "trakt": 987806,
+                                "slug": "chi-yoon-chung",
+                                "imdb": "nm1052291",
+                                "tmdb": 1898645,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Adam Davidson",
+                            "ids": {
+                                "trakt": 442912,
+                                "slug": "adam-davidson-719e02bf-69c4-41b3-9a6f-7c71872721b7",
+                                "imdb": "nm0203215",
+                                "tmdb": 160177,
+                                "tvrage": 31385
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Greg Beeman",
+                            "ids": {
+                                "trakt": 421296,
+                                "slug": "greg-beeman",
+                                "imdb": "nm0066439",
+                                "tmdb": 17309,
+                                "tvrage": 37045
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Nelson McCormick",
+                            "ids": {
+                                "trakt": 422478,
+                                "slug": "nelson-mccormick",
+                                "imdb": "nm1879589",
+                                "tmdb": 45627,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Timothy Busfield",
+                            "ids": {
+                                "trakt": 417204,
+                                "slug": "timothy-busfield",
+                                "imdb": "nm0124079",
+                                "tmdb": 23881,
+                                "tvrage": 11158
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Cherie Nowlan",
+                            "ids": {
+                                "trakt": 75099,
+                                "slug": "cherie-nowlan",
+                                "imdb": "nm0637458",
+                                "tmdb": 118471,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Terlesky",
+                            "ids": {
+                                "trakt": 431905,
+                                "slug": "john-terlesky",
+                                "imdb": "nm0855613",
+                                "tmdb": 102439,
+                                "tvrage": 9888
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jessica Yu",
+                            "ids": {
+                                "trakt": 16216,
+                                "slug": "jessica-yu",
+                                "imdb": "nm0950506",
+                                "tmdb": 19509,
+                                "tvrage": 11180
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Carol Banker",
+                            "ids": {
+                                "trakt": 571705,
+                                "slug": "carol-banker",
+                                "imdb": "nm0052059",
+                                "tmdb": 1224107,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Omar Madha",
+                            "ids": {
+                                "trakt": 501144,
+                                "slug": "omar-madha",
+                                "imdb": "nm0534850",
+                                "tmdb": 1240413,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Valerie Weiss",
+                            "ids": {
+                                "trakt": 213532,
+                                "slug": "valerie-weiss",
+                                "imdb": "nm1401177",
+                                "tmdb": 1038019,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Steve Robin",
+                            "ids": {
+                                "trakt": 473591,
+                                "slug": "steve-robin",
+                                "imdb": "nm0732233",
+                                "tmdb": 1224091,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "April Mullen",
+                            "ids": {
+                                "trakt": 170905,
+                                "slug": "april-mullen",
+                                "imdb": "nm0611983",
+                                "tmdb": 545330,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Fortenberry",
+                            "ids": {
+                                "trakt": 43312,
+                                "slug": "john-fortenberry",
+                                "imdb": "nm0287198",
+                                "tmdb": 58316,
+                                "tvrage": 4958
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Rob Bowman",
+                            "ids": {
+                                "trakt": 414779,
+                                "slug": "rob-bowman-68bebf4c-cef0-4c36-a87a-e21bb7895688",
+                                "imdb": "nm0101385",
+                                "tmdb": 12523,
+                                "tvrage": 356
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Barbara Brown",
+                            "ids": {
+                                "trakt": 1025362,
+                                "slug": "barbara-brown-0f1916a5-7432-4519-9cbd-957b5430abb9",
+                                "imdb": null,
+                                "tmdb": 1934040,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lisa Demaine",
+                            "ids": {
+                                "trakt": 919816,
+                                "slug": "lisa-demaine",
+                                "imdb": "nm0132671",
+                                "tmdb": 1836317,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Rachel Feldman",
+                            "ids": {
+                                "trakt": 325359,
+                                "slug": "rachel-feldman",
+                                "imdb": "nm0271095",
+                                "tmdb": 1185333,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Leslie Libman",
+                            "ids": {
+                                "trakt": 93714,
+                                "slug": "leslie-libman",
+                                "imdb": "nm0508883",
+                                "tmdb": 155598,
+                                "tvrage": 30339
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Stephanie A. Marquardt",
+                            "ids": {
+                                "trakt": 476742,
+                                "slug": "stephanie-a-marquardt",
+                                "imdb": "nm0549685",
+                                "tmdb": 40107,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Marcus Stokes",
+                            "ids": {
+                                "trakt": 1009512,
+                                "slug": "marcus-stokes",
+                                "imdb": "nm1684548",
+                                "tmdb": 1919508,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Tori Garrett",
+                            "ids": {
+                                "trakt": 866051,
+                                "slug": "tori-garrett",
+                                "imdb": null,
+                                "tmdb": 1799687,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Daniel Willis",
+                            "ids": {
+                                "trakt": 1335587,
+                                "slug": "daniel-willis-fcd8684a-4b84-4639-b2a5-8054b40d403f",
+                                "imdb": null,
+                                "tmdb": 2174115,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Anna Mastro",
+                            "ids": {
+                                "trakt": 47449,
+                                "slug": "anna-mastro",
+                                "imdb": "nm1457361",
+                                "tmdb": 62773,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 47,
+                        "person": {
+                            "name": "Alexi Hawley",
+                            "ids": {
+                                "trakt": 52713,
+                                "slug": "alexi-hawley",
+                                "imdb": "nm1149075",
+                                "tmdb": 67855,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.02105,
+            "votes": 1473,
+            "distribution": {
+                "1": 30,
+                "2": 13,
+                "3": 8,
+                "4": 16,
+                "5": 32,
+                "6": 88,
+                "7": 265,
+                "8": 424,
+                "9": 234,
+                "10": 363
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Sherlock",
+                "year": 2010,
+                "ids": {
+                    "trakt": 19792,
+                    "slug": "sherlock",
+                    "tvdb": 176941,
+                    "imdb": "tt1475582",
+                    "tmdb": 19885,
+                    "tvrage": 23433
+                }
+            },
+            {
+                "title": "Dexter",
+                "year": 2006,
+                "ids": {
+                    "trakt": 1396,
+                    "slug": "dexter",
+                    "tvdb": 79349,
+                    "imdb": "tt0773262",
+                    "tmdb": 1405,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Arrow",
+                "year": 2012,
+                "ids": {
+                    "trakt": 1403,
+                    "slug": "arrow",
+                    "tvdb": 257655,
+                    "imdb": "tt2193021",
+                    "tmdb": 1412,
+                    "tvrage": 30715
+                }
+            },
+            {
+                "title": "Homeland",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1398,
+                    "slug": "homeland",
+                    "tvdb": 247897,
+                    "imdb": "tt1796960",
+                    "tmdb": 1407,
+                    "tvrage": 27811
+                }
+            },
+            {
+                "title": "Mr. Robot",
+                "year": 2015,
+                "ids": {
+                    "trakt": 93720,
+                    "slug": "mr-robot",
+                    "tvdb": 289590,
+                    "imdb": "tt4158110",
+                    "tmdb": 62560,
+                    "tvrage": 42422
+                }
+            },
+            {
+                "title": "Prison Break",
+                "year": 2005,
+                "ids": {
+                    "trakt": 2274,
+                    "slug": "prison-break",
+                    "tvdb": 360115,
+                    "imdb": "tt0455275",
+                    "tmdb": 2288,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Marvel's Daredevil",
+                "year": 2015,
+                "ids": {
+                    "trakt": 77938,
+                    "slug": "marvel-s-daredevil",
+                    "tvdb": 281662,
+                    "imdb": "tt3322312",
+                    "tmdb": 61889,
+                    "tvrage": 38796
+                }
+            },
+            {
+                "title": "The Blacklist",
+                "year": 2013,
+                "ids": {
+                    "trakt": 46676,
+                    "slug": "the-blacklist",
+                    "tvdb": 266189,
+                    "imdb": "tt2741602",
+                    "tmdb": 46952,
+                    "tvrage": 35048
+                }
+            },
+            {
+                "title": "Person of Interest",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1402,
+                    "slug": "person-of-interest",
+                    "tvdb": 248742,
+                    "imdb": "tt1839578",
+                    "tmdb": 1411,
+                    "tvrage": 28376
+                }
+            },
+            {
+                "title": "Sons of Anarchy",
+                "year": 2008,
+                "ids": {
+                    "trakt": 1400,
+                    "slug": "sons-of-anarchy",
+                    "tvdb": 82696,
+                    "imdb": "tt1124373",
+                    "tmdb": 1409,
+                    "tvrage": 18174
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 233925,
+            "plays": 3176318,
+            "collectors": 123252,
+            "collected_episodes": 3044683,
+            "comments": 18,
+            "lists": 17971,
+            "votes": 1473,
+            "recommended": 101
+        },
+        "watching": 2
+    },
+    "title": "The Rookie",
+    "videoType": "show"
+}

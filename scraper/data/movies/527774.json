@@ -12,13 +12,70 @@
     "original_language": "en",
     "original_title": "Raya and the Last Dragon",
     "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
-    "popularity": 2934.407,
+    "popularity": 3283.788,
     "poster_path": "/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
     "release_date": "2021-03-03",
     "title": "Raya and the Last Dragon",
     "video": false,
     "vote_average": 8.4,
-    "vote_count": 1654,
+    "vote_count": 1703,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "https://movies.disney.com/raya-and-the-last-dragon",
+    "imdb_id": "tt5109280",
+    "production_companies": [
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6125,
+            "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+            "name": "Walt Disney Animation Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 56482606,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A quest to save her world.",
     "trakt": {
         "base": {
             "title": "Raya and the Last Dragon",
@@ -2343,19 +2400,19 @@
             }
         },
         "ratings": {
-            "rating": 7.93566,
-            "votes": 2922,
+            "rating": 7.93523,
+            "votes": 2949,
             "distribution": {
                 "1": 15,
                 "2": 11,
                 "3": 8,
                 "4": 33,
-                "5": 65,
-                "6": 271,
-                "7": 630,
-                "8": 871,
-                "9": 498,
-                "10": 513
+                "5": 67,
+                "6": 274,
+                "7": 639,
+                "8": 880,
+                "9": 501,
+                "10": 520
             }
         },
         "relatedMovies": [
@@ -2461,14 +2518,16 @@
             }
         ],
         "stats": {
-            "watchers": 55068,
-            "plays": 73424,
-            "collectors": 14901,
+            "watchers": 56136,
+            "plays": 74848,
+            "collectors": 15328,
             "comments": 31,
-            "lists": 9375,
-            "votes": 2922,
-            "recommended": 99
+            "lists": 9507,
+            "votes": 2950,
+            "recommended": 102
         },
-        "watching": 36
-    }
+        "watching": 24
+    },
+    "name": "Raya and the Last Dragon",
+    "videoType": "movie"
 }

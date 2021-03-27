@@ -1,0 +1,2105 @@
+{
+    "backdrop_path": "/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg",
+    "first_air_date": "2017-09-25",
+    "genre_ids": [
+        18
+    ],
+    "id": 71712,
+    "name": "The Good Doctor",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Good Doctor",
+    "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+    "popularity": 1003.819,
+    "poster_path": "/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+    "vote_average": 8.6,
+    "vote_count": 7210,
+    "created_by": [
+        {
+            "id": 169061,
+            "credit_id": "5918e7e4925141583c04b400",
+            "name": "David Shore",
+            "gender": 2,
+            "profile_path": "/yUwAL9wOJoS9caz9GusyHsrad8J.jpg"
+        }
+    ],
+    "episode_run_time": [
+        43
+    ],
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://abc.go.com/shows/the-good-doctor",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-22",
+    "last_episode_to_air": {
+        "air_date": "2021-03-22",
+        "episode_number": 12,
+        "id": 2670403,
+        "name": "Teeny Blue Eyes",
+        "overview": "When a renowned surgeon comes to St. Bonaventure for treatment, the team’s enthusiasm is quickly overshadowed by the doctor’s behavior. After studying his case, Dr. Shaun Murphy sees a pattern he recognizes. Meanwhile, Shaun and Lea are forced to make a life-changing decision that will alter the course of their relationship.",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": "/k8CAFRFqOwYjMbzIivkY97R2Jft.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-03-29",
+        "episode_number": 13,
+        "id": 2670404,
+        "name": "Spilled Milk",
+        "overview": "Claire is blindsided when her absentee father shows up at her door. Meanwhile, Shaun feels disconnected from Lea, causing tension in their relationship.",
+        "production_code": "",
+        "season_number": 4,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "ABC",
+            "id": 2,
+            "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 69,
+    "number_of_seasons": 4,
+    "production_companies": [
+        {
+            "id": 19366,
+            "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+            "name": "ABC Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 90375,
+            "logo_path": null,
+            "name": "3AD",
+            "origin_country": "US"
+        },
+        {
+            "id": 11073,
+            "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+            "name": "Sony Pictures Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2017-09-25",
+            "episode_count": 18,
+            "id": 88380,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/hiNyjUSTFrbMv3Sc0CxNW2o39az.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2018-09-24",
+            "episode_count": 18,
+            "id": 107199,
+            "name": "Season 2",
+            "overview": "Dr. Shaun Murphy’s world has begun to expand as he continues to work harder than he ever has before, navigating his new environment and relationships to prove to his colleagues at the prestigious St. Bonaventure Hospital’s surgical unit that his extraordinary medical gifts will save lives.",
+            "poster_path": "/sIq4SFloM0JSeRNAQVqb5g5zAng.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2019-09-23",
+            "episode_count": 20,
+            "id": 127097,
+            "name": "Season 3",
+            "overview": "Dr. Shaun Murphy continues to use his extraordinary medical gifts at St. Bonaventure Hospital’s surgical unit. As his friendships deepen, Shaun tackles the world of dating for the first time and continues to work harder than he ever has before.",
+            "poster_path": "/8QFssOwaWZ3eB60cGwDpfrZBscv.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2020-11-02",
+            "episode_count": 13,
+            "id": 163383,
+            "name": "Season 4",
+            "overview": "Dr. Shaun Murphy continues to use his extraordinary medical gifts at St. Bonaventure Hospital’s surgical unit. As his romantic relationship with Lea deepens, he will also face new responsibilities as a fourth-year resident when he is put in charge of supervising a new set of residents that will test him in ways he cannot predict. Meanwhile, the team must deal with the uncertainty and pressure that the COVID-19 pandemic brings now that it has hit their hospital.",
+            "poster_path": "/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+            "season_number": 4
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "His mind is a mystery, his methods are a miracle.",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "妙手仁醫",
+                "country": "hk"
+            },
+            {
+                "title": "კარგი ექიმი",
+                "country": "ge"
+            },
+            {
+                "title": "굿 닥터",
+                "country": "kr"
+            },
+            {
+                "title": "Хороший доктор",
+                "country": "ru"
+            },
+            {
+                "title": "The Good Doctor: O Bom Doutor",
+                "country": "br"
+            },
+            {
+                "title": "Le Bon Docteur",
+                "country": "ca"
+            },
+            {
+                "title": "Doktor Murphy",
+                "country": "hu"
+            },
+            {
+                "title": "Dobrý doktor",
+                "country": "cz"
+            }
+        ],
+        "translations": [
+            {
+                "title": null,
+                "overview": "جراح شاب مصاب بمرض التوحد ومتلازمة سافانت يعمل في وحدة لجراحات الأطفال في مستشفى مرموق. السؤال الذي سينتشر : هل هذا الشخص الذي لا يمتلك القدرة على التواصل مع الآخرين سيستطيع إنقاذهم حقًا؟",
+                "language": "ar"
+            },
+            {
+                "title": "Добрият доктор",
+                "overview": "Млад хирург с аутизъм и синдром на саванта в хирургически екип на престижна болница. Изниква въпросът: може ли човек, който не може да понася останалите, да спасява други хора?",
+                "language": "bg"
+            },
+            {
+                "title": "The Good Doctor",
+                "overview": "Šon Marfi (Freddie Highmore) je mladi hirurg s autizmom i savantizmom i pridružio se osoblju prestižne bolnice. Zbog nedostatka empatije ne može da se poveže s okolinom koja ga okružuje ali zato poseduje neverovatan talenat za lečenje ljudi i svojim sposobnostima iznenadiće svoje skeptične kolege.",
+                "language": "bs"
+            },
+            {
+                "title": "Dobrý doktor",
+                "overview": "Mladý chirurg se Savantovým syndromem je zařazen do chirurgické jednotky prestižní nemocnice. Vyvstane otázka: může osoba, která nemá schopnost spojit se s lidmi, skutečně zachránit život?",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "Kan en person, der mangler evnen til at relatere til andre mennesker redde liv? En ung kirurg, der har svært ved at kommunikere, beroliger sine patienter med sin nærmest overnaturlige viden.",
+                "language": "da"
+            },
+            {
+                "title": null,
+                "overview": "Im Fokus der amerikanischen Krankenhausserie steht der junge Chirurg Shaun Murphy am angesehenen San Jose St. Bonaventure Hospital. Murphy unterscheidet sich nicht nur aufgrund seines Alters von seinen Kollegen – er ist ein Autist, der aufgrund des Savant-Syndroms (auch Inselbegabung genannt) als Genie gilt.",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Ένας νεαρός χειρουργός με αυτισμό και το σύνδρομο Savant προσλαμβάνεται στην παιδιατρική χειρουργική μονάδα ενός αναγνωρισμένου νοσοκομείου. Θα προκύψει το ερώτημα: μπορεί ένα άτομο που δεν έχει τη δυνατότητα να σχετίζεται με ανθρώπους να σώσει πραγματικά τη ζωή τους;",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+                "language": "en"
+            },
+            {
+                "title": "El Buen Doctor",
+                "overview": "La serie sigue a Shaun Murphy, un joven cirujano con autismo y síndrome del sabio de una pequeña ciudad, donde tuvo una infancia problemática. Él se traslada para unirse al prestigioso departamento de cirugía en San José St. Bonaventure Hospital.",
+                "language": "es"
+            },
+            {
+                "title": null,
+                "overview": "Nuori lääkäri, jolla on vaikeuksia kommunikaation kanssa, mutta on siitä huolimatta kiistattoman lahjakas, muuttaa pienkaupungista suureen arvostettuun sairaalaan.",
+                "language": "fi"
+            },
+            {
+                "title": "Le bon docteur",
+                "overview": "Atteint du syndrome d'Asperger ainsi que de celui du savant, le Dr Shaun Murphy rejoint un prestigieux hôpital. Livré à lui-même, il éprouve des difficultés à socialiser. Mais en mettant son incroyable don au service de ses patients, ce jeune prodige divise le personnel médical. Saura-t-il être à la hauteur de sa mission ?",
+                "language": "fr"
+            },
+            {
+                "title": "הרופא הטוב",
+                "overview": "דוקטור שון מרפי, מנתח צעיר ואוטיסט עם תסמונת סוואנט, עוזב את חיי הכפר השלווים ומצטרף למחלקה הכירורגית בבית חולים יוקרתי. הוא בודד בעולם, ללא יכולת ליצור קשרים אישיים עם הסובבים אותו, והיחיד שתומך בו – דוקטור ארון גלסמן – נאבק בספקנות ובדעות הקדומות של חבר המנהלים בבית החולים כדי לצרף אותו לצוות. שון צריך לעבוד קשה יותר מאי פעם כדי לשרוד בסביבתו החדשה ובמערכות היחסים עם הקולגות שלו, ולהוכיח להם שהיכולת יוצאת הדופן שלו תציל חיים.",
+                "language": "he"
+            },
+            {
+                "title": "Doktor Murphy",
+                "overview": "A sorozat főszereplője dr. Shaun Murphy, egy fiatal és kivételesen tehetséges sebész, aki teljesen felkavarja az Egyesült Államok egyik legrangosabb kórházának életét. A kollégái nehezen tudnak mit kezdeni Murphyvel, aki autizmussal és Savant-szindrómával küzd. A munkatársaival képtelen személyes kapcsolatot kialakítani, miközben rendkívüli megoldásaival folyamatosan megkérdőjelezi kollégái tapasztalatát. Murphy nemcsak, hogy megmenti azokat, akikről már lemondtak, hanem a kórház többi dolgozójának szakmai fejlődésében is felbecsülhetetlen segítségnek bizonyul.",
+                "language": "hu"
+            },
+            {
+                "title": "The Good Doctor",
+                "overview": "Le vicende di Shaun Murphy, un giovane chirurgo autistico con la Sindrome del savant, proveniente da una cittadina nel Wyoming, Casper, dove ha vissuto un'infanzia travagliata.",
+                "language": "it"
+            },
+            {
+                "title": "グッド・ドクター 名医の条件",
+                "overview": "",
+                "language": "ja"
+            },
+            {
+                "title": "კარგი ექიმი",
+                "overview": "ავადმყოფი ექიმი",
+                "language": "ka"
+            },
+            {
+                "title": "굿 닥터",
+                "overview": "자폐증을 가진 젊은 외과 의사가 명문 병원에 들어가게된다. 이에 사람들과 소통하지 못하는 의사가 사람의 목숨을 구할 수 있을 까 하는 의문이 제기되는데...",
+                "language": "ko"
+            },
+            {
+                "title": "Geras daktaras",
+                "overview": "",
+                "language": "lt"
+            },
+            {
+                "title": "Labais ārsts",
+                "overview": "",
+                "language": "lv"
+            },
+            {
+                "title": null,
+                "overview": "Een jonge chirurg met autisme en het  Savantsyndroom, Shaun Murphy, verhuist van een klein plaatsje in de Verenigde Staten om te gaan werken in het prestigieuze San Jose St. Bonaventure Hospital. Binnen het ziekenhuis ontstaat de vraag: kan een persoon, die niet de eigenschappen heeft om zich in te leven in andere mensen, wel levens redden? Aaron Glassman, de directeur van het ziekenhuis, probeert zijn collega's ervan te overtuigen dat ze Shaun aan moeten nemen. Shaun gebruikt zijn indrukwekkende medische vaardigheden om levens te redden en zijn sceptische collega's uit te dagen.",
+                "language": "nl"
+            },
+            {
+                "title": "The Good Doctor",
+                "overview": "En ung autistisk kirurg med ekstraordinære egenskaper rekrutteres til kirurgisk barneavdeling ved et prestisjefylt sykehus. Men problemstillingen kommer for dage: Kan en person uten evne til å relatere til andre mennesker redde liv?",
+                "language": "no"
+            },
+            {
+                "title": null,
+                "overview": "Shaun Murphy (Freddie Highmore) jest ambitnym lekarzem, cierpiącym na autyzm i zespół Sawanta, który pragnie rozpocząć pracę w szpitalu św. Bonawentury w San Jose. Sceptyczne nastawienie zarządu uniemożliwia mu jednak rozpoczęcie tam współpracy. Wkrótce ma miejsce poważny wypadek, w trakcie którego młody doktor ratuje życie poszkodowanym, a następnie otrzymuje posadę w lokalnym szpitalu. Charyzmatyczny chirurg próbuje udowodnić personelowi, że jego przypadłość nie stanowi przeszkody w ratowaniu innym życia.",
+                "language": "pl"
+            },
+            {
+                "title": "The Good Doctor: O Bom Doutor",
+                "overview": "Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.",
+                "language": "pt"
+            },
+            {
+                "title": "Хороший доктор",
+                "overview": "История молодого талантливого врача с синдромом саванта, обладающего уникальными способностями — невероятной памятью и фантастической чувствительностью к проблемам, вспыхивающим внутри человеческого организма. Герой становится блестящим хирургом, несмотря на то, в личностном плане его развитие соответствует развитию десятилетнего ребёнка…",
+                "language": "ru"
+            },
+            {
+                "title": "Dobrý doktor",
+                "overview": "Dr. Shaun Murphy je brilantný mladý chirurg. Je však tiež autista a trpí Savant syndrómom - ojedinelým nastavením mozgu, ktoré posúva genialitu ešte kúsok ďalej. Predsudkov sa dočká dokonca aj od nových kolegov - lekárov, ktorí neveria tomu, že Shaun bude schopný dostatočnej empatie a interakcie s pacientmi. Môže človek, ktorý nemá schopnosť stotožniť sa s ľuďmi, prispieť k záchrane ich životov? Shaun využíva svoje mimoriadne lekárske nadanie, aby zachraňoval svojich pacientov napriek skepse svojich kolegov. Hneď v prvý deň dokáže, že je naozaj výnimočný a zachráni prvý život...",
+                "language": "sk"
+            },
+            {
+                "title": "Добри доктор",
+                "overview": "Млади хирург са Савант синдромом је запошљен на хирушком одељењу угледне болнице. Поставља се питање: Може ли особа која се не може поистоветити са људима, заправо да им спасе животе?",
+                "language": "sr"
+            },
+            {
+                "title": null,
+                "overview": "Kan en person som saknar förmågan att relatera till människor faktiskt rädda liv? En ung kirurg med svårigheter att kommunicera läker oron hos sina patienter genom sin smått övernaturliga kunskap.",
+                "language": "sv"
+            },
+            {
+                "title": "คุณหมอฟ้าประทาน",
+                "overview": "ฌอน เมอร์ฟี นายแพทย์หนุ่มออทิสติกที่เริ่มต้นการทำงานเป็นแพทย์ประจำบ้านในโรงพยาบาลด้วยความช่วยเหลือของผู้อำนวยการที่มีความผูกพันกับเขามาตั้งแต่เด็ก นั่นก็เพื่อพิสูจน์ให้คนได้เห็นว่าอาการออทิสติกของเขาไม่ใช่เรื่องน่าปฏิเสธ กลับเป็นข้อดีที่ทำให้การวินิจฉัยโรคและการรักษาต่างๆ เป็นไปในแบบที่คนธรรมดาคาดไม่ถึง",
+                "language": "th"
+            },
+            {
+                "title": "Mucize Doktor",
+                "overview": "Otistik ve Savant Sendromlu Shaun Murphy (Highmore) isimli genç bir cerrah, prestijli bir hastanenin çocuk cerrahisi birimine yerleştirilir. Şu sorunun cevabı aranır: İnsanlarla iletişim kurma yeteneğine sahip olmayan bir kişi insanların hayatlarını kurtarabilir mi? Yalnız ve çevresindeki kişilerle iletişim kuramayan Shaun, hastalarının hayatlarını kurtarmak ve meslektaşlarının şüphelerini yok etmek için olağanüstü yeteneklerini kullanır.",
+                "language": "tr"
+            },
+            {
+                "title": "Хороший лікар",
+                "overview": "Історія молодого талановитого лікаря з синдромом саванта, що володіє унікальними здібностями - неймовірною пам'яттю і фантастичною чутливістю до проблем, що спалахує всередині людського організму. Герой стає блискучим хірургом, незважаючи на те, що в особистісному плані його розвиток відповідає розвитку десятирічного дитини.",
+                "language": "uk"
+            },
+            {
+                "title": "Bác Sĩ Thiên Tài",
+                "overview": "Một bác sĩ trẻ mắc hội chứng bác học được nhận vào khoa phẫu thuật tim của một bệnh viện danh tiếng. Liệu một người bị tự kỷ có thể cứu người? Phim dựa trên series cùng tên của Hàn Quốc.",
+                "language": "vi"
+            },
+            {
+                "title": "妙手仁醫",
+                "overview": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Shaun Murphy",
+                    "characters": [
+                        "Shaun Murphy"
+                    ],
+                    "episode_count": 68,
+                    "person": {
+                        "name": "Freddie Highmore",
+                        "ids": {
+                            "trakt": 411398,
+                            "slug": "freddie-highmore",
+                            "imdb": "nm0383603",
+                            "tmdb": 1281,
+                            "tvrage": 59732
+                        }
+                    }
+                },
+                {
+                    "character": "Claire Browne",
+                    "characters": [
+                        "Claire Browne"
+                    ],
+                    "episode_count": 68,
+                    "person": {
+                        "name": "Antonia Thomas",
+                        "ids": {
+                            "trakt": 458992,
+                            "slug": "antonia-thomas-4775b42d-e67e-450b-bb9d-8b62cda1eee3",
+                            "imdb": "nm3687902",
+                            "tmdb": 221981,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Marcus Andrews",
+                    "characters": [
+                        "Marcus Andrews"
+                    ],
+                    "episode_count": 68,
+                    "person": {
+                        "name": "Hill Harper",
+                        "ids": {
+                            "trakt": 423598,
+                            "slug": "hill-harper",
+                            "imdb": "nm0004991",
+                            "tmdb": 57686,
+                            "tvrage": 27884
+                        }
+                    }
+                },
+                {
+                    "character": "Aaron Glassman",
+                    "characters": [
+                        "Aaron Glassman"
+                    ],
+                    "episode_count": 68,
+                    "person": {
+                        "name": "Richard Schiff",
+                        "ids": {
+                            "trakt": 14128,
+                            "slug": "richard-schiff",
+                            "imdb": "nm0771493",
+                            "tmdb": 31028,
+                            "tvrage": 10127
+                        }
+                    }
+                },
+                {
+                    "character": "Neil Melendez",
+                    "characters": [
+                        "Neil Melendez"
+                    ],
+                    "episode_count": 56,
+                    "person": {
+                        "name": "Nicholas Gonzalez",
+                        "ids": {
+                            "trakt": 424620,
+                            "slug": "nicholas-gonzalez",
+                            "imdb": "nm0327764",
+                            "tmdb": 61852,
+                            "tvrage": 36665
+                        }
+                    }
+                },
+                {
+                    "character": "Morgan Reznick",
+                    "characters": [
+                        "Morgan Reznick"
+                    ],
+                    "episode_count": 50,
+                    "person": {
+                        "name": "Fiona Gubelmann",
+                        "ids": {
+                            "trakt": 397172,
+                            "slug": "fiona-gubelmann",
+                            "imdb": "nm1463709",
+                            "tmdb": 1233749,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Alex Park",
+                    "characters": [
+                        "Alex Park"
+                    ],
+                    "episode_count": 50,
+                    "person": {
+                        "name": "Will Yun Lee",
+                        "ids": {
+                            "trakt": 424515,
+                            "slug": "will-yun-lee",
+                            "imdb": "nm0498449",
+                            "tmdb": 10884,
+                            "tvrage": 24819
+                        }
+                    }
+                },
+                {
+                    "character": "Audrey Lim",
+                    "characters": [
+                        "Audrey Lim"
+                    ],
+                    "episode_count": 50,
+                    "person": {
+                        "name": "Christina Chang",
+                        "ids": {
+                            "trakt": 11125,
+                            "slug": "christina-chang",
+                            "imdb": "nm0151668",
+                            "tmdb": 1215689,
+                            "tvrage": 27936
+                        }
+                    }
+                },
+                {
+                    "character": "Lea Dilallo",
+                    "characters": [
+                        "Lea Dilallo"
+                    ],
+                    "episode_count": 50,
+                    "person": {
+                        "name": "Paige Spara",
+                        "ids": {
+                            "trakt": 536205,
+                            "slug": "paige-spara",
+                            "imdb": "nm4497454",
+                            "tmdb": 1454610,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Allegra Aoki",
+                    "characters": [
+                        "Allegra Aoki"
+                    ],
+                    "episode_count": 36,
+                    "person": {
+                        "name": "Tamlyn Tomita",
+                        "ids": {
+                            "trakt": 95,
+                            "slug": "tamlyn-tomita",
+                            "imdb": "nm0000674",
+                            "tmdb": 3134,
+                            "tvrage": 2098
+                        }
+                    }
+                },
+                {
+                    "character": "Carly Lever",
+                    "characters": [
+                        "Carly Lever"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Jasika Nicole",
+                        "ids": {
+                            "trakt": 439224,
+                            "slug": "jasika-nicole",
+                            "imdb": "nm1896248",
+                            "tmdb": 1222945,
+                            "tvrage": 211322
+                        }
+                    }
+                },
+                {
+                    "character": "Jared Kalu",
+                    "characters": [
+                        "Jared Kalu"
+                    ],
+                    "episode_count": 18,
+                    "person": {
+                        "name": "Chuku Modu",
+                        "ids": {
+                            "trakt": 617604,
+                            "slug": "chuku-modu",
+                            "imdb": "nm6729880",
+                            "tmdb": 1610710,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Jessica Preston",
+                    "characters": [
+                        "Jessica Preston"
+                    ],
+                    "episode_count": 18,
+                    "person": {
+                        "name": "Beau Garrett",
+                        "ids": {
+                            "trakt": 416420,
+                            "slug": "beau-garrett",
+                            "imdb": "nm1683768",
+                            "tmdb": 20403,
+                            "tvrage": 58641
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Executive Producer, Producer",
+                        "jobs": [
+                            "Executive Producer",
+                            "Producer"
+                        ],
+                        "episode_count": 38,
+                        "person": {
+                            "name": "David Shore",
+                            "ids": {
+                                "trakt": 434876,
+                                "slug": "david-shore",
+                                "imdb": "nm0794914",
+                                "tmdb": 169061,
+                                "tvrage": 17176
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer, Executive Producer",
+                        "jobs": [
+                            "Producer",
+                            "Executive Producer"
+                        ],
+                        "episode_count": 38,
+                        "person": {
+                            "name": "Sebastian Lee",
+                            "ids": {
+                                "trakt": 815851,
+                                "slug": "sebastian-lee",
+                                "imdb": "nm2876845",
+                                "tmdb": 1767370,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer, Executive Producer",
+                        "jobs": [
+                            "Producer",
+                            "Executive Producer"
+                        ],
+                        "episode_count": 38,
+                        "person": {
+                            "name": "David Kim",
+                            "ids": {
+                                "trakt": 815850,
+                                "slug": "david-kim-a05128cf-c3c9-4cfe-86cc-b42bf4f6b07e",
+                                "imdb": "nm7927576",
+                                "tmdb": 1767367,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer, Executive Producer",
+                        "jobs": [
+                            "Producer",
+                            "Executive Producer"
+                        ],
+                        "episode_count": 38,
+                        "person": {
+                            "name": "Daniel Dae Kim",
+                            "ids": {
+                                "trakt": 14348,
+                                "slug": "daniel-dae-kim",
+                                "imdb": "nm0196654",
+                                "tmdb": 18307,
+                                "tvrage": 10109
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Erin Gunn",
+                            "ids": {
+                                "trakt": 1597728,
+                                "slug": "erin-gunn",
+                                "imdb": null,
+                                "tmdb": 2417650,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 18,
+                        "person": {
+                            "name": "Lindsay Goffman",
+                            "ids": {
+                                "trakt": 884403,
+                                "slug": "lindsay-goffman",
+                                "imdb": null,
+                                "tmdb": 1816911,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Original Story",
+                        "jobs": [
+                            "Original Story"
+                        ],
+                        "episode_count": 68,
+                        "person": {
+                            "name": "Park Jae-beom",
+                            "ids": {
+                                "trakt": 409114,
+                                "slug": "park-jae-beom-409114",
+                                "imdb": "nm6728876",
+                                "tmdb": 1255712,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 11,
+                        "person": {
+                            "name": "David Shore",
+                            "ids": {
+                                "trakt": 434876,
+                                "slug": "david-shore",
+                                "imdb": "nm0794914",
+                                "tmdb": 169061,
+                                "tvrage": 17176
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 11,
+                        "person": {
+                            "name": "Thomas L. Moran",
+                            "ids": {
+                                "trakt": 399347,
+                                "slug": "thomas-l-moran",
+                                "imdb": "nm0602981",
+                                "tmdb": 1223966,
+                                "tvrage": 31719
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 11,
+                        "person": {
+                            "name": "David Hoselton",
+                            "ids": {
+                                "trakt": 36334,
+                                "slug": "david-hoselton",
+                                "imdb": "nm0395924",
+                                "tmdb": 52873,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Liz Friedman",
+                            "ids": {
+                                "trakt": 436909,
+                                "slug": "liz-friedman",
+                                "imdb": "nm0295286",
+                                "tmdb": 1218783,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "David Renaud",
+                            "ids": {
+                                "trakt": 1619135,
+                                "slug": "david-renaud-ae1312df-6775-447d-85ed-126bbd64a162",
+                                "imdb": "nm3634351",
+                                "tmdb": 2430218,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Mark Rozeman",
+                            "ids": {
+                                "trakt": 1392563,
+                                "slug": "mark-rozeman",
+                                "imdb": "nm9319070",
+                                "tmdb": 2203995,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "William L. Rotko",
+                            "ids": {
+                                "trakt": 26980,
+                                "slug": "william-l-rotko-26980",
+                                "imdb": "nm0745360",
+                                "tmdb": 35175,
+                                "tvrage": 224394
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Simran Baidwan",
+                            "ids": {
+                                "trakt": 775981,
+                                "slug": "simran-baidwan",
+                                "imdb": null,
+                                "tmdb": 1731745,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Karen Struck",
+                            "ids": {
+                                "trakt": 137059,
+                                "slug": "karen-struck",
+                                "imdb": "nm2799425",
+                                "tmdb": 1003028,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Lloyd Gilyard, Jr.",
+                            "ids": {
+                                "trakt": 1093248,
+                                "slug": "lloyd-gilyard-jr",
+                                "imdb": null,
+                                "tmdb": 1996947,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Sal Calleros",
+                            "ids": {
+                                "trakt": 1230927,
+                                "slug": "sal-calleros",
+                                "imdb": null,
+                                "tmdb": 2086621,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Adam Scott Weissman",
+                            "ids": {
+                                "trakt": 290029,
+                                "slug": "adam-scott-weissman",
+                                "imdb": "nm4784537",
+                                "tmdb": 1205470,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Tracy Taylor",
+                            "ids": {
+                                "trakt": 1597707,
+                                "slug": "tracy-taylor",
+                                "imdb": null,
+                                "tmdb": 2417654,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Doris Egan",
+                            "ids": {
+                                "trakt": 92689,
+                                "slug": "doris-egan",
+                                "imdb": "nm0250668",
+                                "tmdb": 169466,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jessica Grasl",
+                            "ids": {
+                                "trakt": 930025,
+                                "slug": "jessica-grasl",
+                                "imdb": "nm3131414",
+                                "tmdb": 1372075,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Johanna Lee",
+                            "ids": {
+                                "trakt": 462140,
+                                "slug": "johanna-lee",
+                                "imdb": "nm0497556",
+                                "tmdb": 969268,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Brian Shin",
+                            "ids": {
+                                "trakt": 1595462,
+                                "slug": "brian-shin",
+                                "imdb": "nm4679741",
+                                "tmdb": 2411761,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Peter Noah",
+                            "ids": {
+                                "trakt": 398536,
+                                "slug": "peter-noah",
+                                "imdb": "nm0633425",
+                                "tmdb": 1217138,
+                                "tvrage": 8889
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Peter Blake",
+                            "ids": {
+                                "trakt": 399346,
+                                "slug": "peter-blake-5cd380a9-d696-46d4-84cc-b862c5b2e6b3",
+                                "imdb": "nm0086694",
+                                "tmdb": 1223964,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Freddie Highmore",
+                            "ids": {
+                                "trakt": 411398,
+                                "slug": "freddie-highmore",
+                                "imdb": "nm0383603",
+                                "tmdb": 1281,
+                                "tvrage": 59732
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Debbie Ezer",
+                            "ids": {
+                                "trakt": 788608,
+                                "slug": "debbie-ezer",
+                                "imdb": null,
+                                "tmdb": 1743197,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Patricia Carr",
+                            "ids": {
+                                "trakt": 718853,
+                                "slug": "patricia-carr-e79cb6f7-fcd6-472a-a07b-6c999b726fec",
+                                "imdb": "nm2381405",
+                                "tmdb": 1486274,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Sam Chanse",
+                            "ids": {
+                                "trakt": 2145778,
+                                "slug": "sam-chanse",
+                                "imdb": "nm2675977",
+                                "tmdb": 2963122,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 15,
+                        "person": {
+                            "name": "Mike Listo",
+                            "ids": {
+                                "trakt": 400388,
+                                "slug": "mike-listo",
+                                "imdb": "nm0514278",
+                                "tmdb": 1213545,
+                                "tvrage": 23942
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Michael Patrick Jann",
+                            "ids": {
+                                "trakt": 424249,
+                                "slug": "michael-patrick-jann",
+                                "imdb": "nm0417794",
+                                "tmdb": 59412,
+                                "tvrage": 48144
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "David Straiton",
+                            "ids": {
+                                "trakt": 919683,
+                                "slug": "david-straiton",
+                                "imdb": "nm0833191",
+                                "tmdb": 1215383,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Allison Liddi-Brown",
+                            "ids": {
+                                "trakt": 432946,
+                                "slug": "allison-liddi-brown",
+                                "imdb": "nm0509183",
+                                "tmdb": 1213560,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Steven DePaul",
+                            "ids": {
+                                "trakt": 474820,
+                                "slug": "steven-depaul",
+                                "imdb": "nm0220049",
+                                "tmdb": 1214479,
+                                "tvrage": 27923
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Freddie Highmore",
+                            "ids": {
+                                "trakt": 411398,
+                                "slug": "freddie-highmore",
+                                "imdb": "nm0383603",
+                                "tmdb": 1281,
+                                "tvrage": 59732
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Seth Gordon",
+                            "ids": {
+                                "trakt": 424923,
+                                "slug": "seth-gordon",
+                                "imdb": "nm1164861",
+                                "tmdb": 71600,
+                                "tvrage": 308387
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Larry Teng",
+                            "ids": {
+                                "trakt": 556963,
+                                "slug": "larry-teng",
+                                "imdb": "nm1270350",
+                                "tmdb": 212394,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Nestor Carbonell",
+                            "ids": {
+                                "trakt": 411597,
+                                "slug": "nestor-carbonell",
+                                "imdb": "nm0004801",
+                                "tmdb": 21316,
+                                "tvrage": 3800
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Bill D'Elia",
+                            "ids": {
+                                "trakt": 247633,
+                                "slug": "bill-d-elia",
+                                "imdb": "nm0002704",
+                                "tmdb": 155007,
+                                "tvrage": 10291
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Steve Robin",
+                            "ids": {
+                                "trakt": 473591,
+                                "slug": "steve-robin",
+                                "imdb": "nm0732233",
+                                "tmdb": 1224091,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Tara Nicole Weyr",
+                            "ids": {
+                                "trakt": 621283,
+                                "slug": "tara-nicole-weyr",
+                                "imdb": "nm0923423",
+                                "tmdb": 1613214,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Marisol Adler",
+                            "ids": {
+                                "trakt": 333363,
+                                "slug": "marisol-adler-333363",
+                                "imdb": "nm1392007",
+                                "tmdb": 1191192,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Alrick Riley",
+                            "ids": {
+                                "trakt": 443545,
+                                "slug": "alrick-riley",
+                                "imdb": "nm0726975",
+                                "tmdb": 134696,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "David Shore",
+                            "ids": {
+                                "trakt": 434876,
+                                "slug": "david-shore",
+                                "imdb": "nm0794914",
+                                "tmdb": 169061,
+                                "tvrage": 17176
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Rebecca Moline",
+                            "ids": {
+                                "trakt": 600578,
+                                "slug": "rebecca-moline",
+                                "imdb": "nm0596867",
+                                "tmdb": 1495977,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Gary Hawes",
+                            "ids": {
+                                "trakt": 350983,
+                                "slug": "gary-hawes",
+                                "imdb": "nm1078929",
+                                "tmdb": 1090304,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Sarah Wayne Callies",
+                            "ids": {
+                                "trakt": 429633,
+                                "slug": "sarah-wayne-callies-50447df8-3917-4229-867a-cd60ce3f64d5",
+                                "imdb": "nm0915637",
+                                "tmdb": 86468,
+                                "tvrage": 37863
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Dahl",
+                            "ids": {
+                                "trakt": 416606,
+                                "slug": "john-dahl-1a79fdf7-1cbb-4b88-8d17-2464b2034df8",
+                                "imdb": "nm0001093",
+                                "tmdb": 21053,
+                                "tvrage": 137615
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Stephen DePaul",
+                            "ids": {
+                                "trakt": 992295,
+                                "slug": "stephen-depaul",
+                                "imdb": null,
+                                "tmdb": 1903209,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Bronwen Hughes",
+                            "ids": {
+                                "trakt": 14298,
+                                "slug": "bronwen-hughes",
+                                "imdb": "nm0400486",
+                                "tmdb": 18320,
+                                "tvrage": 87554
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Cherie Nowlan",
+                            "ids": {
+                                "trakt": 75099,
+                                "slug": "cherie-nowlan",
+                                "imdb": "nm0637458",
+                                "tmdb": 118471,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Regina King",
+                            "ids": {
+                                "trakt": 14846,
+                                "slug": "regina-king",
+                                "imdb": "nm0005093",
+                                "tmdb": 9788,
+                                "tvrage": 34470
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Sharat Raju",
+                            "ids": {
+                                "trakt": 949620,
+                                "slug": "sharat-raju",
+                                "imdb": "nm0961594",
+                                "tmdb": 1550011,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Joanna Kerns",
+                            "ids": {
+                                "trakt": 417553,
+                                "slug": "joanna-kerns",
+                                "imdb": "nm0005088",
+                                "tmdb": 87038,
+                                "tvrage": 9188
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Dawn Wilkinson",
+                            "ids": {
+                                "trakt": 840307,
+                                "slug": "dawn-wilkinson",
+                                "imdb": "nm0929360",
+                                "tmdb": 1774723,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "X. Dean Lim",
+                            "ids": {
+                                "trakt": 1644181,
+                                "slug": "x-dean-lim",
+                                "imdb": "nm1487328",
+                                "tmdb": 2475893,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Barbara Brown",
+                            "ids": {
+                                "trakt": 1025362,
+                                "slug": "barbara-brown-0f1916a5-7432-4519-9cbd-957b5430abb9",
+                                "imdb": null,
+                                "tmdb": 1934040,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lisa Demaine",
+                            "ids": {
+                                "trakt": 919816,
+                                "slug": "lisa-demaine",
+                                "imdb": "nm0132671",
+                                "tmdb": 1836317,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Vanessa Parise",
+                            "ids": {
+                                "trakt": 69966,
+                                "slug": "vanessa-parise",
+                                "imdb": "nm1060984",
+                                "tmdb": 566987,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Rachel Leiterman",
+                            "ids": {
+                                "trakt": 1437612,
+                                "slug": "rachel-leiterman",
+                                "imdb": null,
+                                "tmdb": 2256721,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Felipe Rodriguez",
+                            "ids": {
+                                "trakt": 694138,
+                                "slug": "felipe-rodriguez-03b03ca9-3131-4694-815b-d579c1305a03",
+                                "imdb": "nm2085189",
+                                "tmdb": 1669351,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "John S. Bartley",
+                            "ids": {
+                                "trakt": 41291,
+                                "slug": "john-s-bartley",
+                                "imdb": "nm0058933",
+                                "tmdb": 31175,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Eric Steelberg",
+                            "ids": {
+                                "trakt": 38028,
+                                "slug": "eric-steelberg",
+                                "imdb": "nm0824470",
+                                "tmdb": 52449,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Sandra Montiel",
+                            "ids": {
+                                "trakt": 1332915,
+                                "slug": "sandra-montiel",
+                                "imdb": null,
+                                "tmdb": 2172167,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Aaron Rottinghaus",
+                            "ids": {
+                                "trakt": 208476,
+                                "slug": "aaron-rottinghaus",
+                                "imdb": "nm1130529",
+                                "tmdb": 935140,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Joe D'Augustine",
+                            "ids": {
+                                "trakt": 4502,
+                                "slug": "joe-d-augustine",
+                                "imdb": "nm0195549",
+                                "tmdb": 5822,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Paul Fontaine",
+                            "ids": {
+                                "trakt": 1488284,
+                                "slug": "paul-fontaine",
+                                "imdb": null,
+                                "tmdb": 1513819,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Paul Wu",
+                            "ids": {
+                                "trakt": 404097,
+                                "slug": "paul-wu",
+                                "imdb": "nm0943153",
+                                "tmdb": 1224673,
+                                "tvrage": 70971
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Randy Lee",
+                            "ids": {
+                                "trakt": 445032,
+                                "slug": "randy-lee",
+                                "imdb": "nm0498055",
+                                "tmdb": 1235397,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jeff Sanca",
+                            "ids": {
+                                "trakt": 41278,
+                                "slug": "jeff-sanca",
+                                "imdb": "nm1173158",
+                                "tmdb": 113206,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Driver",
+                        "jobs": [
+                            "Stunt Driver"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Krista Bell",
+                            "ids": {
+                                "trakt": 44740,
+                                "slug": "krista-bell",
+                                "imdb": "nm2124892",
+                                "tmdb": 58911,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Charles Jarman",
+                            "ids": {
+                                "trakt": 385635,
+                                "slug": "charles-jarman",
+                                "imdb": "nm0418744",
+                                "tmdb": 1356646,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Gaston Morrison",
+                            "ids": {
+                                "trakt": 597947,
+                                "slug": "gaston-morrison",
+                                "imdb": "nm0397307",
+                                "tmdb": 1597842,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Cameron Hilts",
+                            "ids": {
+                                "trakt": 607460,
+                                "slug": "cameron-hilts",
+                                "imdb": "nm5789697",
+                                "tmdb": 1603473,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Heath Stevenson",
+                            "ids": {
+                                "trakt": 1227340,
+                                "slug": "heath-stevenson",
+                                "imdb": "nm0828948",
+                                "tmdb": 2082335,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Carson Sanca",
+                            "ids": {
+                                "trakt": 1617048,
+                                "slug": "carson-sanca",
+                                "imdb": "nm9307476",
+                                "tmdb": 2434761,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Alexandre Duong",
+                            "ids": {
+                                "trakt": 1404721,
+                                "slug": "alexandre-duong",
+                                "imdb": null,
+                                "tmdb": 2216082,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Carl Fortin",
+                            "ids": {
+                                "trakt": 1745037,
+                                "slug": "carl-fortin",
+                                "imdb": null,
+                                "tmdb": 2559245,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 68,
+                        "person": {
+                            "name": "David Shore",
+                            "ids": {
+                                "trakt": 434876,
+                                "slug": "david-shore",
+                                "imdb": "nm0794914",
+                                "tmdb": 169061,
+                                "tvrage": 17176
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.13325,
+            "votes": 4120,
+            "distribution": {
+                "1": 124,
+                "2": 19,
+                "3": 24,
+                "4": 40,
+                "5": 96,
+                "6": 236,
+                "7": 608,
+                "8": 1016,
+                "9": 735,
+                "10": 1222
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Game of Thrones",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1390,
+                    "slug": "game-of-thrones",
+                    "tvdb": 121361,
+                    "imdb": "tt0944947",
+                    "tmdb": 1399,
+                    "tvrage": 24493
+                }
+            },
+            {
+                "title": "Breaking Bad",
+                "year": 2008,
+                "ids": {
+                    "trakt": 1388,
+                    "slug": "breaking-bad",
+                    "tvdb": 81189,
+                    "imdb": "tt0903747",
+                    "tmdb": 1396,
+                    "tvrage": 18164
+                }
+            },
+            {
+                "title": "The Walking Dead",
+                "year": 2010,
+                "ids": {
+                    "trakt": 1393,
+                    "slug": "the-walking-dead",
+                    "tvdb": 153021,
+                    "imdb": "tt1520211",
+                    "tmdb": 1402,
+                    "tvrage": 25056
+                }
+            },
+            {
+                "title": "Sherlock",
+                "year": 2010,
+                "ids": {
+                    "trakt": 19792,
+                    "slug": "sherlock",
+                    "tvdb": 176941,
+                    "imdb": "tt1475582",
+                    "tmdb": 19885,
+                    "tvrage": 23433
+                }
+            },
+            {
+                "title": "Dexter",
+                "year": 2006,
+                "ids": {
+                    "trakt": 1396,
+                    "slug": "dexter",
+                    "tvdb": 79349,
+                    "imdb": "tt0773262",
+                    "tmdb": 1405,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Friends",
+                "year": 1994,
+                "ids": {
+                    "trakt": 1657,
+                    "slug": "friends",
+                    "tvdb": 79168,
+                    "imdb": "tt0108778",
+                    "tmdb": 1668,
+                    "tvrage": 3616
+                }
+            },
+            {
+                "title": "Stranger Things",
+                "year": 2016,
+                "ids": {
+                    "trakt": 104439,
+                    "slug": "stranger-things",
+                    "tvdb": 305288,
+                    "imdb": "tt4574334",
+                    "tmdb": 66732,
+                    "tvrage": 48493
+                }
+            },
+            {
+                "title": "Arrow",
+                "year": 2012,
+                "ids": {
+                    "trakt": 1403,
+                    "slug": "arrow",
+                    "tvdb": 257655,
+                    "imdb": "tt2193021",
+                    "tmdb": 1412,
+                    "tvrage": 30715
+                }
+            },
+            {
+                "title": "House",
+                "year": 2004,
+                "ids": {
+                    "trakt": 1399,
+                    "slug": "house",
+                    "tvdb": 73255,
+                    "imdb": "tt0412142",
+                    "tmdb": 1408,
+                    "tvrage": 3908
+                }
+            },
+            {
+                "title": "Homeland",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1398,
+                    "slug": "homeland",
+                    "tvdb": 247897,
+                    "imdb": "tt1796960",
+                    "tmdb": 1407,
+                    "tvrage": 27811
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 203486,
+            "plays": 7332462,
+            "collectors": 343338,
+            "collected_episodes": 8931235,
+            "comments": 28,
+            "lists": 53456,
+            "votes": 4120,
+            "recommended": 148
+        },
+        "watching": 14
+    },
+    "title": "The Good Doctor",
+    "videoType": "show"
+}

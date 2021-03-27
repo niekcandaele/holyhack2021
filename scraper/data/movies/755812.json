@@ -1,0 +1,462 @@
+{
+    "adult": false,
+    "backdrop_path": "/yR27bZPIkNhpGEIP3jKV2EifTgo.jpg",
+    "genre_ids": [
+        16,
+        10751
+    ],
+    "id": 755812,
+    "original_language": "fr",
+    "original_title": "Miraculous World: New York, United HeroeZ",
+    "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+    "popularity": 1027.893,
+    "poster_path": "/50AlM1eAqXHEG8Z5lzrTbWyiew9.jpg",
+    "release_date": "2020-09-26",
+    "title": "Miraculous World: New York, United HeroeZ",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 536,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "imdb_id": "tt12816348",
+    "production_companies": [],
+    "production_countries": [],
+    "revenue": 0,
+    "runtime": 55,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "NEW CITY. SAME DUTY.",
+    "trakt": {
+        "base": {
+            "title": "Miraculous World: New York, United HeroeZ",
+            "year": 2020,
+            "ids": {
+                "trakt": 595296,
+                "slug": "miraculous-world-new-york-united-heroez-2020-09-26",
+                "imdb": "tt12816348",
+                "tmdb": 755812
+            }
+        },
+        "aliases": [
+            {
+                "title": "미라큘러스 월드 : 뉴욕, 하나 된 영웅들",
+                "country": "kr"
+            }
+        ],
+        "releases": [
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2020-09-26",
+                "release_type": "tv",
+                "note": null
+            },
+            {
+                "country": "us",
+                "certification": "NR",
+                "release_date": "2020-10-10",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2021-03-26",
+                "release_type": "digital",
+                "note": "Disney+"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Miraculous World: New York, United HeroeZ",
+                "overview": "Během školního výletu Beruška a Černý kocour potkávají americké superhrdiny, které musí zachránit před akumovským superpadouchem. Zjistí, že mirákula existují také v USA.",
+                "tagline": "Nové město. Stejné povinnosti.",
+                "language": "cs"
+            },
+            {
+                "title": "Miraculous World, New York – United HeroeZ",
+                "overview": "Marinettes klasse er på vej til New York, superheltenes by, for at fejre den fransk-amerikanske venskabsuge. Hele klassen skal med … undtagen Adrien, der ikke må komme med for sin far!",
+                "tagline": "",
+                "language": "da"
+            },
+            {
+                "title": "Miraculous World: New York, United Heroez",
+                "overview": "Eine Klassenfahrt nach New York ist für Marinette die Chance, eine kleine Pause vom Superhelden-Dasein zu machen. Fernab von allen Superschurken in Paris kann sie wie ein ganz normaler Teenager Spaß mit ihren KlassenkameradInnen haben – und eventuell sogar Adrien ihre Liebe gestehen? Hawk Moth hat jedoch andere Pläne und so sind Ladybug und Cat Noir auch auf der anderen Seite des Atlantik gefordert. Sie müssen sich mit neuen Superhelden aus den USA zusammentun, um den Frieden wiederherzustellen!",
+                "tagline": "",
+                "language": "de"
+            },
+            {
+                "title": "Miraculous World: New York, United HeroeZ",
+                "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+                "tagline": "NEW CITY. SAME DUTY.",
+                "language": "en"
+            },
+            {
+                "title": "Miraculous World: Las aventuras de Ladybug en Nueva York",
+                "overview": "Ladybug al lado de sus amigos, son enviados a la universidad de Nueva York con una finalidad, celebrar la Semana de la Amistad Franco-Americana, pero no cuentan con que se toparán con superhéroes estadounidenses que les cambiarán la estadía.",
+                "tagline": "Nueva ciudad. Mismo deber.",
+                "language": "es"
+            },
+            {
+                "title": "Miraculous World : New York, les héros unis",
+                "overview": "La classe de Marinette doit se rendre à New‐York, pour célébrer la semaine de l’amitié franco‐américaine. Toute la classe y participe… sauf Adrien, car son père refuse de le laisser partir. Ladybug demande à Chat Noir de veiller sur Paris mais ne précise pas les raisons de son absence. Ce dernier prend la mission très au sérieux, mais lorsque Marinette, en tant que déléguée de classe, convainc Gabriel de laisser partir son fils avec ses camarades, Adrien a un problème. En effet, le collégien étant également Chat Noir en secret, il ne peut veiller en même temps sur Paris et être avec sa classe à New‐York. Comment va‐t‐il faire ? Si les deux héros s’absentent, qui va veiller sur Paris ?",
+                "tagline": "",
+                "language": "fr"
+            },
+            {
+                "title": "המופלאה: הרפתקאות ליידי באג - ספשייל ניו יורק",
+                "overview": "לכבוד שבוע החברות הצרפתי-אמריקאי, מרינט וכיתתה נוסעים לניו-יורק, עיר גיבורי העל! ההזדמנות המושלמת עבור מרינט לבלות עם חבריה, במיוחד עם אדריאן. למעשה, הוא מטייל עם אביו, גבריאל אגרסטה, שמעוניין במיוחד בתערוכה ייחודית שמציגה שרשרת יקרה בשם \"ציפורן-הנשר\"... תכשיט בעל כוחות שהנבל אוק-מאוט רוצה. ליידי באג וקאט נואר יצטרכו בקרוב לחבור לגיבורים האמריקאים כדי להגן עליהם מפני האויבהם!",
+                "tagline": "עיר חדשה. אותו התפקיד.",
+                "language": "he"
+            },
+            {
+                "title": "Katica és Fekete Macska kalandjai a világ körül: Egyesült Hősök",
+                "overview": "Marinette osztálya New Yorkba megy, hogy megismerjék az amerikai kultúrát és találkozzanak a testvériskola diákjaival. Az egész osztály az utazásra készül, kivéve Adrient, ugyanis az apja őt nem engedte el! Katica és Fekete Macska kalandjai Párizsban játszódnak, ahol a két fiatal szuperhősként védelmezik a várost. A gyerekeknek van egy-egy talizmánjuk, amelyek segítségével átváltozhatnak szuperhősökké, és így képesek felvenni a harcot a gonosz Hawk Moth ellen.",
+                "tagline": "",
+                "language": "hu"
+            },
+            {
+                "title": "Miraculous World: New York, eroi uniti",
+                "overview": "La classe di Marinette deve andare a New York, la città dei supereroi, per celebrare la Settimana dell’Amicizia franco-americana. Ladybug chiede a Chat Noir di tenere d'occhio Parigi ma, quando Marinette convince Gabriel a lasciar andare il proprio figlio con i suoi compagni di classe, Adrien ha un problema. Essendo Chat Noir in segreto, non può sorvegliare Parigi e andare a New York con la sua classe allo stesso momento. Come potrà fare? Inoltre, Ladybug e Chat Noir non hanno idea che anche Papillon sta per partire: i supereroi americani potrebbero aver bisogno di una mano.",
+                "tagline": "",
+                "language": "it"
+            },
+            {
+                "title": "미라큘러스 월드 : 뉴욕, 하나 된 영웅들",
+                "overview": "",
+                "tagline": "",
+                "language": "ko"
+            },
+            {
+                "title": "Miraculous World: New York, United HeroeZ",
+                "overview": "Voor de Frans-Amerikaanse vriendschapsweek reizen Marinette en haar klas naar New York, de stad van superhelden! De perfecte gelegenheid voor Marinette om tijd door te brengen met haar vrienden, vooral Adrien. Hij reist zelfs met zijn vader, Gabriel Agreste, die vooral geïnteresseerd is in een unieke tentoonstelling van een kostbare ketting die een adelaarsklauw vasthoudt",
+                "tagline": "",
+                "language": "nl"
+            },
+            {
+                "title": "Miraculous: Zjednoczeni Herosi w Nowym Jorku",
+                "overview": "Klasa Marinette z okazji Tygodnia Przyjaźni Francusko-Amerykańskiej udaje się do Nowego Jorku. Bohaterowie na miejscu poznają amerykańskich superbohaterów, których będą musieli ocalić przed zaakumowanym super-złoczyńcą. Biedronka i Czarny Kot odkryją wtedy, że Miraculous istnieje również w Stanach Zjednoczonych.",
+                "tagline": "",
+                "language": "pl"
+            },
+            {
+                "title": "MIRACULOUS WORLD: NOVA IORQUE, HERÓIS UNIDOS",
+                "overview": "A turma de Marinette viaja para Nova York com o intuito de comemorar a semana franco-americana da amizade. Ladybug deixa Paris sob os cuidados de Cat Noir, que fica em uma situação complicada, já que Adrien também foi chamado para a viagem. No entanto, o maior problema será um colar de garras de águia extremamente poderoso que está na mira de Hawk Moth. Nesse momento, Ladybug terá que se unir aos heróis americanos para proteger a cidade que nunca dorme.",
+                "tagline": "",
+                "language": "pt"
+            },
+            {
+                "title": "Леди Баг и Супер-Кот: Нью-Йорк - Объединение героев",
+                "overview": "В один день Маринет узнает о том, что их дружный класс, выиграл поездку в далекую Америку. Они все начинают готовиться к увлекательному путешествию которое начнется в Европе. Ученики и преподаватели находятся в приподнятом настроении, но героиня и её друг Адриан переживают не простое время. Всё дело в том, что между ними много недосказанности, вопросов, которые требуют разговора. Несмотря на все эти перипетии, вокруг них начинает кружиться история, в которой главными героями становятся обладатели супер способностей. Ведь в определенный момент времени он с легкостью превращаются в Леди Баг и Супер-Кота.",
+                "tagline": "",
+                "language": "ru"
+            },
+            {
+                "title": "Леді Баг та Супер Кіт у Нью-Йорку. Ліга героїв",
+                "overview": "На тиждень французько-американської дружби Марінет та її клас їдуть до Нью-Йорку, міста супергероїв! Прекрасна можливість провести час Марінет зі своїми друзями, особливо Адрієном. Насправді він подорожує зі своїм батьком, котрий особливо зацікавлений в унікальній виставці дорогоцінного намиста, що належить Орлиному Кігтю ... коштовності, які дають сили, яких бажає Яструб Молі. Леді Баг та Кіт Нуар незабаром повинні зв'язатись з американськими героями, щоб захистити їх від ворога!",
+                "tagline": "",
+                "language": "uk"
+            },
+            {
+                "title": "瓢虫少女",
+                "overview": "玛莉娜是住在现代法国的巴黎少女，因为一次善举获得神秘老人的认可，得到了能变身为超级英雄瓢虫少女的力量。同样获得变身能力的还有玛莉娜的同班同学艾俊，他是知名设计师之子，因家庭过度保护长期在家自学，第一天上学却阴错阳差使玛莉娜误会其恶作剧。双方在不知道对方真实身份的情况下，以瓢虫少女及黑猫之名义拯救被黑化的巴黎市民，而艾俊对玛莉娜澄清恶作剧一事后，艾俊温文的风度使得玛莉娜开始迷恋他，一见艾俊便手足无措，但是艾俊却喜欢上智勇双全的瓢虫少女，以黑猫的身份几度示爱，都被心有所属的玛莉娜拒绝。两人面临的挑战除了爱情问题，还有在巴黎制造混乱的邪恶反派。",
+                "tagline": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Marinette, Ladybug",
+                    "characters": [
+                        "Marinette",
+                        "Ladybug"
+                    ],
+                    "person": {
+                        "name": "Anouck Hautbois",
+                        "ids": {
+                            "trakt": 949669,
+                            "slug": "anouck-hautbois",
+                            "imdb": null,
+                            "tmdb": 1762588,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Adrien Agreste, Chat Noir",
+                    "characters": [
+                        "Adrien Agreste",
+                        "Chat Noir"
+                    ],
+                    "person": {
+                        "name": "Benjamin Boullen",
+                        "ids": {
+                            "trakt": 2166681,
+                            "slug": "benjamin-boullen",
+                            "imdb": null,
+                            "tmdb": 2952757,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Sébastien Thibaudeau",
+                            "ids": {
+                                "trakt": 143945,
+                                "slug": "sebastien-thibaudeau",
+                                "imdb": "nm0857751",
+                                "tmdb": 1163095,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Thomas Astruc",
+                            "ids": {
+                                "trakt": 949670,
+                                "slug": "thomas-astruc",
+                                "imdb": null,
+                                "tmdb": 1565301,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Matthieu Choquet",
+                            "ids": {
+                                "trakt": 2032259,
+                                "slug": "matthieu-choquet",
+                                "imdb": null,
+                                "tmdb": 2848194,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Fred Lenoir",
+                            "ids": {
+                                "trakt": 2032261,
+                                "slug": "fred-lenoir",
+                                "imdb": null,
+                                "tmdb": 2848195,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Jeremy Zag",
+                            "ids": {
+                                "trakt": 810983,
+                                "slug": "jeremy-zag",
+                                "imdb": null,
+                                "tmdb": 1762584,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Thomas Astruc",
+                            "ids": {
+                                "trakt": 949670,
+                                "slug": "thomas-astruc",
+                                "imdb": null,
+                                "tmdb": 1565301,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.85714,
+            "votes": 14,
+            "distribution": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 1,
+                "7": 2,
+                "8": 2,
+                "9": 2,
+                "10": 7
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Moana",
+                "year": 2016,
+                "ids": {
+                    "trakt": 175475,
+                    "slug": "moana-2016",
+                    "imdb": "tt3521164",
+                    "tmdb": 277834
+                }
+            },
+            {
+                "title": "Frozen",
+                "year": 2013,
+                "ids": {
+                    "trakt": 77349,
+                    "slug": "frozen-2013",
+                    "imdb": "tt2294629",
+                    "tmdb": 109445
+                }
+            },
+            {
+                "title": "Zootopia",
+                "year": 2016,
+                "ids": {
+                    "trakt": 167397,
+                    "slug": "zootopia-2016",
+                    "imdb": "tt2948356",
+                    "tmdb": 269149
+                }
+            },
+            {
+                "title": "Inside Out",
+                "year": 2015,
+                "ids": {
+                    "trakt": 98998,
+                    "slug": "inside-out-2015",
+                    "imdb": "tt2096673",
+                    "tmdb": 150540
+                }
+            },
+            {
+                "title": "Finding Nemo",
+                "year": 2003,
+                "ids": {
+                    "trakt": 8,
+                    "slug": "finding-nemo-2003",
+                    "imdb": "tt0266543",
+                    "tmdb": 12
+                }
+            },
+            {
+                "title": "The Secret Life of Pets",
+                "year": 2016,
+                "ids": {
+                    "trakt": 209011,
+                    "slug": "the-secret-life-of-pets-2016",
+                    "imdb": "tt2709768",
+                    "tmdb": 328111
+                }
+            },
+            {
+                "title": "Up",
+                "year": 2009,
+                "ids": {
+                    "trakt": 8476,
+                    "slug": "up-2009",
+                    "imdb": "tt1049413",
+                    "tmdb": 14160
+                }
+            },
+            {
+                "title": "WALL·E",
+                "year": 2008,
+                "ids": {
+                    "trakt": 5853,
+                    "slug": "wall-e-2008",
+                    "imdb": "tt0910970",
+                    "tmdb": 10681
+                }
+            },
+            {
+                "title": "The Lion King",
+                "year": 1994,
+                "ids": {
+                    "trakt": 4242,
+                    "slug": "the-lion-king-1994",
+                    "imdb": "tt0110357",
+                    "tmdb": 8587
+                }
+            },
+            {
+                "title": "Toy Story",
+                "year": 1995,
+                "ids": {
+                    "trakt": 705,
+                    "slug": "toy-story-1995",
+                    "imdb": "tt0114709",
+                    "tmdb": 862
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 2972,
+            "plays": 3963,
+            "collectors": 632,
+            "comments": 0,
+            "lists": 765,
+            "votes": 14,
+            "recommended": 2
+        },
+        "watching": 0
+    },
+    "name": "Miraculous World: New York, United HeroeZ",
+    "videoType": "movie"
+}

@@ -11,13 +11,96 @@
     "original_language": "en",
     "original_title": "Zack Snyder's Justice League",
     "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
-    "popularity": 11462.725,
+    "popularity": 10979.724,
     "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
     "release_date": "2021-03-18",
     "title": "Zack Snyder's Justice League",
     "video": false,
     "vote_average": 8.7,
-    "vote_count": 3529,
+    "vote_count": 3695,
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+    "imdb_id": "tt12361974",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 114152,
+            "logo_path": null,
+            "name": "The Stone Quarry",
+            "origin_country": "US"
+        },
+        {
+            "id": 507,
+            "logo_path": "/z7H707qUWigbjHnJDMfj6QITEpb.png",
+            "name": "Atlas Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 128064,
+            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+            "name": "DC Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 103376,
+            "logo_path": null,
+            "name": "Access Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 444,
+            "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+            "name": "Dune Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 0,
+    "runtime": 242,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
     "trakt": {
         "base": {
             "title": "Zack Snyder's Justice League",
@@ -6849,8 +6932,8 @@
             }
         },
         "ratings": {
-            "rating": 8.18711,
-            "votes": 4468,
+            "rating": 8.18536,
+            "votes": 4564,
             "distribution": {
                 "1": 26,
                 "2": 26,
@@ -6975,6 +7058,8 @@
             "votes": 4474,
             "recommended": 136
         },
-        "watching": 202
-    }
+        "watching": 110
+    },
+    "name": "Zack Snyder's Justice League",
+    "videoType": "movie"
 }

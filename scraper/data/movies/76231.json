@@ -1,0 +1,1019 @@
+{
+    "backdrop_path": "/9XUIsRUB7V3iEoLSKxZCqPvbKKW.jpg",
+    "first_air_date": "2018-09-04",
+    "genre_ids": [
+        80,
+        18
+    ],
+    "id": 76231,
+    "name": "Mayans M.C.",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mayans M.C.",
+    "overview": "Set in the aftermath of Jax Teller’s death, Ezekiel \"EZ\" Reyes is fresh out of prison and a prospect in the Mayans M.C. charter on the Cali/Mexi border. Now, EZ must carve out his new identity in a town where he was once the golden boy with the American Dream in his grasp.",
+    "popularity": 402.31,
+    "poster_path": "/gaKhfksFK24N19bjlFpJxamYZ02.jpg",
+    "vote_average": 7.8,
+    "vote_count": 136,
+    "created_by": [
+        {
+            "id": 200043,
+            "credit_id": "5a532785925141133002e656",
+            "name": "Kurt Sutter",
+            "gender": 2,
+            "profile_path": "/A4c9xpj2VuZXGvSv6z1S912Xwnd.jpg"
+        },
+        {
+            "id": 1026085,
+            "credit_id": "5a5327a5925141132902e396",
+            "name": "Elgin James",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        52
+    ],
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.fxnetworks.com/shows/mayans-mc",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-23",
+    "last_episode_to_air": {
+        "air_date": "2021-03-23",
+        "episode_number": 3,
+        "id": 2763455,
+        "name": "Overreaching Don't Pay",
+        "overview": "Seeing an opportunity, Bishop sets EZ's plan into motion.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-03-30",
+        "episode_number": 4,
+        "id": 2763456,
+        "name": "Our Gang's Dark Oath",
+        "overview": "The M.C. scrambles to find a solution to their heroin problem. EZ digs to discover who betrayed the club.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "FX",
+            "id": 88,
+            "logo_path": "/aexGjtcs42DgRtZh7zOxayiry4J.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 28,
+    "number_of_seasons": 3,
+    "production_companies": [
+        {
+            "id": 86063,
+            "logo_path": "/9Juyx6JYvie3Kx24PGCDfNRYp9Y.png",
+            "name": "Fox 21 Television Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 15990,
+            "logo_path": "/smZIsUYZ3aQsn1tKPVaQGqnxora.png",
+            "name": "FX Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 40946,
+            "logo_path": null,
+            "name": "SutterInk",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-09-04",
+            "episode_count": 10,
+            "id": 97638,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/eV1mPFFBnjoFbEd3VfTIh9RhWx0.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-09-03",
+            "episode_count": 10,
+            "id": 126647,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/gnv9o3hMkBRphhyfpTwE2vC1USl.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2021-03-16",
+            "episode_count": 8,
+            "id": 180829,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/gaKhfksFK24N19bjlFpJxamYZ02.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Mayans M.C.",
+                "country": "us"
+            },
+            {
+                "title": "Mayans MC",
+                "country": "us"
+            },
+            {
+                "title": "ילדי האנרכיה: כנופיית המאיה",
+                "country": "il"
+            },
+            {
+                "title": "边疆飙风族",
+                "country": "tw"
+            },
+            {
+                "title": "MAYANS.M.C",
+                "country": "fr"
+            }
+        ],
+        "translations": [
+            {
+                "title": "\"Маите\", Южна Калифорния",
+                "overview": "Действието се развива седем години след края на \"Синове на анархията\". Езикиъл Рейес някога е бил обещаващ ученик, благословен с фотографска памет, но излежава няколко години в затвора заради убийство на ченге. Сега е заел мястото си на перспективен член на клуба в Санто Падре.",
+                "language": "bg"
+            },
+            {
+                "title": "Mayans MC",
+                "overview": "Smješten 2 do 3 godine nakon događaja u seriji Sons of Anarchy, Mayans MC će pričati priču Reaperovim rivalima i kasnije prijateljima na California/Mexico granici. Serija će se fokusirati na Mayans početnika, EZ Reyes (JD Pardo), koji se muči izbalansirati svoj osobni život sa svojim životom u bandi i mržnjom lokalnog narko kartela.",
+                "language": "bs"
+            },
+            {
+                "title": "Zákon gangu: Mayové",
+                "overview": "Seriál sleduje někdejšího premianta EZ Reyese, který je čerstvě propuštěn z vězení a stává se členem klubu Mayů na kalifornsko-mexické hranici, kde je nucen přijmout novou identitu zločince.",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "”Mayans M.C.” er næste kapitel i Sons of Anarchy-sagaen. Serien udspiller sig efter Jax Tellers tid, og Ezekiel ”EZ” Reyes er netop blevet løsladt fra fængslet og er prøvemedlem i Mayans M.C. ved grænsen mellem Californien og Mexico. Nu må EZ skabe sig en ny identitet i en by, hvor han engang var ung og succesfuld og havde den amerikanske drøm inden for sin rækkevidde.",
+                "language": "da"
+            },
+            {
+                "title": "Mayans MC",
+                "overview": "Nach dem Tod von Jax Teller ist Ezekiel \"EZ\" Reyes gerade aus dem Gefängnis entlassen worden und ein potenzieller Kunde in der Charta der Mayans M.C. an der Grenze zwischen Cali und Mexiko. Jetzt muss EZ seine neue Identität in einer Stadt herausarbeiten, in der er einst der Golden Boy war, mit dem amerikanischen Traum in greifbarer Nähe.",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Το ‘Mayans MC’ παίρνει τη σκυτάλη του ‘Sons of Anarchy’,,, To ‘Mayans MC’ θα ακολουθήσει τον EZ, έναν prospect στο charter των Mayans που δρα στα σύνορα της Καλιφόρνιας με το Μεξικό. Εκτός από τη δίψα του για εκδίκηση για τα καρτέλ που θα είναι το μεγαλύτερο μέρος της προσωπικής του ιστορίας, η σύνοψη του χαρακτήρα μιλάει και για “τον σεβασμό που χρειάζεται από τις γυναίκες που αγαπάει”. O Emilio Rivera που στο ‘Sons of Anarchy’ υποδυόταν τον αρχηγό του charter των Mayans στην Καλιφόρνια θα βρίσκεται στη νέα σειρά ως guest star, o μεγάλος Edward James Olmos του ‘Battlestar Galactica’ θα παίξει τον Felipe, πατέρα του ΕΖ που προσπαθεί να κρατήσει το παρελθόν του θαμμένο και τους γιους του στον καλό τον δρόμο, και ο Clayton Cardenas (‘American Crime’) θα είναι ο αδερφός του ΕΖ, κανονικό μέλος του club και λιγότερο αγαπημένο μέλος της οικογένειάς του.Ο δημιουργός της σειράς, Kurt Sutter,",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "Set in the aftermath of Jax Teller’s death, Ezekiel \"EZ\" Reyes is fresh out of prison and a prospect in the Mayans M.C. charter on the Cali/Mexi border. Now, EZ must carve out his new identity in a town where he was once the golden boy with the American Dream in his grasp.",
+                "language": "en"
+            },
+            {
+                "title": "Mayans M.C.",
+                "overview": "En un mundo posterior a Jax Teller, Ezekiel \"EZ\" Reyes acaba de salir de prisión y es un posible prospecto para la banda Mayans M.C. en la frontera entre California y México, donde debe forjarse una nueva identidad.",
+                "language": "es"
+            },
+            {
+                "title": "Mayans MC",
+                "overview": "Le parcours initiatique d'Ezekiel Reyes, dit EZ, un jeune bandido tout juste sorti de prison et jeune recrue au sein du Mayans Motorcycle Club. Rongé par son désir de vengeance contre les cartels, EZ s'engouffre rapidement dans un monde de violence.",
+                "language": "fr"
+            },
+            {
+                "title": "כנופיית המאיה",
+                "overview": "איזיקיאל \"איזי\" רייס הוא מתלמד בסניף המועדון בגבול קליפורניה/מקסיקו של \"המאיה\", מועדון אופנענים שמבצע עבודות לא חוקיות עבור הקרטל. איזי הוא בן מחונן למשפחה לטינית גאה שהחלום האמריקאי שלו נלקח בידי אלימות הקרטל והוא משתחרר מהכלא בנסיבות מסתוריות שמתבררות בהמשך. כעת הצורך שלו בנקמה בקרטל – צורך שמונע גם מהתפרקות מערכת יחסיו עם אהובתו מהתיכון ו-\"שאיבתה\" לעולמם –  מוביל אותו לחיים שמעולם לא רצה ולעולם לא יוכל לברוח מהם.",
+                "language": "he"
+            },
+            {
+                "title": null,
+                "overview": "Radnje smještene u svijet nakon Jaxa Tellera, Ezekiel „Ez“ Reyes tek je izašao iz zatvora te je potencijalni Mayan na kalifornijsko-meksičkoj granici. Ez je daroviti potomak ponosne Latino obitelji te nekadašnji zlatni dečko, a njegova potraga za američkim snom doživljava krah zbog graničnog nasilja. Ez je sada prinuđen osmisliti si nov identitet u svom malom gradiću, a potreba za osvetom vodi ga ka životu kakav nije planirao i od kojeg ne može pobjeći.",
+                "language": "hr"
+            },
+            {
+                "title": "Mayans M.C.",
+                "overview": "A sorozat története az anyasorozat főszereplője, Jackson \"Jax\" Teller (Kemény motorosok) utáni világban játszódik. Ezekiel 'EZ' Reyes kiszabadul a börtönből, és visszatér az amerikai-mexikói határon lévő kisvárosba. EZ büszke latin-amerikai család tehetséges sarja, aki megtapasztalja, hogy az amerikai álom elérésére tett törekvéseit hogyan zúzza szét az erőszak. A bosszúvágytól vezérelve egy új identitást választ magának, ami olyan élet felé vezeti, amelyet soha nem tervezett, és amelytől soha nem tud menekülni.",
+                "language": "hu"
+            },
+            {
+                "title": null,
+                "overview": "Ambientato quattro anni dopo la fine degli eventi dell'ultimo episodio di Sons of Anarchy, Mayans M.C. è uno spin-off realizzato da Kurt Sutter e Elgin James e incentrato sulla figura di EZ Reyes (JD Pardo di Revolution), il talentuoso figlio di una famiglia latina, il cui \"sogno americano\" è stato distrutto dalla violenza del cartello della droga. Appena uscito di prigione, EZ viene accolto come nuova promessa dal club motociclistico dei Mayans al confine tra la California e il Messico. Con loro si costruisce una nuova identità da fuorilegge nella stessa città in cui un tempo sognava un futuro migliore per se stesso, ma il suo desiderio di vendetta lo trascina presto in un mondo in cui mai avrebbe voluto trovarsi e da cui non potrà più scappare. Nel cast troviamo anche Edward James Olmos (Battlestar Galactica), Sarah Bolger (C'era una volta) e Michael Irby (The Unit).",
+                "language": "it"
+            },
+            {
+                "title": "마얀스 M.C.",
+                "overview": "",
+                "language": "ko"
+            },
+            {
+                "title": "Mayans M.C.",
+                "overview": "In de nasleep van de gebeurtenissen uit 'Sons of Anarchy' volgen we de strubbelingen van Ezekiel “EZ” Reyes, een prospect van de Mayans motorclub aan de grens van Californië/Mexico. EZ is zoon van Latijns-Amerikaanse ouders wiens Amerikaanse droom aan diggelen werd geslagen door een kartel. Vastbesloten om wraak te nemen wordt EZ meegezogen in een wereld die hij niet voor ogen had gezien en vooral, een wereld waaruit hij niet kan ontsnappen.",
+                "language": "nl"
+            },
+            {
+                "title": "Mayans M.C.",
+                "overview": "«Mayans M.C.» er det neste kapittelet i «Sons of Anarchy»-sagaen. Serien er satt til tiden etter Jax Teller. Ezekiel «EZ» Reyes har nylig sluppet ut av fengsel og er prøvemedlem i Mayans MCs lokalavdeling på grensen mellom California og Mexico. EZ må forme sin nye identitet i den byen han en gang var en gullgutt med den amerikanske drømmen i sin hule hånd.",
+                "language": "no"
+            },
+            {
+                "title": null,
+                "overview": "Główny bohater, EZ Reyes, należy do gangu motocyklowego działającego na granicy Stanów Zjednoczonych i Meksyku. Młody mężczyzna ma za sobą długą odsiadkę w więzieniu, co nie przeszkadza mu w ponownym wstąpieniu na ścieżkę przestępczości. Przyświeca mu przy tym chęć zemsty na kartelu narkotykowym oraz miłość do pewnej kobiety.",
+                "language": "pl"
+            },
+            {
+                "title": null,
+                "overview": "Ezekiel “EZ” Reyes deixa a prisão e logo se envolve com o negócio dos Mayans M.C., na fronteira do México com a Califórnia. Agora, ele deve criar uma identidade do zero.",
+                "language": "pt"
+            },
+            {
+                "title": "Майянцы",
+                "overview": "События разворачиваются через два с половиной года после финального эпизода сериала «Сыны анархии». Главный герой — Эзекьель Рейес, кандидат в члены мотоклуба «майянцев» на границе Калифорнии и Мексики, который хочет отомстить наркокартелю.",
+                "language": "ru"
+            },
+            {
+                "title": "Zákon gangu: Mayovia",
+                "overview": "Príbeh sa odohráva v slnečnej Kalifornii na americko-mexickej hranici a sleduje dozvuky hlavnej zápletky pôvodného seriálu Zákon gangu. V centre diania sa ocitá ambiciózny Ezekiel Reyes, prezývaný EZ, ktorý sa stará o svoj motocyklový klub Mayans M.C.. Jedného dňa však jeho sen zničí kartel a EZ dychtí po pomste.",
+                "language": "sk"
+            },
+            {
+                "title": null,
+                "overview": "Jax Teller'ın ölümü sonrası Ezekiel \"EZ\" Reyes, hapishaneden yeni çıkmıştır. EZ, yeni kimliği ile eskiden altın çocuk olduğu kasabaya geri döner.",
+                "language": "tr"
+            },
+            {
+                "title": "Майянці",
+                "overview": "Спін-офф «Синів анархії» оповідає про байкерський клуб «Майянці», який веде справи на кордоні Мексики і Каліфорнії. Головний герой історії - Езекіель «Ез» Рейєс, після відсидки повернувся на малу батьківщину. Хлопець змушений пристосовуватися до свого нового статусу людини поза законом в рідному місті, де у нього колись були всі шанси на здійснення заповітної американської мрії.",
+                "language": "uk"
+            },
+            {
+                "title": "玛雅帮",
+                "overview": "　　FX知名剧集《混乱之子》的衍生剧、以在加州和墨西哥边境活动的墨西哥帮派为主角的《玛雅帮》(Mayans MC)找到主演：著名拉美裔演员Edward James Olmos(新《太空堡垒卡拉迪加》《神盾局特工》《嗜血法医》)将饰演玛雅帮大家长Felipe Reyes，曾经强大的首领已不堪重负，既要奋力掩饰自己的过去，也要带领家人走上合法和光明正大的道路。而剧集时间设定在《混乱之子》之后，将聚焦玛雅帮新秀EZ Reyes的故事，他既要压抑复仇的欲望，也要努力赢得自己所爱的女人们的尊重。听起来就是《混乱之子》的Clay和Jax的状况嘛，果然家家都有难念的经+历史总是不断重演。  　　该剧已经被FX预订首集，SOA的灵魂人物Kurt Sutter将和Elgin James一起写剧本，也将执导首集，而Sutter表示该剧与SOA在基调、节奏和故事讲述上都会是不同的，他还透露为什么不是自己独挑大梁：“我作为一个泽西州来的白人，来讲述这个拉丁文化和传统的故事不太恰当，我想找到一个有力的、独特的拉丁之声来运作这个故事，Elgin James就是这个人了。”",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Ezekiel ‘EZ’ Reyes",
+                    "characters": [
+                        "Ezekiel ‘EZ’ Reyes"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "J. D. Pardo",
+                        "ids": {
+                            "trakt": 427461,
+                            "slug": "j-d-pardo",
+                            "imdb": "nm1238555",
+                            "tmdb": 81391,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Angel Reyes",
+                    "characters": [
+                        "Angel Reyes"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Clayton Cardenas",
+                        "ids": {
+                            "trakt": 848046,
+                            "slug": "clayton-cardenas",
+                            "imdb": null,
+                            "tmdb": 1781793,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Felipe Reyes",
+                    "characters": [
+                        "Felipe Reyes"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Edward James Olmos",
+                        "ids": {
+                            "trakt": 411152,
+                            "slug": "edward-james-olmos",
+                            "imdb": "nm0001579",
+                            "tmdb": 587,
+                            "tvrage": 15726
+                        }
+                    }
+                },
+                {
+                    "character": "Emily Thomas",
+                    "characters": [
+                        "Emily Thomas"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Sarah Bolger",
+                        "ids": {
+                            "trakt": 418756,
+                            "slug": "sarah-bolger",
+                            "imdb": "nm0092961",
+                            "tmdb": 33397,
+                            "tvrage": 80529
+                        }
+                    }
+                },
+                {
+                    "character": "Obispo 'Bishop' Losa",
+                    "characters": [
+                        "Obispo 'Bishop' Losa"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Michael Irby",
+                        "ids": {
+                            "trakt": 423328,
+                            "slug": "michael-irby",
+                            "imdb": "nm0409831",
+                            "tmdb": 124304,
+                            "tvrage": 28013
+                        }
+                    }
+                },
+                {
+                    "character": "Michael 'Riz' Ariza",
+                    "characters": [
+                        "Michael 'Riz' Ariza"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Antonio Jaramillo",
+                        "ids": {
+                            "trakt": 453138,
+                            "slug": "antonio-jaramillo-e77922e7-d23d-4192-a4e1-0054e065a7dc",
+                            "imdb": "nm0418544",
+                            "tmdb": 180306,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Che 'Taza' Romero",
+                    "characters": [
+                        "Che 'Taza' Romero"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Raoul Max Trujillo",
+                        "ids": {
+                            "trakt": 11458,
+                            "slug": "raoul-max-trujillo-11458",
+                            "imdb": "nm0874232",
+                            "tmdb": 17688,
+                            "tvrage": 5214
+                        }
+                    }
+                },
+                {
+                    "character": "Johnny 'Coco' Cruz",
+                    "characters": [
+                        "Johnny 'Coco' Cruz"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Richard Cabral",
+                        "ids": {
+                            "trakt": 452128,
+                            "slug": "richard-cabral",
+                            "imdb": "nm3450051",
+                            "tmdb": 1105711,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Miguel Galindo",
+                    "characters": [
+                        "Miguel Galindo"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Danny Pino",
+                        "ids": {
+                            "trakt": 427456,
+                            "slug": "danny-pino",
+                            "imdb": "nm0992694",
+                            "tmdb": 72132,
+                            "tvrage": 27090
+                        }
+                    }
+                },
+                {
+                    "character": "Adelita",
+                    "characters": [
+                        "Adelita"
+                    ],
+                    "episode_count": 23,
+                    "person": {
+                        "name": "Carla Baratta",
+                        "ids": {
+                            "trakt": 1262314,
+                            "slug": "carla-baratta",
+                            "imdb": "nm7331093",
+                            "tmdb": 2118332,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Marcus Alvarez",
+                    "characters": [
+                        "Marcus Alvarez"
+                    ],
+                    "episode_count": 10,
+                    "person": {
+                        "name": "Emilio Rivera",
+                        "ids": {
+                            "trakt": 9672,
+                            "slug": "emilio-rivera",
+                            "imdb": "nm0729256",
+                            "tmdb": 53257,
+                            "tvrage": 18222
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Kurt Sutter",
+                            "ids": {
+                                "trakt": 437460,
+                                "slug": "kurt-sutter",
+                                "imdb": "nm1176676",
+                                "tmdb": 200043,
+                                "tvrage": 68708
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Sean Tretta",
+                            "ids": {
+                                "trakt": 75159,
+                                "slug": "sean-tretta",
+                                "imdb": "nm1995338",
+                                "tmdb": 232229,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Elgin James",
+                            "ids": {
+                                "trakt": 187370,
+                                "slug": "elgin-james",
+                                "imdb": "nm1990437",
+                                "tmdb": 1026085,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Andrea Ciannavei",
+                            "ids": {
+                                "trakt": 587979,
+                                "slug": "andrea-ciannavei",
+                                "imdb": "nm0161859",
+                                "tmdb": 1590802,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jenny Lynn",
+                            "ids": {
+                                "trakt": 213145,
+                                "slug": "jenny-lynn",
+                                "imdb": "nm0528709",
+                                "tmdb": 1351255,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Debra Moore Muñoz",
+                            "ids": {
+                                "trakt": 1270300,
+                                "slug": "debra-moore-munoz",
+                                "imdb": null,
+                                "tmdb": 2126125,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Bryan Gracia",
+                            "ids": {
+                                "trakt": 1390528,
+                                "slug": "bryan-gracia",
+                                "imdb": "nm3408219",
+                                "tmdb": 1390215,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Andrea Ciannevei",
+                            "ids": {
+                                "trakt": 1257168,
+                                "slug": "andrea-ciannevei",
+                                "imdb": null,
+                                "tmdb": 2112127,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Santa Sierra",
+                            "ids": {
+                                "trakt": 1265756,
+                                "slug": "santa-sierra",
+                                "imdb": null,
+                                "tmdb": 2122169,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Guy Ferland",
+                            "ids": {
+                                "trakt": 425873,
+                                "slug": "guy-ferland",
+                                "imdb": "nm0272704",
+                                "tmdb": 43468,
+                                "tvrage": 20015
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Norberto Barba",
+                            "ids": {
+                                "trakt": 100989,
+                                "slug": "norberto-barba",
+                                "imdb": "nm0053157",
+                                "tmdb": 104404,
+                                "tvrage": 27929
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Elgin James",
+                            "ids": {
+                                "trakt": 187370,
+                                "slug": "elgin-james",
+                                "imdb": "nm1990437",
+                                "tmdb": 1026085,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Batan Silva",
+                            "ids": {
+                                "trakt": 308143,
+                                "slug": "batan-silva",
+                                "imdb": "nm0798517",
+                                "tmdb": 1281682,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Kevin Dowling",
+                            "ids": {
+                                "trakt": 86459,
+                                "slug": "kevin-dowling",
+                                "imdb": "nm0235852",
+                                "tmdb": 91499,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Rachel Goldberg",
+                            "ids": {
+                                "trakt": 1274773,
+                                "slug": "rachel-goldberg",
+                                "imdb": "nm0325290",
+                                "tmdb": 2131118,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Peter Weller",
+                            "ids": {
+                                "trakt": 296021,
+                                "slug": "peter-weller",
+                                "imdb": "nm0000693",
+                                "tmdb": 27811,
+                                "tvrage": 36061
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Allison Anders",
+                            "ids": {
+                                "trakt": 137,
+                                "slug": "allison-anders",
+                                "imdb": "nm0025978",
+                                "tmdb": 3110,
+                                "tvrage": 27154
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Rebecca Rodriguez",
+                            "ids": {
+                                "trakt": 427652,
+                                "slug": "rebecca-rodriguez",
+                                "imdb": "nm0735484",
+                                "tmdb": 72030,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Hanelle M. Culpepper",
+                            "ids": {
+                                "trakt": 139850,
+                                "slug": "hanelle-m-culpepper",
+                                "imdb": "nm0191697",
+                                "tmdb": 139247,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Félix Enríquez Alcalá",
+                            "ids": {
+                                "trakt": 429567,
+                                "slug": "felix-enriquez-alcala",
+                                "imdb": "nm0258066",
+                                "tmdb": 77211,
+                                "tvrage": 24794
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 23,
+                        "person": {
+                            "name": "Elgin James",
+                            "ids": {
+                                "trakt": 187370,
+                                "slug": "elgin-james",
+                                "imdb": "nm1990437",
+                                "tmdb": 1026085,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 23,
+                        "person": {
+                            "name": "Kurt Sutter",
+                            "ids": {
+                                "trakt": 437460,
+                                "slug": "kurt-sutter",
+                                "imdb": "nm1176676",
+                                "tmdb": 200043,
+                                "tvrage": 68708
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 7.71964,
+            "votes": 774,
+            "distribution": {
+                "1": 21,
+                "2": 7,
+                "3": 7,
+                "4": 10,
+                "5": 24,
+                "6": 63,
+                "7": 169,
+                "8": 214,
+                "9": 104,
+                "10": 155
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Sherlock",
+                "year": 2010,
+                "ids": {
+                    "trakt": 19792,
+                    "slug": "sherlock",
+                    "tvdb": 176941,
+                    "imdb": "tt1475582",
+                    "tmdb": 19885,
+                    "tvrage": 23433
+                }
+            },
+            {
+                "title": "Dexter",
+                "year": 2006,
+                "ids": {
+                    "trakt": 1396,
+                    "slug": "dexter",
+                    "tvdb": 79349,
+                    "imdb": "tt0773262",
+                    "tmdb": 1405,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Arrow",
+                "year": 2012,
+                "ids": {
+                    "trakt": 1403,
+                    "slug": "arrow",
+                    "tvdb": 257655,
+                    "imdb": "tt2193021",
+                    "tmdb": 1412,
+                    "tvrage": 30715
+                }
+            },
+            {
+                "title": "Homeland",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1398,
+                    "slug": "homeland",
+                    "tvdb": 247897,
+                    "imdb": "tt1796960",
+                    "tmdb": 1407,
+                    "tvrage": 27811
+                }
+            },
+            {
+                "title": "Mr. Robot",
+                "year": 2015,
+                "ids": {
+                    "trakt": 93720,
+                    "slug": "mr-robot",
+                    "tvdb": 289590,
+                    "imdb": "tt4158110",
+                    "tmdb": 62560,
+                    "tvrage": 42422
+                }
+            },
+            {
+                "title": "Prison Break",
+                "year": 2005,
+                "ids": {
+                    "trakt": 2274,
+                    "slug": "prison-break",
+                    "tvdb": 360115,
+                    "imdb": "tt0455275",
+                    "tmdb": 2288,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Marvel's Daredevil",
+                "year": 2015,
+                "ids": {
+                    "trakt": 77938,
+                    "slug": "marvel-s-daredevil",
+                    "tvdb": 281662,
+                    "imdb": "tt3322312",
+                    "tmdb": 61889,
+                    "tvrage": 38796
+                }
+            },
+            {
+                "title": "The Blacklist",
+                "year": 2013,
+                "ids": {
+                    "trakt": 46676,
+                    "slug": "the-blacklist",
+                    "tvdb": 266189,
+                    "imdb": "tt2741602",
+                    "tmdb": 46952,
+                    "tvrage": 35048
+                }
+            },
+            {
+                "title": "Person of Interest",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1402,
+                    "slug": "person-of-interest",
+                    "tvdb": 248742,
+                    "imdb": "tt1839578",
+                    "tmdb": 1411,
+                    "tvrage": 28376
+                }
+            },
+            {
+                "title": "Sons of Anarchy",
+                "year": 2008,
+                "ids": {
+                    "trakt": 1400,
+                    "slug": "sons-of-anarchy",
+                    "tvdb": 82696,
+                    "imdb": "tt1124373",
+                    "tmdb": 1409,
+                    "tvrage": 18174
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 70678,
+            "plays": 1173433,
+            "collectors": 108087,
+            "collected_episodes": 1383353,
+            "comments": 13,
+            "lists": 15292,
+            "votes": 774,
+            "recommended": 26
+        },
+        "watching": 6
+    },
+    "title": "Mayans M.C.",
+    "videoType": "show"
+}

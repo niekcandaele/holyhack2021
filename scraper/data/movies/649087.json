@@ -1,0 +1,937 @@
+{
+    "adult": false,
+    "backdrop_path": "/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
+    "genre_ids": [
+        18,
+        53
+    ],
+    "id": 649087,
+    "original_language": "sv",
+    "original_title": "Red Dot",
+    "overview": "On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.",
+    "popularity": 1015.893,
+    "poster_path": "/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg",
+    "release_date": "2021-02-11",
+    "title": "Red Dot",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 374,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81028990",
+    "imdb_id": "tt11307814",
+    "production_companies": [
+        {
+            "id": 5610,
+            "logo_path": null,
+            "name": "Film i Dalarna",
+            "origin_country": "SE"
+        },
+        {
+            "id": 12985,
+            "logo_path": "/uRymXGaLN9pWScoajjiXHirTcQk.png",
+            "name": "SF Studio",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trakt": {
+        "base": {
+            "title": "Red Dot",
+            "year": 2021,
+            "ids": {
+                "trakt": 485687,
+                "slug": "red-dot-2021",
+                "imdb": "tt11307814",
+                "tmdb": 649087
+            }
+        },
+        "aliases": [
+            {
+                "title": "Punto Rojo",
+                "country": "es"
+            },
+            {
+                "title": "红点杀机",
+                "country": "cn"
+            }
+        ],
+        "releases": [
+            {
+                "country": "us",
+                "certification": "NR",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "gb",
+                "certification": "",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": "Netflix "
+            },
+            {
+                "country": "de",
+                "certification": "12",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "kr",
+                "certification": "18",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "br",
+                "certification": "18",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "dk",
+                "certification": "15",
+                "release_date": "2021-02-11",
+                "release_type": "digital",
+                "note": "Netflix"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Červená tečka",
+                "overview": "Mladí manželé s dítětem na cestě chtějí svému vztahu dodat trochu šťávy, ale stanou se terčem nelítostných zabijáků a jejich lyžařský výlet se promění v peklo.",
+                "tagline": "",
+                "language": "cs"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "Et par unge vordende forældre prøver på en skitur at puste nyt liv i deres ægteskab. Pludselig opdager de, at de bliver forfulgt af nogle ubarmhjertige mordere.",
+                "tagline": "",
+                "language": "da"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "Eine Skiwanderung soll wieder Schwung in ihre Ehe bringen. Doch dann müssen sie in der Wildnis auf der Flucht vor einem unbekannten Schützen um ihr Leben kämpfen.",
+                "tagline": "",
+                "language": "de"
+            },
+            {
+                "title": "Η Κόκκινη Κουκκίδα",
+                "overview": "Προσπαθώντας να αναθερμάνει τον γάμο του ενώ περιμένει μωρό, ένα νεαρό ζευγάρι βρίσκεται στο στόχαστρο αδίστακτων δολοφόνων κατά τη διάρκεια μιας εκδρομής για σκι.",
+                "tagline": "",
+                "language": "el"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.",
+                "tagline": "",
+                "language": "en"
+            },
+            {
+                "title": "Punto rojo",
+                "overview": "Cuando Nadja queda embarazada, tanto ella como su pareja intentan reconducir su relación viajando al norte de Suecia para practicar montañismo. Sin embargo, su escapada romántica no tarda en convertirse en una auténtica pesadilla.",
+                "tagline": "",
+                "language": "es"
+            },
+            {
+                "title": "Punto rojo",
+                "overview": "Cuando Nadja queda embarazada, tanto ella como su pareja intentan reconducir su relación viajando al norte de Suecia para practicar montañismo. Sin embargo, su escapada romántica no tarda en convertirse en una auténtica pesadilla.",
+                "tagline": "",
+                "language": "es"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "Lasta odottava nuoripari yrittää piristää avioliittoaan lähtemällä laskettelemaan, mutta he saavatkin yllättäen peräänsä armottomia tappajia.",
+                "tagline": "",
+                "language": "fi"
+            },
+            {
+                "title": "Cibles mouvantes",
+                "overview": "Ils voulaient sauver leur mariage secoué par l'arrivée imminente d'un bébé. Mais leur escapade au ski se transforme en une fuite éperdue devant des tueurs sans pitié.",
+                "tagline": "",
+                "language": "fr"
+            },
+            {
+                "title": "נקודה אדומה",
+                "overview": "בני זוג צעירים עם תינוק בדרך יוצאים לטיול סקי בתקווה להציל את נישואיהם, ומוצאים את עצמם במנוסה מפני רוצח אכזר.",
+                "tagline": "",
+                "language": "he"
+            },
+            {
+                "title": "Crvena točka",
+                "overview": "David i Nadja mladi su par koji žele začiniti vezu tako što odluče otići na romantično planinarenje na sjever Švedske sa svojim psom. Zanimljivo isplaniran put uskoro se pretvori u noćnu moru kad se crvena laserska točka pojavi na njihovom šatoru, a oni su prisiljeni bježati pred potencijalnim ubojicom po nemilosrdnoj divljini koju ne poznaju.",
+                "tagline": "",
+                "language": "hr"
+            },
+            {
+                "title": "Vörös pont",
+                "overview": "Nadja és David megpróbálják feléleszteni kapcsolatukat. A Svédország északi részére tervezett romantikus kirándulás azonban rémálommá válik, miután egy vörös lézerpont jelenik meg a sátrukban, és kénytelenek menekülni az ismeretlen embervadász elől.",
+                "tagline": "",
+                "language": "hu"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "Durante un'escursione per ravvivare il proprio matrimonio, una coppia si ritrova a fuggire da un tiratore sconosciuto nella spietata natura selvaggia.",
+                "tagline": "",
+                "language": "it"
+            },
+            {
+                "title": "赤い光点",
+                "overview": "",
+                "tagline": "",
+                "language": "ja"
+            },
+            {
+                "title": "레드 닷",
+                "overview": "아내의 임신 후 사이가 멀어지기 시작한 부부. 관계를 회복하기 위해 산속으로 둘만의 하이킹 여행을 떠난다. 하지만 그들의 텐트에 드리운 죽음의 그림자. 누군가 그들에게 총구를 겨눈다. 그들을 죽여야만 하는 정체불명의 누군가가.",
+                "tagline": "",
+                "language": "ko"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "David en Nadja zijn een stel waarvan de relatie niet zo lekker meer loopt. Wanneer Nadja zwanger wordt, besluiten ze het toch nog een keer te proberen. Ze gaan op skitrektocht in de Zweedse wildernis. Als ze 's nachts in hun tent liggen, verschijnt er ineens een rode stip die hen doet geloven dat er een onbekende schutter op ze richt. Plots moeten ze vluchten voor hun leven want op de meedogenloze sneeuwvlaktes zijn de twee niet veilig.",
+                "tagline": "",
+                "language": "nl"
+            },
+            {
+                "title": "Na celowniku",
+                "overview": "\"Na celowniku\" to thriller akcji osadzony w szwedzkich górach. Głównymi bohaterami są dobiegający trzydziestki David i Nadja, których małżeństwo przeżywa ciężkie chwile. Kiedy jednak kobieta zachodzi w ciążę, postanawiają wskrzesić swój związek w pięknych okolicznościach przyrody i wybrać się na narciarską wyprawę na północ Szwecji. Po kłótni z miejscowymi myśliwymi ich romantyczny wypad powoli zaczyna się jednak zmieniać w koszmar. Wkrótce na ich namiocie pojawia się czerwony znak celowniczy i muszą uciekać w mroźną dzicz. Ich jedynym towarzystwem w niebezpiecznych górach są tylko mierzący do nich łowcy. Jakby problemów było mało, podczas sadystycznego polowania o parę upomina się też jej zapomniana przeszłość.",
+                "tagline": "",
+                "language": "pl"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "",
+                "tagline": "",
+                "language": "pt"
+            },
+            {
+                "title": "Красная точка",
+                "overview": "Семейная пара идет в поход, чтобы возродить угасшие чувства. Однако на них открывает охоту загадочный стрелок.",
+                "tagline": "",
+                "language": "ru"
+            },
+            {
+                "title": "Red Dot",
+                "overview": "David och Nadja är ett par i 30-årsåldern som har det kämpigt med sitt äktenskap. När Nadja blir gravid gör de ett försök att återknyta sina band genom att bege sig upp till svenska fjällen för att vandra. Men efter att ha kommit i schism med två lokala jägare förvandlas snart deras romantiska semester till en mardröm.",
+                "tagline": "",
+                "language": "sv"
+            },
+            {
+                "title": "Tehlikeli Nokta",
+                "overview": "İlk çocuklarını bekleyen ve evliliklerine heyecan katmak isteyen genç bir çift, kayak gezisine çıkar. Ama kendilerini aniden acımasız katillerin hedefinde bulurlar. (18 yaş ve üzeri için uygundur)",
+                "tagline": "",
+                "language": "tr"
+            },
+            {
+                "title": "Червона крапка",
+                "overview": "Сімейна пара йде в похід, щоб відродити згаслі почуття. Однак на них відкриває полювання загадковий стрілок, і їм доводиться рятуватися втечею через безжальні гори.",
+                "tagline": "",
+                "language": "uk"
+            },
+            {
+                "title": "Chấm Đỏ",
+                "overview": "Cố gắng thắp lại lửa trong hôn nhân và chờ đứa con sắp ra đời, một cặp vợ chồng trẻ đi trượt tuyết và bỗng phát hiện mình bị bọn sát nhân máu lạnh rình rập.",
+                "tagline": "",
+                "language": "vi"
+            },
+            {
+                "title": "夺命红点",
+                "overview": "　　为了重燃婚姻的爱火，一对即将为人父母的年轻夫妻踏上了一段滑雪之旅，却突然遭遇无情杀手的追击。",
+                "tagline": "",
+                "language": "zh"
+            },
+            {
+                "title": "红点杀机",
+                "overview": "为了重燃婚姻的爱火，一对夫妻踏上一段徒步之旅，然而却在无情的荒野中遭遇无名枪手。为了生存，他们拼命奔逃。",
+                "tagline": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Einar",
+                    "characters": [
+                        "Einar"
+                    ],
+                    "person": {
+                        "name": "Johannes Bah Kuhnke",
+                        "ids": {
+                            "trakt": 115603,
+                            "slug": "johannes-bah-kuhnke-115603",
+                            "imdb": "nm1090326",
+                            "tmdb": 116614,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Nadja",
+                    "characters": [
+                        "Nadja"
+                    ],
+                    "person": {
+                        "name": "Nanna Blondell",
+                        "ids": {
+                            "trakt": 363773,
+                            "slug": "nanna-blondell",
+                            "imdb": "nm2116753",
+                            "tmdb": 1309110,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "David",
+                    "characters": [
+                        "David"
+                    ],
+                    "person": {
+                        "name": "Anastasios Soulis",
+                        "ids": {
+                            "trakt": 435219,
+                            "slug": "anastasios-soulis",
+                            "imdb": "nm0815853",
+                            "tmdb": 90605,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Jarmo",
+                    "characters": [
+                        "Jarmo"
+                    ],
+                    "person": {
+                        "name": "Kalled Mustonen",
+                        "ids": {
+                            "trakt": 110477,
+                            "slug": "kalled-mustonen",
+                            "imdb": "nm1166542",
+                            "tmdb": 144691,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Rolle",
+                    "characters": [
+                        "Rolle"
+                    ],
+                    "person": {
+                        "name": "Thomas Hanzon",
+                        "ids": {
+                            "trakt": 434387,
+                            "slug": "thomas-hanzon",
+                            "imdb": "nm0361574",
+                            "tmdb": 231926,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Mona",
+                    "characters": [
+                        "Mona"
+                    ],
+                    "person": {
+                        "name": "Anna Azcárate",
+                        "ids": {
+                            "trakt": 124062,
+                            "slug": "anna-azcarate",
+                            "imdb": "nm0044078",
+                            "tmdb": 232406,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Olof",
+                    "characters": [
+                        "Olof"
+                    ],
+                    "person": {
+                        "name": "Melvin Solin",
+                        "ids": {
+                            "trakt": 2155882,
+                            "slug": "melvin-solin",
+                            "imdb": null,
+                            "tmdb": 2974020,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Police Officer",
+                    "characters": [
+                        "Police Officer"
+                    ],
+                    "person": {
+                        "name": "Johan Hedman",
+                        "ids": {
+                            "trakt": 2155884,
+                            "slug": "johan-hedman-027d65d4-90fe-4e61-9c23-82a2923587c7",
+                            "imdb": null,
+                            "tmdb": 2974021,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Radio Voice",
+                    "characters": [
+                        "Radio Voice"
+                    ],
+                    "person": {
+                        "name": "Peter Borossy",
+                        "ids": {
+                            "trakt": 2155886,
+                            "slug": "peter-borossy",
+                            "imdb": null,
+                            "tmdb": 2974022,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Mountain rescue central voice",
+                    "characters": [
+                        "Mountain rescue central voice"
+                    ],
+                    "person": {
+                        "name": "Veronica Mukka",
+                        "ids": {
+                            "trakt": 2155887,
+                            "slug": "veronica-mukka",
+                            "imdb": null,
+                            "tmdb": 2974023,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Principal",
+                    "characters": [
+                        "Principal"
+                    ],
+                    "person": {
+                        "name": "Per Mårthans",
+                        "ids": {
+                            "trakt": 2155888,
+                            "slug": "per-marthans",
+                            "imdb": null,
+                            "tmdb": 2974024,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "art": [
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "person": {
+                            "name": "Christian Olander",
+                            "ids": {
+                                "trakt": 926161,
+                                "slug": "christian-olander",
+                                "imdb": null,
+                                "tmdb": 1841807,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "person": {
+                            "name": "Sandra Aldell",
+                            "ids": {
+                                "trakt": 2155894,
+                                "slug": "sandra-aldell",
+                                "imdb": null,
+                                "tmdb": 2974028,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Assistant Makeup Artist",
+                        "jobs": [
+                            "Assistant Makeup Artist"
+                        ],
+                        "person": {
+                            "name": "Mikael Andersson",
+                            "ids": {
+                                "trakt": 2169245,
+                                "slug": "mikael-andersson-d181c123-0523-4e9f-9cbc-789d4f293ca5",
+                                "imdb": "nm7415549",
+                                "tmdb": 2987319,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Design",
+                        "jobs": [
+                            "Costume Design"
+                        ],
+                        "person": {
+                            "name": "Nicolas Olivier Richard",
+                            "ids": {
+                                "trakt": 2155895,
+                                "slug": "nicolas-olivier-richard",
+                                "imdb": null,
+                                "tmdb": 2974030,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Tor Nyman",
+                            "ids": {
+                                "trakt": 2155893,
+                                "slug": "tor-nyman",
+                                "imdb": null,
+                                "tmdb": 2974027,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Niklas Larsson",
+                            "ids": {
+                                "trakt": 1494869,
+                                "slug": "niklas-larsson-14b80e1b-e907-4a88-8e82-1b75a8ea7e2a",
+                                "imdb": null,
+                                "tmdb": 2312583,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Anna Odenhall",
+                            "ids": {
+                                "trakt": 1323168,
+                                "slug": "anna-odenhall",
+                                "imdb": null,
+                                "tmdb": 2162214,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Johannes Persson",
+                            "ids": {
+                                "trakt": 533053,
+                                "slug": "johannes-persson",
+                                "imdb": "nm3764732",
+                                "tmdb": 1451375,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "person": {
+                            "name": "Magnus Häll",
+                            "ids": {
+                                "trakt": 2125690,
+                                "slug": "magnus-hall",
+                                "imdb": null,
+                                "tmdb": 2941924,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Per Dickson",
+                            "ids": {
+                                "trakt": 1494871,
+                                "slug": "per-dickson",
+                                "imdb": null,
+                                "tmdb": 2312585,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Alain Darborg",
+                            "ids": {
+                                "trakt": 483056,
+                                "slug": "alain-darborg",
+                                "imdb": "nm2132883",
+                                "tmdb": 1394236,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "person": {
+                            "name": "Jesper Miller",
+                            "ids": {
+                                "trakt": 1063443,
+                                "slug": "jesper-miller",
+                                "imdb": null,
+                                "tmdb": 1969393,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Original Music Composer",
+                        "jobs": [
+                            "Original Music Composer"
+                        ],
+                        "person": {
+                            "name": "Carl-Johan Sevedag",
+                            "ids": {
+                                "trakt": 973454,
+                                "slug": "carl-johan-sevedag",
+                                "imdb": null,
+                                "tmdb": 1886236,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "person": {
+                            "name": "Lars Wignell",
+                            "ids": {
+                                "trakt": 837981,
+                                "slug": "lars-wignell",
+                                "imdb": "nm3568356",
+                                "tmdb": 1772738,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "person": {
+                            "name": "Oscar Lovnér",
+                            "ids": {
+                                "trakt": 834867,
+                                "slug": "oscar-lovner",
+                                "imdb": "nm1562916",
+                                "tmdb": 1770442,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Editor",
+                        "jobs": [
+                            "Sound Editor"
+                        ],
+                        "person": {
+                            "name": "Andreas Franck",
+                            "ids": {
+                                "trakt": 597763,
+                                "slug": "andreas-franck",
+                                "imdb": null,
+                                "tmdb": 1597623,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "person": {
+                            "name": "Anders Niva",
+                            "ids": {
+                                "trakt": 749559,
+                                "slug": "anders-niva",
+                                "imdb": null,
+                                "tmdb": 1717307,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Designer",
+                        "jobs": [
+                            "Sound Designer"
+                        ],
+                        "person": {
+                            "name": "Kenneth Skoglund",
+                            "ids": {
+                                "trakt": 261959,
+                                "slug": "kenneth-skoglund",
+                                "imdb": "nm0804566",
+                                "tmdb": 1111421,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "person": {
+                            "name": "Benjam Orre",
+                            "ids": {
+                                "trakt": 483057,
+                                "slug": "benjam-orre",
+                                "imdb": "nm2453766",
+                                "tmdb": 1394242,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Alain Darborg",
+                            "ids": {
+                                "trakt": 483056,
+                                "slug": "alain-darborg",
+                                "imdb": "nm2132883",
+                                "tmdb": 1394236,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 5.92812,
+            "votes": 473,
+            "distribution": {
+                "1": 6,
+                "2": 6,
+                "3": 14,
+                "4": 38,
+                "5": 97,
+                "6": 153,
+                "7": 109,
+                "8": 33,
+                "9": 8,
+                "10": 9
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "The Dark Knight",
+                "year": 2008,
+                "ids": {
+                    "trakt": 120,
+                    "slug": "the-dark-knight-2008",
+                    "imdb": "tt0468569",
+                    "tmdb": 155
+                }
+            },
+            {
+                "title": "The Dark Knight Rises",
+                "year": 2012,
+                "ids": {
+                    "trakt": 34073,
+                    "slug": "the-dark-knight-rises-2012",
+                    "imdb": "tt1345836",
+                    "tmdb": 49026
+                }
+            },
+            {
+                "title": "The Accountant",
+                "year": 2016,
+                "ids": {
+                    "trakt": 203309,
+                    "slug": "the-accountant-2016",
+                    "imdb": "tt2140479",
+                    "tmdb": 302946
+                }
+            },
+            {
+                "title": "Joker",
+                "year": 2019,
+                "ids": {
+                    "trakt": 322988,
+                    "slug": "joker-2019",
+                    "imdb": "tt7286456",
+                    "tmdb": 475557
+                }
+            },
+            {
+                "title": "Inglourious Basterds",
+                "year": 2009,
+                "ids": {
+                    "trakt": 10322,
+                    "slug": "inglourious-basterds-2009",
+                    "imdb": "tt0361748",
+                    "tmdb": 16869
+                }
+            },
+            {
+                "title": "Gone Girl",
+                "year": 2014,
+                "ids": {
+                    "trakt": 130355,
+                    "slug": "gone-girl-2014",
+                    "imdb": "tt2267998",
+                    "tmdb": 210577
+                }
+            },
+            {
+                "title": "Gravity",
+                "year": 2013,
+                "ids": {
+                    "trakt": 34093,
+                    "slug": "gravity-2013",
+                    "imdb": "tt1454468",
+                    "tmdb": 49047
+                }
+            },
+            {
+                "title": "The Imitation Game",
+                "year": 2014,
+                "ids": {
+                    "trakt": 127828,
+                    "slug": "the-imitation-game-2014",
+                    "imdb": "tt2084970",
+                    "tmdb": 205596
+                }
+            },
+            {
+                "title": "World War Z",
+                "year": 2013,
+                "ids": {
+                    "trakt": 53002,
+                    "slug": "world-war-z-2013",
+                    "imdb": "tt0816711",
+                    "tmdb": 72190
+                }
+            },
+            {
+                "title": "Shutter Island",
+                "year": 2010,
+                "ids": {
+                    "trakt": 6422,
+                    "slug": "shutter-island-2010",
+                    "imdb": "tt1130884",
+                    "tmdb": 11324
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 7567,
+            "plays": 10090,
+            "collectors": 3626,
+            "comments": 4,
+            "lists": 1081,
+            "votes": 473,
+            "recommended": 9
+        },
+        "watching": 0
+    },
+    "name": "Red Dot",
+    "videoType": "movie"
+}
