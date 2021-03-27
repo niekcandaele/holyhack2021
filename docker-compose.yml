@@ -52,7 +52,6 @@ services:
     networks:
       - elastic
     depends_on:
-      - redis
       - logstash
   # query api
   api:
