@@ -3,8 +3,9 @@ import { Link } from 'react-router-dom';
 import { TabSwitch } from 'components';
 import styled from 'styled';
 import { httpService } from 'services';
+import { Chip } from './Chip';
 
-const Container = styled.div`
+const Container = styled.div<{ loading?: boolean }>`
   box-shadow: ${({ theme }) => theme.shadow};
   background-color: white;
   border-radius: 1.5rem;
@@ -82,10 +83,10 @@ export const Top5: FC = () => {
           <List>
             <Header>
               <p className="title">Title</p>
-              <p className="genre">Genre</p>
               <p className="releaseDate">Release date</p>
+              <p className="genre">Genre</p>
             </Header>
-            {movieData.map((movie) => <Item genre="action" id={`${20}`} releaseDate="12/12/2021" title={movie._source.name} type="movie" />)}
+            {movieData.map((movie) => <Item genre={movie._source.genres} id={movie._id.split('_')[0]} releaseDate={movie._source.release_date} title={movie._source.name} type="movie" />)}
           </List>
         </Tab>
         <Tab label="Shows">
@@ -94,9 +95,8 @@ export const Top5: FC = () => {
             <Header>
               <p className="title">Title</p>
               <p className="genre">Genre</p>
-              <p className="releaseDate">Release date</p>
             </Header>
-            {showData.map((show) => <Item genre="action" id="20" releaseDate="12/12/2021" title={show._source.name} type="show"/>)}
+            {showData.map((show) => <Item genre={show._source.genres} id={show._id.split('_')[0]} title={show._source.name} type="show"/>)}
           </List>
         </Tab>
       </TabSwitch>
@@ -121,20 +121,20 @@ const ItemContainer = styled.li`
   }
   `;
 interface ItemProps {
-  releaseDate: string;
+  releaseDate?: string;
   title: string;
   type: 'movie' | 'show',
   id: string;
-  genre: string;
+  genre: [any];
 }
 
 const Item: FC<ItemProps> = ({ id, releaseDate, title, type, genre }) => {
   return (
     <ItemContainer>
-      <Link to={`${type}/${id}`}>
+      <Link to={`/${type}/${id}`}>
         <p className="title">{title}</p>
-        <p className="genre">{genre}</p>
-        <p className="releaseDate">{releaseDate}</p>
+        {releaseDate && <p className="releaseDate">{releaseDate}</p>}
+        <Chip text={genre[0].name}/>
       </Link>
     </ItemContainer>
   );

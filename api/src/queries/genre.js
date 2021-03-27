@@ -2,16 +2,6 @@ const esclient = require('../connection');
 const eb = require('elastic-builder');
 const esb = require('elastic-builder');
 
-const queryGenres = {
-    aggs: {
-        genres: {
-            terms: {
-                field: "genres"
-            }
-        }
-    }
-};
-
 const getGenres = async (req, res, idx) => {
     const requestBody = new esb.RequestBodySearch().agg(
         new esb.TermsAggregation('genres', 'genres')
@@ -34,14 +24,21 @@ const getGenres = async (req, res, idx) => {
     }
 };
 
-const countGenres = async (req, res, idx) => {
+const countGenres = async (req, res, idx, name) => {
     try {
+        console.log(name);
         const response = await esclient.count({
             index: idx,
-            body: queryGenres
+            body: {
+                    query: {
+                        "match": {
+                            "genre.name": name
+                        }
+                    }
+                }
         });
-        console.log(response.hit.hit)
-        res.json(response.hit.hit);
+        console.log(response)
+        res.json(response.count);
     } catch (e) {
         res.status(e.statuscode || 500);
         res.json({
