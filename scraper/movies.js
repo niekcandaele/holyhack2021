@@ -1,24 +1,8 @@
 const axios = require('axios').default
 const { traktMovies } = require('./trakt');
 const fs = require('fs');
-const { wait, logstash } = require('./lib');
+const { wait, logstash, store } = require('./lib');
 const baseUrlMovieDB = `https://api.themoviedb.org/3`;
-
-async function storeMovies(movies) {
-    for (let movie of movies) {
-        console.log(`Storing movie ${movie.title}`);
-        const traktData = await traktMovies(movie)
-        console.log(traktData);
-        movie.trakt = traktData
-        console.log(movie);
-
-        if (process.env.DEBUG) {
-            fs.writeFileSync(`./data/movies/${movie.id}.json`, JSON.stringify(movie, null, 4))
-        }
-
-        await logstash.send(movie)
-    }
-}
 
 async function getAllMovies(iterations) {
     let currentCursor = 1
@@ -32,7 +16,7 @@ async function getAllMovies(iterations) {
             currentCursor = iterations
         }
 
-        await storeMovies(res.data.results)
+        await store(res.data.results, 'movie')
         currentCursor++
         await wait()
     }
