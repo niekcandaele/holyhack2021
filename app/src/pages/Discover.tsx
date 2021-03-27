@@ -125,7 +125,7 @@ export const Discover: FC = () => {
               :
               <List>
                 {items.map((item) => {
-                  return <ItemCard id={item._source.id} imagePath={item._source.poster_path} key={item._id} title={item._source.original_title} />;
+                  return <ItemCard id={item._source.id} imagePath={item._source.poster_path} key={item._id} title={item._source.title} />;
                 })}
               </List>
       }
