@@ -2,7 +2,6 @@ const esclient = require('./connection');
 
 query = async (req, res, idx) => {
     if (!req.body || !req.body.query) {
-        console.log(req.headers);
         console.log(req.body);
         res.status(400);
         res.json({
@@ -12,7 +11,6 @@ query = async (req, res, idx) => {
         });
         return;
     }
-    console.log(req.body);
 
     try {
         const response = await esclient.search({
