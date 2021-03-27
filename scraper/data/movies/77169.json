@@ -1,0 +1,2316 @@
+{
+    "backdrop_path": "/gL8myjGc2qrmqVosyGm5CWTir9A.jpg",
+    "first_air_date": "2018-05-02",
+    "genre_ids": [
+        10759,
+        18
+    ],
+    "id": 77169,
+    "name": "Cobra Kai",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cobra Kai",
+    "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+    "popularity": 588.455,
+    "poster_path": "/obLBdhLxheKg8Li1qO11r2SwmYO.jpg",
+    "vote_average": 8.1,
+    "vote_count": 2808,
+    "created_by": [
+        {
+            "id": 68844,
+            "credit_id": "5ab47d649251417b020149ed",
+            "name": "Hayden Schlossberg",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 347335,
+            "credit_id": "5ab36c76c3a368615b004c6e",
+            "name": "Josh Heald",
+            "gender": 2,
+            "profile_path": null
+        },
+        {
+            "id": 1801553,
+            "credit_id": "5ab47d690e0a265f24017c48",
+            "name": "John Hurwitz",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        30
+    ],
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81002370",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-01-01",
+    "last_episode_to_air": {
+        "air_date": "2021-01-01",
+        "episode_number": 10,
+        "id": 2529899,
+        "name": "December 19",
+        "overview": "Old wounds begin to heal at a country club holiday party, but a brutal assault by Kreese's students leads to new betrayals and alliances.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/AvnkMnigxqapasWQCFpyXLPdxmG.jpg",
+        "vote_average": 8.8,
+        "vote_count": 6
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        },
+        {
+            "name": "YouTube Premium",
+            "id": 1436,
+            "logo_path": "/3p05CgodUb9gPayuliuhawNj1Wo.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 30,
+    "number_of_seasons": 3,
+    "production_companies": [
+        {
+            "id": 101024,
+            "logo_path": null,
+            "name": "Hurwitz & Schlossberg Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 11073,
+            "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+            "name": "Sony Pictures Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 907,
+            "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+            "name": "Overbrook Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2018-05-02",
+            "episode_count": 10,
+            "id": 99459,
+            "name": "Season 1",
+            "overview": "Decades after the tournament that changed their lives, the rivalry between Johnny and Daniel reignites.",
+            "poster_path": "/lLrKXnM3WPEtrPCd1aTHT6x3hn.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-04-24",
+            "episode_count": 10,
+            "id": 120052,
+            "name": "Season 2",
+            "overview": "Johnny continues building a new life, but a face from his past could disrupt his future. Meanwhile, Daniel opens a Miyagi-Do studio to rival Cobra Kai.",
+            "poster_path": "/77kyNXN6yCRjDt9eBMj96vLMx8W.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2021-01-01",
+            "episode_count": 10,
+            "id": 160283,
+            "name": "Season 3",
+            "overview": "With a new sensei at the helm of the Cobra Kai dojo, a three-way feud takes center stage. Old grudges — like Cobra Kai — never die.",
+            "poster_path": "/5DfWqh360sjMxqj3Th3DZdnFk3I.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Cobra Kai never dies.",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "קראטה קיד: קוברה קאי",
+                "country": "il"
+            },
+            {
+                "title": "Cobra Kai",
+                "country": "mx"
+            },
+            {
+                "title": "Cobra Kai",
+                "country": "ca"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Кобра Кай",
+                "overview": "Действието се развива 30 години след събитията от турнира по карате \"All Valley\" през 1984 година. Джони Лорънс иска отмъщение и отваря известната тренировъчна зала по карате \"Кобра Кай\". Това възобновява старото му съперничество с Даниъл ЛаРусо, който се опитва да запази баланса в живота си без ментора г-н Мияги.",
+                "language": "bg"
+            },
+            {
+                "title": null,
+                "overview": "Pár desítek let po turnaji, který mu změnil život Johnny Lawrence znovu otevírá neslavné dojo Cobra Kai a objevuje staré soupeření s úspěšným Danielem LaRussem, který se ve svém životě snaží udržet rovnováhu bez mentora mistra Miyagiho.",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "Tilbage i 1984 var Daniel-san hele symbolet på, at en ganske almindelig knægt sagtens kan sige fra, når bøllerne forsøger at tryne ham, og nu er han tilbage, for Cobra Kai er Karate Kid som TV-serie, og den første teaser er lovende. Han er faktisk helt bogstaveligt tilbage, for Ralph Macchio spiller igen Daniel LaRusso – selvfølgelig noget ældre – mens William Zabka er med som Johnny Lawrence. Og nej, der er ingen Mr. Miyaki, for skuespilleren Pat Morita døde i 2005 i en alder af 73 år. Selve handlingen i TV-serien cirkulerer om Cobra Kai dojoen, som Johnny Lawrence genåbner, mens Daniel-san åbenbart har problemer i livet efter at have mistet sin mentor. Johnny og Daniel ser stadig ikke ud til at være venner.",
+                "language": "da"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Jahrzehnte nach dem Turnier, das ihr Leben veränderte, flammt die Rivalität zwischen Johnny und Daniel in dieser Fortsetzung der „Karate Kid“-Filme erneut auf.",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Δεκαετίες μετά το τουρνουά που άλλαξε τη ζωή τους, η αντιπαλότητα ανάμεσα στον Τζόνι και τον Ντάνιελ αναζωπυρώνεται σε αυτό το σίκουελ των ταινιών \"Καράτε Κιντ\".",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+                "language": "en"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Cobra Kai tiene lugar treinta y cuatro años después de la película original y sigue la historia de Johnny Lawrence, que busca la redención reabriendo el infame dojo de karate, Cobra Kai, reavivando su rivalidad con un ahora exitoso, Daniel LaRusso, quien ha estado luchando por mantener el equilibrio en su vida sin la guía de su mentor, el Sr. Miyagi. La serie trata de dos hombres que enfrentan los demonios del pasado y resuelven las frustraciones del presente de la única manera en que saben hacerlo, a través del karate.",
+                "language": "es"
+            },
+            {
+                "title": null,
+                "overview": "Johnnyn ja Danielin elämän mullistaneesta turnauksesta on kulunut vuosikymmeniä. Nyt heidän välisensä kilpailu saa uutta kipinää Karate Kid -elokuvien jatko-osassa.",
+                "language": "fi"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Trente ans après le tournoi qui a changé leur vie, Johnny et Daniel voient leur rivalité ravivée dans cette suite de la saga Karaté Kid.",
+                "language": "fr"
+            },
+            {
+                "title": "קוברה קאי",
+                "overview": "ג'וני, כעת מבוגר אלכוהליסט מריר ובודד, שזנח את בנו ואשתו ועובד בעבודות מזדמנות, מחליט לפתוח מחדש את הדוג'ו \"קוברה קאי\" ודרכו מצטלבת עם זו של אויבו הוותיק. אף שדניאל הוא כעת איש משפחה שחי לכאורה חיים מושלמים, גם הוא לא השאיר מאחור את הזיכרונות הקשים. ברגע שהוא רואה שג'וני פתח מחדש את \"קוברה קאי\", הרגשות הישנים מציפים אותו. השניים שבים להיות אויבים — והפעם היריבות מערבת גם את הילדים של שניהם.",
+                "language": "he"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Cobra Kai održava se 30 godina nakon All Valley Karate turnira i pronalazi Johnnya Lawrencea u lovu na iskupljenje ponovnim otvaranjem zloglasnog Cobra Kai karate kluba. To ponovno uspostavlja njegovo staro suparništvo s uspješnim Danielom LaRussom, koji je radio na održavanju ravnoteže u svom životu bez mentora g. Miyagija.",
+                "language": "hr"
+            },
+            {
+                "title": null,
+                "overview": "Johnny Lawrence harminc évvel a karate világbajnokságon történtek után újranyitja a Cobra Kai karate dojo-t. Ezzel újrakezdődik a verseny közte és a sikeres Daniel LaRusso között.",
+                "language": "hu"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Cobra Kai si svolge 34 anni dopo gli eventi narrati dal primo film della serie Karate Kid e segue la vita del \"cattivo\" Johnny Lawrence. Da pupillo dell'upper class di All Valley, Lawrence si è trasformato in un fallito di mezza età che vive alla giornata. La strada verso la redenzione lo porterà a riaprire il famigerato dojo di karate Cobra Kai, riaccendendo in tal modo la sua rivalità con Daniel LaRusso, divenuto nel frattempo un facoltoso imprenditore. Dal canto suo LaRusso, dismessi i panni dell'allievo, decide d'insegnare il karate a un suo giovane dipendente, che a sua insaputa è il figlio di Johnny Lawrence che ha un pessimo rapporto con il padre, prendendo idealmente il posto del defunto signor Miyagi.",
+                "language": "it"
+            },
+            {
+                "title": "コブラ会",
+                "overview": "人生を変えた因縁の大会から30年以上経った今、永遠のライバル、ジョニーとダニエルが再び火花を散らす。名作映画「ベスト・キッド」の続編シリーズ。",
+                "language": "ja"
+            },
+            {
+                "title": "코브라 카이",
+                "overview": "1984년 가라데 토너먼트에서 다니엘 라루소에게 충격의 패배를 당한 조니 로렌스는 이후 인생이 완전 꼬이기 시작하였다.  여자 친구는 도망가고 하는 일마다 다 망하고 급기야 해고까지 당하게 된다. 하지만 다니엘 라루소는 그날 이후 승승장구 지역의 유명한 사업가로 성공하며 어느덧 조니의 원수이자 질투의 대상으로 떠오르게 된다. 조니는 마지막 보루로 코브라 카이라는 가라데 도장을 차리게 되고 첫 수제자인 미구엘을 훈련시켜 조니의 수제자와 대결 시키게 되는데...",
+                "language": "ko"
+            },
+            {
+                "title": "Kobra Kai",
+                "overview": "Po 30-ies metų nuo 1984-ųjų įvykių Slėnio Karate Turnyre, seriale rodoma, kaip Džonis Lorensas atidaro Kobra Kai klubą ir susiduria akistaton su Danieliu Laruso, kuris bando išlaikyti nugalėtojo statusą.",
+                "language": "lt"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Cobra Kai speelt zich af 30 jaar na de gebeurtenissen van het All Valley Karate toernooi in 1984. Johnny Lawrence staat op het punt om zijn beruchte Cobra Kai karate dojo te heropenen. Dit zorgt er voor dat zijn oude rivaliteit met Daniel LaRusso weer opspeelt, die zijn leven probeert te leiden zonder zijn mentor Mr. Miyagi.",
+                "language": "nl"
+            },
+            {
+                "title": null,
+                "overview": "Kilkadziesiąt lat po turnieju, który odmienił ich życie, Johnny i Daniel znów rozpoczynają rywalizację. Sequel filmów z serii „Karate Kid”.",
+                "language": "pl"
+            },
+            {
+                "title": "Cobra Kai",
+                "overview": "Trinta e quatro anos depois de Daniel Larusso (Ralph Macchio) e Johnny Lawrence (William Zabka) se enfrentarem, a rivalidade entre os dois ressurge quando Lawrence decide retomar sua vida por meio do infame dojo Cobra Kai. Esgotado e completamente falido, ele vê a oportunidade de treinar jovens socialmente inaptos - como seu vizinho Miguel (Xolo Maridueña) -, ajudando-os a se defender da hostilidade lá fora e transformando-os em verdadeiros campeões. Já Daniel, agora um revendedor de carros de sucesso, tenta superar seus próprios desafios sem a ajuda de seu mentor, o Sr. Miyagi. Ao saber que Lawrence reabriu o centro de artes marciais, Daniel resolve fazer o mesmo e inaugura sua própria escola, na esperança de arruinar os planos de seu adversário. Embora tenham amadurecido de maneiras diferentes, os dois homens ainda são confrontados com os demônios do passado e as frustrações do presente.",
+                "language": "pt"
+            },
+            {
+                "title": "Кобра Кай",
+                "overview": "Джонни Лоуренс раньше был настоящим хулиганом, но теперь прослыл типичным неудачником, который разорился и не знает, что делать в жизни дальше. Кажется, что нет ни одного варианта для удачного развития событий, ведь главный персонаж потерял все шансы на то, чтобы быть счастливым и успешным. Однако все же Джонни подумывает над тем, чтобы снова открыть школу \"Кобра Кай\", где можно было бы обучать зеленых юнцов карате. Главный герой обращается к Дэниелу ЛаРуссо, человеку, с которым когда-то давно был знаком, но расстался при печальных обстоятельствах. Джонни старается загладить конфликт из прошлого, чтобы со старым знакомым организовать занятия в школе \"Кобра Кай\". Дэн может ему помочь, ведь когда-то давно его учил мистер Мияги, гений восточных единоборств.",
+                "language": "ru"
+            },
+            {
+                "title": null,
+                "overview": "Tento seriál nadväzuje na Karate Kid, 30 rokov po udalostiach turnaja All Valley Karate v roku 1984. Johnny Lawrence je na ceste za vykúpením a opätovným otvorením neslávneho karate dojo Cobra Kai. Znovu sa objavuje staré súperenie s úspešným Danielom LaRussom, ktorý sa vo svojom živote snaží udržať rovnováhu bez mentora majstra Miyagiho.",
+                "language": "sk"
+            },
+            {
+                "title": null,
+                "overview": "\"Karate Kid\" filmlerinin devamı niteliğindeki bu dizide, hayatlarını değiştiren turnuvadan onlarca yıl sonra Johnny ile Daniel arasındaki rekabet yeniden kızışıyor.",
+                "language": "tr"
+            },
+            {
+                "title": "Кобра Кай",
+                "overview": "У минулому хуліган, а нині бідний невдаха, Джонні Лоуренс вважає, що єдиний його шанс повернутися до нормального життя — заново відкрити сумнозвісну школу карате «Кобра Кай». Спроба налагодити свої справи зводить Джонні з Деніелом Ларуссом — успішним чоловіком, який з усіх сил намагається зберігати життєву гармонію, якої колись вчив його містер Міяґі. Зустрівшись знову, Денні та Джонні намагаються позбутися демонів минулого та проблем сьогодення єдиним відомим їм способом — за допомогою карате.",
+                "language": "uk"
+            },
+            {
+                "title": "眼鏡蛇道館",
+                "overview": "《眼鏡蛇道館》是根據羅伯特·馬克·卡門（Robert Mark Kamen）創作的《空手道小子》（The Karate Kid）系列電影改編的美國武俠喜劇劇情片。\n\n改變一生的賽事結束數十年後，強尼和丹尼爾在《小子難纏》系列電影的續作中再次激烈交鋒。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Daniel LaRusso",
+                    "characters": [
+                        "Daniel LaRusso"
+                    ],
+                    "episode_count": 30,
+                    "person": {
+                        "name": "Ralph Macchio",
+                        "ids": {
+                            "trakt": 411998,
+                            "slug": "ralph-macchio",
+                            "imdb": "nm0001494",
+                            "tmdb": 2877,
+                            "tvrage": 29301
+                        }
+                    }
+                },
+                {
+                    "character": "Johnny Lawrence",
+                    "characters": [
+                        "Johnny Lawrence"
+                    ],
+                    "episode_count": 30,
+                    "person": {
+                        "name": "William Zabka",
+                        "ids": {
+                            "trakt": 416094,
+                            "slug": "william-zabka",
+                            "imdb": "nm0951420",
+                            "tmdb": 56124,
+                            "tvrage": 208116
+                        }
+                    }
+                },
+                {
+                    "character": "Amanda LaRusso",
+                    "characters": [
+                        "Amanda LaRusso"
+                    ],
+                    "episode_count": 30,
+                    "person": {
+                        "name": "Courtney Henggeler",
+                        "ids": {
+                            "trakt": 437184,
+                            "slug": "courtney-henggeler",
+                            "imdb": "nm1136435",
+                            "tmdb": 43483,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Miguel Diaz",
+                    "characters": [
+                        "Miguel Diaz"
+                    ],
+                    "episode_count": 30,
+                    "person": {
+                        "name": "Xolo Mariduena",
+                        "ids": {
+                            "trakt": 327001,
+                            "slug": "xolo-mariduena",
+                            "imdb": "nm4927704",
+                            "tmdb": 1185997,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Robby Keene",
+                    "characters": [
+                        "Robby Keene"
+                    ],
+                    "episode_count": 30,
+                    "person": {
+                        "name": "Tanner Buchanan",
+                        "ids": {
+                            "trakt": 271041,
+                            "slug": "tanner-buchanan",
+                            "imdb": "nm4120909",
+                            "tmdb": 1130555,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Samantha LaRusso",
+                    "characters": [
+                        "Samantha LaRusso"
+                    ],
+                    "episode_count": 30,
+                    "person": {
+                        "name": "Mary Mouser",
+                        "ids": {
+                            "trakt": 294822,
+                            "slug": "mary-mouser-7452fc72-170a-48b5-af6c-b301a03e449b",
+                            "imdb": "nm1597268",
+                            "tmdb": 1223084,
+                            "tvrage": 61819
+                        }
+                    }
+                },
+                {
+                    "character": "Eli \"Hawk\" Moskowitz",
+                    "characters": [
+                        "Eli \"Hawk\" Moskowitz"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Jacob Bertrand",
+                        "ids": {
+                            "trakt": 439240,
+                            "slug": "jacob-bertrand",
+                            "imdb": "nm3161916",
+                            "tmdb": 114446,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Demetri",
+                    "characters": [
+                        "Demetri"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Gianni Decenzo",
+                        "ids": {
+                            "trakt": 840606,
+                            "slug": "gianni-decenzo",
+                            "imdb": "nm4683059",
+                            "tmdb": 1776137,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "John Kreese",
+                    "characters": [
+                        "John Kreese"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Martin Kove",
+                        "ids": {
+                            "trakt": 415780,
+                            "slug": "martin-kove",
+                            "imdb": "nm0184392",
+                            "tmdb": 56117,
+                            "tvrage": 31484
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Bob Wilson",
+                            "ids": {
+                                "trakt": 1898250,
+                                "slug": "bob-wilson-e405130d-e6e3-430c-9a4c-ff141ce0058b",
+                                "imdb": null,
+                                "tmdb": 2710743,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Stacey Harman",
+                            "ids": {
+                                "trakt": 547045,
+                                "slug": "stacey-harman",
+                                "imdb": null,
+                                "tmdb": 1452578,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Christine Smith Shevchenko",
+                            "ids": {
+                                "trakt": 868212,
+                                "slug": "christine-smith-shevchenko",
+                                "imdb": "nm1259563",
+                                "tmdb": 1486206,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Dougie Cash",
+                            "ids": {
+                                "trakt": 1253652,
+                                "slug": "dougie-cash",
+                                "imdb": null,
+                                "tmdb": 2109685,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer, Co-Producer",
+                        "jobs": [
+                            "Associate Producer",
+                            "Co-Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Mallory Yund",
+                            "ids": {
+                                "trakt": 1332450,
+                                "slug": "mallory-yund",
+                                "imdb": null,
+                                "tmdb": 2171145,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Bob Dearden",
+                            "ids": {
+                                "trakt": 1491587,
+                                "slug": "bob-dearden",
+                                "imdb": null,
+                                "tmdb": 1475805,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Alexis Frank Koczara",
+                            "ids": {
+                                "trakt": 1494332,
+                                "slug": "alexis-frank-koczara",
+                                "imdb": "nm1263661",
+                                "tmdb": 1407521,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Will Smith",
+                            "ids": {
+                                "trakt": 8166,
+                                "slug": "will-smith",
+                                "imdb": "nm0000226",
+                                "tmdb": 2888,
+                                "tvrage": 9542
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer, Supervising Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer",
+                            "Supervising Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Luan Thomas",
+                            "ids": {
+                                "trakt": 1898251,
+                                "slug": "luan-thomas",
+                                "imdb": null,
+                                "tmdb": 2710745,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer, Supervising Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer",
+                            "Supervising Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Joe Piarulli",
+                            "ids": {
+                                "trakt": 1898252,
+                                "slug": "joe-piarulli",
+                                "imdb": null,
+                                "tmdb": 2710744,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "James Lassiter",
+                            "ids": {
+                                "trakt": 33549,
+                                "slug": "james-lassiter",
+                                "imdb": "nm0489876",
+                                "tmdb": 46080,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Susan Ekins",
+                            "ids": {
+                                "trakt": 42820,
+                                "slug": "susan-ekins",
+                                "imdb": "nm0252382",
+                                "tmdb": 57295,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Hayden Schlossberg",
+                            "ids": {
+                                "trakt": 53702,
+                                "slug": "hayden-schlossberg",
+                                "imdb": "nm1376383",
+                                "tmdb": 68844,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Caleeb Pinkett",
+                            "ids": {
+                                "trakt": 59999,
+                                "slug": "caleeb-pinkett",
+                                "imdb": "nm1496298",
+                                "tmdb": 74574,
+                                "tvrage": 68632
+                            }
+                        }
+                    },
+                    {
+                        "job": "Location Manager",
+                        "jobs": [
+                            "Location Manager"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "John Findley III",
+                            "ids": {
+                                "trakt": 71438,
+                                "slug": "john-findley-iii",
+                                "imdb": "nm0277557",
+                                "tmdb": 80856,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Supervising Producer",
+                        "jobs": [
+                            "Supervising Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Michael Jonathan Smith",
+                            "ids": {
+                                "trakt": 82007,
+                                "slug": "michael-jonathan-smith",
+                                "imdb": "nm3090562",
+                                "tmdb": 1308072,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Josh Heald",
+                            "ids": {
+                                "trakt": 84435,
+                                "slug": "josh-heald",
+                                "imdb": "nm0372222",
+                                "tmdb": 347335,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Jon Hurwitz",
+                            "ids": {
+                                "trakt": 426541,
+                                "slug": "jon-hurwitz",
+                                "imdb": "nm1375358",
+                                "tmdb": 68843,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Chase Paris",
+                            "ids": {
+                                "trakt": 259336,
+                                "slug": "chase-paris",
+                                "imdb": "nm2987812",
+                                "tmdb": 1345610,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Tara Feldstein Bennett",
+                            "ids": {
+                                "trakt": 259337,
+                                "slug": "tara-feldstein-bennett",
+                                "imdb": "nm2350634",
+                                "tmdb": 1345611,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Executive Producer",
+                        "jobs": [
+                            "Co-Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Ralph Macchio",
+                            "ids": {
+                                "trakt": 411998,
+                                "slug": "ralph-macchio",
+                                "imdb": "nm0001494",
+                                "tmdb": 2877,
+                                "tvrage": 29301
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Executive Producer",
+                        "jobs": [
+                            "Co-Executive Producer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "William Zabka",
+                            "ids": {
+                                "trakt": 416094,
+                                "slug": "william-zabka",
+                                "imdb": "nm0951420",
+                                "tmdb": 56124,
+                                "tvrage": 208116
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Olubajo Sonubi",
+                            "ids": {
+                                "trakt": 1948253,
+                                "slug": "olubajo-sonubi",
+                                "imdb": "nm4429589",
+                                "tmdb": 2761447,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Executive Producer",
+                        "jobs": [
+                            "Co-Executive Producer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Jason Belleville",
+                            "ids": {
+                                "trakt": 1691534,
+                                "slug": "jason-belleville",
+                                "imdb": null,
+                                "tmdb": 1326099,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting Associate",
+                        "jobs": [
+                            "Casting Associate"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Max Goudsmit",
+                            "ids": {
+                                "trakt": 1948251,
+                                "slug": "max-goudsmit",
+                                "imdb": "nm1141455",
+                                "tmdb": 2761559,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting Associate",
+                        "jobs": [
+                            "Casting Associate"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Carole Kaboya",
+                            "ids": {
+                                "trakt": 1948252,
+                                "slug": "carole-kaboya",
+                                "imdb": "nm3215411",
+                                "tmdb": 2761396,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Matt Lottman",
+                            "ids": {
+                                "trakt": 1948254,
+                                "slug": "matt-lottman",
+                                "imdb": "nm9814359",
+                                "tmdb": 2761507,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Ahmadou Seck",
+                            "ids": {
+                                "trakt": 1948255,
+                                "slug": "ahmadou-seck",
+                                "imdb": "nm5426706",
+                                "tmdb": 2761508,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Consulting Producer",
+                        "jobs": [
+                            "Consulting Producer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Matthew McManus",
+                            "ids": {
+                                "trakt": 217431,
+                                "slug": "matthew-mcmanus",
+                                "imdb": "nm2830317",
+                                "tmdb": 1007685,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Consulting Producer",
+                        "jobs": [
+                            "Consulting Producer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Kevin McManus",
+                            "ids": {
+                                "trakt": 154372,
+                                "slug": "kevin-mcmanus",
+                                "imdb": "nm0573150",
+                                "tmdb": 223823,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "ADR Voice Casting",
+                        "jobs": [
+                            "ADR Voice Casting"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Mark Sussman",
+                            "ids": {
+                                "trakt": 127535,
+                                "slug": "mark-sussman",
+                                "imdb": "nm0839941",
+                                "tmdb": 184314,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Unit Production Manager",
+                        "jobs": [
+                            "Unit Production Manager"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Dieter Busch",
+                            "ids": {
+                                "trakt": 533601,
+                                "slug": "dieter-busch",
+                                "imdb": "nm0123969",
+                                "tmdb": 1451798,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "ADR Voice Casting",
+                        "jobs": [
+                            "ADR Voice Casting"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Patty Connolly",
+                            "ids": {
+                                "trakt": 561522,
+                                "slug": "patty-connolly",
+                                "imdb": "nm4023744",
+                                "tmdb": 1535105,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Accountant",
+                        "jobs": [
+                            "Production Accountant"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Jerry Shih",
+                            "ids": {
+                                "trakt": 991001,
+                                "slug": "jerry-shih",
+                                "imdb": null,
+                                "tmdb": 1901873,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Shane Keller",
+                            "ids": {
+                                "trakt": 1646540,
+                                "slug": "shane-keller-e45c960b-ed48-45a6-ad2a-e3ea7b93ab70",
+                                "imdb": "nm0445762",
+                                "tmdb": 2478846,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Katrin L. Goodson",
+                            "ids": {
+                                "trakt": 1487361,
+                                "slug": "katrin-l-goodson",
+                                "imdb": null,
+                                "tmdb": 1897400,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Cindy Kerber",
+                            "ids": {
+                                "trakt": 402538,
+                                "slug": "cindy-kerber",
+                                "imdb": "nm0449203",
+                                "tmdb": 1236255,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Michael Carroll",
+                            "ids": {
+                                "trakt": 1948261,
+                                "slug": "michael-carroll-0115a082-52df-445a-8de1-f2fbb081c70a",
+                                "imdb": "nm1404692",
+                                "tmdb": 1526725,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Jahnel Curfman",
+                            "ids": {
+                                "trakt": 433321,
+                                "slug": "jahnel-curfman",
+                                "imdb": "nm3633562",
+                                "tmdb": 1207248,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 21,
+                        "person": {
+                            "name": "Hiro Koda",
+                            "ids": {
+                                "trakt": 54132,
+                                "slug": "hiro-koda",
+                                "imdb": "nm0462622",
+                                "tmdb": 92493,
+                                "tvrage": 62030
+                            }
+                        }
+                    },
+                    {
+                        "job": "Post Production Assistant",
+                        "jobs": [
+                            "Post Production Assistant"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Aaron Schmidt",
+                            "ids": {
+                                "trakt": 1069124,
+                                "slug": "aaron-schmidt-e74fa1af-ab6e-4721-8898-1ad378be5215",
+                                "imdb": null,
+                                "tmdb": 1974794,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Loader",
+                        "jobs": [
+                            "Loader"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Nick Cannon",
+                            "ids": {
+                                "trakt": 1236078,
+                                "slug": "nick-cannon-7983924a-3351-4697-a15a-0ed0240d1329",
+                                "imdb": null,
+                                "tmdb": 2091395,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "In Memory Of",
+                        "jobs": [
+                            "In Memory Of"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Rob Garrison",
+                            "ids": {
+                                "trakt": 16452,
+                                "slug": "rob-garrison",
+                                "imdb": "nm0308459",
+                                "tmdb": 23919,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Original Music Composer",
+                        "jobs": [
+                            "Original Music Composer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Zach Robinson",
+                            "ids": {
+                                "trakt": 513898,
+                                "slug": "zach-robinson",
+                                "imdb": "nm0733195",
+                                "tmdb": 1433463,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music Supervisor",
+                        "jobs": [
+                            "Music Supervisor"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Gary Calamar",
+                            "ids": {
+                                "trakt": 628876,
+                                "slug": "gary-calamar",
+                                "imdb": null,
+                                "tmdb": 1619480,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Original Music Composer",
+                        "jobs": [
+                            "Original Music Composer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Leo Birenberg",
+                            "ids": {
+                                "trakt": 209129,
+                                "slug": "leo-birenberg",
+                                "imdb": "nm3681192",
+                                "tmdb": 1272997,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Mike Filosa",
+                            "ids": {
+                                "trakt": 1080191,
+                                "slug": "mike-filosa",
+                                "imdb": null,
+                                "tmdb": 1985399,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Boom Operator",
+                        "jobs": [
+                            "Boom Operator"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Matt Robinson",
+                            "ids": {
+                                "trakt": 1794368,
+                                "slug": "matt-robinson-0faa7e32-ae4f-4ddb-aebf-15c675177df8",
+                                "imdb": null,
+                                "tmdb": 2607340,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Supervising Sound Editor",
+                        "jobs": [
+                            "Supervising Sound Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Patrick Hogan",
+                            "ids": {
+                                "trakt": 490397,
+                                "slug": "patrick-hogan-f8539f78-9a9e-4ec9-b702-36a628828036",
+                                "imdb": "nm0389596",
+                                "tmdb": 1403556,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Staff Writer, Story",
+                        "jobs": [
+                            "Staff Writer",
+                            "Story"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Alyssa Forleiter",
+                            "ids": {
+                                "trakt": 1393822,
+                                "slug": "alyssa-forleiter",
+                                "imdb": "nm3969106",
+                                "tmdb": 2205530,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Characters",
+                        "jobs": [
+                            "Characters"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Robert Mark Kamen",
+                            "ids": {
+                                "trakt": 416,
+                                "slug": "robert-mark-kamen",
+                                "imdb": "nm0436543",
+                                "tmdb": 61,
+                                "tvrage": 46593
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Hayden Schlossberg",
+                            "ids": {
+                                "trakt": 53702,
+                                "slug": "hayden-schlossberg",
+                                "imdb": "nm1376383",
+                                "tmdb": 68844,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Josh Heald",
+                            "ids": {
+                                "trakt": 84435,
+                                "slug": "josh-heald",
+                                "imdb": "nm0372222",
+                                "tmdb": 347335,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Jon Hurwitz",
+                            "ids": {
+                                "trakt": 426541,
+                                "slug": "jon-hurwitz",
+                                "imdb": "nm1375358",
+                                "tmdb": 68843,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 18,
+                        "person": {
+                            "name": "Michael Jonathan Smith",
+                            "ids": {
+                                "trakt": 82007,
+                                "slug": "michael-jonathan-smith",
+                                "imdb": "nm3090562",
+                                "tmdb": 1308072,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Story Editor",
+                        "jobs": [
+                            "Executive Story Editor"
+                        ],
+                        "episode_count": 14,
+                        "person": {
+                            "name": "Stacey Harman",
+                            "ids": {
+                                "trakt": 547045,
+                                "slug": "stacey-harman",
+                                "imdb": null,
+                                "tmdb": 1452578,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Luan Thomas",
+                            "ids": {
+                                "trakt": 1898251,
+                                "slug": "luan-thomas",
+                                "imdb": null,
+                                "tmdb": 2710745,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Joe Piarulli",
+                            "ids": {
+                                "trakt": 1898252,
+                                "slug": "joe-piarulli",
+                                "imdb": null,
+                                "tmdb": 2710744,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Kevin McManus",
+                            "ids": {
+                                "trakt": 154372,
+                                "slug": "kevin-mcmanus",
+                                "imdb": "nm0573150",
+                                "tmdb": 223823,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Matthew McManus",
+                            "ids": {
+                                "trakt": 217431,
+                                "slug": "matthew-mcmanus",
+                                "imdb": "nm2830317",
+                                "tmdb": 1007685,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Bob Dearden",
+                            "ids": {
+                                "trakt": 1491587,
+                                "slug": "bob-dearden",
+                                "imdb": null,
+                                "tmdb": 1475805,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Teleplay",
+                        "jobs": [
+                            "Teleplay"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jason Belleville",
+                            "ids": {
+                                "trakt": 1691534,
+                                "slug": "jason-belleville",
+                                "imdb": null,
+                                "tmdb": 1326099,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Mattea Greene",
+                            "ids": {
+                                "trakt": 2075555,
+                                "slug": "mattea-greene",
+                                "imdb": "nm8154835",
+                                "tmdb": 2891475,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Property Master",
+                        "jobs": [
+                            "Property Master"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "James Brothers",
+                            "ids": {
+                                "trakt": 2022375,
+                                "slug": "james-brothers-c7922346-da84-415c-bcc0-ec5c3c454037",
+                                "imdb": null,
+                                "tmdb": 2838491,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Ryan Berg",
+                            "ids": {
+                                "trakt": 216030,
+                                "slug": "ryan-berg",
+                                "imdb": "nm2609842",
+                                "tmdb": 1002643,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Eric Berg",
+                            "ids": {
+                                "trakt": 216031,
+                                "slug": "eric-berg",
+                                "imdb": "nm2784925",
+                                "tmdb": 1002644,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Leadman",
+                        "jobs": [
+                            "Leadman"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Tommy Wilson",
+                            "ids": {
+                                "trakt": 1977552,
+                                "slug": "tommy-wilson-34fe64a2-8cd1-4d57-8ac0-da287ed711ec",
+                                "imdb": "nm9546229",
+                                "tmdb": 2791804,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Costume Designer",
+                        "jobs": [
+                            "Costume Designer"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Frank Helmer",
+                            "ids": {
+                                "trakt": 37877,
+                                "slug": "frank-helmer",
+                                "imdb": "nm0375680",
+                                "tmdb": 52261,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Hayden Schlossberg",
+                            "ids": {
+                                "trakt": 53702,
+                                "slug": "hayden-schlossberg",
+                                "imdb": "nm1376383",
+                                "tmdb": 68844,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Jon Hurwitz",
+                            "ids": {
+                                "trakt": 426541,
+                                "slug": "jon-hurwitz",
+                                "imdb": "nm1375358",
+                                "tmdb": 68843,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Script Supervisor",
+                        "jobs": [
+                            "Script Supervisor"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Emily Pendas",
+                            "ids": {
+                                "trakt": 490413,
+                                "slug": "emily-pendas",
+                                "imdb": "nm1119287",
+                                "tmdb": 1403573,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Script Coordinator",
+                        "jobs": [
+                            "Script Coordinator"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Mattea Greene",
+                            "ids": {
+                                "trakt": 2075555,
+                                "slug": "mattea-greene",
+                                "imdb": "nm8154835",
+                                "tmdb": 2891475,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Jim Lanier",
+                            "ids": {
+                                "trakt": 2102136,
+                                "slug": "jim-lanier",
+                                "imdb": "nm4624712",
+                                "tmdb": 2918752,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Jennifer Celotta",
+                            "ids": {
+                                "trakt": 398717,
+                                "slug": "jennifer-celotta",
+                                "imdb": "nm0148180",
+                                "tmdb": 1220649,
+                                "tvrage": 11557
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Josh Heald",
+                            "ids": {
+                                "trakt": 84435,
+                                "slug": "josh-heald",
+                                "imdb": "nm0372222",
+                                "tmdb": 347335,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Director",
+                        "jobs": [
+                            "First Assistant Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Kevin M. Berg",
+                            "ids": {
+                                "trakt": 2102135,
+                                "slug": "kevin-m-berg",
+                                "imdb": "nm9836431",
+                                "tmdb": 2918751,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Steve Pink",
+                            "ids": {
+                                "trakt": 412111,
+                                "slug": "steve-pink-43241aab-3798-4869-934f-cdf96965e98f",
+                                "imdb": "nm0684336",
+                                "tmdb": 3227,
+                                "tvrage": 118668
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Michael Grossman",
+                            "ids": {
+                                "trakt": 104178,
+                                "slug": "michael-grossman",
+                                "imdb": "nm0343687",
+                                "tmdb": 43222,
+                                "tvrage": 11758
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Lin Oeding",
+                            "ids": {
+                                "trakt": 177342,
+                                "slug": "lin-oeding",
+                                "imdb": "nm0644204",
+                                "tmdb": 1031463,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Steven K. Tsuchida",
+                            "ids": {
+                                "trakt": 363628,
+                                "slug": "steven-k-tsuchida",
+                                "imdb": "nm1286069",
+                                "tmdb": 1308925,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Paul Varrieur",
+                            "ids": {
+                                "trakt": 485870,
+                                "slug": "paul-varrieur",
+                                "imdb": "nm0890196",
+                                "tmdb": 1408719,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "\"A\" Camera Operator",
+                        "jobs": [
+                            "\"A\" Camera Operator"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Richard Cantu",
+                            "ids": {
+                                "trakt": 573809,
+                                "slug": "richard-cantu",
+                                "imdb": null,
+                                "tmdb": 1561052,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Key Grip",
+                        "jobs": [
+                            "Key Grip"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Benny Smyth",
+                            "ids": {
+                                "trakt": 855521,
+                                "slug": "benny-smyth",
+                                "imdb": null,
+                                "tmdb": 1789321,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Best Boy Grip",
+                        "jobs": [
+                            "Best Boy Grip"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Nick Barros",
+                            "ids": {
+                                "trakt": 1123427,
+                                "slug": "nick-barros",
+                                "imdb": null,
+                                "tmdb": 2023132,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant \"B\" Camera",
+                        "jobs": [
+                            "First Assistant \"B\" Camera"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Ross Davis",
+                            "ids": {
+                                "trakt": 1146302,
+                                "slug": "ross-davis-eb2cbd3c-00a9-4098-b5f1-60e5306bbec5",
+                                "imdb": "nm3268071",
+                                "tmdb": 2045338,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant \"A\" Camera",
+                        "jobs": [
+                            "First Assistant \"A\" Camera"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Larry Gianneschi IV",
+                            "ids": {
+                                "trakt": 1218078,
+                                "slug": "larry-gianneschi-iv",
+                                "imdb": null,
+                                "tmdb": 2073567,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "\"B\" Camera Operator",
+                        "jobs": [
+                            "\"B\" Camera Operator"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Josiah T. Morgan",
+                            "ids": {
+                                "trakt": 2104692,
+                                "slug": "josiah-t-morgan",
+                                "imdb": "nm3254569",
+                                "tmdb": 2921200,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "\"B\" Camera Operator",
+                        "jobs": [
+                            "\"B\" Camera Operator"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Tim Fabrizio",
+                            "ids": {
+                                "trakt": 763614,
+                                "slug": "tim-fabrizio",
+                                "imdb": null,
+                                "tmdb": 1725760,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "lighting": [
+                    {
+                        "job": "Gaffer",
+                        "jobs": [
+                            "Gaffer"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Tully McCulloch",
+                            "ids": {
+                                "trakt": 1010895,
+                                "slug": "tully-mcculloch",
+                                "imdb": null,
+                                "tmdb": 1920325,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Best Boy Electric",
+                        "jobs": [
+                            "Best Boy Electric"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "David Taylor",
+                            "ids": {
+                                "trakt": 1979881,
+                                "slug": "david-taylor-8c099265-2e0a-4acb-a636-703e9cf603de",
+                                "imdb": null,
+                                "tmdb": 2793433,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Zack Arnold",
+                            "ids": {
+                                "trakt": 251431,
+                                "slug": "zack-arnold",
+                                "imdb": "nm2094093",
+                                "tmdb": 978686,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Chris Cavanagh",
+                            "ids": {
+                                "trakt": 1329333,
+                                "slug": "chris-cavanagh",
+                                "imdb": null,
+                                "tmdb": 2168347,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Dexter Adriano",
+                            "ids": {
+                                "trakt": 768735,
+                                "slug": "dexter-adriano",
+                                "imdb": "nm0012478",
+                                "tmdb": 1730154,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jennifer Macfarlane",
+                            "ids": {
+                                "trakt": 1770057,
+                                "slug": "jennifer-macfarlane",
+                                "imdb": "nm0532218",
+                                "tmdb": 2584618,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Editor",
+                        "jobs": [
+                            "Assistant Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Len Ciccotello",
+                            "ids": {
+                                "trakt": 912080,
+                                "slug": "len-ciccotello",
+                                "imdb": null,
+                                "tmdb": 1829320,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Bartholomew Burcham",
+                            "ids": {
+                                "trakt": 1738812,
+                                "slug": "bartholomew-burcham",
+                                "imdb": null,
+                                "tmdb": 1720536,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "John Hurwitz",
+                            "ids": {
+                                "trakt": 867942,
+                                "slug": "john-hurwitz",
+                                "imdb": "nm0403795",
+                                "tmdb": 1801553,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Hayden Schlossberg",
+                            "ids": {
+                                "trakt": 53702,
+                                "slug": "hayden-schlossberg",
+                                "imdb": "nm1376383",
+                                "tmdb": 68844,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Josh Heald",
+                            "ids": {
+                                "trakt": 84435,
+                                "slug": "josh-heald",
+                                "imdb": "nm0372222",
+                                "tmdb": 347335,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.32,
+            "votes": 2775,
+            "distribution": {
+                "1": 25,
+                "2": 8,
+                "3": 6,
+                "4": 19,
+                "5": 41,
+                "6": 144,
+                "7": 399,
+                "8": 791,
+                "9": 657,
+                "10": 685
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Game of Thrones",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1390,
+                    "slug": "game-of-thrones",
+                    "tvdb": 121361,
+                    "imdb": "tt0944947",
+                    "tmdb": 1399,
+                    "tvrage": 24493
+                }
+            },
+            {
+                "title": "The Walking Dead",
+                "year": 2010,
+                "ids": {
+                    "trakt": 1393,
+                    "slug": "the-walking-dead",
+                    "tvdb": 153021,
+                    "imdb": "tt1520211",
+                    "tmdb": 1402,
+                    "tvrage": 25056
+                }
+            },
+            {
+                "title": "Arrow",
+                "year": 2012,
+                "ids": {
+                    "trakt": 1403,
+                    "slug": "arrow",
+                    "tvdb": 257655,
+                    "imdb": "tt2193021",
+                    "tmdb": 1412,
+                    "tvrage": 30715
+                }
+            },
+            {
+                "title": "Homeland",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1398,
+                    "slug": "homeland",
+                    "tvdb": 247897,
+                    "imdb": "tt1796960",
+                    "tmdb": 1407,
+                    "tvrage": 27811
+                }
+            },
+            {
+                "title": "Vikings",
+                "year": 2013,
+                "ids": {
+                    "trakt": 43973,
+                    "slug": "vikings",
+                    "tvdb": 260449,
+                    "imdb": "tt2306299",
+                    "tmdb": 44217,
+                    "tvrage": 31136
+                }
+            },
+            {
+                "title": "Marvel's Agents of S.H.I.E.L.D.",
+                "year": 2013,
+                "ids": {
+                    "trakt": 1394,
+                    "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+                    "tvdb": 263365,
+                    "imdb": "tt2364582",
+                    "tmdb": 1403,
+                    "tvrage": 32656
+                }
+            },
+            {
+                "title": "Prison Break",
+                "year": 2005,
+                "ids": {
+                    "trakt": 2274,
+                    "slug": "prison-break",
+                    "tvdb": 360115,
+                    "imdb": "tt0455275",
+                    "tmdb": 2288,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Doctor Who",
+                "year": 2005,
+                "ids": {
+                    "trakt": 56872,
+                    "slug": "doctor-who-2005",
+                    "tvdb": 78804,
+                    "imdb": "tt0436992",
+                    "tmdb": 57243,
+                    "tvrage": 3332
+                }
+            },
+            {
+                "title": "Marvel's Daredevil",
+                "year": 2015,
+                "ids": {
+                    "trakt": 77938,
+                    "slug": "marvel-s-daredevil",
+                    "tvdb": 281662,
+                    "imdb": "tt3322312",
+                    "tmdb": 61889,
+                    "tvrage": 38796
+                }
+            },
+            {
+                "title": "The 100",
+                "year": 2014,
+                "ids": {
+                    "trakt": 48562,
+                    "slug": "the-100",
+                    "tvdb": 268592,
+                    "imdb": "tt2661044",
+                    "tmdb": 48866,
+                    "tvrage": 34770
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 103083,
+            "plays": 2000326,
+            "collectors": 209827,
+            "collected_episodes": 3074982,
+            "comments": 36,
+            "lists": 20979,
+            "votes": 2775,
+            "recommended": 218
+        },
+        "watching": 3
+    },
+    "title": "Cobra Kai",
+    "videoType": "show"
+}

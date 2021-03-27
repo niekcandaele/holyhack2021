@@ -1,0 +1,779 @@
+{
+    "backdrop_path": "/aqrvHKPWe5VedvvJIz7FWrtcoQh.jpg",
+    "first_air_date": "2021-03-19",
+    "genre_ids": [
+        10759,
+        80,
+        18
+    ],
+    "id": 117023,
+    "name": "Sky Rojo",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Sky Rojo",
+    "overview": "On the run from their pimp and his henchmen, three women embark on a wild and crazy journey in search of freedom.",
+    "popularity": 781.068,
+    "poster_path": "/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg",
+    "vote_average": 8.1,
+    "vote_count": 69,
+    "created_by": [
+        {
+            "id": 82725,
+            "credit_id": "600709e7869e75003f85e5af",
+            "name": "Álex Pina",
+            "gender": 2,
+            "profile_path": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+        },
+        {
+            "id": 1637084,
+            "credit_id": "60070ab647c9fb003ea2939e",
+            "name": "Esther Martínez Lobato",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        26,
+        22,
+        27,
+        31
+    ],
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81012637",
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2021-03-19",
+    "last_episode_to_air": {
+        "air_date": "2021-03-19",
+        "episode_number": 8,
+        "id": 2661843,
+        "name": "Bear Trap",
+        "overview": "Wendy runs into a man who won't take no for an answer. Romeo demands that Moisés prove his loyalty. The trio launch a plan to reclaim what's theirs.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/myoCilBffb3Q0vVUpw32jC98rYG.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "production_companies": [
+        {
+            "id": 100783,
+            "logo_path": "/1q2hr0UqW0PdMwyfWpnVbwmV1y3.png",
+            "name": "Vancouver Media",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-19",
+            "episode_count": 8,
+            "id": 177276,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [],
+        "translations": [
+            {
+                "title": "Holky z červeného gauče",
+                "overview": "Tři ženy přinucené k prostituci zažijí na útěku před pasákem a jeho nohsledy šílené věci.",
+                "language": "cs"
+            },
+            {
+                "title": "Sky Rojo",
+                "overview": "Drei Prostituierte fliehen aus dem Bordell, in dem sie leben, nachdem sie ihren Zuhälter schwer verletzt haben. Die Kubanerin, Argentinierin und Spanierin wissen, in welche Gefahr sie sich dadurch gebracht haben. Auch in der Vergangenheit haben sie schon Verbrechen begangen. Auf ihrem Roadtrip sind ihnen die Killer des Zuhälters dicht auf den Fersen, und stellen sie vor die Wahl: Fliehen oder gegen sie kämpfen?",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Η ιστορία μας ξεκινά στο Las Novias, ένα νυχτερινό club στο οποίο εκδίδονται γυναίκες. Βλέπουμε πως λειτουργεί το μαγαζί και πόσο δύσκολο είναι να ξεμπλέξει κάποιος από αυτό το κύκλωμα. Κάπως έτσι λοιπόν ξεκινά η ιστορία μας με την Gina να προσπαθεί να εξοφλήσει τις οφειλές της για να ξεκινήσει μια νέα ζωή. Κάτι τέτοιο δεν γίνεται δεκτό από τον νταβαντζη της Romeo που την απειλεί για να μην φύγει. Όλο αυτό είναι αφορμή για την έναρξη μιας πολύ τρελής ιστορίας.",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "On the run from their pimp and his henchmen, three women embark on a wild and crazy journey in search of freedom.",
+                "language": "en"
+            },
+            {
+                "title": "Sky Rojo",
+                "overview": "",
+                "language": "es"
+            },
+            {
+                "title": null,
+                "overview": "Plusieurs événements funestes survenus au sein d'une maison close lancent trois femmes au lourd passé dans une course effrénée, loin de leur mac et de ses sbires.",
+                "language": "fr"
+            },
+            {
+                "title": "Túl a vörös kanapén",
+                "overview": "Három nő őrülten zabolátlan útja a szabadságért a futtatójuk és verőemberei elől menekülve. A Nagy pénzrablás készítőitől.",
+                "language": "hu"
+            },
+            {
+                "title": "Sky Rojo",
+                "overview": "In fuga dal loro protettore e dai suoi scagnozzi, tre donne intraprendono un folle viaggio in cerca della libertà.",
+                "language": "it"
+            },
+            {
+                "title": "스카이 로호",
+                "overview": "각자 사연을 안고 매춘 클럽에서 일하는 세 여자. 우발적인 몸싸움 끝에 포주에게 치명상을 입히면서 무지막지한 도주를 시작한다. 놈의 수하들을 피해 끝까지 달려라. 이 고비만 넘기면 과거에서 벗어나 자유와 새 인생을 거머쥘 수 있으니.",
+                "language": "ko"
+            },
+            {
+                "title": null,
+                "overview": "Tragiczne wydarzenie sprawia, że trzy kobiety muszą salwować się szaloną ucieczką przed swoim alfonsem, jego pachołkami oraz własną mroczną przeszłością.",
+                "language": "pl"
+            },
+            {
+                "title": "Sky Rojo",
+                "overview": "Uma fatal sucessão de acontecimentos num bordel lança três mulheres atormentadas pelo passado numa corrida desenfreada para escapar ao seu chulo e aos esbirros dele.",
+                "language": "pt"
+            },
+            {
+                "title": "Красный дерматин",
+                "overview": "После роковых событий в борделе три женщины с темным прошлым пускаются в бега от своего сутенера и его приспешников.",
+                "language": "ru"
+            },
+            {
+                "title": "Sky Rojo",
+                "overview": "Geçmiş travmaların izlerini taşıyan üç kadın, bir genelevdeki ölümcül olayların ardından muhabbet tellallarından ve onun adamlarından kaçarak çılgın bir maceraya atılır. (18 yaş ve üzeri için uygundur)",
+                "language": "tr"
+            },
+            {
+                "title": "Багряний дерматин",
+                "overview": "Троє дівчат, не «зразкової поведінки», рятуючись від свого сутенера та його поплічників, пускаються у карколомну та безумну втечу, у пошуках свободи та кращої долі.",
+                "language": "uk"
+            },
+            {
+                "title": "Chân Trời Đỏ - Sky Rojo",
+                "overview": "Một biến cố chết chóc tại một nhà thổ khiến ba người phụ nữ bị quá khứ ám ảnh phải chạy trốn khỏi gã ma cô và tay chân của hắn.",
+                "language": "vi"
+            },
+            {
+                "title": "紅日狂花",
+                "overview": "妓院出了一連串要命的事件後，三名飽受過往糾纏的女子想盡辦法，逃離老闆與他的爪牙。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Gina",
+                    "characters": [
+                        "Gina"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Yany Prado",
+                        "ids": {
+                            "trakt": 2126112,
+                            "slug": "yany-prado",
+                            "imdb": "nm7108780",
+                            "tmdb": 2943316,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Wendy",
+                    "characters": [
+                        "Wendy"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Lali Espósito",
+                        "ids": {
+                            "trakt": 410461,
+                            "slug": "lali-esposito-410461",
+                            "imdb": "nm1373106",
+                            "tmdb": 1246184,
+                            "tvrage": 237520
+                        }
+                    }
+                },
+                {
+                    "character": "Romeo",
+                    "characters": [
+                        "Romeo"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Asier Etxeandia",
+                        "ids": {
+                            "trakt": 421932,
+                            "slug": "asier-etxeandia",
+                            "imdb": "nm1292111",
+                            "tmdb": 102228,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Coral",
+                    "characters": [
+                        "Coral"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Verónica Sánchez",
+                        "ids": {
+                            "trakt": 435204,
+                            "slug": "veronica-sanchez",
+                            "imdb": "nm0845189",
+                            "tmdb": 90773,
+                            "tvrage": 201627
+                        }
+                    }
+                },
+                {
+                    "character": "Moises",
+                    "characters": [
+                        "Moises"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Miguel Ángel Silvestre",
+                        "ids": {
+                            "trakt": 440985,
+                            "slug": "miguel-angel-silvestre",
+                            "imdb": "nm1775614",
+                            "tmdb": 121689,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Christian",
+                    "characters": [
+                        "Christian"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Enric Auquer",
+                        "ids": {
+                            "trakt": 517758,
+                            "slug": "enric-auquer",
+                            "imdb": "nm3606001",
+                            "tmdb": 1436707,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Álex Pina",
+                            "ids": {
+                                "trakt": 74455,
+                                "slug": "alex-pina",
+                                "imdb": "nm1210565",
+                                "tmdb": 82725,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Jesús Colmenar",
+                            "ids": {
+                                "trakt": 1112664,
+                                "slug": "jesus-colmenar",
+                                "imdb": "nm2912775",
+                                "tmdb": 1608537,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Esther Martínez Lobato",
+                            "ids": {
+                                "trakt": 1112665,
+                                "slug": "esther-martinez-lobato",
+                                "imdb": "nm2651446",
+                                "tmdb": 1637084,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Álex Pina",
+                            "ids": {
+                                "trakt": 74455,
+                                "slug": "alex-pina",
+                                "imdb": "nm1210565",
+                                "tmdb": 82725,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Esther Martínez Lobato",
+                            "ids": {
+                                "trakt": 1112665,
+                                "slug": "esther-martinez-lobato",
+                                "imdb": "nm2651446",
+                                "tmdb": 1637084,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "David Barrocal",
+                            "ids": {
+                                "trakt": 1112813,
+                                "slug": "david-barrocal",
+                                "imdb": null,
+                                "tmdb": 2013216,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Javier Gómez Santander",
+                            "ids": {
+                                "trakt": 1112806,
+                                "slug": "javier-gomez-santander",
+                                "imdb": "nm8996721",
+                                "tmdb": 2013213,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Mercedes Rodrigo",
+                            "ids": {
+                                "trakt": 2197843,
+                                "slug": "mercedes-rodrigo",
+                                "imdb": null,
+                                "tmdb": 3016177,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Juan Salvador López",
+                            "ids": {
+                                "trakt": 1550662,
+                                "slug": "juan-salvador-lopez",
+                                "imdb": null,
+                                "tmdb": 2365672,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "David Oliva",
+                            "ids": {
+                                "trakt": 1718812,
+                                "slug": "david-oliva",
+                                "imdb": null,
+                                "tmdb": 2545953,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Óscar Pedraza",
+                            "ids": {
+                                "trakt": 1991742,
+                                "slug": "oscar-pedraza",
+                                "imdb": null,
+                                "tmdb": 2410810,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "David Victori",
+                            "ids": {
+                                "trakt": 253921,
+                                "slug": "david-victori",
+                                "imdb": "nm2536997",
+                                "tmdb": 1093748,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Eduardo Chapero-Jackson",
+                            "ids": {
+                                "trakt": 194851,
+                                "slug": "eduardo-chapero-jackson",
+                                "imdb": "nm1028596",
+                                "tmdb": 587947,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jesús Colmenar",
+                            "ids": {
+                                "trakt": 1112664,
+                                "slug": "jesus-colmenar",
+                                "imdb": "nm2912775",
+                                "tmdb": 1608537,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Javier Quintas",
+                            "ids": {
+                                "trakt": 584172,
+                                "slug": "javier-quintas",
+                                "imdb": null,
+                                "tmdb": 1588962,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Albert Pintó",
+                            "ids": {
+                                "trakt": 553949,
+                                "slug": "albert-pinto",
+                                "imdb": "nm3691012",
+                                "tmdb": 1485396,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Álex Pina",
+                            "ids": {
+                                "trakt": 74455,
+                                "slug": "alex-pina",
+                                "imdb": "nm1210565",
+                                "tmdb": 82725,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Esther Martínez Lobato",
+                            "ids": {
+                                "trakt": 1112665,
+                                "slug": "esther-martinez-lobato",
+                                "imdb": "nm2651446",
+                                "tmdb": 1637084,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 7.11321,
+            "votes": 106,
+            "distribution": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 5,
+                "5": 10,
+                "6": 11,
+                "7": 33,
+                "8": 20,
+                "9": 5,
+                "10": 17
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Arrow",
+                "year": 2012,
+                "ids": {
+                    "trakt": 1403,
+                    "slug": "arrow",
+                    "tvdb": 257655,
+                    "imdb": "tt2193021",
+                    "tmdb": 1412,
+                    "tvrage": 30715
+                }
+            },
+            {
+                "title": "Homeland",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1398,
+                    "slug": "homeland",
+                    "tvdb": 247897,
+                    "imdb": "tt1796960",
+                    "tmdb": 1407,
+                    "tvrage": 27811
+                }
+            },
+            {
+                "title": "Prison Break",
+                "year": 2005,
+                "ids": {
+                    "trakt": 2274,
+                    "slug": "prison-break",
+                    "tvdb": 360115,
+                    "imdb": "tt0455275",
+                    "tmdb": 2288,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Marvel's Daredevil",
+                "year": 2015,
+                "ids": {
+                    "trakt": 77938,
+                    "slug": "marvel-s-daredevil",
+                    "tvdb": 281662,
+                    "imdb": "tt3322312",
+                    "tmdb": 61889,
+                    "tvrage": 38796
+                }
+            },
+            {
+                "title": "Person of Interest",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1402,
+                    "slug": "person-of-interest",
+                    "tvdb": 248742,
+                    "imdb": "tt1839578",
+                    "tmdb": 1411,
+                    "tvrage": 28376
+                }
+            },
+            {
+                "title": "NCIS",
+                "year": 2003,
+                "ids": {
+                    "trakt": 4590,
+                    "slug": "ncis",
+                    "tvdb": 72108,
+                    "imdb": "tt0364845",
+                    "tmdb": 4614,
+                    "tvrage": 4628
+                }
+            },
+            {
+                "title": "Marvel's Luke Cage",
+                "year": 2016,
+                "ids": {
+                    "trakt": 79382,
+                    "slug": "marvel-s-luke-cage",
+                    "tvdb": 304219,
+                    "imdb": "tt3322314",
+                    "tmdb": 62126,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Marvel's The Punisher",
+                "year": 2017,
+                "ids": {
+                    "trakt": 112663,
+                    "slug": "marvel-s-the-punisher",
+                    "tvdb": 331980,
+                    "imdb": "tt5675620",
+                    "tmdb": 67178,
+                    "tvrage": 52104
+                }
+            },
+            {
+                "title": "Blindspot",
+                "year": 2015,
+                "ids": {
+                    "trakt": 98980,
+                    "slug": "blindspot",
+                    "tvdb": 295647,
+                    "imdb": "tt4474344",
+                    "tmdb": 62710,
+                    "tvrage": 44628
+                }
+            },
+            {
+                "title": "Almost Human",
+                "year": 2013,
+                "ids": {
+                    "trakt": 50696,
+                    "slug": "almost-human",
+                    "tvdb": 267702,
+                    "imdb": "tt2654580",
+                    "tmdb": 51019,
+                    "tvrage": null
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 1646,
+            "plays": 9147,
+            "collectors": 877,
+            "collected_episodes": 5080,
+            "comments": 1,
+            "lists": 1045,
+            "votes": 105,
+            "recommended": 12
+        },
+        "watching": 1
+    },
+    "title": "Sky Rojo",
+    "videoType": "show"
+}

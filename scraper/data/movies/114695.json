@@ -1,0 +1,332 @@
+{
+    "backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+    "first_air_date": "2021-01-08",
+    "genre_ids": [
+        99
+    ],
+    "id": 114695,
+    "name": "Marvel Studios: Legends",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Marvel Studios: Legends",
+    "overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+    "popularity": 516.613,
+    "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+    "vote_average": 7.7,
+    "vote_count": 350,
+    "created_by": [],
+    "episode_run_time": [
+        8
+    ],
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/wp/7YmtoS60RMH6",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-12",
+    "last_episode_to_air": {
+        "air_date": "2021-03-12",
+        "episode_number": 6,
+        "id": 2738695,
+        "name": "Sharon Carter",
+        "overview": "Learn how Agent Sharon Carter risked all for Steve Rogers, doing what she knew was right.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/I6imIioeY8xpl4kBXQxkxWKQzp.jpg",
+        "vote_average": 4,
+        "vote_count": 1
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Disney+",
+            "id": 2739,
+            "logo_path": "/gJ8VX6JSu3ciXHuC2dDGAo2lvwM.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-08",
+            "episode_count": 6,
+            "id": 172254,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "As the universe expands, explore the stories of those destined to become legends.",
+    "type": "Documentary",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Студия Марвел: Легенды",
+                "country": "ru"
+            }
+        ],
+        "translations": [
+            {
+                "title": null,
+                "overview": "Seriál se zaměřuje na jednotlivé postavy, od hrdinů až k darebákům, z MCU universa, které diváci v průběhu let poznali a milovali. Divákům budou nejen představeny jejich charaktery, ale i jejich nejikoničtější momenty.",
+                "language": "cs"
+            },
+            {
+                "title": "Marvel Studios: Legends",
+                "overview": "Marvel Studios LEGENDS bringt ein spannendes Wiedersehen mit den verschiedenen Helden und Schurken und stimmt ein auf deren neue Abenteuer in den mit Spannung erwarteten Streaming-Serien auf Disney+.",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Επανεξετάστε τους επικούς ήρωες, τους κακούς και τις στιγμές από ολόκληρο το MCU για την προετοιμασία των ιστοριών που θα έρθουν ακόμα. Κάθε δυναμικό τμήμα τροφοδοτεί άμεσα την επερχόμενη σειρά - θέτοντας το στάδιο για μελλοντικά γεγονότα. Αυτή η σειρά υφαίνει τα πολλά νήματα που αποτελούν το απαράμιλλο Marvel Cinematic Universe.",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+                "language": "en"
+            },
+            {
+                "title": "Leyendas de Marvel Studios",
+                "overview": "Vuelve a visitar a los héroes, villanos y momentos épicos de todo el MCU en preparación para las historias que aún están por venir. Cada segmento dinámico se alimenta directamente de la próxima serie, lo que prepara el escenario para eventos futuros. Esta serie entrelaza los muchos hilos que constituyen el incomparable Universo Cinematográfico de Marvel.",
+                "language": "es"
+            },
+            {
+                "title": "Les Légendes des Studios Marvel",
+                "overview": "L’univers cinématique Marvel continue de grandir et Les Légendes des Studios Marvel fête et codifie les événements passés. Redécouvrez des héros épiques, des méchants, et des moments de l’univers Marvel en préparation des histoires très attendues encore à venir. Chaque séquence dynamique est directement liée aux séries à découvrir en exclusivité sur Disney+, posant les bases des événements à venir. Les Légendes des Studios Marvel tisse le lien entre les histoires qui constituent l’inégalé UNIVERS CINÉMATOGRAPHIQUE MARVEL.",
+                "language": "fr"
+            },
+            {
+                "title": "אולפני מארוול: אגדות",
+                "overview": "בעוד היקום הקולנועי של מארוול ממשיך את דרכו אל הסאגה הבאה, 'אולפני מארוול: אגדות' תחזור אל הגיבורים, הנבלים והרגעים מסאגת האינסוף ותסכם את העבר של הדמויות השונות בתור הכנה לעלילות העתידיות בסדרות ובסרטים העתידיים של היקום הקולנועי.",
+                "language": "he"
+            },
+            {
+                "title": null,
+                "overview": "Mentre l'universo cinematografico Marvel continua ad espandersi, LEGENDS dei Marvel Studios rende omaggio e consolida ciò che è accaduto prima. Rivivi eroi epici, cattivi e momenti da tutto il MCU, in preparazione per le storie tanto attese a venire. LEGENDS dei Marvel Studios intreccia i molteplici fili che compongono l'esclusivo MARVEL CINEMA UNIVERSE.",
+                "language": "it"
+            },
+            {
+                "title": "マーベル・スタジオ 知られざる秘密",
+                "overview": "",
+                "language": "ja"
+            },
+            {
+                "title": "마블 스튜디오: 레전드",
+                "overview": "앞으로 다가올 이야기를 준비하기 위해 MCU 전체에서 서사시적인 영웅, 악당 및 순간을 다시 함께하세요.\n\n각 동적 세그먼트는 향후 이벤트를 위한 무대를 설정하는 예정된 시리즈로 직접 공급됩니다.\n\n이 시리즈는 타의 추종을 불허하는 Marvel Cinematic Universe를 구성하는 기초가 됩니다.",
+                "language": "ko"
+            },
+            {
+                "title": null,
+                "overview": "Wróć do epickich bohaterów, złoczyńców i momentów z całego MCU, przygotowując się na historie, które dopiero nadejdą. Każdy dynamiczny segment trafia bezpośrednio do nadchodzącej serii, przygotowując grunt pod przyszłe wydarzenia. Ta seria splata ze sobą wiele wątków, które składają się na niezrównany Marvel Cinematic Universe.",
+                "language": "pl"
+            },
+            {
+                "title": "Lendas da Marvel Studios",
+                "overview": "À medida que o universo da Marvel Cinematic Universe se expande, as LENDAS da Marvel Studios celebram e codificam o que existiu antes. Revisita os heróis épicos, os vilões e os momentos ao longo da MCU como preparativo para as histórias tão esperadas que ainda estão por vir. Cada segmento dinâmico alimenta diretamente as próximas séries que vão estrear no Disney +, preparando o terreno para os eventos futuros. As LENDAS da Marvel Studios juntam e entrelaçam os diversos fios que constituem o universo sem paralelo da MARVEL CINEMATIC UNIVERSE.",
+                "language": "pt"
+            },
+            {
+                "title": "Студия Marvel: Легенды",
+                "overview": "В ожидании предстоящих фильмов и сериалов четвёртой фазы киновселенной Marvel, сериал исследует отдельных героев, злодеев, ключевые моменты кинематографической вселенной Marvel и сплетение сюжетных линий.",
+                "language": "ru"
+            },
+            {
+                "title": "Marvel Studios: Легенди",
+                "overview": "",
+                "language": "uk"
+            },
+            {
+                "title": "漫威影業：傳奇",
+                "overview": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": []
+        },
+        "ratings": {
+            "rating": 7.08974,
+            "votes": 156,
+            "distribution": {
+                "1": 2,
+                "2": 2,
+                "3": 0,
+                "4": 6,
+                "5": 12,
+                "6": 32,
+                "7": 46,
+                "8": 23,
+                "9": 8,
+                "10": 24
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Top Gear",
+                "year": 2002,
+                "ids": {
+                    "trakt": 45,
+                    "slug": "top-gear",
+                    "tvdb": 74608,
+                    "imdb": "tt1628033",
+                    "tmdb": 45,
+                    "tvrage": 6753
+                }
+            },
+            {
+                "title": "MythBusters",
+                "year": 2003,
+                "ids": {
+                    "trakt": 1419,
+                    "slug": "mythbusters",
+                    "tvdb": 73388,
+                    "imdb": "tt0383126",
+                    "tmdb": 1428,
+                    "tvrage": 4605
+                }
+            },
+            {
+                "title": "Cosmos",
+                "year": 2014,
+                "ids": {
+                    "trakt": 71041,
+                    "slug": "cosmos-2014",
+                    "tvdb": 260586,
+                    "imdb": "tt2395695",
+                    "tmdb": 58474,
+                    "tvrage": 29336
+                }
+            },
+            {
+                "title": "Planet Earth",
+                "year": 2006,
+                "ids": {
+                    "trakt": 1039,
+                    "slug": "planet-earth",
+                    "tvdb": 79257,
+                    "imdb": "tt0795176",
+                    "tmdb": 1044,
+                    "tvrage": 8077
+                }
+            },
+            {
+                "title": "Making a Murderer",
+                "year": 2015,
+                "ids": {
+                    "trakt": 103423,
+                    "slug": "making-a-murderer",
+                    "tvdb": 303210,
+                    "imdb": "tt5189670",
+                    "tmdb": 64439,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "The Grand Tour",
+                "year": 2016,
+                "ids": {
+                    "trakt": 108999,
+                    "slug": "the-grand-tour",
+                    "tvdb": 314087,
+                    "imdb": "tt5712554",
+                    "tmdb": 67557,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Tiger King: Murder, Mayhem and Madness",
+                "year": 2020,
+                "ids": {
+                    "trakt": 158420,
+                    "slug": "tiger-king-murder-mayhem-and-madness",
+                    "tvdb": 377269,
+                    "imdb": "tt11823076",
+                    "tmdb": 100698,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "An Idiot Abroad",
+                "year": 2010,
+                "ids": {
+                    "trakt": 33867,
+                    "slug": "an-idiot-abroad",
+                    "tvdb": 187071,
+                    "imdb": "tt1702042",
+                    "tmdb": 34014,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Planet Earth II",
+                "year": 2016,
+                "ids": {
+                    "trakt": 112332,
+                    "slug": "planet-earth-ii",
+                    "tvdb": 318408,
+                    "imdb": "tt5491994",
+                    "tmdb": 68595,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "The Last Dance",
+                "year": 2020,
+                "ids": {
+                    "trakt": 153780,
+                    "slug": "the-last-dance",
+                    "tvdb": 347721,
+                    "imdb": "tt8420184",
+                    "tmdb": 79525,
+                    "tvrage": null
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 12518,
+            "plays": 37329,
+            "collectors": 7747,
+            "collected_episodes": 19971,
+            "comments": 3,
+            "lists": 2511,
+            "votes": 156,
+            "recommended": 16
+        },
+        "watching": 0
+    },
+    "title": "Marvel Studios: Legends",
+    "videoType": "show"
+}

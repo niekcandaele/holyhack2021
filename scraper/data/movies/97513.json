@@ -1,0 +1,855 @@
+{
+    "backdrop_path": "/8OrceoLR3ARlthFw0daqW7saXit.jpg",
+    "first_air_date": "2021-02-19",
+    "genre_ids": [
+        18,
+        9648
+    ],
+    "id": 97513,
+    "name": "The Boarding School: Las Cumbres",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_name": "El internado: Las Cumbres",
+    "overview": "In an inaccessible place between the mountains and isolated from the world, a school is located next to an old monastery. The students are rebellious and problematic young people who live under the strict and severe discipline imposed by the center to reintegrate them into society. The surrounding forest is home to ancient legends, threats that are still valid and that will immerse them in terrifying adventures.",
+    "popularity": 401.27,
+    "poster_path": "/kl07N07l4XNjXF48oujzWXs40Dw.jpg",
+    "vote_average": 7.5,
+    "vote_count": 488,
+    "created_by": [
+        {
+            "id": 1261481,
+            "credit_id": "5e161de11f748b0012845bb0",
+            "name": "Laura Belloso",
+            "gender": 0,
+            "profile_path": null
+        },
+        {
+            "id": 2504290,
+            "credit_id": "5f843ca241465c00381adb91",
+            "name": "Asier Anduenza",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "https://www.primevideo.com/detail/0SKUB8LXN8M28DPZZYVMWNSXPR",
+    "in_production": true,
+    "languages": [
+        "es"
+    ],
+    "last_air_date": "2021-02-19",
+    "last_episode_to_air": {
+        "air_date": "2021-02-19",
+        "episode_number": 8,
+        "id": 2725031,
+        "name": "",
+        "overview": "The friends mourn Manuel. The prior discovers Elías has broken his vow of chastity and sends him to another monastery. Meanwhile, Elvira tries to share everything she knows and Inés starts putting pieces about her past together. But a new and unexpected death enrages the students, who start a rebellion at the school. Everything is out of control and we’re in for an unexpected ending.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/9jtUTZKmBlSifVng3xXdtR1MMMQ.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Amazon",
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 8,
+    "number_of_seasons": 1,
+    "production_companies": [
+        {
+            "id": 113762,
+            "logo_path": null,
+            "name": "Atresmedia Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 127522,
+            "logo_path": "/bEeTzk7aLDNHWW2L0L0yRbFegGA.png",
+            "name": "The Mediapro Studio",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-02-19",
+            "episode_count": 8,
+            "id": 140313,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/cJWNryIPtWrgcJQZ4EJWjdSNBK3.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Le pensionnat: Las Cumbres",
+                "country": "fr"
+            },
+            {
+                "title": "寄宿學校疑雲：拉斯坎佈雷斯",
+                "country": "cn"
+            },
+            {
+                "title": "Le Pensionnat : Las Cumbres",
+                "country": "fr"
+            },
+            {
+                "title": "L'Internat",
+                "country": "fr"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Las Cumbres: Das Internat",
+                "overview": "An einem unzugänglichen Ort zwischen den Bergen und isoliert von der Welt befindet sich eine Schule neben einem alten Kloster. Die Studenten sind rebellische und problematische junge Menschen, die unter der strengen und strengen Disziplin des Zentrums leben, um sie wieder in die Gesellschaft zu integrieren. Der umliegende Wald beherbergt alte Legenden und Bedrohungen, die immer noch gültig sind und die sie in schreckliche Abenteuer eintauchen lassen.",
+                "language": "de"
+            },
+            {
+                "title": "The Boarding School: Las Cumbres",
+                "overview": "In an inaccessible place between the mountains and isolated from the world, a school is located next to an old monastery. The students are rebellious and problematic young people who live under the strict and severe discipline imposed by the center to reintegrate them into society. The surrounding forest is home to ancient legends, threats that are still valid and that will immerse them in terrifying adventures.",
+                "language": "en"
+            },
+            {
+                "title": null,
+                "overview": "En un lugar inaccesible entre las montañas y aislado del mundo, un colegio se ubica junto a un antiguo monasterio. Los alumnos son jóvenes rebeldes y problemáticos que viven bajo la estricta y severa disciplina que impone el centro para reinsertarlos a la sociedad. El bosque circundante alberga antiguas leyendas, amenazas que siguen vigentes y que les sumergirán en aventuras trepidantes y terroríficas.",
+                "language": "es"
+            },
+            {
+                "title": "L'Internat : Las Cumbres",
+                "overview": "Dans un internat construit à côté d'un monastère dans des montagnes inaccessibles, les élèves y sont des rebelles, devant s'habituer à l'éducation stricte qui y est appliquée. Mais les histoires qui circulent à propos des légendes locales, vont bouleverser le quotidien d'une bande de jeunes qui vont devoir faire face à des aventures effrayantes et trépidantes.",
+                "language": "fr"
+            },
+            {
+                "title": null,
+                "overview": "A hegyek között, a világtól elzárt helyen egy iskola található egy régi kolostor mellett. A hallgatók lázadó és problémás fiatalok, akik a Központ szigorú és szigorú fegyelme szerint élnek, hogy újra beillesszék őket a társadalomba. A környező erdő ősi legendáknak ad otthont, amelyek közel sem legendák csupán, és amelyek rémisztő kalandokba sodorják őket.",
+                "language": "hu"
+            },
+            {
+                "title": null,
+                "overview": "In un luogo inaccessibile tra le montagne e isolato dal mondo, una scuola si trova accanto a un vecchio monastero. Gli studenti sono giovani ribelli e problematici che vivono sotto la rigida e severa disciplina imposta dal centro per reintegrarli nella società. La foresta circostante ospita antiche leggende, minacce che sono ancora valide e che li immergeranno in terrificanti avventure.",
+                "language": "it"
+            },
+            {
+                "title": "엘 인테르나도: 라스 쿰브레스",
+                "overview": "",
+                "language": "ko"
+            },
+            {
+                "title": "O Internato: Las Cumbres",
+                "overview": "Depois de uma tentativa de fuga sem sucesso, Manuel desaparece no bosque por ação de um homem misterioso, com uma máscara de corvo. Apesar da disciplina férrea do internato, Paul, Amaia e seus amigos não deixam de procurá-lo um minuto sequer. Em sua aventura, descobrem que a antiga loja que havia no bosque, o Ninho do Corvo, ainda é palco de crimes, e que o internato é mais do que um colégio.",
+                "language": "pt"
+            },
+            {
+                "title": "Черная лагуна: Вершины",
+                "overview": "Отдаленная школа, находящаяся в горном монастыре, принимает в свои стены далеко не всех учеников. Здесь оказываются молодые люди, которые проявили худшие стороны своего характера и прослыли типичными хулиганами, бунтарями и негодяями. Воспитывать таких ребят - дело ответственное и опасное. Чтобы умудриться взять этих персонажей под строгий контроль, в школе ввели строгие правила и законы, которые и помогают регулировать поведение особо буйных ребят. Интересу и энтузиазму последних нет предела, когда выясняется, что в лесу поблизости происходит что-то мистическое и загадочное.",
+                "language": "ru"
+            },
+            {
+                "title": "Інтернат",
+                "overview": "",
+                "language": "uk"
+            },
+            {
+                "title": "寄宿學校疑雲：拉斯坎佈雷斯",
+                "overview": "《寄宿学校疑云：拉斯坎布雷斯》（The Boarding School：Las Cumbres）是一部西班牙神话和青少年戏剧惊悚电视剧，于2021年2月19日在Amazon Prime Video上首映。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Amaia Torres",
+                    "characters": [
+                        "Amaia Torres"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Asia Ortega",
+                        "ids": {
+                            "trakt": 1392170,
+                            "slug": "asia-ortega",
+                            "imdb": "nm2399032",
+                            "tmdb": 2203918,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Paul Uribe",
+                    "characters": [
+                        "Paul Uribe"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Albert Salazar",
+                        "ids": {
+                            "trakt": 1714772,
+                            "slug": "albert-salazar",
+                            "imdb": "nm5586398",
+                            "tmdb": 2543167,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "León",
+                    "characters": [
+                        "León"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Joel Bosqued",
+                        "ids": {
+                            "trakt": 356802,
+                            "slug": "joel-bosqued",
+                            "imdb": "nm2284702",
+                            "tmdb": 1300672,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Elías",
+                    "characters": [
+                        "Elías"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Alberto Amarilla",
+                        "ids": {
+                            "trakt": 416177,
+                            "slug": "alberto-amarilla",
+                            "imdb": "nm1686959",
+                            "tmdb": 33412,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Elvira",
+                    "characters": [
+                        "Elvira"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Mina El Hammani",
+                        "ids": {
+                            "trakt": 1233722,
+                            "slug": "mina-el-hammani",
+                            "imdb": "nm7263767",
+                            "tmdb": 2025253,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Inés Mendoza",
+                    "characters": [
+                        "Inés Mendoza"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Claudia Riera",
+                        "ids": {
+                            "trakt": 1692722,
+                            "slug": "claudia-riera",
+                            "imdb": "nm9757015",
+                            "tmdb": 2438142,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Paz Espinosa",
+                    "characters": [
+                        "Paz Espinosa"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Paula del Río",
+                        "ids": {
+                            "trakt": 1251564,
+                            "slug": "paula-del-rio",
+                            "imdb": "nm3962845",
+                            "tmdb": 2107386,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Eric",
+                    "characters": [
+                        "Eric"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Daniel Arias",
+                        "ids": {
+                            "trakt": 1714745,
+                            "slug": "daniel-arias",
+                            "imdb": "nm3749785",
+                            "tmdb": 2543169,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Adéle Uribe",
+                    "characters": [
+                        "Adéle Uribe"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Daniela Rubio",
+                        "ids": {
+                            "trakt": 1741943,
+                            "slug": "daniela-rubio",
+                            "imdb": "nm6882589",
+                            "tmdb": 2556044,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Julio Ramírez",
+                    "characters": [
+                        "Julio Ramírez"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Gonzalo Díez",
+                        "ids": {
+                            "trakt": 1741971,
+                            "slug": "gonzalo-diez",
+                            "imdb": "nm6297470",
+                            "tmdb": 2556045,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Mara",
+                    "characters": [
+                        "Mara"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Natalia Dicenta",
+                        "ids": {
+                            "trakt": 180651,
+                            "slug": "natalia-dicenta",
+                            "imdb": "nm0225189",
+                            "tmdb": 1195027,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Pelayo",
+                    "characters": [
+                        "Pelayo"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Patxi Santamaria",
+                        "ids": {
+                            "trakt": 1081727,
+                            "slug": "patxi-santamaria",
+                            "imdb": null,
+                            "tmdb": 1986322,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Mario",
+                    "characters": [
+                        "Mario"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Lucas Velasco",
+                        "ids": {
+                            "trakt": 1741984,
+                            "slug": "lucas-velasco",
+                            "imdb": "nm5044672",
+                            "tmdb": 2556048,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Luis",
+                    "characters": [
+                        "Luis"
+                    ],
+                    "episode_count": 8,
+                    "person": {
+                        "name": "Joseba Usabiaga",
+                        "ids": {
+                            "trakt": 557219,
+                            "slug": "joseba-usabiaga",
+                            "imdb": "nm3861494",
+                            "tmdb": 1512977,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "writing": [
+                    {
+                        "job": "Original Series Creator, Story",
+                        "jobs": [
+                            "Original Series Creator",
+                            "Story"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Laura Belloso",
+                            "ids": {
+                                "trakt": 1826950,
+                                "slug": "laura-belloso",
+                                "imdb": "nm0069210",
+                                "tmdb": 1261481,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Original Series Creator",
+                        "jobs": [
+                            "Original Series Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Juan Carlos Cueto",
+                            "ids": {
+                                "trakt": 726077,
+                                "slug": "juan-carlos-cueto",
+                                "imdb": null,
+                                "tmdb": 1697439,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Original Series Creator",
+                        "jobs": [
+                            "Original Series Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Rocio Martínez Llano",
+                            "ids": {
+                                "trakt": 726078,
+                                "slug": "rocio-martinez-llano",
+                                "imdb": null,
+                                "tmdb": 1697440,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Original Series Creator",
+                        "jobs": [
+                            "Original Series Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Daniel Écija",
+                            "ids": {
+                                "trakt": 757235,
+                                "slug": "daniel-ecija",
+                                "imdb": "nm0959895",
+                                "tmdb": 1261480,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Asier Anduenza",
+                            "ids": {
+                                "trakt": 1673834,
+                                "slug": "asier-anduenza",
+                                "imdb": null,
+                                "tmdb": 2504290,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Sara Belloso",
+                            "ids": {
+                                "trakt": 1673880,
+                                "slug": "sara-belloso",
+                                "imdb": null,
+                                "tmdb": 2504291,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Abraham Sastre",
+                            "ids": {
+                                "trakt": 1673881,
+                                "slug": "abraham-sastre",
+                                "imdb": null,
+                                "tmdb": 2504292,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Verónica Marzá",
+                            "ids": {
+                                "trakt": 2174271,
+                                "slug": "veronica-marza",
+                                "imdb": null,
+                                "tmdb": 2991153,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Laura Belloso",
+                            "ids": {
+                                "trakt": 1826950,
+                                "slug": "laura-belloso",
+                                "imdb": "nm0069210",
+                                "tmdb": 1261481,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Sonia Martínez",
+                            "ids": {
+                                "trakt": 1112663,
+                                "slug": "sonia-martinez-66604bcb-a99f-4205-8c53-c14d2ba6b2be",
+                                "imdb": null,
+                                "tmdb": 2013085,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Denis Rovira van Boekholt",
+                            "ids": {
+                                "trakt": 327236,
+                                "slug": "denis-rovira-van-boekholt",
+                                "imdb": "nm1882666",
+                                "tmdb": 1275321,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Carles Torrens",
+                            "ids": {
+                                "trakt": 219495,
+                                "slug": "carles-torrens",
+                                "imdb": "nm2165066",
+                                "tmdb": 1017209,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jesús Rodrigo",
+                            "ids": {
+                                "trakt": 757233,
+                                "slug": "jesus-rodrigo",
+                                "imdb": null,
+                                "tmdb": 1705421,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Laura Belloso",
+                            "ids": {
+                                "trakt": 1826950,
+                                "slug": "laura-belloso",
+                                "imdb": "nm0069210",
+                                "tmdb": 1261481,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Asier Anduenza",
+                            "ids": {
+                                "trakt": 1673834,
+                                "slug": "asier-anduenza",
+                                "imdb": null,
+                                "tmdb": 2504290,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 6.91954,
+            "votes": 87,
+            "distribution": {
+                "1": 3,
+                "2": 2,
+                "3": 1,
+                "4": 2,
+                "5": 5,
+                "6": 18,
+                "7": 25,
+                "8": 13,
+                "9": 8,
+                "10": 10
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Criminal Minds",
+                "year": 2005,
+                "ids": {
+                    "trakt": 4033,
+                    "slug": "criminal-minds",
+                    "tvdb": 75710,
+                    "imdb": "tt0452046",
+                    "tmdb": 4057,
+                    "tvrage": 3171
+                }
+            },
+            {
+                "title": "Penny Dreadful",
+                "year": 2014,
+                "ids": {
+                    "trakt": 54327,
+                    "slug": "penny-dreadful",
+                    "tvdb": 265766,
+                    "imdb": "tt2628232",
+                    "tmdb": 54671,
+                    "tvrage": 34172
+                }
+            },
+            {
+                "title": "The Haunting of Hill House",
+                "year": 2018,
+                "ids": {
+                    "trakt": 134526,
+                    "slug": "the-haunting-of-hill-house",
+                    "tvdb": 345246,
+                    "imdb": "tt6763664",
+                    "tmdb": 72844,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "The Night Manager",
+                "year": 2016,
+                "ids": {
+                    "trakt": 94686,
+                    "slug": "the-night-manager",
+                    "tvdb": 290508,
+                    "imdb": "tt1399664",
+                    "tmdb": 61859,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Carnivàle",
+                "year": 2003,
+                "ids": {
+                    "trakt": 184,
+                    "slug": "carnivale",
+                    "tvdb": 70860,
+                    "imdb": "tt0319969",
+                    "tmdb": 185,
+                    "tvrage": 2990
+                }
+            },
+            {
+                "title": "Devs",
+                "year": 2020,
+                "ids": {
+                    "trakt": 147971,
+                    "slug": "devs",
+                    "tvdb": 364149,
+                    "imdb": "tt8134186",
+                    "tmdb": 81349,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "The Exorcist",
+                "year": 2016,
+                "ids": {
+                    "trakt": 107748,
+                    "slug": "the-exorcist",
+                    "tvdb": 311816,
+                    "imdb": "tt5368542",
+                    "tmdb": 67135,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Kingdom",
+                "year": 2019,
+                "ids": {
+                    "trakt": 139680,
+                    "slug": "kingdom-2019",
+                    "tvdb": 355228,
+                    "imdb": "tt6611916",
+                    "tmdb": 70593,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Death Parade",
+                "year": 2015,
+                "ids": {
+                    "trakt": 93786,
+                    "slug": "death-parade",
+                    "tvdb": 289177,
+                    "imdb": "tt4279012",
+                    "tmdb": 61901,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Lovecraft Country",
+                "year": 2020,
+                "ids": {
+                    "trakt": 142592,
+                    "slug": "lovecraft-country",
+                    "tvdb": 357864,
+                    "imdb": "tt6905686",
+                    "tmdb": 82816,
+                    "tvrage": null
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 1158,
+            "plays": 5755,
+            "collectors": 392,
+            "collected_episodes": 2556,
+            "comments": 0,
+            "lists": 434,
+            "votes": 87,
+            "recommended": 9
+        },
+        "watching": 0
+    },
+    "title": "The Boarding School: Las Cumbres",
+    "videoType": "show"
+}

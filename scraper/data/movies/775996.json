@@ -1,0 +1,1728 @@
+{
+    "adult": false,
+    "backdrop_path": "/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
+    "genre_ids": [
+        53,
+        28,
+        878
+    ],
+    "id": 775996,
+    "original_language": "en",
+    "original_title": "Outside the Wire",
+    "overview": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+    "popularity": 1195.809,
+    "poster_path": "/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+    "release_date": "2021-01-15",
+    "title": "Outside the Wire",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 902,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81074110",
+    "imdb_id": "tt10451914",
+    "production_companies": [
+        {
+            "id": 146553,
+            "logo_path": null,
+            "name": "Inspire Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 7625,
+            "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+            "name": "Automatik Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 114032,
+            "logo_path": null,
+            "name": "Pioneer Stilking Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 118603,
+            "logo_path": null,
+            "name": "Leeding Media",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Defiant by design.",
+    "trakt": {
+        "base": {
+            "title": "Outside the Wire",
+            "year": 2021,
+            "ids": {
+                "trakt": 613402,
+                "slug": "outside-the-wire-2021",
+                "imdb": "tt10451914",
+                "tmdb": 775996
+            }
+        },
+        "aliases": [
+            {
+                "title": "A descubierto",
+                "country": "es"
+            },
+            {
+                "title": "За огорожею",
+                "country": "ua"
+            },
+            {
+                "title": "Поза дротом",
+                "country": "ua"
+            }
+        ],
+        "releases": [
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "br",
+                "certification": "18",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "fr",
+                "certification": "16",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "gb",
+                "certification": "15",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "sg",
+                "certification": "M18 ",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "ar",
+                "certification": "",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "se",
+                "certification": "",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "tr",
+                "certification": "18+",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "pl",
+                "certification": "",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "ca",
+                "certification": "",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "de",
+                "certification": "16",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "kr",
+                "certification": "15",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "fi",
+                "certification": "",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "hk",
+                "certification": "16+",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            },
+            {
+                "country": "es",
+                "certification": "16",
+                "release_date": "2021-01-15",
+                "release_type": "digital",
+                "note": "Netflix"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Za čárou",
+                "overview": "V blízké budoucnosti dostane pilot dronu rozkaz přesunout se do válečné zóny, kde mu má velet android v přísném utajení – a společně pak musí zabránit jadernému útoku.",
+                "tagline": "",
+                "language": "cs"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "I en nær fremtid befinder en dronepilot sig i en krigszone, og sammen med en tophemmelig androide skal han udføre en mission for at stoppe et atomangreb.",
+                "tagline": "",
+                "language": "da"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "In einem Kriegsgebiet der Zukunft sollen ein Drohnenpilot und ein Androiden-Offizier, dessen wahre Identität streng geheim ist, gemeinsam einen Atomangriff verhindern.",
+                "tagline": "",
+                "language": "de"
+            },
+            {
+                "title": "Φονική Ζώνη",
+                "overview": "Στο κοντινό μέλλον, ο πιλότος ενός drone υποχρεώνεται να πάει σε μια εμπόλεμη ζώνη και να συνεργαστεί με ένα μυστικό ανδροειδές, για να εντοπίσει μια συσκευή που προορίζεται να καταστρέψει τον κόσμο, προτού φτάσουν σ' αυτήν οι αντιστασιακοί.",
+                "tagline": "",
+                "language": "el"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+                "tagline": "Defiant by design.",
+                "language": "en"
+            },
+            {
+                "title": "A descubierto",
+                "overview": "Un piloto de drones se une a un oficial androide para localizar un dispositivo que amenaza con acabar con la vida sobre el planeta. El dispositivo en cuestión se encuentra oculto en una zona altamente militarizada.",
+                "tagline": "Rebelde por naturaleza.",
+                "language": "es"
+            },
+            {
+                "title": "A descubierto",
+                "overview": "Un piloto de drones se une a un oficial androide para localizar un dispositivo que amenaza con acabar con la vida sobre el planeta. El dispositivo en cuestión se encuentra oculto en una zona altamente militarizada.",
+                "tagline": "",
+                "language": "es"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "Lähitulevaisuuteen sijoittuvassa tarinassa lennokkipilotti lähetetään sota-alueelle auttamaan huippusalaista androidiupseeria, jonka tehtävänä on estää ydinhyökkäys.",
+                "tagline": "",
+                "language": "fi"
+            },
+            {
+                "title": "Zone hostile",
+                "overview": "Un pilote de drone est envoyé surveiller une zone militaire. Il se retrouve à travailler pour un officier androïde chargé de localiser un dispositif apocalyptique avant les insurgés.",
+                "tagline": "Rebelle par nature.",
+                "language": "fr"
+            },
+            {
+                "title": "A descuberto",
+                "overview": "Un piloto de drons únese a un oficial androide para localizar un dispositivo que ameaza con acabar coa vida sobre o planeta. O dispositivo en cuestión atópase oculto nunha zona altamente  militarizada.",
+                "tagline": "Desafiante por deseño.",
+                "language": "gl"
+            },
+            {
+                "title": "שטח קרב",
+                "overview": "מותחן מד\"ב ואקשן בכיכובם של אנתוני מאקי (\"פחמן משודרג\", \"קפטן אמריקה\") ודמסון אידריס (\"שלג צח\"). בעתיד הקרוב, טייס מל\"ט שנשלח לאזור מלחמה נאלץ לשתף פעולה עם קצין אנדרואיד סודי ביותר כדי לעצור מתקפה גרעינית.",
+                "tagline": "",
+                "language": "he"
+            },
+            {
+                "title": "S druge strane ograde",
+                "overview": "U bliskoj budućnosti, pilot drona poslat u ratnu zonu nađe se uparen sa strogo poverljivim android-oficirom u misiji zaustavljanja nuklearnog napada …",
+                "tagline": "",
+                "language": "hr"
+            },
+            {
+                "title": "Halálos harcmező",
+                "overview": "A közeli jövőben egy drónpilótát háborús övezetbe küldenek, ahol együtt kell dolgoznia egy titokzatos robotkatonával, hogy megállítsanak egy atomtámadást.",
+                "tagline": "",
+                "language": "hu"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "",
+                "tagline": "",
+                "language": "id"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "In un futuro prossimo, un pilota di droni inviato in zona di guerra deve lavorare con un ufficiale androide top secret in una missione per fermare un attacco nucleare.",
+                "tagline": "",
+                "language": "it"
+            },
+            {
+                "title": "デンジャー・ゾーン",
+                "overview": "",
+                "tagline": "",
+                "language": "ja"
+            },
+            {
+                "title": "아웃사이드 더 와이어",
+                "overview": "가까운 미래 치열한 접전 지역. 드론 조종사가 원치 않게 이곳에 파견된다. 그의 지휘관은 기밀 속 존재인 사이보그. 둘은 함께 핵 공격을 막는 위험한 임무에 뛰어든다.",
+                "tagline": "",
+                "language": "ko"
+            },
+            {
+                "title": "Mirties zona",
+                "overview": "Netolimoje ateityje dronų pilotas nusiunčiamas į karo zoną, kur kartu su įslaptintu androidu turi sustabdyti branduolinę ataką.",
+                "tagline": "",
+                "language": "lt"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "Een dronepiloot werkt samen met een geheim, nieuw soort soldaat. De gebruikelijke regels zijn niet meer van toepassing.",
+                "tagline": "",
+                "language": "nl"
+            },
+            {
+                "title": "W strefie wojny",
+                "overview": "W niedalekiej przyszłości, pilot drona jest wysyłany do zabójczej strefy zmilitaryzowanej i musi współpracować z oficerem androidowym w celu zlokalizowania urządzenia zagłady.",
+                "tagline": "Wyzywające z założenia.",
+                "language": "pl"
+            },
+            {
+                "title": "Zona de Perigo",
+                "overview": "Num futuro próximo, um piloto de drones é enviado para uma zona de guerra, onde se junta a um oficial androide ultrassecreto numa missão para impedir um ataque nuclear.",
+                "tagline": "",
+                "language": "pt"
+            },
+            {
+                "title": "Смертельная зона",
+                "overview": "2036 год. Уже несколько лет на Украине идёт гражданская война, а военные силы США выполняют роль миротворцев. Не подчинившись прямому приказу капитана, оператор дрона лейтенант Харп предстаёт перед комиссией, но отправляется не под трибунал, а на спецзадание. Теперь Харп находится в подчинении у капитана Лео, который на самом деле является секретной разработкой — высокотехнологичным андроидом, внешне совершенно неотличимым от обычного человека. Вдвоём они отправляются в приграничную с Россией зону, чтобы найти военного преступника Виктора Коваля и не позволить ему завладеть кодами запуска ядерных ракет.",
+                "tagline": "",
+                "language": "ru"
+            },
+            {
+                "title": "Outside the Wire",
+                "overview": "I en inte alltför avlägsen framtid skickas en drönarpilot in i en krigszon där han måste hjälpa en topphemlig android-officer att stoppa en kärnvapenattack.",
+                "tagline": "",
+                "language": "sv"
+            },
+            {
+                "title": "สมรภูมินอกลวดหนาม",
+                "overview": "ในอนาคตอันใกล้นักบินโดรนจะถูกส่งเข้าไปในเขตทหารที่อันตรายถึงตายและต้องทำงานร่วมกับเจ้าหน้าที่ Android เพื่อค้นหาอุปกรณ์วันโลกาวินาศ",
+                "tagline": "",
+                "language": "th"
+            },
+            {
+                "title": "Telin Dışında",
+                "overview": "Yakın gelecekte bir savaş bölgesine gönderilen insansız hava aracı pilotu, bir nükleer saldırıyı durdurmak için çok gizli bir android subayla iş birliği yapar.",
+                "tagline": "Telin Dışında (2021)",
+                "language": "tr"
+            },
+            {
+                "title": "Смертельна зона",
+                "overview": "В майбутньому війна ведеться за допомогою пілотованих дронів. Одного разу пілот дрона змушений відправитися в небезпечну мілітаризовану зону, де починає працювати з андроїдом. Разом вони повинні знайти зброю Судного дня, яка може потрапити в руки заколотників.",
+                "tagline": "Зухвалий за задумом",
+                "language": "uk"
+            },
+            {
+                "title": "Vùng Chiến Sự Hiểm Nguy",
+                "overview": "Trong tương lai không xa, một phi công máy bay không người lái ở vùng chiến sự phải hợp tác với một sĩ quan người máy tuyệt mật nhằm ngăn chặn một vụ tấn công hạt nhân.",
+                "tagline": "",
+                "language": "vi"
+            },
+            {
+                "title": "末日激战",
+                "overview": "　　故事发生在未来，一名无人机飞行员哈普（戴姆森·伊德瑞斯饰）被派往危险的军事区域，他在那里发现自己服务的是一名研究机器人的长官里欧（安东尼·麦凯饰），这名长官的任务是在叛乱分子之前研发出打败对方的装置。",
+                "tagline": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Leo",
+                    "characters": [
+                        "Leo"
+                    ],
+                    "person": {
+                        "name": "Anthony Mackie",
+                        "ids": {
+                            "trakt": 411080,
+                            "slug": "anthony-mackie",
+                            "imdb": "nm1107001",
+                            "tmdb": 53650,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Lieutenant Thomas Harp",
+                    "characters": [
+                        "Lieutenant Thomas Harp"
+                    ],
+                    "person": {
+                        "name": "Damson Idris",
+                        "ids": {
+                            "trakt": 920912,
+                            "slug": "damson-idris",
+                            "imdb": "nm5072010",
+                            "tmdb": 1837297,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Sergeant Miller",
+                    "characters": [
+                        "Sergeant Miller"
+                    ],
+                    "person": {
+                        "name": "Enzo Cilenti",
+                        "ids": {
+                            "trakt": 16433,
+                            "slug": "enzo-cilenti",
+                            "imdb": "nm0162281",
+                            "tmdb": 91494,
+                            "tvrage": 148315
+                        }
+                    }
+                },
+                {
+                    "character": "Sofiya",
+                    "characters": [
+                        "Sofiya"
+                    ],
+                    "person": {
+                        "name": "Emily Beecham",
+                        "ids": {
+                            "trakt": 10911,
+                            "slug": "emily-beecham",
+                            "imdb": "nm2387806",
+                            "tmdb": 130414,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Brydon",
+                    "characters": [
+                        "Brydon"
+                    ],
+                    "person": {
+                        "name": "Henry Garrett",
+                        "ids": {
+                            "trakt": 441742,
+                            "slug": "henry-garrett",
+                            "imdb": "nm2694680",
+                            "tmdb": 125719,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Corporal Mandy Bale",
+                    "characters": [
+                        "Corporal Mandy Bale"
+                    ],
+                    "person": {
+                        "name": "Kristina Tonteri-Young",
+                        "ids": {
+                            "trakt": 1449540,
+                            "slug": "kristina-tonteri-young",
+                            "imdb": "nm10557982",
+                            "tmdb": 2267919,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Victor Koval",
+                    "characters": [
+                        "Victor Koval"
+                    ],
+                    "person": {
+                        "name": "Pilou Asbæk",
+                        "ids": {
+                            "trakt": 430742,
+                            "slug": "pilou-asbaek",
+                            "imdb": "nm1561982",
+                            "tmdb": 90060,
+                            "tvrage": 446333
+                        }
+                    }
+                },
+                {
+                    "character": "Eckhart",
+                    "characters": [
+                        "Eckhart"
+                    ],
+                    "person": {
+                        "name": "Michael Kelly",
+                        "ids": {
+                            "trakt": 7476,
+                            "slug": "michael-kelly",
+                            "imdb": "nm0446672",
+                            "tmdb": 50217,
+                            "tvrage": 32541
+                        }
+                    }
+                },
+                {
+                    "character": "Bigfoot",
+                    "characters": [
+                        "Bigfoot"
+                    ],
+                    "person": {
+                        "name": "Brady Dowad",
+                        "ids": {
+                            "trakt": 1213138,
+                            "slug": "brady-dowad",
+                            "imdb": "nm6061593",
+                            "tmdb": 2067955,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Female bank worker",
+                    "characters": [
+                        "Female bank worker"
+                    ],
+                    "person": {
+                        "name": "Alexandra Szucs",
+                        "ids": {
+                            "trakt": 869311,
+                            "slug": "alexandra-szucs",
+                            "imdb": "nm2833223",
+                            "tmdb": 1471612,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Vasili",
+                    "characters": [
+                        "Vasili"
+                    ],
+                    "person": {
+                        "name": "Gábor Krausz",
+                        "ids": {
+                            "trakt": 2121871,
+                            "slug": "gabor-krausz",
+                            "imdb": null,
+                            "tmdb": 2938556,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Marko",
+                    "characters": [
+                        "Marko"
+                    ],
+                    "person": {
+                        "name": "Louis Boyer",
+                        "ids": {
+                            "trakt": 2115737,
+                            "slug": "louis-boyer",
+                            "imdb": "nm11042899",
+                            "tmdb": 2931841,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Oshlank",
+                    "characters": [
+                        "Oshlank"
+                    ],
+                    "person": {
+                        "name": "Velibor Topic",
+                        "ids": {
+                            "trakt": 9083,
+                            "slug": "velibor-topic",
+                            "imdb": "nm0867677",
+                            "tmdb": 34515,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Insurgent Leader",
+                    "characters": [
+                        "Insurgent Leader"
+                    ],
+                    "person": {
+                        "name": "Nicholas Wittman",
+                        "ids": {
+                            "trakt": 732835,
+                            "slug": "nicholas-wittman",
+                            "imdb": "nm4788175",
+                            "tmdb": 1700678,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Man at Market",
+                    "characters": [
+                        "Man at Market"
+                    ],
+                    "person": {
+                        "name": "Zsolt Szentiványi",
+                        "ids": {
+                            "trakt": 962343,
+                            "slug": "zsolt-szentivanyi",
+                            "imdb": null,
+                            "tmdb": 1874493,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Code Insurgent",
+                    "characters": [
+                        "Code Insurgent"
+                    ],
+                    "person": {
+                        "name": "Péter Darai",
+                        "ids": {
+                            "trakt": 2121870,
+                            "slug": "peter-darai",
+                            "imdb": null,
+                            "tmdb": 2938555,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Krasny Assassin",
+                    "characters": [
+                        "Krasny Assassin"
+                    ],
+                    "person": {
+                        "name": "Dimiter Doichinov",
+                        "ids": {
+                            "trakt": 297775,
+                            "slug": "dimiter-doichinov",
+                            "imdb": "nm1350205",
+                            "tmdb": 1350263,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Harris",
+                    "characters": [
+                        "Harris"
+                    ],
+                    "person": {
+                        "name": "Reda Elazouar",
+                        "ids": {
+                            "trakt": 2121869,
+                            "slug": "reda-elazouar",
+                            "imdb": null,
+                            "tmdb": 2938554,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Adams",
+                    "characters": [
+                        "Adams"
+                    ],
+                    "person": {
+                        "name": "Elliot Edusah",
+                        "ids": {
+                            "trakt": 1646432,
+                            "slug": "elliot-edusah",
+                            "imdb": "nm10141812",
+                            "tmdb": 2478458,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Lapointe",
+                    "characters": [
+                        "Lapointe"
+                    ],
+                    "person": {
+                        "name": "Tyler Kinghorn",
+                        "ids": {
+                            "trakt": 2121868,
+                            "slug": "tyler-kinghorn",
+                            "imdb": null,
+                            "tmdb": 2938553,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Connell",
+                    "characters": [
+                        "Connell"
+                    ],
+                    "person": {
+                        "name": "Robert Jackson",
+                        "ids": {
+                            "trakt": 2076467,
+                            "slug": "robert-jackson-46b2eee3-2990-4158-97d9-60b7fa559cc6",
+                            "imdb": null,
+                            "tmdb": 2892343,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Colonel Hutton",
+                    "characters": [
+                        "Colonel Hutton"
+                    ],
+                    "person": {
+                        "name": "Christine Grace Szarko",
+                        "ids": {
+                            "trakt": 2115735,
+                            "slug": "christine-grace-szarko",
+                            "imdb": "nm5073330",
+                            "tmdb": 2931840,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Yednist Looter",
+                    "characters": [
+                        "Yednist Looter"
+                    ],
+                    "person": {
+                        "name": "Owen Good",
+                        "ids": {
+                            "trakt": 1672639,
+                            "slug": "owen-good",
+                            "imdb": "nm4865828",
+                            "tmdb": 2503065,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Krasny General",
+                    "characters": [
+                        "Krasny General"
+                    ],
+                    "person": {
+                        "name": "Bálint Magyar",
+                        "ids": {
+                            "trakt": 1671717,
+                            "slug": "balint-magyar-2d94816b-c6c5-4636-b5b0-adabe7e5f254",
+                            "imdb": "nm1050828",
+                            "tmdb": 2501938,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Gomez",
+                    "characters": [
+                        "Gomez"
+                    ],
+                    "person": {
+                        "name": "Adam Fielding",
+                        "ids": {
+                            "trakt": 929357,
+                            "slug": "adam-fielding",
+                            "imdb": "nm4484719",
+                            "tmdb": 1844843,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Lieutenant Rose",
+                    "characters": [
+                        "Lieutenant Rose"
+                    ],
+                    "person": {
+                        "name": "Karen Gagnon",
+                        "ids": {
+                            "trakt": 558177,
+                            "slug": "karen-gagnon",
+                            "imdb": "nm2419609",
+                            "tmdb": 1509614,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Andriy Kolyada",
+                    "characters": [
+                        "Andriy Kolyada"
+                    ],
+                    "person": {
+                        "name": "Igor Szász",
+                        "ids": {
+                            "trakt": 1684224,
+                            "slug": "igor-szasz",
+                            "imdb": "nm7912305",
+                            "tmdb": 2515096,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Oleg Kozachenko",
+                    "characters": [
+                        "Oleg Kozachenko"
+                    ],
+                    "person": {
+                        "name": "André Kárpátszki",
+                        "ids": {
+                            "trakt": 2121866,
+                            "slug": "andre-karpatszki",
+                            "imdb": null,
+                            "tmdb": 2938552,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Reggie",
+                    "characters": [
+                        "Reggie"
+                    ],
+                    "person": {
+                        "name": "Bobby Lockwood",
+                        "ids": {
+                            "trakt": 408194,
+                            "slug": "bobby-lockwood",
+                            "imdb": "nm1225475",
+                            "tmdb": 1253195,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Data Guy",
+                    "characters": [
+                        "Data Guy"
+                    ],
+                    "person": {
+                        "name": "Csémy Balázs",
+                        "ids": {
+                            "trakt": 857141,
+                            "slug": "csemy-balazs",
+                            "imdb": "nm6222145",
+                            "tmdb": 1790685,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Hamburger Girl",
+                    "characters": [
+                        "Hamburger Girl"
+                    ],
+                    "person": {
+                        "name": "Flóra Garai",
+                        "ids": {
+                            "trakt": 2121865,
+                            "slug": "flora-garai",
+                            "imdb": null,
+                            "tmdb": 2938544,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Contact Lens Girl",
+                    "characters": [
+                        "Contact Lens Girl"
+                    ],
+                    "person": {
+                        "name": "Tatiana González Sviridko",
+                        "ids": {
+                            "trakt": 2121864,
+                            "slug": "tatiana-gonzalez-sviridko",
+                            "imdb": null,
+                            "tmdb": 2938543,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Russian Countdown (voice) (uncredited)",
+                    "characters": [
+                        "Russian Countdown (voice) (uncredited)"
+                    ],
+                    "person": {
+                        "name": "Zina Esepciuc",
+                        "ids": {
+                            "trakt": 954139,
+                            "slug": "zina-esepciuc",
+                            "imdb": "nm6976452",
+                            "tmdb": 1867244,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "U.S. Marine (uncredited)",
+                    "characters": [
+                        "U.S. Marine (uncredited)"
+                    ],
+                    "person": {
+                        "name": "Zámbó István",
+                        "ids": {
+                            "trakt": 2121863,
+                            "slug": "zambo-istvan",
+                            "imdb": null,
+                            "tmdb": 2938542,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Mendez Medic (uncredited)",
+                    "characters": [
+                        "Mendez Medic (uncredited)"
+                    ],
+                    "person": {
+                        "name": "Attila Kárpáti",
+                        "ids": {
+                            "trakt": 1286882,
+                            "slug": "attila-karpati",
+                            "imdb": null,
+                            "tmdb": 2143801,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Yednist Civilian (uncredited)",
+                    "characters": [
+                        "Yednist Civilian (uncredited)"
+                    ],
+                    "person": {
+                        "name": "Thanh-Huy Phan",
+                        "ids": {
+                            "trakt": 1704691,
+                            "slug": "thanh-huy-phan-8852c143-7c0d-4c6a-ae84-cc2487de972f",
+                            "imdb": "nm9544512",
+                            "tmdb": 2534399,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "U.S. Marine (uncredited)",
+                    "characters": [
+                        "U.S. Marine (uncredited)"
+                    ],
+                    "person": {
+                        "name": "Ferenc Iván Szabó",
+                        "ids": {
+                            "trakt": 1704687,
+                            "slug": "ferenc-ivan-szabo",
+                            "imdb": "nm10482373",
+                            "tmdb": 2534393,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "USA Marine (uncredited)",
+                    "characters": [
+                        "USA Marine (uncredited)"
+                    ],
+                    "person": {
+                        "name": "Balázs Veres",
+                        "ids": {
+                            "trakt": 1479858,
+                            "slug": "balazs-veres",
+                            "imdb": "nm7835945",
+                            "tmdb": 2300805,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "costume & make-up": [
+                    {
+                        "job": "Makeup & Hair",
+                        "jobs": [
+                            "Makeup & Hair"
+                        ],
+                        "person": {
+                            "name": "Csilla Blake-Horváth",
+                            "ids": {
+                                "trakt": 678442,
+                                "slug": "csilla-blake-horvath",
+                                "imdb": null,
+                                "tmdb": 1653963,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Design",
+                        "jobs": [
+                            "Costume Design"
+                        ],
+                        "person": {
+                            "name": "Caroline Harris",
+                            "ids": {
+                                "trakt": 43486,
+                                "slug": "caroline-harris",
+                                "imdb": "nm0364518",
+                                "tmdb": 119117,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Anthony Mackie",
+                            "ids": {
+                                "trakt": 411080,
+                                "slug": "anthony-mackie",
+                                "imdb": "nm1107001",
+                                "tmdb": 53650,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "person": {
+                            "name": "Charles M. Barsamian",
+                            "ids": {
+                                "trakt": 486886,
+                                "slug": "charles-m-barsamian",
+                                "imdb": "nm4677188",
+                                "tmdb": 1407374,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Charlie Morrison",
+                            "ids": {
+                                "trakt": 576812,
+                                "slug": "charlie-morrison",
+                                "imdb": "nm5011725",
+                                "tmdb": 1492645,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Robert Walak",
+                            "ids": {
+                                "trakt": 580220,
+                                "slug": "robert-walak",
+                                "imdb": null,
+                                "tmdb": 1570003,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Chelsea Ellis Bloch",
+                            "ids": {
+                                "trakt": 586798,
+                                "slug": "chelsea-ellis-bloch",
+                                "imdb": "nm1799153",
+                                "tmdb": 1510872,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Marisol Roncali",
+                            "ids": {
+                                "trakt": 614799,
+                                "slug": "marisol-roncali",
+                                "imdb": "nm5477810",
+                                "tmdb": 1608766,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Fred Berger",
+                            "ids": {
+                                "trakt": 656118,
+                                "slug": "fred-berger-8c0e41ab-f73c-448b-aff1-07e4dd7f98f7",
+                                "imdb": "nm1757754",
+                                "tmdb": 1638298,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "person": {
+                            "name": "David Minkowski",
+                            "ids": {
+                                "trakt": 3718,
+                                "slug": "david-minkowski",
+                                "imdb": "nm0591459",
+                                "tmdb": 4854,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Nanw Rowlands",
+                            "ids": {
+                                "trakt": 750235,
+                                "slug": "nanw-rowlands",
+                                "imdb": "nm3149281",
+                                "tmdb": 1717992,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Joshua Horsfield",
+                            "ids": {
+                                "trakt": 980501,
+                                "slug": "joshua-horsfield",
+                                "imdb": "nm6866766",
+                                "tmdb": 1892222,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Jason Spire",
+                            "ids": {
+                                "trakt": 1159976,
+                                "slug": "jason-spire",
+                                "imdb": null,
+                                "tmdb": 2058691,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Joel Collins",
+                            "ids": {
+                                "trakt": 2187732,
+                                "slug": "joel-collins-6e7b67ce-72bd-4a88-9cfa-65f17d27619d",
+                                "imdb": null,
+                                "tmdb": 3005341,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Erica Steinberg",
+                            "ids": {
+                                "trakt": 17308,
+                                "slug": "erica-steinberg",
+                                "imdb": "nm1460251",
+                                "tmdb": 16849,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "person": {
+                            "name": "Ildikó Kemény",
+                            "ids": {
+                                "trakt": 47622,
+                                "slug": "ildiko-kemeny",
+                                "imdb": "nm0447189",
+                                "tmdb": 62982,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "David U. Lee",
+                            "ids": {
+                                "trakt": 15489,
+                                "slug": "david-u-lee",
+                                "imdb": "nm2146252",
+                                "tmdb": 1127906,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Ben Pugh",
+                            "ids": {
+                                "trakt": 82174,
+                                "slug": "ben-pugh",
+                                "imdb": "nm1532744",
+                                "tmdb": 999764,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Steven Squillante",
+                            "ids": {
+                                "trakt": 89787,
+                                "slug": "steven-squillante",
+                                "imdb": "nm1115325",
+                                "tmdb": 1103515,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Brian Kavanaugh-Jones",
+                            "ids": {
+                                "trakt": 128461,
+                                "slug": "brian-kavanaugh-jones",
+                                "imdb": "nm2271939",
+                                "tmdb": 999763,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Line Producer",
+                        "jobs": [
+                            "Line Producer"
+                        ],
+                        "person": {
+                            "name": "Felícián Keresztes",
+                            "ids": {
+                                "trakt": 158539,
+                                "slug": "felician-keresztes",
+                                "imdb": "nm1539769",
+                                "tmdb": 227937,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Line Producer",
+                        "jobs": [
+                            "Line Producer"
+                        ],
+                        "person": {
+                            "name": "Tim Cole",
+                            "ids": {
+                                "trakt": 159426,
+                                "slug": "tim-cole",
+                                "imdb": "nm0170818",
+                                "tmdb": 230695,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Arash Amel",
+                            "ids": {
+                                "trakt": 228080,
+                                "slug": "arash-amel",
+                                "imdb": "nm3885069",
+                                "tmdb": 1039356,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Mikael Håfström",
+                            "ids": {
+                                "trakt": 418236,
+                                "slug": "mikael-hafstrom",
+                                "imdb": "nm0405632",
+                                "tmdb": 29605,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "person": {
+                            "name": "Rickard Krantz",
+                            "ids": {
+                                "trakt": 483058,
+                                "slug": "rickard-krantz",
+                                "imdb": "nm2845760",
+                                "tmdb": 1394244,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Supervising Art Director",
+                        "jobs": [
+                            "Supervising Art Director"
+                        ],
+                        "person": {
+                            "name": "Peter Findley",
+                            "ids": {
+                                "trakt": 524263,
+                                "slug": "peter-findley",
+                                "imdb": "nm0277576",
+                                "tmdb": 1443027,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Decoration",
+                        "jobs": [
+                            "Set Decoration"
+                        ],
+                        "person": {
+                            "name": "Nóra Talmaier",
+                            "ids": {
+                                "trakt": 1348907,
+                                "slug": "nora-talmaier",
+                                "imdb": null,
+                                "tmdb": 2188766,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "person": {
+                            "name": "János Szárnyas",
+                            "ids": {
+                                "trakt": 2100735,
+                                "slug": "janos-szarnyas",
+                                "imdb": null,
+                                "tmdb": 2917519,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "person": {
+                            "name": "Kevin Phipps",
+                            "ids": {
+                                "trakt": 429,
+                                "slug": "kevin-phipps",
+                                "imdb": "nm0681034",
+                                "tmdb": 8382,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "visual effects": [
+                    {
+                        "job": "Visual Effects Supervisor",
+                        "jobs": [
+                            "Visual Effects Supervisor"
+                        ],
+                        "person": {
+                            "name": "Sebastian Barker",
+                            "ids": {
+                                "trakt": 980505,
+                                "slug": "sebastian-barker",
+                                "imdb": null,
+                                "tmdb": 1892230,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Script Editor",
+                        "jobs": [
+                            "Script Editor"
+                        ],
+                        "person": {
+                            "name": "Alice Allemano",
+                            "ids": {
+                                "trakt": 2077048,
+                                "slug": "alice-allemano",
+                                "imdb": null,
+                                "tmdb": 2893250,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer, Story",
+                        "jobs": [
+                            "Writer",
+                            "Story"
+                        ],
+                        "person": {
+                            "name": "Rob Yescombe",
+                            "ids": {
+                                "trakt": 2077049,
+                                "slug": "rob-yescombe",
+                                "imdb": null,
+                                "tmdb": 2893252,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Rowan Athale",
+                            "ids": {
+                                "trakt": 250292,
+                                "slug": "rowan-athale",
+                                "imdb": "nm1424282",
+                                "tmdb": 1001595,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Original Music Composer",
+                        "jobs": [
+                            "Original Music Composer"
+                        ],
+                        "person": {
+                            "name": "Lorne Balfe",
+                            "ids": {
+                                "trakt": 119208,
+                                "slug": "lorne-balfe-7bd543fb-13a3-4040-a49b-e3aba4da7fff",
+                                "imdb": "nm1154632",
+                                "tmdb": 929145,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music Supervisor",
+                        "jobs": [
+                            "Music Supervisor"
+                        ],
+                        "person": {
+                            "name": "Liz Gallacher",
+                            "ids": {
+                                "trakt": 240357,
+                                "slug": "liz-gallacher",
+                                "imdb": "nm0302317",
+                                "tmdb": 1066776,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "person": {
+                            "name": "Michael Bonvillain",
+                            "ids": {
+                                "trakt": 37717,
+                                "slug": "michael-bonvillain",
+                                "imdb": "nm0095272",
+                                "tmdb": 36224,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 6.25743,
+            "votes": 2692,
+            "distribution": {
+                "1": 39,
+                "2": 27,
+                "3": 85,
+                "4": 174,
+                "5": 382,
+                "6": 816,
+                "7": 686,
+                "8": 280,
+                "9": 77,
+                "10": 126
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Ghost in the Shell 2.0",
+                "year": 2008,
+                "ids": {
+                    "trakt": 8431,
+                    "slug": "ghost-in-the-shell-2-0-2008",
+                    "imdb": "tt1260502",
+                    "tmdb": 14092
+                }
+            },
+            {
+                "title": "RoboCop 3",
+                "year": 1993,
+                "ids": {
+                    "trakt": 3140,
+                    "slug": "robocop-3-1993",
+                    "imdb": "tt0107978",
+                    "tmdb": 5550
+                }
+            },
+            {
+                "title": "RoboCop",
+                "year": 1987,
+                "ids": {
+                    "trakt": 3138,
+                    "slug": "robocop-1987",
+                    "imdb": "tt0093870",
+                    "tmdb": 5548
+                }
+            },
+            {
+                "title": "Upgrade",
+                "year": 2018,
+                "ids": {
+                    "trakt": 347587,
+                    "slug": "upgrade-2018",
+                    "imdb": "tt6499752",
+                    "tmdb": 500664
+                }
+            },
+            {
+                "title": "Ghost in the Shell",
+                "year": 1995,
+                "ids": {
+                    "trakt": 4621,
+                    "slug": "ghost-in-the-shell-1995",
+                    "imdb": "tt0113568",
+                    "tmdb": 9323
+                }
+            },
+            {
+                "title": "Hardware",
+                "year": 1990,
+                "ids": {
+                    "trakt": 6408,
+                    "slug": "hardware-1990",
+                    "imdb": "tt0099740",
+                    "tmdb": 11309
+                }
+            },
+            {
+                "title": "Battle Angel",
+                "year": 1993,
+                "ids": {
+                    "trakt": 10524,
+                    "slug": "battle-angel-1993",
+                    "imdb": "tt0107061",
+                    "tmdb": 17189
+                }
+            },
+            {
+                "title": "Blade Runner",
+                "year": 1982,
+                "ids": {
+                    "trakt": 48,
+                    "slug": "blade-runner-1982",
+                    "imdb": "tt0083658",
+                    "tmdb": 78
+                }
+            },
+            {
+                "title": "The Matrix Revolutions",
+                "year": 2003,
+                "ids": {
+                    "trakt": 483,
+                    "slug": "the-matrix-revolutions-2003",
+                    "imdb": "tt0242653",
+                    "tmdb": 605
+                }
+            },
+            {
+                "title": "RoboCop 2",
+                "year": 1990,
+                "ids": {
+                    "trakt": 3139,
+                    "slug": "robocop-2-1990",
+                    "imdb": "tt0100502",
+                    "tmdb": 5549
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 32118,
+            "plays": 42824,
+            "collectors": 17609,
+            "comments": 41,
+            "lists": 4650,
+            "votes": 2692,
+            "recommended": 49
+        },
+        "watching": 0
+    },
+    "name": "Outside the Wire",
+    "videoType": "movie"
+}
