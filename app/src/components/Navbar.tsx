@@ -1,5 +1,6 @@
 import { FC } from 'react';
 import styled from 'styled';
+import { Link } from 'react-router-dom';
 import { Dashboard, Book, Server } from 'icons';
 import { NavLink } from 'react-router-dom';
 
@@ -57,11 +58,11 @@ const Nav = styled.ul`
 export const Navbar: FC = () => {
   return (
     <Container>
-      <h2>VATICAN</h2>
+      <Link to="/dashboard"><h2>VATICAN</h2></Link>
       <Nav>
-        <NavLink to="/dashboard/dashboard"><Dashboard /><p>Dashboard</p></NavLink>
-        <NavLink to="/dashboard/discover"><Book /><p>Discover</p></NavLink>
-        <NavLink to="/dashboard/statistics"><Server /><p>Statistics</p></NavLink>
+        <NavLink to="/view/dashboard"><Dashboard /><p>Dashboard</p></NavLink>
+        <NavLink to="/view/discover"><Book /><p>Discover</p></NavLink>
+        <NavLink to="/view/statistics"><Server /><p>Statistics</p></NavLink>
       </Nav>
     </Container>
   );

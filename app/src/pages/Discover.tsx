@@ -1,13 +1,123 @@
-import { FC } from 'react';
+import { FC, useState } from 'react';
 import styled from 'styled';
+import { joiResolver } from '@hookform/resolvers/joi';
+import { useForm, SubmitHandler } from 'react-hook-form';
+import Joi from 'joi';
+import { SearchField, ItemCard, Spinner } from 'components';
+import { httpService } from 'services';
+import { Search } from 'icons';
 
-export const Container = styled.div``;
+export const Container = styled.div`
+  h1 {
+    margin: 50px 0;
+  }
+  h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    color: ${({ theme }): string => theme.primary};
+    margin-top: 75px;
+  }
+`;
 
+const schema = Joi.object({
+  title: Joi.string()
+});
+
+const SearchContainer = styled.div`
+  position: relative;
+`;
+
+const SearchIconContainer = styled.button`
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  transform: translateY(-50%);
+  background-color: white;
+  border: none;
+`;
+
+const List = styled.div`
+  margin-top: 75px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 50px;
+`;
+
+const SpinnerContainer = styled.div`
+  margin-top: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  svg {
+    fill: ${({ theme }) => theme.primary};
+    stroke: ${({ theme }) => theme.primary};
+  }
+`;
+
+interface IFormInputs {
+  title: string;
+}
 export const Discover: FC = () => {
+  const [items, setItems] = useState<any[]>();
+  const [loading, setLoading] = useState(false);
+  const { register, handleSubmit, errors } = useForm<IFormInputs>({ mode: 'onSubmit', resolver: joiResolver(schema) });
+
+  const onSubmit: SubmitHandler<IFormInputs> = async ({ title }) => {
+    setLoading(true);
+    try {
+      const response = await httpService.post('/query_movies', {
+        query: {
+          match: {
+            title: title
+          }
+        }
+      });
+      if (response.ok) {
+        const json = await response.json();
+        setItems(json);
+        setLoading(false);
+      }
+      return;
+    }
+    catch (e) {
+      console.log(e);
+    }
+  };
+
+  function handleKeyPress(e: any) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      handleSubmit(onSubmit)();
+    }
+  }
+
   return (
     <Container>
       <h1>Discover</h1>
-      search input
+      <form onSubmit={handleSubmit(onSubmit)}>
+        <SearchContainer>
+          <SearchField error={errors.title} name="title" placeholder="Insert title 🧐" ref={register} />
+          <SearchIconContainer onKeyPress={handleKeyPress} type="submit"><Search/></SearchIconContainer>
+        </SearchContainer>
+      </form>
+
+      {
+        loading ?
+          <SpinnerContainer>
+            <Spinner />
+          </SpinnerContainer>
+          :
+          !items ?
+            <h2>Start filtering buddy..</h2>
+            :
+            !items.length ?
+              <h2>no items found.</h2>
+              :
+              <List>
+                {items.map((item) => {
+                  return <ItemCard id={item._source.id} imagePath={item._source.poster_path} key={item._id} title={item._source.original_title} />;
+                })}
+              </List>
+      }
     </Container>
   );
 };
