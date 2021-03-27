@@ -41,8 +41,10 @@ export const Dashboard: FC = () => {
   }
 
   useEffect(() => {
-    getMovieCount();
-    getShowCount();
+    setTimeout(() => {
+      getMovieCount();
+      getShowCount();
+    }, 1500);
   },[]);
 
   return (
