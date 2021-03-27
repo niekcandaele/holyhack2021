@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 
 const router = express.Router();
 
-const { queryAll, countType, getTopVideos } = require('./queries/query');
+const { queryAll, countType, getTopVideos, totalRuntime } = require('./queries/query');
 const { countGenres } = require('./queries/genre')
 const { updateOverview } = require('./queries/update');
 
@@ -29,6 +29,10 @@ router.get('/query/top/:type', bodyParser.json(), async (req, res) => {
 
 router.put('/update', bodyParser.json(), async (req, res) => {
     await updateOverview(req, res, 'movies', req.query.id);
+});
+
+router.get('/total-runtime', bodyParser.json(), async (req, res) => {
+    await totalRuntime(req, res, 'movies');
 });
 
 module.exports = router;
