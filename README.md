@@ -32,22 +32,28 @@ extra data:
 
 ## Getting started
 
-### 1. Config  
+![](./docs/solution.png)
+
+### 1. Config
 
 To get the scraper running you'll need some API keys from:
-* The Movide DB
-* Trakt
+
+- The Movide DB
+- Trakt
 
 Paste the API keys in the `scraper/.env` file
+
 ```
 TRAKT_API_KEY=<your api key>
 TMDB_API_KEY=<your api key>
 ```
 
 Also add the following lines to the `scraper/.env` file
+
 ```
 LOGSTASH_URL="http://logstash:8080/"
 ```
+
 ### 2. Build images
 
 Before starting the services you will need to build some images.  
