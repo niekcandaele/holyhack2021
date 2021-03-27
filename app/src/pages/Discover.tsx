@@ -104,7 +104,7 @@ export const Discover: FC = () => {
       <h1>Discover</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <SearchContainer>
-          <SearchField error={errors.search} name="search" placeholder="Insert search here 🧐" ref={register} />
+          <SearchField error={errors.search} name="search" placeholder="Insert filter here 🧐" ref={register} />
           <SearchIconContainer onKeyPress={handleKeyPress} type="submit">
             <Search pointer />
           </SearchIconContainer>
@@ -118,7 +118,7 @@ export const Discover: FC = () => {
           </SpinnerContainer>
           :
           !items ?
-            <h2>Start filtering buddy..</h2>
+            <h2>Start filtering buddy ❤️</h2>
             :
             !items.length ?
               <h2>no items found.</h2>
