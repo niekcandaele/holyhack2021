@@ -3,6 +3,7 @@ import styled from 'styled';
 import { useParams } from 'react-router-dom';
 import { httpService } from 'services';
 import { Chip, Spinner } from 'components';
+import { Helmet } from 'react-helmet';
 
 const Container = styled.div``;
 
@@ -110,6 +111,9 @@ export const Movie: FC = () => {
   }
   return (
     <FlexContainer>
+      <Helmet>
+        <title>Vatican | Movie</title>
+      </Helmet>
       <FlexItem>
         <Image url={`https://www.themoviedb.org/t/p/w780${m.poster_path}`} />
       </FlexItem>

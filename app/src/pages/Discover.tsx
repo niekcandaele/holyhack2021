@@ -3,6 +3,7 @@ import styled from 'styled';
 import { joiResolver } from '@hookform/resolvers/joi';
 import { useForm, SubmitHandler } from 'react-hook-form';
 import Joi from 'joi';
+import { Helmet } from 'react-helmet';
 import { SearchField, ItemCard, Spinner } from 'components';
 import { httpService } from 'services';
 import { Search } from 'icons';
@@ -72,7 +73,6 @@ export const Discover: FC = () => {
           match: { [keyval[0].trim()]: keyval[1].trim() }
         };
       });
-      console.log(queries);
 
       const response = await httpService.post('/query_movies', {
         query: {
@@ -101,6 +101,9 @@ export const Discover: FC = () => {
 
   return (
     <Container>
+      <Helmet>
+        <title>Vatican | Discover</title>
+      </Helmet>
       <h1>Discover</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <SearchContainer>

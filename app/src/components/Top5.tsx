@@ -25,7 +25,10 @@ const List = styled.ul`
     width: 200px;
   }
   .genre {
-    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
   }
 `;
 
@@ -57,6 +60,7 @@ export const Top5: FC = () => {
     const response = await httpService.get('/query/top/show?size=5');
     if (response.ok) {
       const json = await response.json();
+      console.log(json);
       setShowData(json);
       setLoading(false);
     }
@@ -94,9 +98,10 @@ export const Top5: FC = () => {
           <List>
             <Header>
               <p className="title">Title</p>
+              <p className="releaseDate">Release date</p>
               <p className="genre">Genre</p>
             </Header>
-            {showData.map((show) => <Item genre={show._source.genres} id={show._id.split('_')[0]} title={show._source.name} type="show"/>)}
+            {showData.map((show) => <Item genre={show._source.genres} id={show._id.split('_')[0]} releaseDate={show._source.first_air_date} title={show._source.name} type="show"/>)}
           </List>
         </Tab>
       </TabSwitch>
@@ -121,7 +126,7 @@ const ItemContainer = styled.li`
   }
   `;
 interface ItemProps {
-  releaseDate?: string;
+  releaseDate: string;
   title: string;
   type: 'movie' | 'show',
   id: string;
@@ -133,8 +138,8 @@ const Item: FC<ItemProps> = ({ id, releaseDate, title, type, genre }) => {
     <ItemContainer>
       <Link to={`/${type}/${id}`}>
         <p className="title">{title}</p>
-        {releaseDate && <p className="releaseDate">{releaseDate}</p>}
-        <Chip text={genre[0].name}/>
+        <p className="releaseDate">{releaseDate}</p>
+        <p className="genre"><Chip text={genre[0].name}/></p>
       </Link>
     </ItemContainer>
   );
