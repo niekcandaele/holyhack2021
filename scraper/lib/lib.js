@@ -29,12 +29,10 @@ async function wait(seconds = 30) {
 async function store(data, type) {
     const promises = data.map(async (element) => {
         if (type === TYPES.MOVIE) {
-            console.log(`Storing ${type} ${element.title}`);
             const traktData = await traktMovies(element)
             element.trakt = traktData
 
         } else {
-            console.log(`Storing ${type} ${element.name}`);
             const traktData = await traktTv(element)
             element.trakt = traktData
         }
@@ -53,6 +51,8 @@ async function store(data, type) {
         } else {
             await logstash.send(element)
         }
+        console.log(`Stored ${type} ${element.name}`);
+
     });
 
     return Promise.all(promises)
