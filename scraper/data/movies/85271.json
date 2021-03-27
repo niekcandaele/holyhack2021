@@ -14,10 +14,101 @@
     "original_language": "en",
     "original_name": "WandaVision",
     "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
-    "popularity": 1087.238,
+    "popularity": 1118.998,
     "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
     "vote_average": 8.5,
-    "vote_count": 7664,
+    "vote_count": 7695,
+    "created_by": [
+        {
+            "id": 123132,
+            "credit_id": "600b066223d278003d3720ef",
+            "name": "Jac Schaeffer",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        36,
+        30
+    ],
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH",
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-05",
+    "last_episode_to_air": {
+        "air_date": "2021-03-05",
+        "episode_number": 9,
+        "id": 2724621,
+        "name": "The Series Finale",
+        "overview": "The events of WandaVision come to a head, and the destinies of all who took part are determined.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg",
+        "vote_average": 8.3,
+        "vote_count": 10
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Disney+",
+            "id": 2739,
+            "logo_path": "/gJ8VX6JSu3ciXHuC2dDGAo2lvwM.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-15",
+            "episode_count": 9,
+            "id": 114993,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/2RBNHQxWwTDBTmShhdanYvbuS6x.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "Experience a new vision of reality.",
+    "type": "Miniseries",
     "trakt": {
         "aliases": [
             {
@@ -8011,8 +8102,8 @@
             }
         },
         "ratings": {
-            "rating": 8.07666,
-            "votes": 4044,
+            "rating": 8.0747,
+            "votes": 4056,
             "distribution": {
                 "1": 70,
                 "2": 35,
@@ -8150,14 +8241,16 @@
         ],
         "stats": {
             "watchers": 107769,
-            "plays": 802322,
-            "collectors": 50541,
-            "collected_episodes": 284458,
-            "comments": 99,
-            "lists": 22932,
-            "votes": 4044,
-            "recommended": 648
+            "plays": 804581,
+            "collectors": 50728,
+            "collected_episodes": 285734,
+            "comments": 100,
+            "lists": 22951,
+            "votes": 4056,
+            "recommended": 651
         },
-        "watching": 19
-    }
+        "watching": 12
+    },
+    "title": "WandaVision",
+    "videoType": "show"
 }

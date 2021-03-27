@@ -1,0 +1,2019 @@
+{
+    "backdrop_path": "/fPF6h8LLtZ40NRqkHfx2DvFbmkW.jpg",
+    "first_air_date": "2021-01-27",
+    "genre_ids": [
+        10765
+    ],
+    "id": 96580,
+    "name": "Resident Alien",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Resident Alien",
+    "overview": "Crash-landed alien Harry takes on the identity of a small-town Colorado doctor. Arriving with a secret mission, he starts off living a simple life…but things get a bit rocky when he’s roped into solving a local murder and realizes he needs to assimilate into his new world. As he does, he begins to wrestle with the moral dilemma of his mission and asking the big life questions like: “Are human beings worth saving?” and “Why do they fold their pizza before eating it?”",
+    "popularity": 489.874,
+    "poster_path": "/bG5aqfT5lTHuSbcQofNHtH0RyyP.jpg",
+    "vote_average": 8.8,
+    "vote_count": 77,
+    "created_by": [
+        {
+            "id": 170819,
+            "credit_id": "5df8c01965686e001889436c",
+            "name": "Chris Sheridan",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.syfy.com/resident-alien",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-24",
+    "last_episode_to_air": {
+        "air_date": "2021-03-24",
+        "episode_number": 9,
+        "id": 2737516,
+        "name": "Welcome Aliens",
+        "overview": "Harry and Asta attend an alien convention.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/Awj0lni1ZIeKI3tjIbfNSSpCR3n.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-03-31",
+        "episode_number": 10,
+        "id": 2737517,
+        "name": "Heroes of Patience",
+        "overview": "On the verge of completing his mission, Harry faces his own humanity.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Syfy",
+            "id": 77,
+            "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 10,
+    "number_of_seasons": 1,
+    "production_companies": [
+        {
+            "id": 7938,
+            "logo_path": "/8I52qpy2Dp48gD9Jf6W1D6E7Imo.png",
+            "name": "UCP",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-01-27",
+            "episode_count": 10,
+            "id": 138465,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/bG5aqfT5lTHuSbcQofNHtH0RyyP.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "The sci-fi murder mystery doctor dramedy Earth needs now.",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Засланец из космоса",
+                "country": "ru"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Засланец из космоса",
+                "country": "ru"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            },
+            {
+                "title": "Пришелец-постоялец",
+                "country": "ru"
+            },
+            {
+                "title": "Резидент прибулець",
+                "country": "ua"
+            },
+            {
+                "title": "Местный пришелец",
+                "country": "ru"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "country": "ua"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Resident Alien",
+                "overview": "Hlavním hrdinou je mimozemšťan Harry, který se zřítí na Zemi a převezme identitu maloměstského doktora v Coloradu. Pomalu se v něm však probouzí morální dilema ohledně jeho tajné mise na Zemi.",
+                "language": "cs"
+            },
+            {
+                "title": "Resident Alien",
+                "overview": "Ein Außerirdischer schlüpft, nachdem er mit seinem Raumschiff auf der Erde eine Bruchlandung hingelegt hatte, in die Identität des Landarztes Dr. Harry Vanderspeigle aus Colorado. Während er auf Rettung wartet, wird er von der Regierung dazu überredet, für sie Kriminalfälle zu lösen und anderen Geheimnissen auf den Grund zu gehen. Gleichzeitig kämpft Harry mit dem moralischen Dilemma, das seine Mission auf Erden für ihn bereithält und mit der Frage, ob es Menschen tatsächlich wert sind, gerettet zu werden.",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Η σειρά ακολουθεί την ιστορία του Harry, ενός εξωγήινου που καταφθάνει στον πλανήτη μας με την μυστική αποστολή του να είναι η εξολόθρευση του ανθρώπινου είδους. Τα πράγματα όμως αλλάζουν όταν εμπλέκεται στην επίλυση ενός φόνου στην τοπική κοινωνία και συνειδητοποιεί ότι πρέπει να προσαρμοστεί σε αυτό τον νέο κόσμο. Σύντομα ο Harry θα βρεθεί σε ένα ηθικό δίλημμα για το αν οι άνθρωποι αξίζουν μία ευκαιρία για να σωθούν.",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "Crash-landed alien Harry takes on the identity of a small-town Colorado doctor. Arriving with a secret mission, he starts off living a simple life…but things get a bit rocky when he’s roped into solving a local murder and realizes he needs to assimilate into his new world. As he does, he begins to wrestle with the moral dilemma of his mission and asking the big life questions like: “Are human beings worth saving?” and “Why do they fold their pizza before eating it?”",
+                "language": "en"
+            },
+            {
+                "title": null,
+                "overview": "Harry, un extraterrestre que se estrelló, adopta la identidad de un médico de un pequeño pueblo de Colorado. Llega con una misión secreta y empieza a vivir una vida sencilla... pero las cosas se complican cuando se ve obligado a resolver un asesinato local y se da cuenta de que debe asimilarse a su nuevo mundo. A medida que lo hace, comienza a luchar con el dilema moral de su misión y a plantearse las grandes preguntas de la vida como: \"¿Vale la pena salvar a los seres humanos?\" y \"¿Por qué doblan la pizza antes de comerla?\".",
+                "language": "es"
+            },
+            {
+                "title": "بیگانه ساکن زمین",
+                "overview": "داستان بیگانه ی به زمین فرستاده شده ای به نام \"هری\" که هویت پزشکی را در شهر کلرادو، از آن خود کرده و به تدریج شروع به مبارزه با معضل اخلاقی ماموریت مخفی خود در زمین می کند.",
+                "language": "fa"
+            },
+            {
+                "title": null,
+                "overview": "Après s'être posé en catastrophe sur Terre, un alien nommé Harry prend l'identité du docteur d'une petite ville du Colorado. Petit à petit, il s'interroge au sujet de la mission secrète qu'il est censé accomplir sur Terre, en venant même à se demander si les humains méritent d'être sauvés.",
+                "language": "fr"
+            },
+            {
+                "title": null,
+                "overview": "A képregény-adaptáció történetének középpontjában egy űrlény van, aki a megbízatása miatt érkezett a Földre, de ott lezuhant, és közben elvesztette azt a cuccát, amivel el tudja végezni a küldetését. A fajtája lenézi az embereket, gyíkok értelmi szintjére sorolják az intelligenciánkat.",
+                "language": "hu"
+            },
+            {
+                "title": null,
+                "overview": "L'alieno Harry precipita sulla Terra e assume l'identità di un medico di una piccola cittadina nel Colorado. E' qui per una missione segreta e comincia a vivere una vita semplice... Ma le cose si fanno un po' complicate quando viene costretto a risolvere un omicidio locale e si rende conto che deve integrarsi nel suo nuovo mondo. A quel punto, inizia a lottare col dilemma morale della sua missione e a porsi le grandi domande della vita come: \"Vale la pena salvare gli esseri umani?\" e \"Perché piegano la pizza prima di mangiarla?\"",
+                "language": "it"
+            },
+            {
+                "title": "레지던트 에이리언",
+                "overview": "",
+                "language": "ko"
+            },
+            {
+                "title": null,
+                "overview": "Een alien land op Aarde en neemt de identiteit aan van een plattelandsdokter in Colorado maar hij realiseert zich al snel dat zijn missie in conflict komt met zijn moraliteit.",
+                "language": "nl"
+            },
+            {
+                "title": null,
+                "overview": "Et komisk scifi-drama basert på en tegneserieserie med samme navn, hvor vi følger et romvesen som har landet på jorden og utgir seg for å være lege i en liten by i Colorado. Dette vesenet må på en eller annen måte tilpasse seg menneskene i byen samtidig som han prøver å fullføre sitt hemmelige oppdrag på jorden.",
+                "language": "no"
+            },
+            {
+                "title": null,
+                "overview": "Kosmita po rozbiciu swojego statku ukrywa się w małym miasteczku jako emerytowany lekarz. Swój obcy wygląd skutecznie maskuje dzięki zdolnościom parapsychicznym. Marzy tylko o tym, by w spokoju doczekać przybycia misji ratunkowej... no ale łatwo być nie może. Kiedy w Patience umiera prawdziwy lekarz, „doktor Harry” zostaje wciągnięty w wir zdarzeń, które nie ograniczają się do pomocy medycznej. W międzyczasie na jego trop wpadają służby specjalne.",
+                "language": "pl"
+            },
+            {
+                "title": "Resident Alien",
+                "overview": "Harry Vanderspleige (Alan Tudyk) é um alienígena que aterra no planeta Terra, assumindo a identidade de um médico de uma pequena cidade do Colorado para levar a cabo uma missão secreta: acabar com a humanidade.",
+                "language": "pt"
+            },
+            {
+                "title": "Засланец из космоса",
+                "overview": "Доктор Гарри Вендершпигль — отшельник в небольшом городке в Колорадо. Ещё Вендершпигль — пришелец, который на самом деле упал на Землю и занял тело врача. Когда же доктора убивают, пришелец вынужден отложить миссию по возвращению домой и занять место убитого. Живя в новом теле, он постепенно начинает задаваться вопросами, стоят ли люди спасения или нет.",
+                "language": "ru"
+            },
+            {
+                "title": null,
+                "overview": "Dark Hose’un aynı adlı çizgi roman serisinden uyarlanan “Resident Alien”da dünyaya düşen bir uzaylı, gizli görevini tamamlayabilmek için kasaba doktorunun yerine geçer.",
+                "language": "tr"
+            },
+            {
+                "title": "Постоялець з космосу",
+                "overview": "Серіал за однойменним коміксом Dark Horse розповідає, як потерпілий крах на Землі інопланетянин Гаррі шукає притулок в провінційному містечку штату Колорадо, де поступово обживається під личиною місцевого доктора. І чим довше прибулець живе серед людей, тим частіше сумнівається в своїй первісній місії знищити людство.",
+                "language": "uk"
+            },
+            {
+                "title": "外星異客",
+                "overview": "《外星異客》改編自黑馬漫畫，描述一名外星人迫降到地球後，在科羅拉多州一個小鎮上等待救援的同時，偽裝成醫師哈利。\n\n在秘密執行殺死全人類的任務同時，哈利協助解開一樁當地謀殺案，這也使他意識到自己必須得融入這個新世界。然而，隨著與人類朝夕相處，他陷入了道德上的難題，最終不得不自問：「人類是否值得拯救呢？」",
+                "language": "zh"
+            },
+            {
+                "title": "外星居民",
+                "overview": "　　故事讲述一个迫降的外星人哈利(图代克饰)在接受了自己科罗拉多小镇医生的新身份后，本带着秘密使命来到地球的他，最终提出了人生中的重大课题：人类值得拯救吗？以及为什么他们在吃披萨之前要折叠？",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Doctor Harry Vanderspeigle",
+                    "characters": [
+                        "Doctor Harry Vanderspeigle"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Alan Tudyk",
+                        "ids": {
+                            "trakt": 412821,
+                            "slug": "alan-tudyk",
+                            "imdb": "nm0876138",
+                            "tmdb": 21088,
+                            "tvrage": 13196
+                        }
+                    }
+                },
+                {
+                    "character": "Asta Twelvetrees",
+                    "characters": [
+                        "Asta Twelvetrees"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Sara Tomko",
+                        "ids": {
+                            "trakt": 69764,
+                            "slug": "sara-tomko",
+                            "imdb": "nm2896588",
+                            "tmdb": 95984,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Sheriff Mike Thompson",
+                    "characters": [
+                        "Sheriff Mike Thompson"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Corey Reynolds",
+                        "ids": {
+                            "trakt": 413773,
+                            "slug": "corey-reynolds-dcf7c759-5137-4071-81b7-3743505f003e",
+                            "imdb": "nm1556631",
+                            "tmdb": 8694,
+                            "tvrage": 47190
+                        }
+                    }
+                },
+                {
+                    "character": "D'arcy Bloom",
+                    "characters": [
+                        "D'arcy Bloom"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Alice Wetterlund",
+                        "ids": {
+                            "trakt": 684868,
+                            "slug": "alice-wetterlund",
+                            "imdb": "nm4561787",
+                            "tmdb": 1661365,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Mayor Ben Hawthorne",
+                    "characters": [
+                        "Mayor Ben Hawthorne"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Levi Fiehler",
+                        "ids": {
+                            "trakt": 95087,
+                            "slug": "levi-fiehler",
+                            "imdb": "nm3172981",
+                            "tmdb": 133780,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Max",
+                    "characters": [
+                        "Max"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Judah Prehn",
+                        "ids": {
+                            "trakt": 2137127,
+                            "slug": "judah-prehn",
+                            "imdb": "nm9361108",
+                            "tmdb": 2955230,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Jeanne McCarthy",
+                            "ids": {
+                                "trakt": 941,
+                                "slug": "jeanne-mccarthy",
+                                "imdb": "nm0565157",
+                                "tmdb": 546,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Todd Leykamp",
+                            "ids": {
+                                "trakt": 2166924,
+                                "slug": "todd-leykamp",
+                                "imdb": "nm3103785",
+                                "tmdb": 2984290,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Nicole Abellera",
+                            "ids": {
+                                "trakt": 152986,
+                                "slug": "nicole-abellera",
+                                "imdb": "nm1125053",
+                                "tmdb": 935278,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Chris Sheridan",
+                            "ids": {
+                                "trakt": 169372,
+                                "slug": "chris-sheridan-dd8ae861-bc2c-4494-afeb-a3b788d75c2e",
+                                "imdb": "nm0792148",
+                                "tmdb": 170819,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Justin Falvey",
+                            "ids": {
+                                "trakt": 399625,
+                                "slug": "justin-falvey",
+                                "imdb": "nm1449803",
+                                "tmdb": 1225545,
+                                "tvrage": 89971
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Darryl Frank",
+                            "ids": {
+                                "trakt": 400926,
+                                "slug": "darryl-frank",
+                                "imdb": "nm1839689",
+                                "tmdb": 1231425,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Mike Richardson",
+                            "ids": {
+                                "trakt": 8727,
+                                "slug": "mike-richardson",
+                                "imdb": "nm0724700",
+                                "tmdb": 40832,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Unit Production Manager",
+                        "jobs": [
+                            "Unit Production Manager"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Brian Leslie Parker",
+                            "ids": {
+                                "trakt": 45462,
+                                "slug": "brian-leslie-parker",
+                                "imdb": "nm0662094",
+                                "tmdb": 59961,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Keith Goldberg",
+                            "ids": {
+                                "trakt": 50671,
+                                "slug": "keith-goldberg",
+                                "imdb": "nm1378991",
+                                "tmdb": 65690,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "David Dobkin",
+                            "ids": {
+                                "trakt": 420179,
+                                "slug": "david-dobkin-ddf48218-e5fe-4436-9798-5505649cc23b",
+                                "imdb": "nm0229694",
+                                "tmdb": 42994,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Manager",
+                        "jobs": [
+                            "Production Manager"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Robert Murdoch",
+                            "ids": {
+                                "trakt": 1514894,
+                                "slug": "robert-murdoch",
+                                "imdb": null,
+                                "tmdb": 1779239,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jamie Neese",
+                            "ids": {
+                                "trakt": 1625662,
+                                "slug": "jamie-neese-81dc81d8-d524-4cc6-a048-ca8bdd2ecbb0",
+                                "imdb": "nm3866521",
+                                "tmdb": 2451297,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jason Neese",
+                            "ids": {
+                                "trakt": 2172597,
+                                "slug": "jason-neese-4c1bc17a-43d7-46e6-970b-82f8d6459eee",
+                                "imdb": "nm1869920",
+                                "tmdb": 2990650,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Comic Book",
+                        "jobs": [
+                            "Comic Book"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Peter Hogan",
+                            "ids": {
+                                "trakt": 1653060,
+                                "slug": "peter-hogan",
+                                "imdb": null,
+                                "tmdb": 2484544,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Comic Book",
+                        "jobs": [
+                            "Comic Book"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Steve Parkhouse",
+                            "ids": {
+                                "trakt": 1653059,
+                                "slug": "steve-parkhouse",
+                                "imdb": null,
+                                "tmdb": 2484545,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Staff Writer",
+                        "jobs": [
+                            "Staff Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Emily Eslami",
+                            "ids": {
+                                "trakt": 2146976,
+                                "slug": "emily-eslami",
+                                "imdb": "nm9310212",
+                                "tmdb": 2964149,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Staff Writer",
+                        "jobs": [
+                            "Staff Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Jeffrey Nieves",
+                            "ids": {
+                                "trakt": 2147010,
+                                "slug": "jeffrey-nieves",
+                                "imdb": "nm5058698",
+                                "tmdb": 2964150,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Story Editor",
+                        "jobs": [
+                            "Executive Story Editor"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Elias Benavidez",
+                            "ids": {
+                                "trakt": 702443,
+                                "slug": "elias-benavidez",
+                                "imdb": "nm2629535",
+                                "tmdb": 1519640,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Staff Writer",
+                        "jobs": [
+                            "Staff Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Tazbah Chavez",
+                            "ids": {
+                                "trakt": 1691013,
+                                "slug": "tazbah-chavez",
+                                "imdb": "nm4024228",
+                                "tmdb": 2521383,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Staff Writer",
+                        "jobs": [
+                            "Staff Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Sarah Beckett",
+                            "ids": {
+                                "trakt": 1864746,
+                                "slug": "sarah-beckett",
+                                "imdb": "nm2535093",
+                                "tmdb": 2676935,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Chris Sheridan",
+                            "ids": {
+                                "trakt": 169372,
+                                "slug": "chris-sheridan-dd8ae861-bc2c-4494-afeb-a3b788d75c2e",
+                                "imdb": "nm0792148",
+                                "tmdb": 170819,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Njeri Brown",
+                            "ids": {
+                                "trakt": 619769,
+                                "slug": "njeri-brown",
+                                "imdb": "nm6975175",
+                                "tmdb": 1612092,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Christian Taylor",
+                            "ids": {
+                                "trakt": 308306,
+                                "slug": "christian-taylor",
+                                "imdb": "nm0995597",
+                                "tmdb": 1222839,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Noah Sorota",
+                            "ids": {
+                                "trakt": 562161,
+                                "slug": "noah-sorota",
+                                "imdb": "nm2417792",
+                                "tmdb": 1491096,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music Editor",
+                        "jobs": [
+                            "Music Editor"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Derek Syverud",
+                            "ids": {
+                                "trakt": 681865,
+                                "slug": "derek-syverud",
+                                "imdb": null,
+                                "tmdb": 1646058,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music Supervisor",
+                        "jobs": [
+                            "Music Supervisor"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Laura Webb",
+                            "ids": {
+                                "trakt": 867931,
+                                "slug": "laura-webb",
+                                "imdb": null,
+                                "tmdb": 1801546,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Sound Mixer",
+                        "jobs": [
+                            "Sound Mixer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Eric Lamontagne",
+                            "ids": {
+                                "trakt": 776783,
+                                "slug": "eric-lamontagne",
+                                "imdb": null,
+                                "tmdb": 1732528,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Scott Williams",
+                            "ids": {
+                                "trakt": 71248,
+                                "slug": "scott-williams",
+                                "imdb": "nm0931660",
+                                "tmdb": 167499,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Camera Operator",
+                        "jobs": [
+                            "Camera Operator"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Harvey LaRocque",
+                            "ids": {
+                                "trakt": 477471,
+                                "slug": "harvey-larocque",
+                                "imdb": "nm0478940",
+                                "tmdb": 1402208,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Camera Operator",
+                        "jobs": [
+                            "Camera Operator"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Tim Moynihan",
+                            "ids": {
+                                "trakt": 530220,
+                                "slug": "tim-moynihan",
+                                "imdb": "nm0610534",
+                                "tmdb": 1448616,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Key Grip",
+                        "jobs": [
+                            "Key Grip"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Harvey Fedor",
+                            "ids": {
+                                "trakt": 1487450,
+                                "slug": "harvey-fedor",
+                                "imdb": null,
+                                "tmdb": 1698819,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Shane Hurlbut",
+                            "ids": {
+                                "trakt": 5639,
+                                "slug": "shane-hurlbut",
+                                "imdb": "nm0403397",
+                                "tmdb": 57126,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Camera Operator",
+                        "jobs": [
+                            "Camera Operator"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jim Van Dijk",
+                            "ids": {
+                                "trakt": 485923,
+                                "slug": "jim-van-dijk",
+                                "imdb": "nm0006920",
+                                "tmdb": 1408787,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Third Assistant Director",
+                        "jobs": [
+                            "Third Assistant Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Angelique Christophorou",
+                            "ids": {
+                                "trakt": 564160,
+                                "slug": "angelique-christophorou",
+                                "imdb": "nm3328132",
+                                "tmdb": 1553794,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Third Assistant Director",
+                        "jobs": [
+                            "Third Assistant Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Ross Langill",
+                            "ids": {
+                                "trakt": 996546,
+                                "slug": "ross-langill",
+                                "imdb": "nm8873082",
+                                "tmdb": 1907564,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Clea Mihalik",
+                            "ids": {
+                                "trakt": 2146938,
+                                "slug": "clea-mihalik",
+                                "imdb": null,
+                                "tmdb": 2964157,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Gurjit Chohan",
+                            "ids": {
+                                "trakt": 809033,
+                                "slug": "gurjit-chohan",
+                                "imdb": null,
+                                "tmdb": 1761417,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Assistant Director Trainee",
+                        "jobs": [
+                            "Assistant Director Trainee"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Natasha Walford",
+                            "ids": {
+                                "trakt": 2181298,
+                                "slug": "natasha-walford",
+                                "imdb": "nm11459291",
+                                "tmdb": 2998694,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Director",
+                        "jobs": [
+                            "First Assistant Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jody Ryan",
+                            "ids": {
+                                "trakt": 1319432,
+                                "slug": "jody-ryan",
+                                "imdb": null,
+                                "tmdb": 2157882,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Robert Duncan McNeill",
+                            "ids": {
+                                "trakt": 426990,
+                                "slug": "robert-duncan-mcneill",
+                                "imdb": "nm0000536",
+                                "tmdb": 74065,
+                                "tvrage": 28656
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jay Chandrasekhar",
+                            "ids": {
+                                "trakt": 295918,
+                                "slug": "jay-chandrasekhar",
+                                "imdb": "nm0151540",
+                                "tmdb": 52049,
+                                "tvrage": 11580
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Director",
+                        "jobs": [
+                            "First Assistant Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Shamess Shute",
+                            "ids": {
+                                "trakt": 1011346,
+                                "slug": "shamess-shute",
+                                "imdb": null,
+                                "tmdb": 1921163,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jennifer Phang",
+                            "ids": {
+                                "trakt": 193667,
+                                "slug": "jennifer-phang",
+                                "imdb": "nm0679662",
+                                "tmdb": 586110,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Shannon Kohli",
+                            "ids": {
+                                "trakt": 448554,
+                                "slug": "shannon-kohli",
+                                "imdb": "nm0463320",
+                                "tmdb": 1396344,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "David Dobkin",
+                            "ids": {
+                                "trakt": 420179,
+                                "slug": "david-dobkin-ddf48218-e5fe-4436-9798-5505649cc23b",
+                                "imdb": "nm0229694",
+                                "tmdb": 42994,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Director",
+                        "jobs": [
+                            "First Assistant Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Sandra Mayo",
+                            "ids": {
+                                "trakt": 1088252,
+                                "slug": "sandra-mayo-38726bf1-4e1b-4433-ac97-bcb522b226aa",
+                                "imdb": null,
+                                "tmdb": 1992625,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Joel Kennedy",
+                            "ids": {
+                                "trakt": 1719225,
+                                "slug": "joel-kennedy",
+                                "imdb": null,
+                                "tmdb": 2546814,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Third Assistant Director",
+                        "jobs": [
+                            "Third Assistant Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Brandon Ng",
+                            "ids": {
+                                "trakt": 1966951,
+                                "slug": "brandon-ng",
+                                "imdb": null,
+                                "tmdb": 2781460,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "lighting": [
+                    {
+                        "job": "Gaffer",
+                        "jobs": [
+                            "Gaffer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Scott Clark",
+                            "ids": {
+                                "trakt": 805887,
+                                "slug": "scott-clark-8402e73c-720e-423b-9bfd-92d47c763113",
+                                "imdb": "nm0164490",
+                                "tmdb": 1758415,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Andrew Seklir",
+                            "ids": {
+                                "trakt": 176028,
+                                "slug": "andrew-seklir",
+                                "imdb": "nm0782890",
+                                "tmdb": 1115250,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Seagan Ngai",
+                            "ids": {
+                                "trakt": 1461429,
+                                "slug": "seagan-ngai",
+                                "imdb": null,
+                                "tmdb": 2281541,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Adam Bluming",
+                            "ids": {
+                                "trakt": 2146854,
+                                "slug": "adam-bluming",
+                                "imdb": null,
+                                "tmdb": 2964192,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Erin Druez",
+                            "ids": {
+                                "trakt": 2146868,
+                                "slug": "erin-druez",
+                                "imdb": null,
+                                "tmdb": 2964193,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Clyde Klotz",
+                            "ids": {
+                                "trakt": 522201,
+                                "slug": "clyde-klotz",
+                                "imdb": "nm0460105",
+                                "tmdb": 1440896,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Decoration",
+                        "jobs": [
+                            "Set Decoration"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Penny A. Chalmers",
+                            "ids": {
+                                "trakt": 55826,
+                                "slug": "penny-a-chalmers",
+                                "imdb": "nm0150038",
+                                "tmdb": 1325694,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Mark Stope",
+                            "ids": {
+                                "trakt": 2181122,
+                                "slug": "mark-stope",
+                                "imdb": "nm1825673",
+                                "tmdb": 2998656,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Costume Designer",
+                        "jobs": [
+                            "Costume Designer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Cynthia Ann Summers",
+                            "ids": {
+                                "trakt": 50017,
+                                "slug": "cynthia-ann-summers",
+                                "imdb": "nm0838688",
+                                "tmdb": 53115,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Designer",
+                        "jobs": [
+                            "Costume Designer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Angelina Kekich",
+                            "ids": {
+                                "trakt": 557224,
+                                "slug": "angelina-kekich",
+                                "imdb": "nm2042924",
+                                "tmdb": 1512983,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Chris Sheridan",
+                            "ids": {
+                                "trakt": 169372,
+                                "slug": "chris-sheridan-dd8ae861-bc2c-4494-afeb-a3b788d75c2e",
+                                "imdb": "nm0792148",
+                                "tmdb": 170819,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.1361,
+            "votes": 507,
+            "distribution": {
+                "1": 5,
+                "2": 0,
+                "3": 0,
+                "4": 7,
+                "5": 13,
+                "6": 30,
+                "7": 90,
+                "8": 146,
+                "9": 109,
+                "10": 103
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Game of Thrones",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1390,
+                    "slug": "game-of-thrones",
+                    "tvdb": 121361,
+                    "imdb": "tt0944947",
+                    "tmdb": 1399,
+                    "tvrage": 24493
+                }
+            },
+            {
+                "title": "The Walking Dead",
+                "year": 2010,
+                "ids": {
+                    "trakt": 1393,
+                    "slug": "the-walking-dead",
+                    "tvdb": 153021,
+                    "imdb": "tt1520211",
+                    "tmdb": 1402,
+                    "tvrage": 25056
+                }
+            },
+            {
+                "title": "Stranger Things",
+                "year": 2016,
+                "ids": {
+                    "trakt": 104439,
+                    "slug": "stranger-things",
+                    "tvdb": 305288,
+                    "imdb": "tt4574334",
+                    "tmdb": 66732,
+                    "tvrage": 48493
+                }
+            },
+            {
+                "title": "Supernatural",
+                "year": 2005,
+                "ids": {
+                    "trakt": 1611,
+                    "slug": "supernatural",
+                    "tvdb": 78901,
+                    "imdb": "tt0460681",
+                    "tmdb": 1622,
+                    "tvrage": 5410
+                }
+            },
+            {
+                "title": "Fringe",
+                "year": 2008,
+                "ids": {
+                    "trakt": 1693,
+                    "slug": "fringe",
+                    "tvdb": 82066,
+                    "imdb": "tt1119644",
+                    "tmdb": 1705,
+                    "tvrage": 18388
+                }
+            },
+            {
+                "title": "The Flash",
+                "year": 2014,
+                "ids": {
+                    "trakt": 60300,
+                    "slug": "the-flash-2014",
+                    "tvdb": 279121,
+                    "imdb": "tt3107288",
+                    "tmdb": 60735,
+                    "tvrage": 36939
+                }
+            },
+            {
+                "title": "Black Mirror",
+                "year": 2011,
+                "ids": {
+                    "trakt": 41793,
+                    "slug": "black-mirror",
+                    "tvdb": 253463,
+                    "imdb": "tt2085059",
+                    "tmdb": 42009,
+                    "tvrage": 30348
+                }
+            },
+            {
+                "title": "Marvel's Agents of S.H.I.E.L.D.",
+                "year": 2013,
+                "ids": {
+                    "trakt": 1394,
+                    "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+                    "tvdb": 263365,
+                    "imdb": "tt2364582",
+                    "tmdb": 1403,
+                    "tvrage": 32656
+                }
+            },
+            {
+                "title": "Doctor Who",
+                "year": 2005,
+                "ids": {
+                    "trakt": 56872,
+                    "slug": "doctor-who-2005",
+                    "tvdb": 78804,
+                    "imdb": "tt0436992",
+                    "tmdb": 57243,
+                    "tvrage": 3332
+                }
+            },
+            {
+                "title": "American Horror Story",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1404,
+                    "slug": "american-horror-story",
+                    "tvdb": 250487,
+                    "imdb": "tt1844624",
+                    "tmdb": 1413,
+                    "tvrage": 28776
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 37162,
+            "plays": 236002,
+            "collectors": 20350,
+            "collected_episodes": 91509,
+            "comments": 17,
+            "lists": 7991,
+            "votes": 507,
+            "recommended": 166
+        },
+        "watching": 39
+    },
+    "title": "Resident Alien",
+    "videoType": "show"
+}

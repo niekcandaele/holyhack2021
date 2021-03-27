@@ -3,7 +3,7 @@ import styled from 'styled';
 
 const Container = styled.div<{ active: boolean }>`
   background: ${({ active, theme }) => active ? theme.gradient : 'white'};
-  height: 150px;
+  height: 125px;
   border-radius: 1.5rem;
   padding: 25px;
   display: flex;
@@ -13,13 +13,13 @@ const Container = styled.div<{ active: boolean }>`
   margin-bottom: 25px;
 
   h3 {
-    font-size: 2rem;
+    font-size: 1.2rem;
     color: ${({ theme, active }): string => active ? 'white' : theme.primary};
   }
 `;
 
 const Amount = styled.p<{ active: boolean }>`
-  font-size: 5rem;
+  font-size: 4.5rem;
   color: ${({ theme, active }): string => active ? 'white' : theme.primary};
   font-weight: 800;
 `;

@@ -1,0 +1,905 @@
+{
+    "adult": false,
+    "backdrop_path": "/9xeEGUZjgiKlI69jwIOi0hjKUIk.jpg",
+    "genre_ids": [
+        14,
+        28,
+        12,
+        16
+    ],
+    "id": 664767,
+    "original_language": "en",
+    "original_title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+    "popularity": 982.579,
+    "poster_path": "/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+    "release_date": "2020-04-12",
+    "title": "Mortal Kombat Legends: Scorpion's Revenge",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 808,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/mortal-kombat-legends-scorpions-revenge",
+    "imdb_id": "tt9580138",
+    "production_companies": [
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 13033,
+            "logo_path": null,
+            "name": "NetherRealm Studios",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trakt": {
+        "base": {
+            "title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "year": 2020,
+            "ids": {
+                "trakt": 498373,
+                "slug": "mortal-kombat-legends-scorpion-s-revenge-2020",
+                "imdb": "tt9580138",
+                "tmdb": 664767
+            }
+        },
+        "aliases": [
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "it"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "us"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "au"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "ca"
+            },
+            {
+                "title": "Mortal Kombat Leyendas: La venganza de Scorpion",
+                "country": "co"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "fr"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "de"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpions Revenge",
+                "country": "in"
+            },
+            {
+                "title": "Mortal Kombat Leyendas: La venganza de Scorpion",
+                "country": "mx"
+            },
+            {
+                "title": "Легенды «Смертельной битвы»: Месть Скорпиона",
+                "country": "ru"
+            },
+            {
+                "title": "Mortal Kombat Leyendas: La venganza de Scorpion",
+                "country": "es"
+            },
+            {
+                "title": "Ölümcül Dövüş Efsanesi: Akrebin İntikamı",
+                "country": "tr"
+            },
+            {
+                "title": "Смертельна битва. Легенди. Помста Скорпіона",
+                "country": "ua"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "country": "gb"
+            }
+        ],
+        "releases": [
+            {
+                "country": "us",
+                "certification": "R",
+                "release_date": "2020-04-12",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "nl",
+                "certification": "16",
+                "release_date": "2020-04-14",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "gb",
+                "certification": "18",
+                "release_date": "2020-04-28",
+                "release_type": "physical",
+                "note": null
+            },
+            {
+                "country": "au",
+                "certification": "R18+",
+                "release_date": "2020-05-20",
+                "release_type": "physical",
+                "note": null
+            },
+            {
+                "country": "fr",
+                "certification": "",
+                "release_date": "2020-05-27",
+                "release_type": "digital",
+                "note": null
+            },
+            {
+                "country": "de",
+                "certification": "18",
+                "release_date": "2020-05-28",
+                "release_type": "digital",
+                "note": null
+            }
+        ],
+        "translations": [
+            {
+                "title": "Смъртоносна битка - Легенди: Отмъщението на Скорпион",
+                "overview": "Веднъж на поколение, има турнир по бойни изкуства и негов домакин е магьосникът Шанг Сунг. Победителят в турнира предизвиква Шанг Сунг на двубой, като залога, е съдбата на световете им. В мрачните дълбини на Нетъралм магьосникът Куан Чи предлага на една изтормозена душа, която е загубила семейството и клана си, да го възкреси като дух отмъстител. Да стане Скорпион!",
+                "tagline": "",
+                "language": "bg"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion’s Revenge",
+                "overview": "Lord Raiden, beskytter af Earthrealm, skal samle rigets bedste kæmpere for at forsvare det mod den onde Shang Tsung i kampen over alle kampe – Mortal Kombat!",
+                "tagline": "",
+                "language": "da"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "Nachdem seine Familie vom Söldner Sub-Zero eiskalt ermordet wurde, wird Hanzo Hasashi in das albtraumhafte Netherrealm verbannt. Dort erhält er vom teuflischen Quan Chi im Gegenzug für seine Dienste die Gelegenheit, seine Familie zu rächen, und wird als Scorpion wiedergeboren. Derweil stellt Lord Raiden in Earthrealm ein ungewöhnliches Team von Elitekämpfern zusammen, um die Menschheit vor dem Untergang zu retten: den Shaolin-Mönch Liu Kang, die Offizierin Sonya Blade und den Actionstar Johnny Cage. Ihre Mission ist es, Shang Tsungs Horden von Outworld-Gladiatoren zu besiegen und das Mortal Kombat zu gewinnen.",
+                "tagline": "",
+                "language": "de"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "Μετά τη φαύλη σφαγή της οικογένειάς του από το πέτρινο μισθοφόρο Sub-Zero, ο Hanzo Hasashi εξορίστηκε στο βασανιστικό Netherrealm. Εκεί, σε αντάλλαγμα για τη δουλεία του στον απαίσιο Κουάν Τσι, του δόθηκε η ευκαιρία να εκδικηθεί την οικογένειά του - και αναστήθηκε ως Σκορπιός, μια χαμένη ψυχή που έσκυψε την εκδίκηση. Επιστρέφοντας στο Earthrealm, ο Λόρδος Raiden συγκεντρώνει μια ομάδα ελίτ πολεμιστών - μοναχός Shaolin Liu Kang, αξιωματικός των Ειδικών Δυνάμεων Sonya Blade και αστέρι δράσης Johnny Cage - μια απίθανη ομάδα ηρώων με μία ευκαιρία να σώσει την ανθρωπότητα. Για να το κάνουν αυτό, πρέπει να νικήσουν την ορδή των μονομάχων του Outworld του Σανγκ Τσάνγκ και να κυβερνήσουν στο τουρνουά Mortal Kombat.",
+                "tagline": "",
+                "language": "el"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
+                "tagline": "",
+                "language": "en"
+            },
+            {
+                "title": "Mortal Kombat Legends: La venganza de Scorpion",
+                "overview": "Basado en el popular videojuego creado por Ed Boon y John Tovias, Mortal Kombat Legends: Scorpion’s Revenge pone el foco en un torneo único que se celebra una vez por generación y en el que se enfrentan los campeones de distintos reinos. El ganador determinará el destino de la Tierra y de sus habitantes.",
+                "tagline": "",
+                "language": "es"
+            },
+            {
+                "title": "افسانه مورتال کامبت: انتقام عقرب",
+                "overview": "شخصیت‌های بازی وارد تورنمنت بزرگی می‌شوند که توسط کاراکتر شنگ سونگ (Shang Tsung) برگزار می‌شود…",
+                "tagline": "",
+                "language": "fa"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "Lord Raiden, protecteur d'Earthrealm, doit rassembler les plus grands combattants de son royaume pour le défendre du démoniaque Shang Tsung dans une bataille ultime.",
+                "tagline": "Vivez l'expérience Mortal Kombat comme jamais auparavant",
+                "language": "fr"
+            },
+            {
+                "title": "אגדות מורטל קומבט: נקמתו של סקורפיון",
+                "overview": "לאחר הטבח האכזרי של המשפחה שלו על ידי סאב-זירו, האנזו האסאשי נהרג ומוצא עצמו בממלכת העולם התחתון. שם, בתמורה לבקשתו של קואן צ'י הרשע, ניתנת לו ההזדמנות לנקום את מות משפחתו - והוא חוזר לחיים כסקורפיון, נשמה אבודה וצמאה לנקמה. בממלכת הארץ , לורד ריידן אוסף צוות של לוחמים מובחרים - נזיר השאולין לו קאנג, קצינת הכוחות המיוחדים סוניה בלייד, כוכב סרטי האקשן ג'וני קייג' - חבורה בלתי סבירה בעלת הזדמנות אחת להציל את האנשונות. לשם כך, הם חייבים להביס את כול לוחמי ממלכת העולם החיצון של שאנג טסונג ולנצח בטורניר המורטל קומבט.",
+                "tagline": "",
+                "language": "he"
+            },
+            {
+                "title": "Mortal Kombat Históriák: Skorpió bosszúja",
+                "overview": "Hanzo Hasashi bosszút esküszik, hogy megtalálja azt, aki megölte őt és családját. Quan Chi segítségével visszatér halottaiból, hogy egy bajnokságon szembeszálljon a gyilkossal.",
+                "tagline": "",
+                "language": "hu"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "Hanzo Hasashi, dopo il terribile massacro della sua famiglia per mano del freddo mercenario Sub-Zero, viene esiliato nel Netherrealm. Qui, accetta di servire il sinistro Quan Chi, in cambio della possibilità di poter vendicare la sua famiglia, tornando in vita come Scorpion, un’anima perduta dedicata alla vendetta. Nel Regno della Terra, Lord Raiden raduna una squadra di guerrieri d’élite – il monaco Shaolin Liu Kang, l’ufficiale delle forze speciali Sonya Blade e la stella del cinema Johnny Cage, un’improbabile compagnia di eroi con il compito di salvare l’umanità. Per riuscire in questa missione, dovranno sconfiggere orde di gladiatori del Regno Esterno di Shang Tsung, fino a diventare campioni del torneo di Mortal Kombat.",
+                "tagline": "",
+                "language": "it"
+            },
+            {
+                "title": "სასიკვდილო ბრძოლის ლეგენდები: მორიელის შურისძიება",
+                "overview": "",
+                "tagline": "",
+                "language": "ka"
+            },
+            {
+                "title": "모탈 컴뱃 레전드: 스콜피온의 복수",
+                "overview": "한 세대에 한 번 꼴로 개최되는 외계와 지구의 챔피언들 간의 토너먼트를 통해 세계의 운명을 결정짓게 되는 이야기. 지구의 수호자인 라이덴 경은 지구에서 가장 강력한 파이터들을 모아 최후의 대결인, 모탈 컴뱃에서 사악한 빌런 상췡으로부터 지구를 지켜야 하는데...",
+                "tagline": "",
+                "language": "ko"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "Nadat zijn familie wreed wordt afgeslacht door de steenkoude huurling Sub-Zero, wordt Hanzo Hasashi verbannen naar de  Netherrealm. Daar krijgt hij, in ruil voor zijn dienstbaarheid aan de sinistere Quan Chi, de kans om zijn gezin te wreken - en wordt hij herboren als Scorpion, een verloren ziel die op wraak uit is. Terug op Earthrealm verzamelt Lord Raiden een team van elite-krijgers - Shaolin-monnik Liu Kang, Special Forces-officier Sonya Blade en actiester Johnny Cage - een onwaarschijnlijke groep helden met één kans om de mensheid te redden. Om dit te doen, moeten ze Shang Tsung's horde Outworld-gladiatoren verslaan en regeren over het Mortal Kombat-toernooi.",
+                "tagline": "",
+                "language": "nl"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "Hanzo Hasashi, wojownik klanu Shirai Ryu, zostaje podstępnie zamordowany wraz z całym swoim klanem. W krainie podziemia spotyka czarnoksiężnika Quan-Chi, który oferuje mu możliwość dokonania zemsty w zamian za drobną przysługę. Hanzo - teraz już jako Scorpion - godzi się i wyrusza na tajemniczą wyspę, gdzie już wkrótce odbędzie się turniej sztuk walki, od wyniku którego zależą losy całego naszego świata.",
+                "tagline": "",
+                "language": "pl"
+            },
+            {
+                "title": "Mortal Kombat Legends: A Vingança de Scorpion",
+                "overview": "Após o massacre cruel da sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca da sua servidão ao sinistro Quan Chi, ele tem a hipótese de vingar a sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipa de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma possibilidade de salvar a humanidade. Para isso, devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.",
+                "tagline": "",
+                "language": "pt"
+            },
+            {
+                "title": "Mortal Kombat Legends: Scorpion's Revenge",
+                "overview": "",
+                "tagline": "",
+                "language": "ro"
+            },
+            {
+                "title": "Легенды «Смертельной битвы»: Месть Скорпиона",
+                "overview": "Турнир, в котором сойдутся чемпионы Внешнего Мира и Земного Царства, и он определит судьбу Земли и всех ее жителей. Лорд Рейден, защитник Царства Земли, должен собрать величайших бойцов своего мира, чтобы защитить его от зловещего Шан Цунга в сражении, которое положит конец всем битвам.",
+                "tagline": "",
+                "language": "ru"
+            },
+            {
+                "title": "Мортал Комбат легенде: Освета Шкорпиона",
+                "overview": "Једном у генерацији, стари вештац-чаробњак Шенг Цунг одржава међудимензионални турнир борилачких вештина где га победник изазива како би сачувао судбину своје домовине. Али, у исто време, у дубинама Недерелма, чаробњак Кван Чи даје понуду намученој души која је недавно изгубила породицу у геноциду, тако што је оживљава и шаље у осветнички поход. Та душа је Шкорпион.",
+                "tagline": "",
+                "language": "sr"
+            },
+            {
+                "title": "ตำนาน มอร์ทัล คอมแบท: การแก้แค้นของแมงป่อง",
+                "overview": "เรื่องราวของ Hanzo Hasashi ผู้ซึ่งหลังจากสูญเสียครอบครัวของเขาถูกกำจัดอย่างไร้ความปราณีโดย Sub-Zero เจ้าของไร้ยางอายที่ถูกเนรเทศ เมื่อไปถึงที่นั่นและเพื่อแลกกับการเป็นทาสให้กับคนที่น่ากลัว Quan Chi เขาได้รับโอกาสที่จะล้างแค้นครอบครัวของเขาฟื้นคืนชีพในฐานะแมงป่องวิญญาณที่หลงหายเพื่อไล่ล้างแค้น",
+                "tagline": "",
+                "language": "th"
+            },
+            {
+                "title": "Ölümcül Dövüş Efsanesi: Akrebin İntikamı",
+                "overview": "Ed Boon ve John Tobias tarafından yaratılan dünya çapındaki başarılı oyuna dayanarak, Mortal Kombat Efsaneleri: Akreb'in İntikamı, Outworld ve Earthrealm'in şampiyonları arasında yüz yılda bir düzenlenen turnuvaya ışık tutuyor. Tüm Dünyanın ve vatandaşlarının kaderini belirleyecek bir rekabet.",
+                "tagline": "Efsane Yeniden Doğuyor",
+                "language": "tr"
+            },
+            {
+                "title": "Смертельна битва. Легенди. Помста Скорпіона",
+                "overview": "Чорнокнижник Шан Цзун влаштовує міжпросторовий турнір з бойових мистецтв, де переможець кине йому виклик за долю їхнього рідного світу. У ньому вирішує взяти участь спраглий помститися за смерть сім'ї і клану Скорпіон.",
+                "tagline": "",
+                "language": "uk"
+            },
+            {
+                "title": "Huyền Thoại Rồng Đen: Scorpion Báo Thù",
+                "overview": "Mortal Kombat là một tựa game chiến đấu và là trò chơi đầu tiên được phát hành vào năm 1992. Nó đã trở thành một thương hiệu về game chiến đấu đối kháng và bạo lực, đáng chú lý là chiêu cuối Fatality cho phép người chơi giết đối thủ một cách tàn bạo nhất. Scorpion là một trong những nhân vật đầu tiên cũng như là nhân vật nổi tiếng nhất. Anh chàng có câu chuyện bối cảnh bi thảm nhất trong nhượng quyền thương mại. Toàn bộ gia tộc của anh ta, bao gồm cả con trai Satoshi và vợ Harumi đã bị Quan Chi sát hại, người đã lừa Scorpion tin rằng Sub-Zero đã làm điều đó. Đó là một câu chuyện hấp dẫn với nhiều khúc ngoặt mà tất cả người hâm mộ Mortal Kombat đều thích được xem trên màn hình lớn.",
+                "tagline": "",
+                "language": "vi"
+            },
+            {
+                "title": "真人快打传奇：蝎子的复仇",
+                "overview": "聚焦了异世界和地球之间的千载难逢的比赛，这场比赛将最终决定地球和人类所有的公民的命运。地球保护者雷电必须聚集其领域最伟大的战士，以从邪恶的尚宗手上保卫地球，从而结束所有战斗。",
+                "tagline": "",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Johnny Cage (voice)",
+                    "characters": [
+                        "Johnny Cage (voice)"
+                    ],
+                    "person": {
+                        "name": "Joel McHale",
+                        "ids": {
+                            "trakt": 413345,
+                            "slug": "joel-mchale",
+                            "imdb": "nm0570364",
+                            "tmdb": 74949,
+                            "tvrage": 29263
+                        }
+                    }
+                },
+                {
+                    "character": "Sonya Blade (voice)",
+                    "characters": [
+                        "Sonya Blade (voice)"
+                    ],
+                    "person": {
+                        "name": "Jennifer Carpenter",
+                        "ids": {
+                            "trakt": 422420,
+                            "slug": "jennifer-carpenter",
+                            "imdb": "nm1358539",
+                            "tmdb": 53828,
+                            "tvrage": 86083
+                        }
+                    }
+                },
+                {
+                    "character": "Liu Kang (voice)",
+                    "characters": [
+                        "Liu Kang (voice)"
+                    ],
+                    "person": {
+                        "name": "Jordan Rodrigues",
+                        "ids": {
+                            "trakt": 407490,
+                            "slug": "jordan-rodrigues",
+                            "imdb": "nm0735366",
+                            "tmdb": 1231115,
+                            "tvrage": 238199
+                        }
+                    }
+                },
+                {
+                    "character": "Hanzo Hasashi, Scorpion (voice)",
+                    "characters": [
+                        "Hanzo Hasashi",
+                        "Scorpion (voice)"
+                    ],
+                    "person": {
+                        "name": "Patrick Seitz",
+                        "ids": {
+                            "trakt": 188736,
+                            "slug": "patrick-seitz",
+                            "imdb": "nm1365137",
+                            "tmdb": 939345,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Sub-Zero (voice)",
+                    "characters": [
+                        "Sub-Zero (voice)"
+                    ],
+                    "person": {
+                        "name": "Steve Blum",
+                        "ids": {
+                            "trakt": 185173,
+                            "slug": "steve-blum-185173",
+                            "imdb": "nm0089710",
+                            "tmdb": 571562,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Shang Tsung, Lin Kuei Assasin (voice)",
+                    "characters": [
+                        "Shang Tsung",
+                        "Lin Kuei Assasin (voice)"
+                    ],
+                    "person": {
+                        "name": "Artt Butler",
+                        "ids": {
+                            "trakt": 574679,
+                            "slug": "artt-butler",
+                            "imdb": "nm2995162",
+                            "tmdb": 1509454,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Quan Chi (voice)",
+                    "characters": [
+                        "Quan Chi (voice)"
+                    ],
+                    "person": {
+                        "name": "Darin De Paul",
+                        "ids": {
+                            "trakt": 463873,
+                            "slug": "darin-de-paul",
+                            "imdb": "nm0210875",
+                            "tmdb": 1352628,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Kano, Shinnok (voice)",
+                    "characters": [
+                        "Kano",
+                        "Shinnok (voice)"
+                    ],
+                    "person": {
+                        "name": "Robin Atkin Downes",
+                        "ids": {
+                            "trakt": 418554,
+                            "slug": "robin-atkin-downes-418554",
+                            "imdb": "nm0235960",
+                            "tmdb": 130081,
+                            "tvrage": 14075
+                        }
+                    }
+                },
+                {
+                    "character": "Raiden, Lin Kuei Warrior (voice)",
+                    "characters": [
+                        "Raiden",
+                        "Lin Kuei Warrior (voice)"
+                    ],
+                    "person": {
+                        "name": "Dave B. Mitchell",
+                        "ids": {
+                            "trakt": 184122,
+                            "slug": "dave-b-mitchell",
+                            "imdb": null,
+                            "tmdb": 1082094,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Jax Briggs (voice)",
+                    "characters": [
+                        "Jax Briggs (voice)"
+                    ],
+                    "person": {
+                        "name": "Ike Amadi",
+                        "ids": {
+                            "trakt": 629852,
+                            "slug": "ike-amadi",
+                            "imdb": "nm2941559",
+                            "tmdb": 1620226,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Goro, Bystander (voice)",
+                    "characters": [
+                        "Goro",
+                        "Bystander (voice)"
+                    ],
+                    "person": {
+                        "name": "Kevin Michael Richardson",
+                        "ids": {
+                            "trakt": 415665,
+                            "slug": "kevin-michael-richardson",
+                            "imdb": "nm0724656",
+                            "tmdb": 24362,
+                            "tvrage": 46510
+                        }
+                    }
+                },
+                {
+                    "character": "Satoshi Hasashi, Kitana (voice)",
+                    "characters": [
+                        "Satoshi Hasashi",
+                        "Kitana (voice)"
+                    ],
+                    "person": {
+                        "name": "Grey DeLisle",
+                        "ids": {
+                            "trakt": 421327,
+                            "slug": "grey-delisle-421327",
+                            "imdb": "nm0217221",
+                            "tmdb": 15761,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Demon Torturer (voice)",
+                    "characters": [
+                        "Demon Torturer (voice)"
+                    ],
+                    "person": {
+                        "name": "Fred Tatasciore",
+                        "ids": {
+                            "trakt": 415668,
+                            "slug": "fred-tatasciore",
+                            "imdb": "nm0851317",
+                            "tmdb": 60279,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "person": {
+                            "name": "James Krieg",
+                            "ids": {
+                                "trakt": 89475,
+                                "slug": "james-krieg",
+                                "imdb": "nm0471172",
+                                "tmdb": 150856,
+                                "tvrage": 27042
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "person": {
+                            "name": "Alyessa Ornelas",
+                            "ids": {
+                                "trakt": 1785048,
+                                "slug": "alyessa-ornelas",
+                                "imdb": null,
+                                "tmdb": 2599110,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "person": {
+                            "name": "Dawn Merkel",
+                            "ids": {
+                                "trakt": 1785047,
+                                "slug": "dawn-merkel",
+                                "imdb": null,
+                                "tmdb": 2599109,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "person": {
+                            "name": "Wes Gleason",
+                            "ids": {
+                                "trakt": 660193,
+                                "slug": "wes-gleason",
+                                "imdb": null,
+                                "tmdb": 1641642,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "person": {
+                            "name": "Rick Morales",
+                            "ids": {
+                                "trakt": 102074,
+                                "slug": "rick-morales",
+                                "imdb": "nm3262328",
+                                "tmdb": 105642,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "person": {
+                            "name": "Sam Register",
+                            "ids": {
+                                "trakt": 141821,
+                                "slug": "sam-register",
+                                "imdb": "nm1882146",
+                                "tmdb": 141043,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Creator, Creative Consultant",
+                        "jobs": [
+                            "Creator",
+                            "Creative Consultant"
+                        ],
+                        "person": {
+                            "name": "Ed Boon",
+                            "ids": {
+                                "trakt": 1681926,
+                                "slug": "ed-boon-c2de9e5f-b276-435b-80c8-948678b9ffda",
+                                "imdb": null,
+                                "tmdb": 2513274,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "person": {
+                            "name": "John Tobias",
+                            "ids": {
+                                "trakt": 42734,
+                                "slug": "john-tobias",
+                                "imdb": "nm0864880",
+                                "tmdb": 57257,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "person": {
+                            "name": "Robert Ehrenreich",
+                            "ids": {
+                                "trakt": 1423375,
+                                "slug": "robert-ehrenreich",
+                                "imdb": null,
+                                "tmdb": 2235513,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "person": {
+                            "name": "Jeremy Adams",
+                            "ids": {
+                                "trakt": 700080,
+                                "slug": "jeremy-adams",
+                                "imdb": "nm4287835",
+                                "tmdb": 1674791,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "person": {
+                            "name": "John Jennings Boyd",
+                            "ids": {
+                                "trakt": 468242,
+                                "slug": "john-jennings-boyd",
+                                "imdb": "nm1290489",
+                                "tmdb": 1374902,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "person": {
+                            "name": "Eric V. Hachikian",
+                            "ids": {
+                                "trakt": 323917,
+                                "slug": "eric-v-hachikian",
+                                "imdb": "nm2023699",
+                                "tmdb": 1183647,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "person": {
+                            "name": "Ethan Spaulding",
+                            "ids": {
+                                "trakt": 175869,
+                                "slug": "ethan-spaulding-9cb12ff8-f527-4eb2-ab4c-20ae96cd3b42",
+                                "imdb": null,
+                                "tmdb": 204553,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 7.52564,
+            "votes": 1248,
+            "distribution": {
+                "1": 6,
+                "2": 12,
+                "3": 9,
+                "4": 17,
+                "5": 44,
+                "6": 184,
+                "7": 330,
+                "8": 348,
+                "9": 131,
+                "10": 167
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Warcraft",
+                "year": 2016,
+                "ids": {
+                    "trakt": 50145,
+                    "slug": "warcraft-2016",
+                    "imdb": "tt0803096",
+                    "tmdb": 68735
+                }
+            },
+            {
+                "title": "Mortal Kombat",
+                "year": 1995,
+                "ids": {
+                    "trakt": 4610,
+                    "slug": "mortal-kombat-1995",
+                    "imdb": "tt0113855",
+                    "tmdb": 9312
+                }
+            },
+            {
+                "title": "Goblin Slayer: Goblin's Crown",
+                "year": 2020,
+                "ids": {
+                    "trakt": 471335,
+                    "slug": "goblin-slayer-goblin-s-crown-2020",
+                    "imdb": "tt11151982",
+                    "tmdb": 631132
+                }
+            },
+            {
+                "title": "Dragon Quest: Your Story",
+                "year": 2019,
+                "ids": {
+                    "trakt": 438877,
+                    "slug": "dragon-quest-your-story-2019",
+                    "imdb": "tt10127562",
+                    "tmdb": 592867
+                }
+            },
+            {
+                "title": "Solomon Kane",
+                "year": 2009,
+                "ids": {
+                    "trakt": 21128,
+                    "slug": "solomon-kane-2009",
+                    "imdb": "tt0970452",
+                    "tmdb": 32985
+                }
+            },
+            {
+                "title": "Brotherhood of the Wolf",
+                "year": 2001,
+                "ids": {
+                    "trakt": 3572,
+                    "slug": "brotherhood-of-the-wolf-2001",
+                    "imdb": "tt0237534",
+                    "tmdb": 6312
+                }
+            },
+            {
+                "title": "Shaft",
+                "year": 2000,
+                "ids": {
+                    "trakt": 377,
+                    "slug": "shaft-2000",
+                    "imdb": "tt0162650",
+                    "tmdb": 479
+                }
+            },
+            {
+                "title": "Conan the Barbarian",
+                "year": 2011,
+                "ids": {
+                    "trakt": 23966,
+                    "slug": "conan-the-barbarian-2011",
+                    "imdb": "tt0816462",
+                    "tmdb": 37430
+                }
+            },
+            {
+                "title": "Mortal Kombat: Annihilation",
+                "year": 1997,
+                "ids": {
+                    "trakt": 5079,
+                    "slug": "mortal-kombat-annihilation-1997",
+                    "imdb": "tt0119707",
+                    "tmdb": 9823
+                }
+            },
+            {
+                "title": "The Four Feathers",
+                "year": 2002,
+                "ids": {
+                    "trakt": 4541,
+                    "slug": "the-four-feathers-2002",
+                    "imdb": "tt0240510",
+                    "tmdb": 9093
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 29225,
+            "plays": 38967,
+            "collectors": 28699,
+            "comments": 13,
+            "lists": 4141,
+            "votes": 1248,
+            "recommended": 10
+        },
+        "watching": 0
+    },
+    "name": "Mortal Kombat Legends: Scorpion's Revenge",
+    "videoType": "movie"
+}

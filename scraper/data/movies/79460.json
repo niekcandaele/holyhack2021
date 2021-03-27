@@ -1,0 +1,1568 @@
+{
+    "backdrop_path": "/fRYwdeNjMqC30EhofPx5PlDpdun.jpg",
+    "first_air_date": "2018-10-25",
+    "genre_ids": [
+        10765,
+        18
+    ],
+    "id": 79460,
+    "name": "Legacies",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Legacies",
+    "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+    "popularity": 571.171,
+    "poster_path": "/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+    "vote_average": 8.6,
+    "vote_count": 1712,
+    "created_by": [
+        {
+            "id": 1214616,
+            "credit_id": "5af791830e0a2655b8004118",
+            "name": "Julie Plec",
+            "gender": 1,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        43
+    ],
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.cwtv.com/shows/legacies",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-25",
+    "last_episode_to_air": {
+        "air_date": "2021-03-25",
+        "episode_number": 8,
+        "id": 2764731,
+        "name": "Long Time, No See",
+        "overview": "MG finds himself on the outs with the Super Squad after a controversial decision he made comes to light. Hope puts a risky plan in motion regardless of the potential consequences. Kaleb, Cleo and Alaric join forces when the latest monster shows up.",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": "/wMrgvJMjQcpCz1I50GwEXMXStgy.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-04-08",
+        "episode_number": 9,
+        "id": 2787083,
+        "name": "Do All Malivore Monsters Provide This Level of Emotional Insight?",
+        "overview": "",
+        "production_code": "",
+        "season_number": 3,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "The CW",
+            "id": 71,
+            "logo_path": "/ge9hzeaU7nMtQ4PjkFlc68dGAJ9.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 41,
+    "number_of_seasons": 3,
+    "production_companies": [
+        {
+            "id": 1957,
+            "logo_path": "/3T19XSr6yqaLNK8uJWFImPgRax0.png",
+            "name": "Warner Bros. Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 10067,
+            "logo_path": "/p1kZoVNfkVvk7xyJZEposRxcfh8.png",
+            "name": "Alloy Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 1081,
+            "logo_path": "/vfcpaPf6WktaCIHqF4FJAcek8q2.png",
+            "name": "CBS Television Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 34536,
+            "logo_path": null,
+            "name": "My So-Called Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "seasons": [
+        {
+            "air_date": "2018-10-25",
+            "episode_count": 16,
+            "id": 103695,
+            "name": "Season 1",
+            "overview": "Continuing the tradition of The Vampire Diaries and The Originals, the story of the next generation of supernatural beings at the Salvatore Boarding School for the Young & Gifted. Klaus Mikaelson's daughter, 17-year-old Hope Mikaelson; Alaric Saltzman's twins, Lizzie and Josie Saltzman; and other young adults come of age in the most unconventional way possible, nurtured to be their best selves... in spite of their worst impulses. Will these young witches, vampires and werewolves become the heroes they want to be — or the villains they were born to be?",
+            "poster_path": "/bULKxDY88WNWsKedNTSfLtmmiER.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2019-10-10",
+            "episode_count": 16,
+            "id": 129337,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/1Uhoi348GEg4DObGrVLNUqtKtdu.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2021-01-21",
+            "episode_count": 9,
+            "id": 168939,
+            "name": "Season 3",
+            "overview": "As season three begins, Hope has risked everything to pull her friends back from the brink of a monstrous prophecy that threatened them. But when a heartbreaking loss shatters her whole world, Hope Mikaelson will be forced to fight fate itself.",
+            "poster_path": "/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Heroes. Villains. Whatever.",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Legacies",
+                "country": "pl"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Вампири: Наследство",
+                "overview": "През последното десетилетие емблематичните герои и злодеи от Дневниците на вампирите и Древните завладяваха публиката по целия свят. Дойде времето да видим какъв е плода на тайната им любов в новата поредица спин-оф Вампири: Наследството. Вълнуващата история разказва за следващото поколение от свръхестествени същества в училището за млади таланти Салватор. В центъра на събитията са дъщерята на Клаус Майкълсън - 17-годишната Хоуп Майкълсън, близнаците на Аларик Салцман - Лизи и Джоси.",
+                "language": "bg"
+            },
+            {
+                "title": "Odkaz",
+                "overview": "Vypráví příběh další generace nadpřirozených bytostí na škole pro mladé a nadané. Sedmnáctiletá Hope je dcerou Klause Mikaelsona, nechybí ani dvojčata Alarica Saltzmana a mnoho dalších mladých lidí, kteří se snaží dospívat nejméně konvenční možnou cestou a stát se tou nejlepší verzí sebe sama... i přes ty nejhorší vnitřní impulsy. Stanou se z těchto čarodějů, upírů a vlkodlaků hrdinové, kterými vždy chtěli být? Nebo záporáci, kterými byli předurčeni se stát?",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "De ikoniske helte og skurke fra ”The Vampire Diaries” og ”The Originals” efterlod sig en arv bestående af vedblivende kærlighed og familiefølelse i deres kølvand, og den fortsættes i ”Legacies”, en spændende dramaserie, der fortæller historien om næste generation af overnaturlige væsener på Salvatore-skolen for de unge og talentfulde.",
+                "language": "da"
+            },
+            {
+                "title": null,
+                "overview": "Die Salvatore School For The Young And Gifted im kleinen Örtchen Mystic Falls ist keine normale Schule. Statt gewöhnlichen Jugendlichen werden hier nämlich junge Vampire, Werwölfe und Hexen unterrichtet. Unter diesen befindet sich auch die 17-jährige Hope Mikaelson, Nachfahrin des berüchtigten Mikaelson-Vampir-Clans. Gemeinsam mit anderen übernatürlichen Teenagern wie den Zwillingstöchtern des Schul-Gründers Alaric Saltzman wird Hope in dem Internat auf die wohl ungewöhnlichste Weise erwachsen und dazu erzogen, das Beste aus sich und ihrer düsteren Veranlagung zu machen. Doch nicht alle können ihre finsteren Impulse unterdrücken...",
+                "language": "de"
+            },
+            {
+                "title": null,
+                "overview": "Συνεχίζοντας την παράδοση των Vampire Diaries και των Originals, η ιστορία της επόμενης γενιάς υπερφυσικών όντων στη σχολή Salvatore για νέους και προικισμένους! Η κόρη του Klaus Mikaelson, η 17χρονη Hope, οι δίδυμες του Alaric Saltzman, Lizzie και Josie και άλλοι νεαροί, μεγαλώνουν με τον πιο ασυνήθιστο δυνατό τρόπο, διδάσκονται να είναι ο καλύτερος εαυτός τους... παρά τις χειρότερες παρορμήσεις τους. Αυτές οι νεαρές μάγισσες, τα βαμπίρ και οι λυκάνθρωποι, θα γίνουν οι ήρωες που θέλουν να είναι ή οι κακοί που γεννήθηκαν να είναι;",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+                "language": "en"
+            },
+            {
+                "title": "Legacies",
+                "overview": "Legacies sigue a la hija de Klaus Mikaelson y Hayley Marshall, Hope Mikaelson, que desciende de linaje más poderoso de vampiros, hombres lobo y brujas. Dos años después de los eventos de The Originals, ella y las gemelas Saltzman, Lizzie y Josie, asisten a la Escuela Salvatore para Jóvenes y Dotados. La escuela ofrece un refugio donde seres como vampiros, brujas y hombres lobo pueden aprender a controlar sus habilidades e impulsos sobrenaturales.",
+                "language": "es"
+            },
+            {
+                "title": "Les héritiers",
+                "overview": "Les aventures d'Hope Mikaelson et des jumelles Saltzman au sein de la Salvatore School for the Young and Gifted, une école réservée aux êtres surnaturels tenue et créée par Alaric à Mystic Falls.",
+                "language": "fr"
+            },
+            {
+                "title": "מורשות",
+                "overview": "הסדרה מגוללת את עלילותיהם של הופ מייקלסון ושל חבריה לספסל הלימודים, ביניהם נמנות תאומותיו של אלאריק זצלמן, ליזי וג'וזי זצלמן, בעודם נאבקים למצוא את מקומם בבית הספר לילדים על טבעיים על שם סטפן סאלבטור.",
+                "language": "he"
+            },
+            {
+                "title": "Potomci",
+                "overview": "Tijekom proteklog desetljeća, kultni junaci i zlikovci iz “Vampirskih dnevnika” (Vampire Diaries) i “Prvobitnih” (The Originals) očarali su publiku širom svijeta. Za sobom su ostavili veliko obiteljsko nasljeđe, a ono se nastavlja u “Potomcima”, uzbudljivoj novoj drami koja govori o sljedećoj generaciji natprirodnih bića u školi Salvatore za mlade i nadarene. Kćer Klausa Mikaelsona, 17-godišnja Hope Mikaelson; blizanci Alarica Saltzmana, Lizzie i Josie Saltzman; i ostali tinejdžeri odrastaju na poprilično nekonvencionalan način, učeći da bi postali najbolje verzije sebe, usprkos svojim najgorim instinktima. Hoće li ove mlade vještice, vampiri i vukodlaci postati heroji kakvi žele biti – ili zlikovci za koje su predodređeni?",
+                "language": "hr"
+            },
+            {
+                "title": "Legacies - A sötétség öröksége",
+                "overview": "Az elmúlt évtizedben a Vámpírnaplók és A sötétség kora című sorozatok ikonikus hősei meghódították a világot. Az új széria a hagyományokat folytatva a Salvatore bentlakásos iskolában játszódik, és egy új természetfölötti képességekkel rendelkező generáció történetét meséli el, a középpontban Klaus Mikkelson 17 éves lányával, Hope-pal. Vajon a suliba járó tiniboszorkányok, vámpírok és vérfarkasok hőssé válnak, ahogy azt szeretnék, vagy megmaradnak gonosz teremtményeknek, amiknek születtek?",
+                "language": "hu"
+            },
+            {
+                "title": "Legacies",
+                "overview": "Spin-off di The Originals, Legacies riprende a raccontare le storie degli studenti della Salvatore School for the Young and Gifted, con un salto temporale di due anni dalla serie precedente. La protagonista è Hope Mikaelson, figlia 17enne del vampiro Klaus e della licantropa Hayley Marshall, conosciuta come il Tribrido, perché in lei si racchiudono i poteri di tre specie soprannaturali: è per metà licantropo, per un quarto vampira e per un quarto strega. Nata da ciò che gli umani percepiscono come malefico, Hope tenta ogni giorno di soffocare i suoi terribili impulsi per diventare una persona buona. Tra primi amori e dolori, segreti, tradimenti, amicizie e lezioni di vita, Hope crescerà accanto a tante altre giovani streghe, vampiri e licantropi come lei, in lotta ogni giorno contro i propri demoni per affrontare i mostri che li circondano. Riusciranno a diventare degli eroi o si faranno influenzare dal male che li ha creati?",
+                "language": "it"
+            },
+            {
+                "title": "レガシーズ",
+                "overview": "",
+                "language": "ja"
+            },
+            {
+                "title": "მემკვიდრეობა",
+                "overview": "",
+                "language": "ka"
+            },
+            {
+                "title": "레가시",
+                "overview": "오리지널스의 스핀오프 드라마",
+                "language": "ko"
+            },
+            {
+                "title": "Palikimas",
+                "overview": "",
+                "language": "lt"
+            },
+            {
+                "title": "Legacies",
+                "overview": "Legacies speelt zich af op een kostschool voor bovennatuurlijke wezens. Deze speciale school heet: ‘The Salvatore School for the Young and Gifted’. Hier leren de 17-jarige Hope Mikaelson, Lizzie en Josie Saltzman en andere jongeren omgaan met hun krachten en impulsen, om als nette heks, weerwolf of vampier op te groeien. Worden het helden of schurken?",
+                "language": "nl"
+            },
+            {
+                "title": "Wampiry: Dziedzictwo",
+                "overview": "Serial skupi się na Hope Mikaelson oraz jej przyjaciołach ze szkoły dla dzieci i młodzieży z paranormalnymi zdolnościami. Przed bohaterami stanie trudne zadanie ochrony swoich sekretów, miasteczka Mystic Falls, a także i świata. Spin-off serialu „The Originals”.",
+                "language": "pl"
+            },
+            {
+                "title": null,
+                "overview": "Continuando a tradição de The Vampire Diaries e The Originals, a história da próxima geração de seres sobrenaturais na Escola Salvatore para Jovens e Super-dotados. A filha de Klaus Mikaelson, Hope Mikaelson, de 17 anos; as gémeas de Alaric Saltzman, Lizzie e Josie Saltzman; e outros jovens adultos amadurecem da maneira mais anti-convencional possível, nutridos para serem os seus melhores eus ... apesar dos seus piores impulsos. As jovens bruxas, vampiros e lobisomens irão tornar-se os heróis que eles querem ser - ou os vilões que nasceram para ser?",
+                "language": "pt"
+            },
+            {
+                "title": "Moșteniri",
+                "overview": "Moșteniri, o nouă dramă emoționantă care spune povestea următoarei generații de ființe supranaturale de la școala Salvatore pentru tinerii înzestrați. Aici, fiica lui Klaus Mikaelson, Hope Mikaelson, de 17 ani, gemenii lui Alaric Saltzman, Lizzie și Josie Saltzman, și alți tineri se maturizează în cel mai neconvențional mod posibil, antrenați să fie cât mai buni, în ciuda celor mai rele impulsuri pe care le au... Vor deveni vrăjitoarele, vampirii și vârcolacii eroii care doresc să fie - sau ființele diabolice care s-au născut să fie?",
+                "language": "ro"
+            },
+            {
+                "title": "Наследие",
+                "overview": "Рассказ о следующем поколении сверхъестественных существ в Школе Сальваторе для молодых и одаренных. Дочь Клауса Майклсона, 17-летняя Хоуп Майклсон; Близнецы Аларика Зальцмана, Лиззи и Джози Зальцман, и другие молодые люди достигли совершеннолетия необычным способом, чтобы стать их лучшими личностями, несмотря на их худшие импульсы. Станут ли эти молодые ведьмы, вампиры и оборотни героями, которыми они хотят быть — или злодеями, которыми они родились?",
+                "language": "ru"
+            },
+            {
+                "title": "Odkaz",
+                "overview": "Príbeh ďalšej generácie nadprirodzených bytostí na škole pre mladých a nadaných. Práve tam sa sedemnásťročná dcéra Klausa Mikaelsona Hope, dvojčatá Alarica Saltzmana Lizzie a Josie a mnoho ďalších mladých ľudí snaží dospievať tým najmenej konvenčným spôsobom a stať sa tou najlepšou verziou seba samého... napriek najhorším vnútorným nutkaniam. Stanú sa z týchto čarodejníc, upírov a vlkolakov hrdinovia, ktorými chcú byť - alebo záporáci, ktorými sa narodili?",
+                "language": "sk"
+            },
+            {
+                "title": "Потомци",
+                "overview": "У месту где су младе вештице, вампири и вукодлаци одгајани да буду најбоље верзије себе упркос својим најгорим импулсима, кћер Клауса Мајклсона, 17-годишња Хоуп Мајклсон; близанци Алариха Залцмана, Лизи и Џоузи Залцман, између осталих, стасавају у јунаке и зликовце у Салватореовој школи за младе и надарене.",
+                "language": "sr"
+            },
+            {
+                "title": null,
+                "overview": "Bir Vampir / Kurtadam melezi ve atası olan Klaus Mikaelson 'ın kızı olan Hope Mikaelson, aynı zamanda güçlü bir cadıdır. Babasının son zamanlarında yanında olan Hope ; babası ve amcasının ölümünün ardından okuluna geri döner. Okul bir çok doğaüstü yeteneğe sahip olan çocukların eğitimini üstlenmektedir. Yönetimde The Vampire Diaries ve The Originals 'dan tanıdığımız sarışın vampir Caroline FORBES ve doğaüstü bilimler profesörü Alaric Saltzman bulunmaktadır. Dizide Hope 'un okulundaki yeni arkadaşları ve hikayeleri anlatılacaktır.",
+                "language": "tr"
+            },
+            {
+                "title": "Спадок",
+                "overview": "Дія серіалу розгортається в школі Сальваторе, де навчаються обдаровані підлітки. У цьому незвичайному навчальному закладі юні вампіри, вовкулаки та відьми вивчають не тільки основні предмети, але і магію, заклинання і латинь. Тільки тут підлітки, що володіють надприродними здібностями, можуть відчути себе як вдома. У стінах школи, якою керує Аларік Зальцман, вчаться його дочки-відьми Ліззі і Джозі, вовкулака Рафаель, а також Хоуп — єдина дочка первородного вампіра Клауса Майклсона...",
+                "language": "uk"
+            },
+            {
+                "title": "吸血鬼后裔",
+                "overview": "　CW的《吸血鬼日记 The Vampire Diaries》及《吸血鬼始祖 The Originals》共同衍生剧《吸血鬼后裔 Legacies》背景设置在Salvatore学校里，17岁的Hope Mikaelson（Danielle Rose Russell饰，狼人﹑吸血鬼 ﹑女巫三重混血种）﹑Alaric Saltzman的双胞胎Lizzie﹑Josie，及其他拥有超自然血统的的年青人在此既可能建立起自我，亦可能被冲动所蒙蔽。所以他们究竟会成为英雄，还是如血统本质下成为反派？而他们的行为都在校长Alaric Saltzman（Matthew Davis饰）的监督之下。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Hope Mikaelson",
+                    "characters": [
+                        "Hope Mikaelson"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Danielle Rose Russell",
+                        "ids": {
+                            "trakt": 538871,
+                            "slug": "danielle-rose-russell",
+                            "imdb": "nm5994559",
+                            "tmdb": 1457461,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Landon Kirby",
+                    "characters": [
+                        "Landon Kirby"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Aria Shahghasemi",
+                        "ids": {
+                            "trakt": 683335,
+                            "slug": "aria-shahghasemi",
+                            "imdb": "nm7263948",
+                            "tmdb": 1659541,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Alaric Saltzman",
+                    "characters": [
+                        "Alaric Saltzman"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Matthew Davis",
+                        "ids": {
+                            "trakt": 422663,
+                            "slug": "matthew-davis-d623ef86-81b0-4973-b800-4ef3ccfdaf84",
+                            "imdb": "nm0205127",
+                            "tmdb": 56045,
+                            "tvrage": 83719
+                        }
+                    }
+                },
+                {
+                    "character": "Josie Saltzman",
+                    "characters": [
+                        "Josie Saltzman"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Kaylee Bryant",
+                        "ids": {
+                            "trakt": 660623,
+                            "slug": "kaylee-bryant",
+                            "imdb": "nm2859626",
+                            "tmdb": 1493434,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Lizzie Saltzman",
+                    "characters": [
+                        "Lizzie Saltzman"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Jenny Boyd",
+                        "ids": {
+                            "trakt": 491565,
+                            "slug": "jenny-boyd",
+                            "imdb": "nm6874403",
+                            "tmdb": 1413434,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Milton \"MG\" Greasley",
+                    "characters": [
+                        "Milton \"MG\" Greasley"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Quincy Fouse",
+                        "ids": {
+                            "trakt": 854136,
+                            "slug": "quincy-fouse",
+                            "imdb": "nm7875835",
+                            "tmdb": 1788166,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Rafael Waithe",
+                    "characters": [
+                        "Rafael Waithe"
+                    ],
+                    "episode_count": 32,
+                    "person": {
+                        "name": "Peyton Alex Smith",
+                        "ids": {
+                            "trakt": 741561,
+                            "slug": "peyton-alex-smith",
+                            "imdb": "nm2819219",
+                            "tmdb": 1517472,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Production Assistant",
+                        "jobs": [
+                            "Production Assistant"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Mike Gomez",
+                            "ids": {
+                                "trakt": 2134519,
+                                "slug": "mike-gomez-488d0dd9-852c-43ec-b57a-9550bffbb8e4",
+                                "imdb": null,
+                                "tmdb": 2949816,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting Associate",
+                        "jobs": [
+                            "Casting Associate"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Ashley Dunsing",
+                            "ids": {
+                                "trakt": 2056836,
+                                "slug": "ashley-dunsing",
+                                "imdb": null,
+                                "tmdb": 2872224,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Manager",
+                        "jobs": [
+                            "Production Manager"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Laura J. Medina",
+                            "ids": {
+                                "trakt": 814011,
+                                "slug": "laura-j-medina",
+                                "imdb": null,
+                                "tmdb": 1564154,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Brett Matthews",
+                            "ids": {
+                                "trakt": 22306,
+                                "slug": "brett-matthews",
+                                "imdb": "nm1269404",
+                                "tmdb": 28250,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Gina Girolamo",
+                            "ids": {
+                                "trakt": 880779,
+                                "slug": "gina-girolamo",
+                                "imdb": null,
+                                "tmdb": 1813243,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Julie Plec",
+                            "ids": {
+                                "trakt": 397695,
+                                "slug": "julie-plec",
+                                "imdb": "nm0687096",
+                                "tmdb": 1214616,
+                                "tvrage": 142157
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Leslie Morgenstein",
+                            "ids": {
+                                "trakt": 44919,
+                                "slug": "leslie-morgenstein",
+                                "imdb": "nm1573975",
+                                "tmdb": 74039,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Ryan Brunner",
+                            "ids": {
+                                "trakt": 2134482,
+                                "slug": "ryan-brunner",
+                                "imdb": null,
+                                "tmdb": 2949808,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Geoff Shotz",
+                            "ids": {
+                                "trakt": 805569,
+                                "slug": "geoff-shotz",
+                                "imdb": "nm0795223",
+                                "tmdb": 1545533,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jeffrey G. Hunt",
+                            "ids": {
+                                "trakt": 642285,
+                                "slug": "jeffrey-g-hunt",
+                                "imdb": "nm0402493",
+                                "tmdb": 204608,
+                                "tvrage": 61807
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Chris Grismer",
+                            "ids": {
+                                "trakt": 640249,
+                                "slug": "chris-grismer",
+                                "imdb": "nm0342603",
+                                "tmdb": 1212583,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Michael A. Allowitz",
+                            "ids": {
+                                "trakt": 644037,
+                                "slug": "michael-a-allowitz",
+                                "imdb": null,
+                                "tmdb": 1373098,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Barbara Brown",
+                            "ids": {
+                                "trakt": 1025362,
+                                "slug": "barbara-brown-0f1916a5-7432-4519-9cbd-957b5430abb9",
+                                "imdb": null,
+                                "tmdb": 1934040,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Julie Plec",
+                            "ids": {
+                                "trakt": 397695,
+                                "slug": "julie-plec",
+                                "imdb": "nm0687096",
+                                "tmdb": 1214616,
+                                "tvrage": 142157
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Carol Banker",
+                            "ids": {
+                                "trakt": 571705,
+                                "slug": "carol-banker",
+                                "imdb": "nm0052059",
+                                "tmdb": 1224107,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Mike Karasick",
+                            "ids": {
+                                "trakt": 521399,
+                                "slug": "mike-karasick",
+                                "imdb": "nm0438971",
+                                "tmdb": 1440304,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Angela Barnes Gomes",
+                            "ids": {
+                                "trakt": 1638228,
+                                "slug": "angela-barnes-gomes",
+                                "imdb": "nm0055493",
+                                "tmdb": 2468781,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Darren Grant",
+                            "ids": {
+                                "trakt": 65790,
+                                "slug": "darren-grant",
+                                "imdb": "nm0335337",
+                                "tmdb": 77441,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Nathan Hope",
+                            "ids": {
+                                "trakt": 9371,
+                                "slug": "nathan-hope",
+                                "imdb": "nm0394032",
+                                "tmdb": 11817,
+                                "tvrage": 77142
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Hyams",
+                            "ids": {
+                                "trakt": 47573,
+                                "slug": "john-hyams",
+                                "imdb": "nm0404882",
+                                "tmdb": 62941,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Paul Wesley",
+                            "ids": {
+                                "trakt": 411738,
+                                "slug": "paul-wesley",
+                                "imdb": "nm0913587",
+                                "tmdb": 83141,
+                                "tvrage": 51807
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Tony Solomons",
+                            "ids": {
+                                "trakt": 137616,
+                                "slug": "tony-solomons",
+                                "imdb": "nm0813446",
+                                "tmdb": 137466,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Mary Lou Belli",
+                            "ids": {
+                                "trakt": 1486218,
+                                "slug": "mary-lou-belli",
+                                "imdb": "nm0068953",
+                                "tmdb": 1214575,
+                                "tvrage": 4342
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Bola Ogun",
+                            "ids": {
+                                "trakt": 1078105,
+                                "slug": "bola-ogun",
+                                "imdb": "nm3768241",
+                                "tmdb": 1982845,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lauren Petzke",
+                            "ids": {
+                                "trakt": 144285,
+                                "slug": "lauren-petzke",
+                                "imdb": "nm2022694",
+                                "tmdb": 567119,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Brett Matthews",
+                            "ids": {
+                                "trakt": 22306,
+                                "slug": "brett-matthews",
+                                "imdb": "nm1269404",
+                                "tmdb": 28250,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Eric Dean Seaton",
+                            "ids": {
+                                "trakt": 680443,
+                                "slug": "eric-dean-seaton",
+                                "imdb": "nm1339949",
+                                "tmdb": 1237407,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jason Stone",
+                            "ids": {
+                                "trakt": 231370,
+                                "slug": "jason-stone",
+                                "imdb": "nm1083540",
+                                "tmdb": 1046127,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Visual Effects Editor",
+                        "jobs": [
+                            "Visual Effects Editor"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Kate Stauduhar",
+                            "ids": {
+                                "trakt": 2134302,
+                                "slug": "kate-stauduhar",
+                                "imdb": null,
+                                "tmdb": 2949809,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "David M. Morizot",
+                            "ids": {
+                                "trakt": 1744940,
+                                "slug": "david-m-morizot",
+                                "imdb": "nm0605815",
+                                "tmdb": 2305369,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Animal Wrangler",
+                        "jobs": [
+                            "Animal Wrangler"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Nicole Kanoy",
+                            "ids": {
+                                "trakt": 1007495,
+                                "slug": "nicole-kanoy",
+                                "imdb": null,
+                                "tmdb": 1917336,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Music Supervisor",
+                        "jobs": [
+                            "Music Supervisor"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Christopher T. Mollere",
+                            "ids": {
+                                "trakt": 1409399,
+                                "slug": "christopher-t-mollere",
+                                "imdb": null,
+                                "tmdb": 2221474,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music Editor",
+                        "jobs": [
+                            "Music Editor"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Stuart Goetz",
+                            "ids": {
+                                "trakt": 106256,
+                                "slug": "stuart-goetz",
+                                "imdb": "nm0315003",
+                                "tmdb": 559313,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Michael Suby",
+                            "ids": {
+                                "trakt": 17036,
+                                "slug": "michael-suby",
+                                "imdb": "nm1225820",
+                                "tmdb": 20225,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Art Department Coordinator",
+                        "jobs": [
+                            "Art Department Coordinator"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Lia Thompson Roldan",
+                            "ids": {
+                                "trakt": 985452,
+                                "slug": "lia-thompson-roldan",
+                                "imdb": null,
+                                "tmdb": 1896933,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Property Master",
+                        "jobs": [
+                            "Property Master"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Dort Clark",
+                            "ids": {
+                                "trakt": 129243,
+                                "slug": "dort-clark",
+                                "imdb": "nm0163888",
+                                "tmdb": 217394,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "lighting": [
+                    {
+                        "job": "Gaffer",
+                        "jobs": [
+                            "Gaffer"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Russell Caldwell",
+                            "ids": {
+                                "trakt": 798894,
+                                "slug": "russell-caldwell",
+                                "imdb": "nm0007058",
+                                "tmdb": 1752259,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Makeup & Hair",
+                        "jobs": [
+                            "Makeup & Hair"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Michael Mosher",
+                            "ids": {
+                                "trakt": 67295,
+                                "slug": "michael-mosher",
+                                "imdb": "nm0608674",
+                                "tmdb": 1207166,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Designer",
+                        "jobs": [
+                            "Costume Designer"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Ann Walters",
+                            "ids": {
+                                "trakt": 47444,
+                                "slug": "ann-walters",
+                                "imdb": "nm1836273",
+                                "tmdb": 1319850,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Brett Matthews",
+                            "ids": {
+                                "trakt": 22306,
+                                "slug": "brett-matthews",
+                                "imdb": "nm1269404",
+                                "tmdb": 28250,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Thomas Brandon",
+                            "ids": {
+                                "trakt": 1337439,
+                                "slug": "thomas-brandon",
+                                "imdb": "nm2561071",
+                                "tmdb": 2176380,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Julie Plec",
+                            "ids": {
+                                "trakt": 397695,
+                                "slug": "julie-plec",
+                                "imdb": "nm0687096",
+                                "tmdb": 1214616,
+                                "tvrage": 142157
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Penny Cox",
+                            "ids": {
+                                "trakt": 619070,
+                                "slug": "penny-cox",
+                                "imdb": "nm8075423",
+                                "tmdb": 1611446,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Sherman Payne",
+                            "ids": {
+                                "trakt": 1316157,
+                                "slug": "sherman-payne",
+                                "imdb": null,
+                                "tmdb": 2154940,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Teleplay",
+                        "jobs": [
+                            "Teleplay"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Stephanie McFarlane",
+                            "ids": {
+                                "trakt": 1337428,
+                                "slug": "stephanie-mcfarlane",
+                                "imdb": null,
+                                "tmdb": 2176379,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Teleplay",
+                        "jobs": [
+                            "Teleplay"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Bryce Ahart",
+                            "ids": {
+                                "trakt": 1337558,
+                                "slug": "bryce-ahart",
+                                "imdb": null,
+                                "tmdb": 2176378,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Marguerite MacIntyre",
+                            "ids": {
+                                "trakt": 423214,
+                                "slug": "marguerite-macintyre",
+                                "imdb": "nm0532880",
+                                "tmdb": 166566,
+                                "tvrage": 10269
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Adam Higgs",
+                            "ids": {
+                                "trakt": 1390397,
+                                "slug": "adam-higgs",
+                                "imdb": "nm4166033",
+                                "tmdb": 1703771,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Cynthia Adarkwa",
+                            "ids": {
+                                "trakt": 1649925,
+                                "slug": "cynthia-adarkwa",
+                                "imdb": "nm7642046",
+                                "tmdb": 2482479,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Brett Mathews",
+                            "ids": {
+                                "trakt": 1337602,
+                                "slug": "brett-mathews",
+                                "imdb": null,
+                                "tmdb": 2176377,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Josh Schaer",
+                            "ids": {
+                                "trakt": 1391197,
+                                "slug": "josh-schaer",
+                                "imdb": "nm1511199",
+                                "tmdb": 1215821,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Story",
+                        "jobs": [
+                            "Story"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Mark Ryan Walberg",
+                            "ids": {
+                                "trakt": 1426712,
+                                "slug": "mark-ryan-walberg",
+                                "imdb": null,
+                                "tmdb": 2243072,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Josh Eiserike",
+                            "ids": {
+                                "trakt": 562691,
+                                "slug": "josh-eiserike",
+                                "imdb": "nm3751847",
+                                "tmdb": 1504239,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jimmy Mosqueda",
+                            "ids": {
+                                "trakt": 1121173,
+                                "slug": "jimmy-mosqueda",
+                                "imdb": null,
+                                "tmdb": 2022066,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Hannah Rosner",
+                            "ids": {
+                                "trakt": 1649924,
+                                "slug": "hannah-rosner",
+                                "imdb": "nm3083432",
+                                "tmdb": 2482480,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Benjamin Raab",
+                            "ids": {
+                                "trakt": 329992,
+                                "slug": "benjamin-raab",
+                                "imdb": "nm1437177",
+                                "tmdb": 1188199,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Deric A. Hughes",
+                            "ids": {
+                                "trakt": 1484648,
+                                "slug": "deric-a-hughes",
+                                "imdb": null,
+                                "tmdb": 1480950,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 40,
+                        "person": {
+                            "name": "Julie Plec",
+                            "ids": {
+                                "trakt": 397695,
+                                "slug": "julie-plec",
+                                "imdb": "nm0687096",
+                                "tmdb": 1214616,
+                                "tvrage": 142157
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.00846,
+            "votes": 1300,
+            "distribution": {
+                "1": 39,
+                "2": 14,
+                "3": 9,
+                "4": 26,
+                "5": 45,
+                "6": 112,
+                "7": 187,
+                "8": 260,
+                "9": 151,
+                "10": 456
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Game of Thrones",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1390,
+                    "slug": "game-of-thrones",
+                    "tvdb": 121361,
+                    "imdb": "tt0944947",
+                    "tmdb": 1399,
+                    "tvrage": 24493
+                }
+            },
+            {
+                "title": "The Walking Dead",
+                "year": 2010,
+                "ids": {
+                    "trakt": 1393,
+                    "slug": "the-walking-dead",
+                    "tvdb": 153021,
+                    "imdb": "tt1520211",
+                    "tmdb": 1402,
+                    "tvrage": 25056
+                }
+            },
+            {
+                "title": "Stranger Things",
+                "year": 2016,
+                "ids": {
+                    "trakt": 104439,
+                    "slug": "stranger-things",
+                    "tvdb": 305288,
+                    "imdb": "tt4574334",
+                    "tmdb": 66732,
+                    "tvrage": 48493
+                }
+            },
+            {
+                "title": "Supernatural",
+                "year": 2005,
+                "ids": {
+                    "trakt": 1611,
+                    "slug": "supernatural",
+                    "tvdb": 78901,
+                    "imdb": "tt0460681",
+                    "tmdb": 1622,
+                    "tvrage": 5410
+                }
+            },
+            {
+                "title": "Fringe",
+                "year": 2008,
+                "ids": {
+                    "trakt": 1693,
+                    "slug": "fringe",
+                    "tvdb": 82066,
+                    "imdb": "tt1119644",
+                    "tmdb": 1705,
+                    "tvrage": 18388
+                }
+            },
+            {
+                "title": "The Flash",
+                "year": 2014,
+                "ids": {
+                    "trakt": 60300,
+                    "slug": "the-flash-2014",
+                    "tvdb": 279121,
+                    "imdb": "tt3107288",
+                    "tmdb": 60735,
+                    "tvrage": 36939
+                }
+            },
+            {
+                "title": "Black Mirror",
+                "year": 2011,
+                "ids": {
+                    "trakt": 41793,
+                    "slug": "black-mirror",
+                    "tvdb": 253463,
+                    "imdb": "tt2085059",
+                    "tmdb": 42009,
+                    "tvrage": 30348
+                }
+            },
+            {
+                "title": "Marvel's Agents of S.H.I.E.L.D.",
+                "year": 2013,
+                "ids": {
+                    "trakt": 1394,
+                    "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+                    "tvdb": 263365,
+                    "imdb": "tt2364582",
+                    "tmdb": 1403,
+                    "tvrage": 32656
+                }
+            },
+            {
+                "title": "Doctor Who",
+                "year": 2005,
+                "ids": {
+                    "trakt": 56872,
+                    "slug": "doctor-who-2005",
+                    "tvdb": 78804,
+                    "imdb": "tt0436992",
+                    "tmdb": 57243,
+                    "tvrage": 3332
+                }
+            },
+            {
+                "title": "American Horror Story",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1404,
+                    "slug": "american-horror-story",
+                    "tvdb": 250487,
+                    "imdb": "tt1844624",
+                    "tmdb": 1413,
+                    "tvrage": 28776
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 86754,
+            "plays": 1613995,
+            "collectors": 201301,
+            "collected_episodes": 3475772,
+            "comments": 14,
+            "lists": 23516,
+            "votes": 1300,
+            "recommended": 63
+        },
+        "watching": 9
+    },
+    "title": "Legacies",
+    "videoType": "show"
+}

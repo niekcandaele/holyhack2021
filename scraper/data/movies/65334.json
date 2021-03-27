@@ -1,0 +1,855 @@
+{
+    "backdrop_path": "/9RqliZcoDEjSEISeA0LY9meAiNv.jpg",
+    "first_air_date": "2015-10-19",
+    "genre_ids": [
+        10759,
+        16,
+        10762
+    ],
+    "id": 65334,
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+    "overview": "Normal high school kids by day, protectors of Paris by night! Miraculous follows the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!",
+    "popularity": 429.424,
+    "poster_path": "/qxbW47zmgFyBVmZSIqD9NA1DEjT.jpg",
+    "vote_average": 7.8,
+    "vote_count": 2174,
+    "created_by": [
+        {
+            "id": 1565301,
+            "credit_id": "5b8049cb9251416c8c010c24",
+            "name": "Thomas Astruc",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        22
+    ],
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10762,
+            "name": "Kids"
+        }
+    ],
+    "homepage": "http://www.miraculousladybug.com",
+    "in_production": true,
+    "languages": [
+        "fr"
+    ],
+    "last_air_date": "2019-12-08",
+    "last_episode_to_air": {
+        "air_date": "2019-12-08",
+        "episode_number": 26,
+        "id": 1938160,
+        "name": "Miracle Queen (Battle of the Miraculous – Part 2)",
+        "overview": "Hawk Moth akumatizes Chloé into Miracle Queen to make her take control of all Miraculous holders. Will Ladybug and Cat Noir be able to escape this fatal plan?",
+        "production_code": "326",
+        "season_number": 3,
+        "still_path": "/pSWldOs3xZjXNpcY5mSCs0Chc7q.jpg",
+        "vote_average": 6,
+        "vote_count": 1
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TF1",
+            "id": 290,
+            "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+            "origin_country": "FR"
+        }
+    ],
+    "number_of_episodes": 77,
+    "number_of_seasons": 3,
+    "production_companies": [
+        {
+            "id": 35136,
+            "logo_path": null,
+            "name": "Method Animation",
+            "origin_country": ""
+        },
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2016-12-11",
+            "episode_count": 22,
+            "id": 97260,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/4M1ZX4qvX3lsW269jtEr0coasyn.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2015-10-19",
+            "episode_count": 26,
+            "id": 73968,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/fhTNhyT8BypPkZzefO72Eux9bRx.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2017-10-26",
+            "episode_count": 25,
+            "id": 95065,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": "/32yoyMPjw0tpPk4xmhkXT3gypkc.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2019-04-14",
+            "episode_count": 26,
+            "id": 113599,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": "/hya1UUJF8zdhqeW84NC8OULF8Zp.jpg",
+            "season_number": 3
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Time to de-evilize!",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Miraculous – Geschichten von Ladybug und Cat Noir",
+                "country": "de"
+            },
+            {
+                "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+                "country": "es"
+            },
+            {
+                "title": "Miraculous – Katicabogár és Fekete Macska kalandjai",
+                "country": "hu"
+            },
+            {
+                "title": "המופלאה: הרפתקאות ליידי באג",
+                "country": "il"
+            },
+            {
+                "title": "Miraculous - Le storie di Ladybug e Chat Noir",
+                "country": "it"
+            },
+            {
+                "title": "Mirakyulreoseu: Reidibeogeu Wa Beulraekkaet",
+                "country": "kr"
+            },
+            {
+                "title": "미라큘러스: 레이디버그와 블랙캣",
+                "country": "kr"
+            },
+            {
+                "title": "Miraculous",
+                "country": "us"
+            },
+            {
+                "title": "Miraculous Ladybug",
+                "country": "us"
+            },
+            {
+                "title": "Свръхестествените: Разказ за Лейдибъг и Черната котка",
+                "country": "bg"
+            },
+            {
+                "title": "Ladybug",
+                "country": "br"
+            },
+            {
+                "title": "Lady Bug",
+                "country": "br"
+            },
+            {
+                "title": "Miraculous: Buburuza și Motan Noir",
+                "country": "ro"
+            },
+            {
+                "title": "Pire Noël - Miraculous, les aventures de Ladybug et Chat Noir",
+                "country": "fr"
+            },
+            {
+                "title": "A Christmas Special: Miraculous: Tales of Ladybug & Cat Noi",
+                "country": "us"
+            },
+            {
+                "title": "Prodigiosa: Las aventuras de Ladybug",
+                "country": "es"
+            },
+            {
+                "title": "Чудотворно: Приключенията на LadyBug и Cat Noir",
+                "country": "bg"
+            },
+            {
+                "title": "Miraculous: As Aventuras de LadyBug e Cat Noir",
+                "country": "br"
+            },
+            {
+                "title": "Wunderbar: Die Abenteuer von LadyBug und Cat Noir",
+                "country": "de"
+            },
+            {
+                "title": "Miraculous: Las aventuras de LadyBug y Cat Noir",
+                "country": "es"
+            },
+            {
+                "title": "Miraculous: les aventures de Ladybug et Cat Noir",
+                "country": "fr"
+            },
+            {
+                "title": "Csodálatos: LadyBug és Cat Noir kalandjai",
+                "country": "hu"
+            },
+            {
+                "title": "Miraculous: Le avventure di LadyBug e Cat Noir",
+                "country": "it"
+            },
+            {
+                "title": "Miraculous: The Adventures of LadyBug and Cat Noir",
+                "country": "us"
+            },
+            {
+                "title": "奇迹少女",
+                "country": "cn"
+            }
+        ],
+        "translations": [
+            {
+                "title": "Мега-чудесата на Калинката и Черния котарак",
+                "overview": "Дисни събира защитници на доброто и покровители на злото за битка в спасяването на един от най-романтичните градове в света – Париж. Това е историята на Маринет и Ейдриън - на пръв поглед обикновени ученици в прогимназията, избрани да спасят града от акумасите. Те са зли същества, които превръщат нормалните граждани в армия от суперзлодеи. Въвлечени в това премеждие, двамата се превъплъщават в супер герои: Маринет - в Калинката, а Ейдриън - в Черния Котарак.",
+                "language": "bg"
+            },
+            {
+                "title": "Prodigiosa: Les aventures de Ladybug i Gat Noir",
+                "overview": "Sóc la Marinette i et podries pensar que sóc una adolescent normal, però no. Si em guardes el secret, t'explicaré que, en realitat, sóc Ladybug, una superheroïna que intenta resoldre els problemes que genera el supermalvat Esfinx. Ah, i també t'explicaré un altre secret: estic enamorada de l'Adrien! Com? Què tens un secret d'ell? Explica, explica!",
+                "language": "ca"
+            },
+            {
+                "title": "Kouzelná Beruška a Černý kocour",
+                "overview": "Žáci základní školy Marinette a Adrien byli vybráni, aby zachránili Paříž! Jejich misí je lov zlých stvoření - akumů - která umí každého změnit na zloducha. Zachrání Paříž a stanou se superhrdiny. Z Marinette je Beruška a z Adriena Černý kocour.",
+                "language": "cs"
+            },
+            {
+                "title": "Miraculous, Ladybug og Cat Noir på eventyr",
+                "overview": "Normale børn i gymnasiet om dagen, beskyttere af Paris om natten! Miraculous følger de heroiske eventyr med Marinette og Adrien, når de forvandles til Ladybug og Cat Noir og fanger akumas, væsner, der er ansvarlige for at gøre Paris-folket til skurke. Men ingen af ​​heltene kender den andens sande identitet - Og de ved heller ikke at de er klassekammerater!",
+                "language": "da"
+            },
+            {
+                "title": "Miraculous - Geschichten von Ladybug und Cat Noir",
+                "overview": "Marinette und Adrien sind zwei Schüler – fast – wie andere auch. Bei der kleinsten Bedrohung von Paris werden sie zu Ladybug und Cat Noir. Ihre Mission: Die Akumas des mysteriösen Hawk Moth fangen, der die Pariser in Super-Bösewichte verwandelt. Obwohl die beiden Helden ein Team bilden, wissen sie wenig voneinander: Marinette weiß nicht, dass sich hinter Cat Noir Adrien verbirgt, der Junge, in den sie heimlich verliebt ist; und Adrien, dessen Herzen für Ladybug schlägt, ignoriert, dass sich hinter dem Kostüm der Superheldin das nette und zerstreute Mädchen aus seiner Klasse verbirgt … (Text: Disney Channel)",
+                "language": "de"
+            },
+            {
+                "title": "Οι Φανταστικές Ιστορίες της Λέιντι Μπαγκ και του Κατ Νουάρ",
+                "overview": "Η Μαρινέτ και ο Αντριέν είναι δύο έφηβοι που καλούνται να σώσουν το Παρίσι! Κυνηγούν τα Ακούμα που μπορούν να μεταμορφώσουν οποιονδήποτε σε σούπερ κακό. Η Μαρινέτ πολεμά ως Πασχαλίτσα και ο Αντριέν ως Μαύρος Γάτος",
+                "language": "el"
+            },
+            {
+                "title": "Miraculous: Tales of Ladybug & Cat Noir",
+                "overview": "Normal high school kids by day, protectors of Paris by night! Miraculous follows the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!",
+                "language": "en"
+            },
+            {
+                "title": "Miraculous: Las aventuras de Ladybug y Cat Noir",
+                "overview": "Ambientada en París, la serie está protagonizada por dos jóvenes de 14 años: Marinette Dupain-Cheng y Adrien Agreste. Ambos son compañeros en el colegio y llevan la vida normal de cualquier adolescente, pero cuando el mal amenaza la ciudad son capaces de transformarse en superhéroes gracias al poder de unas joyas mágicas, los Miraculous, y las criaturas que están asociadas a ellas, los kwamis.",
+                "language": "es"
+            },
+            {
+                "title": "Miraculous, les aventures de Ladybug et Chat Noir",
+                "overview": "",
+                "language": "et"
+            },
+            {
+                "title": null,
+                "overview": "Grâce à des boucles d’oreille magiques, la jeune Marinette se transforme en Ladybug, une super-héroïne qui a pour mission de capturer de petites bêtes qui transforment les gens en vilains. Elle est accompagnée de son petit animal magique Tikki, ainsi que de l’énigmatique Chat Noir, son acolyte masqué.",
+                "language": "fr"
+            },
+            {
+                "title": "המופלאה: הרפתקאות ליידי באג",
+                "overview": "מרינט היא נערה נחמדה אך קצת מגושמת החיה חיים כפולים - כשהיא לא חולמת בהקיץ על אדריאן, היא גיבורת העל \"החיפושית\". מרינט אינה יודעת זאת, אך גם לאדריאן יש זהות בדויה, \"חתול שחור\". כאשר הם אינם יודעים זה על זהותו של זה, החיפושית והחתול השחור, המאוהב בחיפושית, נלחמים ביחד ברשע - \"עש-לילה\", שמנצל את כוחו לרעה ויוצר נבלי על מאנשים אשר חווים רגשות שליליים חזקים.",
+                "language": "he"
+            },
+            {
+                "title": "Miraculous: Pustolovine Bubamare i Crnog Mačka",
+                "overview": "U modernom Parizu Marinette i Adrien djeluju kao normalni srednjoškolci. No, dvoje tinejdžera pred pravim je ispitom kad moraju spasiti Pariz od zla. Njihova misija uloviti je stvorenja tzv. akumanse, koji ljude pretvaraju u zločince. Marinette i Adrien zatim se i sami pretvaraju u superjunake, poznatije kao Bubamara i Crni Mačak.",
+                "language": "hr"
+            },
+            {
+                "title": "Miraculous: Katicabogár és Fekete Macska kalandjai",
+                "overview": "A történet színhelye Párizs. Főhősei Marinette Dupain-Cheng, egy középiskolás tinilány, és Marinette osztálytársa és szerelme, Adrien Agreste. Ők ketten nem átlagos kamaszok, mivel titokban szuperhősök, akik Párizs lakosságát védelmezik. Marinette, a Csodálatos Katicabogár szuperereje az alkotásban rejlik, míg Adrien, a Fekete Macska, aki rombolásból meríti erejét. Mindketten egy-egy különleges talizmán segítségével tudnak átváltozni szuperhősökké, a talizmánjaik erejét pedig két kis varázserejű lény, az úgynevezett kwami-k szolgáltatják. Marinette kwamija Tikki, Adriené pedig Plagg.\n\nMarinette és Adrien legfőbb ellensége Halálfej, egy rejtélyes gonosztevő, akinek szintén egy saját kis kwami, Nooroo szolgáltat szupererőt. Ezen erőt Halálfej arra használja, hogy megszállja Párizs polgárainak lelkét, és szupergonoszokká változtatja őket, akiket aztán Katicabogár és Fekete Macska elfogására kényszerít. Fő célja, hogy megszerezze a két szuperhős talizmánját, mert a két eszköz segítségével a végtelen hatalom birtokába juthat, amit saját céljaira akar felhasználni.",
+                "language": "hu"
+            },
+            {
+                "title": "Miraculous - Le storie di Ladybug e Chat Noir",
+                "overview": "Quando Parigi è in pericolo, Marinette diventa Ladybug. Non sa che Adrien, il compagno di scuola che le piace, è Chat Noir, un altro supereroe votato a salvare la città.",
+                "language": "it"
+            },
+            {
+                "title": "ミラキュラス レディバグ&シャノワール",
+                "overview": "",
+                "language": "ja"
+            },
+            {
+                "title": "미라큘러스 레이디버그",
+                "overview": "프랑스 파리를 배경으로, 백인 아버지와 중국인 어머니 사이에서 태어난 중국계 프랑스인 소녀, 마리네트 청이 ‘레이디버그’로 변신해 악당으로부터 파리를 지키는 내용이다.",
+                "language": "ko"
+            },
+            {
+                "title": "Miraculous Ladybug & Cat Noir på eventyr",
+                "overview": "",
+                "language": "no"
+            },
+            {
+                "title": "Miraculous: Biedronka i Czarny Kot",
+                "overview": "Serial opowiada o przygodach nastolatki Marinette, która otrzymała niezwykły dar - może przemieniać się w Biedronkę - super-bohaterkę o mocach szczęścia. W zwalczaniu zła pomaga jej Czarny Kot, który w rzeczywistości jest Adrienem, w którym zakochała się dziewczyna. Bohaterowie nie wiedzą kim są w rzeczywistości, a Czarny Kot żywi nieodwzajemnione uczucia do Biedronki. Czy nastolatkowie dowiedzą się, kim są naprawdę?",
+                "language": "pl"
+            },
+            {
+                "title": "Miraculous: As Aventuras de LadyBug",
+                "overview": "Ladybug é uma heroína que tem a missão de defender Paris de um vilão misterioso. Junto com o parceiro Cat Noir, eles devem conciliar o dia a dia com a vida de super-heróis.",
+                "language": "pt"
+            },
+            {
+                "title": "Miraculous: Buburuza și Motan Noir",
+                "overview": "Miraculos: Buburuza și Motan Noir este un serial pentru adolescenți japano-franco-coreean creat de Thomas Astruc și produs de Jeremy Zag, co-produs de Zagtoon, Method Animation, Toei Animation și SAMG Animation. Acesta a fost difuzat pentru prima dată în Coreea de Sud în septembrie 2015 pe canalul EBS, iar in Franța pe 18 octombrie 2015 pe TF1 în cadrul programului de tineret TFOU. În SUA, este difuzat pe Nickelodeon de la 6 decembrie 2015.\n\nSerialul a fost difuzat în 120 de țări din întreaga lume.",
+                "language": "ro"
+            },
+            {
+                "title": "Леди Баг и Супер-кот",
+                "overview": "Адриан и Маринетт — старшеклассники, почти как все остальные. При малейшей угрозе Парижу они становятся ЛедиБаг и Котом Нуаром. Их миссия — захватить акум (тёмных бабочек), которые превращают людей в супер-злодеев. Когда герои объединяются, каждый из них не знает истинной личности другого. Маринетт не знает, что Кот Нуар на самом деле Адриан — мальчик в которого она тайно влюблена, а Адриан, чьё сердце бьётся ради ЛедиБаг, не знает, что под маской супер-героини скрывается милая и ветреная одноклассница.",
+                "language": "ru"
+            },
+            {
+                "title": "Mucize: Uğur Böceği ile Kara Kedi",
+                "overview": "Paris tehlikeyle karşılaştığında Marinette, Uğur Böceği'ne dönüşür. Ancak okul aşkı Adrien'ın da şehir kurtarıcı bir süper kahraman olan Kara Kedi olduğundan habersizdir.",
+                "language": "tr"
+            },
+            {
+                "title": "Леді Баґ та Супер-Кіт",
+                "overview": "Події розгортаються в сучасній Франції. У звичайної французької школі навчається дівчинка на ім'я Марінетт Дюпен-Чен та її однокласник Едріан Аґреста. На перший погляд вони здаються звичайними учнями, але насправді вони наділені надзвичайними здібностями і в разі небезпеки перетворюються на супергероїв. Їх неймовірні здібності допомагають друзям боротися зі злом в Парижі, але при цьому ніхто з них не знає, хто насправді ховається під маскою героя…",
+                "language": "uk"
+            },
+            {
+                "title": "瓢蟲少女",
+                "overview": "《瓢蟲少女》（法語：Miraculous, les aventures de Ladybug et Chat Noir），是由法國的Zagtoon、Method Animation、義大利的De Agostini Editore、日本東映及韓國SAMG Animation所共同製作的動畫系列。\n\n以現代法國巴黎為背景，住在巴黎的少女瑪莉娜，就跟其他的女孩一樣，有親友、有夢想。但她還有一個不為人知的秘密，就是她能藉由精靈蒂奇的力量變身成瓢蟲少女。同樣獲得力量的還有黑貓諾兒，他的真實身分是人氣模特兒艾俊，兩人將保護巴黎不受神秘反派的威脅。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Marinette Dupain-Cheng, Ladybug (voice)",
+                    "characters": [
+                        "Marinette Dupain-Cheng",
+                        "Ladybug (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Annouck Hautbois",
+                        "ids": {
+                            "trakt": 1259578,
+                            "slug": "annouck-hautbois",
+                            "imdb": null,
+                            "tmdb": 2115309,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Alix (voice)",
+                    "characters": [
+                        "Alix (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Jessica Barrier",
+                        "ids": {
+                            "trakt": 621961,
+                            "slug": "jessica-barrier",
+                            "imdb": null,
+                            "tmdb": 1558830,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Tikki (voice)",
+                    "characters": [
+                        "Tikki (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Marie Nonnenmacher",
+                        "ids": {
+                            "trakt": 621963,
+                            "slug": "marie-nonnenmacher",
+                            "imdb": null,
+                            "tmdb": 1373143,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Adrien Agreste, Cat Noir (voice)",
+                    "characters": [
+                        "Adrien Agreste",
+                        "Cat Noir (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Benjamin Bollen",
+                        "ids": {
+                            "trakt": 625092,
+                            "slug": "benjamin-bollen",
+                            "imdb": null,
+                            "tmdb": 1558832,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Hawk Moth (voice)",
+                    "characters": [
+                        "Hawk Moth (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Antoine Tomé",
+                        "ids": {
+                            "trakt": 806553,
+                            "slug": "antoine-tome",
+                            "imdb": null,
+                            "tmdb": 1758915,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Plagg (voice)",
+                    "characters": [
+                        "Plagg (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Thierry Kazazian",
+                        "ids": {
+                            "trakt": 810986,
+                            "slug": "thierry-kazazian",
+                            "imdb": null,
+                            "tmdb": 1762589,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Chloé Bourgeois (voice)",
+                    "characters": [
+                        "Chloé Bourgeois (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Marie Chevalot",
+                        "ids": {
+                            "trakt": 810988,
+                            "slug": "marie-chevalot",
+                            "imdb": null,
+                            "tmdb": 1762591,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Alya Césaire (voice)",
+                    "characters": [
+                        "Alya Césaire (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Fanny Bloc",
+                        "ids": {
+                            "trakt": 810989,
+                            "slug": "fanny-bloc",
+                            "imdb": null,
+                            "tmdb": 1762590,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Nino Lahiffe (voice)",
+                    "characters": [
+                        "Nino Lahiffe (voice)"
+                    ],
+                    "episode_count": 77,
+                    "person": {
+                        "name": "Alexandre N'Guyen",
+                        "ids": {
+                            "trakt": 810990,
+                            "slug": "alexandre-n-guyen",
+                            "imdb": null,
+                            "tmdb": 1762592,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Sébastien Thibaudeau",
+                            "ids": {
+                                "trakt": 143945,
+                                "slug": "sebastien-thibaudeau",
+                                "imdb": "nm0857751",
+                                "tmdb": 1163095,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Thomas Astruc",
+                            "ids": {
+                                "trakt": 949670,
+                                "slug": "thomas-astruc",
+                                "imdb": null,
+                                "tmdb": 1565301,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Noam Kaniel",
+                            "ids": {
+                                "trakt": 264063,
+                                "slug": "noam-kaniel",
+                                "imdb": "nm0437707",
+                                "tmdb": 1115676,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Alain Garcia",
+                            "ids": {
+                                "trakt": 654953,
+                                "slug": "alain-garcia",
+                                "imdb": null,
+                                "tmdb": 1637169,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Jeremy Zag",
+                            "ids": {
+                                "trakt": 810983,
+                                "slug": "jeremy-zag",
+                                "imdb": null,
+                                "tmdb": 1762584,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "production": [
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Jeremy Zag",
+                            "ids": {
+                                "trakt": 810983,
+                                "slug": "jeremy-zag",
+                                "imdb": null,
+                                "tmdb": 1762584,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Thomas Astruc",
+                            "ids": {
+                                "trakt": 949670,
+                                "slug": "thomas-astruc",
+                                "imdb": null,
+                                "tmdb": 1565301,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Nathanael Bronn",
+                            "ids": {
+                                "trakt": 674878,
+                                "slug": "nathanael-bronn",
+                                "imdb": null,
+                                "tmdb": 1652545,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Thomas Astruc",
+                            "ids": {
+                                "trakt": 949670,
+                                "slug": "thomas-astruc",
+                                "imdb": null,
+                                "tmdb": 1565301,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.32211,
+            "votes": 416,
+            "distribution": {
+                "1": 12,
+                "2": 1,
+                "3": 4,
+                "4": 2,
+                "5": 10,
+                "6": 32,
+                "7": 48,
+                "8": 81,
+                "9": 58,
+                "10": 168
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "The Legend of Korra",
+                "year": 2012,
+                "ids": {
+                    "trakt": 33733,
+                    "slug": "the-legend-of-korra",
+                    "tvdb": 251085,
+                    "imdb": "tt1695360",
+                    "tmdb": 33880,
+                    "tvrage": 26254
+                }
+            },
+            {
+                "title": "Batman: The Animated Series",
+                "year": 1992,
+                "ids": {
+                    "trakt": 2085,
+                    "slug": "batman-the-animated-series",
+                    "tvdb": 76168,
+                    "imdb": "tt0103359",
+                    "tmdb": 2098,
+                    "tvrage": 2721
+                }
+            },
+            {
+                "title": "Young Justice",
+                "year": 2010,
+                "ids": {
+                    "trakt": 33072,
+                    "slug": "young-justice",
+                    "tvdb": 192061,
+                    "imdb": "tt1641384",
+                    "tmdb": 33217,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Justice League",
+                "year": 2001,
+                "ids": {
+                    "trakt": 60948,
+                    "slug": "justice-league",
+                    "tvdb": 76320,
+                    "imdb": "tt0275137",
+                    "tmdb": 1618,
+                    "tvrage": 4093
+                }
+            },
+            {
+                "title": "The Venture Bros.",
+                "year": 2004,
+                "ids": {
+                    "trakt": 2403,
+                    "slug": "the-venture-bros",
+                    "tvdb": 72306,
+                    "imdb": "tt0417373",
+                    "tmdb": 2418,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Teen Titans",
+                "year": 2003,
+                "ids": {
+                    "trakt": 603,
+                    "slug": "teen-titans",
+                    "tvdb": 71503,
+                    "imdb": "tt0343314",
+                    "tmdb": 604,
+                    "tvrage": 5485
+                }
+            },
+            {
+                "title": "Batman Beyond",
+                "year": 1999,
+                "ids": {
+                    "trakt": 512,
+                    "slug": "batman-beyond",
+                    "tvdb": 75417,
+                    "imdb": "tt0147746",
+                    "tmdb": 513,
+                    "tvrage": 2722
+                }
+            },
+            {
+                "title": "Lois & Clark: The New Adventures of Superman",
+                "year": 1993,
+                "ids": {
+                    "trakt": 4491,
+                    "slug": "lois-clark-the-new-adventures-of-superman",
+                    "tvdb": 72468,
+                    "imdb": "tt0106057",
+                    "tmdb": 4515,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "The Powerpuff Girls",
+                "year": 1998,
+                "ids": {
+                    "trakt": 606,
+                    "slug": "the-powerpuff-girls",
+                    "tvdb": 76200,
+                    "imdb": "tt0175058",
+                    "tmdb": 607,
+                    "tvrage": 6102
+                }
+            },
+            {
+                "title": "Harley Quinn",
+                "year": 2019,
+                "ids": {
+                    "trakt": 149764,
+                    "slug": "harley-quinn",
+                    "tvdb": 365677,
+                    "imdb": "tt7658402",
+                    "tmdb": 74440,
+                    "tvrage": null
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 35766,
+            "plays": 1060017,
+            "collectors": 54859,
+            "collected_episodes": 1388970,
+            "comments": 3,
+            "lists": 4387,
+            "votes": 416,
+            "recommended": 17
+        },
+        "watching": 2
+    },
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "videoType": "show"
+}

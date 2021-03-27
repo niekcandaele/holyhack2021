@@ -14,10 +14,111 @@
     "original_language": "en",
     "original_name": "The Falcon and the Winter Soldier",
     "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
-    "popularity": 3700.8,
+    "popularity": 5181.12,
     "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
     "vote_average": 7.7,
-    "vote_count": 1690,
+    "vote_count": 1929,
+    "created_by": [
+        {
+            "id": 1868712,
+            "credit_id": "605508e2960cde00721fc5e8",
+            "name": "Malcolm Spellman",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        50
+    ],
+    "genres": [
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        },
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-26",
+    "last_episode_to_air": {
+        "air_date": "2021-03-26",
+        "episode_number": 2,
+        "id": 2535021,
+        "name": "The Star-Spangled Man",
+        "overview": "John Walker is named Captain America, and Sam and Bucky team up against a rebel group.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/2e7oMGT1I6GXLfWLhdfRtAbrwBr.jpg",
+        "vote_average": 6,
+        "vote_count": 3
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-04-02",
+        "episode_number": 3,
+        "id": 2535022,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    "networks": [
+        {
+            "name": "Disney+",
+            "id": 2739,
+            "logo_path": "/gJ8VX6JSu3ciXHuC2dDGAo2lvwM.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 6,
+    "number_of_seasons": 1,
+    "production_companies": [
+        {
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-03-19",
+            "episode_count": 6,
+            "id": 156676,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/d5nEamIf6tkps8rXVRRrFzgVaON.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Honor the shield.",
+    "type": "Miniseries",
     "trakt": {
         "aliases": [
             {
@@ -39,6 +140,10 @@
             {
                 "title": "Marvel Studios' The Falcon and The Winter Soldier",
                 "country": "us"
+            },
+            {
+                "title": "Falcon et le Soldat de l'hiver",
+                "country": "fr"
             }
         ],
         "translations": [
@@ -166,7 +271,7 @@
                         "Sam Wilson",
                         "Falcon"
                     ],
-                    "episode_count": 1,
+                    "episode_count": 2,
                     "person": {
                         "name": "Anthony Mackie",
                         "ids": {
@@ -184,7 +289,7 @@
                         "James 'Bucky' Barnes",
                         "Winter Soldier"
                     ],
-                    "episode_count": 1,
+                    "episode_count": 2,
                     "person": {
                         "name": "Sebastian Stan",
                         "ids": {
@@ -197,29 +302,11 @@
                     }
                 },
                 {
-                    "character": "Sharon Carter, Agent 13",
-                    "characters": [
-                        "Sharon Carter",
-                        "Agent 13"
-                    ],
-                    "episode_count": 1,
-                    "person": {
-                        "name": "Emily VanCamp",
-                        "ids": {
-                            "trakt": 425386,
-                            "slug": "emily-vancamp",
-                            "imdb": "nm0885840",
-                            "tmdb": 84247,
-                            "tvrage": 9779
-                        }
-                    }
-                },
-                {
                     "character": "Helmut Zemo",
                     "characters": [
                         "Helmut Zemo"
                     ],
-                    "episode_count": 1,
+                    "episode_count": 2,
                     "person": {
                         "name": "Daniel Brühl",
                         "ids": {
@@ -237,7 +324,7 @@
                         "John Walker",
                         "Captain America"
                     ],
-                    "episode_count": 1,
+                    "episode_count": 2,
                     "person": {
                         "name": "Wyatt Russell",
                         "ids": {
@@ -254,7 +341,7 @@
                     "characters": [
                         "Karli Morgenthau"
                     ],
-                    "episode_count": 1,
+                    "episode_count": 2,
                     "person": {
                         "name": "Erin Kellyman",
                         "ids": {
@@ -271,7 +358,7 @@
                     "characters": [
                         "Joaquin Torres"
                     ],
-                    "episode_count": 1,
+                    "episode_count": 2,
                     "person": {
                         "name": "Danny Ramirez",
                         "ids": {
@@ -1744,6 +1831,23 @@
                                 "tvrage": null
                             }
                         }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Michael Kastelein",
+                            "ids": {
+                                "trakt": 1653096,
+                                "slug": "michael-kastelein",
+                                "imdb": null,
+                                "tmdb": 2425541,
+                                "tvrage": null
+                            }
+                        }
                     }
                 ],
                 "crew": [
@@ -1867,23 +1971,6 @@
                         }
                     },
                     {
-                        "job": "Thanks",
-                        "jobs": [
-                            "Thanks"
-                        ],
-                        "episode_count": 2,
-                        "person": {
-                            "name": "Bob Layton",
-                            "ids": {
-                                "trakt": 1595623,
-                                "slug": "bob-layton",
-                                "imdb": null,
-                                "tmdb": 2414066,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
                         "job": "Dialect Coach",
                         "jobs": [
                             "Dialect Coach"
@@ -1913,23 +2000,6 @@
                                 "slug": "tristan-mathews",
                                 "imdb": "nm1943399",
                                 "tmdb": 3016125,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunt Double",
-                        "jobs": [
-                            "Stunt Double"
-                        ],
-                        "episode_count": 2,
-                        "person": {
-                            "name": "Marc Canonizado",
-                            "ids": {
-                                "trakt": 988624,
-                                "slug": "marc-canonizado",
-                                "imdb": null,
-                                "tmdb": 1900164,
                                 "tvrage": null
                             }
                         }
@@ -1969,137 +2039,18 @@
                         }
                     },
                     {
-                        "job": "Stand In",
-                        "jobs": [
-                            "Stand In"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Julio Liverpool",
-                            "ids": {
-                                "trakt": 2197833,
-                                "slug": "julio-liverpool",
-                                "imdb": "nm6297137",
-                                "tmdb": 3016115,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Spencer Mulligan",
-                            "ids": {
-                                "trakt": 1874865,
-                                "slug": "spencer-mulligan",
-                                "imdb": null,
-                                "tmdb": 2687840,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Hannah Scott",
-                            "ids": {
-                                "trakt": 1660741,
-                                "slug": "hannah-scott-9bb6f8a2-74a1-4636-bedb-ac9e9806b45b",
-                                "imdb": "nm4827045",
-                                "tmdb": 2491932,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Dena Sodano",
-                            "ids": {
-                                "trakt": 1634154,
-                                "slug": "dena-sodano",
-                                "imdb": "nm6345877",
-                                "tmdb": 2461591,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
                         "job": "Stunt Double",
                         "jobs": [
                             "Stunt Double"
                         ],
-                        "episode_count": 1,
+                        "episode_count": 2,
                         "person": {
-                            "name": "Vanessa Carter",
+                            "name": "Marc Canonizado",
                             "ids": {
-                                "trakt": 1515639,
-                                "slug": "vanessa-carter",
+                                "trakt": 988624,
+                                "slug": "marc-canonizado",
                                 "imdb": null,
-                                "tmdb": 2332815,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Pilot",
-                        "jobs": [
-                            "Pilot"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Michael Russell",
-                            "ids": {
-                                "trakt": 1407669,
-                                "slug": "michael-russell-1a9c3880-d252-4706-bbb2-be9b97666cd8",
-                                "imdb": null,
-                                "tmdb": 2219951,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Justin Eaton",
-                            "ids": {
-                                "trakt": 1158870,
-                                "slug": "justin-eaton",
-                                "imdb": null,
-                                "tmdb": 2057482,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Thanks",
-                        "jobs": [
-                            "Thanks"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Paul Neary",
-                            "ids": {
-                                "trakt": 1132181,
-                                "slug": "paul-neary",
-                                "imdb": null,
-                                "tmdb": 2032517,
+                                "tmdb": 1900164,
                                 "tvrage": null
                             }
                         }
@@ -2109,7 +2060,160 @@
                         "jobs": [
                             "Additional Music"
                         ],
-                        "episode_count": 1,
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Evan Goldman",
+                            "ids": {
+                                "trakt": 252102,
+                                "slug": "evan-goldman",
+                                "imdb": "nm3321545",
+                                "tmdb": 1090381,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Nick Spencer",
+                            "ids": {
+                                "trakt": 343776,
+                                "slug": "nick-spencer",
+                                "imdb": "nm5179254",
+                                "tmdb": 1287018,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Kim Do Nguyen",
+                            "ids": {
+                                "trakt": 384974,
+                                "slug": "kim-do-nguyen",
+                                "imdb": "nm2923891",
+                                "tmdb": 1346339,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Additional Music",
+                        "jobs": [
+                            "Additional Music"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jeff Morrow",
+                            "ids": {
+                                "trakt": 550495,
+                                "slug": "jeff-morrow-550495",
+                                "imdb": null,
+                                "tmdb": 1468752,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Aaron Toney",
+                            "ids": {
+                                "trakt": 574109,
+                                "slug": "aaron-toney",
+                                "imdb": "nm1987604",
+                                "tmdb": 1566267,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "John Nania",
+                            "ids": {
+                                "trakt": 724596,
+                                "slug": "john-nania",
+                                "imdb": "nm2896043",
+                                "tmdb": 1696390,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Dan Carter",
+                            "ids": {
+                                "trakt": 795134,
+                                "slug": "dan-carter-89b2c592-152a-4b18-8710-75b7a2475e12",
+                                "imdb": null,
+                                "tmdb": 1748860,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Jénel Stevens",
+                            "ids": {
+                                "trakt": 992957,
+                                "slug": "jenel-stevens",
+                                "imdb": "nm3565493",
+                                "tmdb": 1903679,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Caine Sinclair",
+                            "ids": {
+                                "trakt": 1008985,
+                                "slug": "caine-sinclair",
+                                "imdb": "nm3834108",
+                                "tmdb": 1918847,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Additional Music",
+                        "jobs": [
+                            "Additional Music"
+                        ],
+                        "episode_count": 2,
                         "person": {
                             "name": "Alex Belcher",
                             "ids": {
@@ -2122,18 +2226,35 @@
                         }
                     },
                     {
-                        "job": "Stunt Double",
+                        "job": "Thanks",
                         "jobs": [
-                            "Stunt Double"
+                            "Thanks"
                         ],
-                        "episode_count": 1,
+                        "episode_count": 2,
                         "person": {
-                            "name": "David Charles Warren",
+                            "name": "Paul Neary",
                             "ids": {
-                                "trakt": 2206894,
-                                "slug": "david-charles-warren",
-                                "imdb": "nm7993442",
-                                "tmdb": 3025571,
+                                "trakt": 1132181,
+                                "slug": "paul-neary",
+                                "imdb": null,
+                                "tmdb": 2032517,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Hannah Scott",
+                            "ids": {
+                                "trakt": 1660741,
+                                "slug": "hannah-scott-9bb6f8a2-74a1-4636-bedb-ac9e9806b45b",
+                                "imdb": "nm4827045",
+                                "tmdb": 2491932,
                                 "tvrage": null
                             }
                         }
@@ -2143,7 +2264,7 @@
                         "jobs": [
                             "Thanks"
                         ],
-                        "episode_count": 1,
+                        "episode_count": 2,
                         "person": {
                             "name": "Daniel Acuña",
                             "ids": {
@@ -2156,11 +2277,62 @@
                         }
                     },
                     {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Mark Gruenwald",
+                            "ids": {
+                                "trakt": 2197829,
+                                "slug": "mark-gruenwald",
+                                "imdb": "nm4587908",
+                                "tmdb": 3016142,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Tom Morgan",
+                            "ids": {
+                                "trakt": 2197830,
+                                "slug": "tom-morgan-f0250307-5d33-4e63-8e75-220ed1cc1097",
+                                "imdb": null,
+                                "tmdb": 3016143,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
                         "job": "Stand In",
                         "jobs": [
                             "Stand In"
                         ],
-                        "episode_count": 1,
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Julio Liverpool",
+                            "ids": {
+                                "trakt": 2197833,
+                                "slug": "julio-liverpool",
+                                "imdb": "nm6297137",
+                                "tmdb": 3016115,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stand In",
+                        "jobs": [
+                            "Stand In"
+                        ],
+                        "episode_count": 2,
                         "person": {
                             "name": "Brett Meloy",
                             "ids": {
@@ -2177,14 +2349,31 @@
                         "jobs": [
                             "Stunt Double"
                         ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "David Charles Warren",
+                            "ids": {
+                                "trakt": 2206894,
+                                "slug": "david-charles-warren",
+                                "imdb": "nm7993442",
+                                "tmdb": 3025571,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Jénel Stevens",
+                            "name": "Kevin Foster",
                             "ids": {
-                                "trakt": 992957,
-                                "slug": "jenel-stevens",
-                                "imdb": "nm3565493",
-                                "tmdb": 1903679,
+                                "trakt": 542,
+                                "slug": "kevin-foster",
+                                "imdb": "nm1080555",
+                                "tmdb": 95698,
                                 "tvrage": null
                             }
                         }
@@ -2196,29 +2385,12 @@
                         ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Tom Morgan",
+                            "name": "John Byrne",
                             "ids": {
-                                "trakt": 2197830,
-                                "slug": "tom-morgan-f0250307-5d33-4e63-8e75-220ed1cc1097",
-                                "imdb": null,
-                                "tmdb": 3016143,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Thanks",
-                        "jobs": [
-                            "Thanks"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Mark Gruenwald",
-                            "ids": {
-                                "trakt": 2197829,
-                                "slug": "mark-gruenwald",
-                                "imdb": "nm4587908",
-                                "tmdb": 3016142,
+                                "trakt": 174835,
+                                "slug": "john-byrne-b343a792-39f8-4d33-b888-09b186a05a8c",
+                                "imdb": "nm0126208",
+                                "tmdb": 1194953,
                                 "tvrage": null
                             }
                         }
@@ -2247,46 +2419,12 @@
                         ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Mark Hicks",
+                            "name": "Ronnie Shalvis",
                             "ids": {
-                                "trakt": 429755,
-                                "slug": "mark-hicks-58865f7f-1a45-4c93-a804-c3c563af60b9",
-                                "imdb": "nm0382911",
-                                "tmdb": 80242,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Jiří Kraus",
-                            "ids": {
-                                "trakt": 396882,
-                                "slug": "jiri-kraus",
-                                "imdb": "nm0470133",
-                                "tmdb": 1366101,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunt Double",
-                        "jobs": [
-                            "Stunt Double"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Kim Do Nguyen",
-                            "ids": {
-                                "trakt": 384974,
-                                "slug": "kim-do-nguyen",
-                                "imdb": "nm2923891",
-                                "tmdb": 1346339,
+                                "trakt": 359823,
+                                "slug": "ronnie-shalvis",
+                                "imdb": null,
+                                "tmdb": 1304178,
                                 "tvrage": null
                             }
                         }
@@ -2315,63 +2453,12 @@
                         ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Ronnie Shalvis",
+                            "name": "Jiří Kraus",
                             "ids": {
-                                "trakt": 359823,
-                                "slug": "ronnie-shalvis",
-                                "imdb": null,
-                                "tmdb": 1304178,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Thanks",
-                        "jobs": [
-                            "Thanks"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Nick Spencer",
-                            "ids": {
-                                "trakt": 343776,
-                                "slug": "nick-spencer",
-                                "imdb": "nm5179254",
-                                "tmdb": 1287018,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Additional Music",
-                        "jobs": [
-                            "Additional Music"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Evan Goldman",
-                            "ids": {
-                                "trakt": 252102,
-                                "slug": "evan-goldman",
-                                "imdb": "nm3321545",
-                                "tmdb": 1090381,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Thanks",
-                        "jobs": [
-                            "Thanks"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "John Byrne",
-                            "ids": {
-                                "trakt": 174835,
-                                "slug": "john-byrne-b343a792-39f8-4d33-b888-09b186a05a8c",
-                                "imdb": "nm0126208",
-                                "tmdb": 1194953,
+                                "trakt": 396882,
+                                "slug": "jiri-kraus",
+                                "imdb": "nm0470133",
+                                "tmdb": 1366101,
                                 "tvrage": null
                             }
                         }
@@ -2383,12 +2470,12 @@
                         ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Caine Sinclair",
+                            "name": "Mark Hicks",
                             "ids": {
-                                "trakt": 1008985,
-                                "slug": "caine-sinclair",
-                                "imdb": "nm3834108",
-                                "tmdb": 1918847,
+                                "trakt": 429755,
+                                "slug": "mark-hicks-58865f7f-1a45-4c93-a804-c3c563af60b9",
+                                "imdb": "nm0382911",
+                                "tmdb": 80242,
                                 "tvrage": null
                             }
                         }
@@ -2400,148 +2487,12 @@
                         ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Kevin Foster",
+                            "name": "Christopher Brewster",
                             "ids": {
-                                "trakt": 542,
-                                "slug": "kevin-foster",
-                                "imdb": "nm1080555",
-                                "tmdb": 95698,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Ronny Mathew",
-                            "ids": {
-                                "trakt": 804927,
-                                "slug": "ronny-mathew",
-                                "imdb": "nm5053734",
-                                "tmdb": 1757755,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Mark Miscione",
-                            "ids": {
-                                "trakt": 801851,
-                                "slug": "mark-miscione",
-                                "imdb": "nm3483920",
-                                "tmdb": 1755081,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunt Double",
-                        "jobs": [
-                            "Stunt Double"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Dan Carter",
-                            "ids": {
-                                "trakt": 795134,
-                                "slug": "dan-carter-89b2c592-152a-4b18-8710-75b7a2475e12",
-                                "imdb": null,
-                                "tmdb": 1748860,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Eric Linden",
-                            "ids": {
-                                "trakt": 756528,
-                                "slug": "eric-linden-e8fb2d06-2f38-4842-8d08-f135ec488ad2",
-                                "imdb": null,
-                                "tmdb": 1683371,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunt Double",
-                        "jobs": [
-                            "Stunt Double"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "John Nania",
-                            "ids": {
-                                "trakt": 724596,
-                                "slug": "john-nania",
-                                "imdb": "nm2896043",
-                                "tmdb": 1696390,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunts",
-                        "jobs": [
-                            "Stunts"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "J.T. Holmes",
-                            "ids": {
-                                "trakt": 605748,
-                                "slug": "j-t-holmes",
-                                "imdb": "nm1631819",
-                                "tmdb": 1602549,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Stunt Double",
-                        "jobs": [
-                            "Stunt Double"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Aaron Toney",
-                            "ids": {
-                                "trakt": 574109,
-                                "slug": "aaron-toney",
-                                "imdb": "nm1987604",
-                                "tmdb": 1566267,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Additional Music",
-                        "jobs": [
-                            "Additional Music"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Jeff Morrow",
-                            "ids": {
-                                "trakt": 550495,
-                                "slug": "jeff-morrow-550495",
-                                "imdb": null,
-                                "tmdb": 1468752,
+                                "trakt": 468402,
+                                "slug": "christopher-brewster",
+                                "imdb": "nm1471043",
+                                "tmdb": 1315012,
                                 "tvrage": null
                             }
                         }
@@ -2570,12 +2521,488 @@
                         ],
                         "episode_count": 1,
                         "person": {
-                            "name": "Christopher Brewster",
+                            "name": "J.T. Holmes",
                             "ids": {
-                                "trakt": 468402,
-                                "slug": "christopher-brewster",
-                                "imdb": "nm1471043",
-                                "tmdb": 1315012,
+                                "trakt": 605748,
+                                "slug": "j-t-holmes",
+                                "imdb": "nm1631819",
+                                "tmdb": 1602549,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Eric Linden",
+                            "ids": {
+                                "trakt": 756528,
+                                "slug": "eric-linden-e8fb2d06-2f38-4842-8d08-f135ec488ad2",
+                                "imdb": null,
+                                "tmdb": 1683371,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Mark Miscione",
+                            "ids": {
+                                "trakt": 801851,
+                                "slug": "mark-miscione",
+                                "imdb": "nm3483920",
+                                "tmdb": 1755081,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Ronny Mathew",
+                            "ids": {
+                                "trakt": 804927,
+                                "slug": "ronny-mathew",
+                                "imdb": "nm5053734",
+                                "tmdb": 1757755,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Justin Eaton",
+                            "ids": {
+                                "trakt": 1158870,
+                                "slug": "justin-eaton",
+                                "imdb": null,
+                                "tmdb": 2057482,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Pilot",
+                        "jobs": [
+                            "Pilot"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Michael Russell",
+                            "ids": {
+                                "trakt": 1407669,
+                                "slug": "michael-russell-1a9c3880-d252-4706-bbb2-be9b97666cd8",
+                                "imdb": null,
+                                "tmdb": 2219951,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Vanessa Carter",
+                            "ids": {
+                                "trakt": 1515639,
+                                "slug": "vanessa-carter",
+                                "imdb": null,
+                                "tmdb": 2332815,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Bob Layton",
+                            "ids": {
+                                "trakt": 1595623,
+                                "slug": "bob-layton",
+                                "imdb": null,
+                                "tmdb": 2414066,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Dena Sodano",
+                            "ids": {
+                                "trakt": 1634154,
+                                "slug": "dena-sodano",
+                                "imdb": "nm6345877",
+                                "tmdb": 2461591,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Spencer Mulligan",
+                            "ids": {
+                                "trakt": 1874865,
+                                "slug": "spencer-mulligan",
+                                "imdb": null,
+                                "tmdb": 2687840,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "J.J. Perry",
+                            "ids": {
+                                "trakt": 45222,
+                                "slug": "j-j-perry",
+                                "imdb": "nm0675102",
+                                "tmdb": 131532,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lloyd Pitts",
+                            "ids": {
+                                "trakt": 222714,
+                                "slug": "lloyd-pitts",
+                                "imdb": "nm4281147",
+                                "tmdb": 1044956,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jawed El Berni",
+                            "ids": {
+                                "trakt": 232761,
+                                "slug": "jawed-el-berni",
+                                "imdb": "nm4402227",
+                                "tmdb": 1265906,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Nancy Young",
+                            "ids": {
+                                "trakt": 429425,
+                                "slug": "nancy-young",
+                                "imdb": "nm0949911",
+                                "tmdb": 1332245,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Driver",
+                        "jobs": [
+                            "Stunt Driver"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Dean Bailey",
+                            "ids": {
+                                "trakt": 544756,
+                                "slug": "dean-bailey",
+                                "imdb": "nm1945385",
+                                "tmdb": 1463656,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Nicolas Bosc",
+                            "ids": {
+                                "trakt": 559528,
+                                "slug": "nicolas-bosc",
+                                "imdb": "nm3863233",
+                                "tmdb": 1485538,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Allan Heinberg",
+                            "ids": {
+                                "trakt": 583292,
+                                "slug": "allan-heinberg-6e8d7ec8-5974-4131-812b-87145648292e",
+                                "imdb": "nm0374302",
+                                "tmdb": 1213170,
+                                "tvrage": 31091
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Vanessa Cater",
+                            "ids": {
+                                "trakt": 593457,
+                                "slug": "vanessa-cater",
+                                "imdb": "nm1695706",
+                                "tmdb": 1594171,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Ben Aycrigg",
+                            "ids": {
+                                "trakt": 667969,
+                                "slug": "ben-aycrigg",
+                                "imdb": "nm6142749",
+                                "tmdb": 1635193,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Darcel Danielle",
+                            "ids": {
+                                "trakt": 886524,
+                                "slug": "darcel-danielle",
+                                "imdb": "nm5028189",
+                                "tmdb": 1818946,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Aden Stay",
+                            "ids": {
+                                "trakt": 1011615,
+                                "slug": "aden-stay",
+                                "imdb": "nm3707706",
+                                "tmdb": 1921117,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Mike Carlin",
+                            "ids": {
+                                "trakt": 1137108,
+                                "slug": "mike-carlin",
+                                "imdb": null,
+                                "tmdb": 2036736,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Kawui Joa",
+                            "ids": {
+                                "trakt": 1482945,
+                                "slug": "kawui-joa",
+                                "imdb": "nm10101883",
+                                "tmdb": 2303896,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Shawn Daniels",
+                            "ids": {
+                                "trakt": 1621058,
+                                "slug": "shawn-daniels",
+                                "imdb": null,
+                                "tmdb": 2444732,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Casey Ann Zeller",
+                            "ids": {
+                                "trakt": 1874866,
+                                "slug": "casey-ann-zeller",
+                                "imdb": null,
+                                "tmdb": 2687841,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jim Cheung",
+                            "ids": {
+                                "trakt": 2165956,
+                                "slug": "jim-cheung-2165956",
+                                "imdb": "nm1569775",
+                                "tmdb": 2983586,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Brett Solomano",
+                            "ids": {
+                                "trakt": 2179357,
+                                "slug": "brett-solomano",
+                                "imdb": null,
+                                "tmdb": 2997245,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Kyle Baker",
+                            "ids": {
+                                "trakt": 2207183,
+                                "slug": "kyle-baker-c27ec772-1768-41c5-b782-3eb599874a05",
+                                "imdb": null,
+                                "tmdb": 3025582,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Thanks",
+                        "jobs": [
+                            "Thanks"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Robert Morales",
+                            "ids": {
+                                "trakt": 2207184,
+                                "slug": "robert-morales",
+                                "imdb": null,
+                                "tmdb": 3025583,
                                 "tvrage": null
                             }
                         }
@@ -2595,110 +3022,6 @@
                                 "slug": "carl-m-johnson",
                                 "imdb": "nm4262174",
                                 "tmdb": 2897092,
-                                "tvrage": null
-                            }
-                        }
-                    }
-                ],
-                "directing": [
-                    {
-                        "job": "Director",
-                        "jobs": [
-                            "Director"
-                        ],
-                        "episode_count": 2,
-                        "person": {
-                            "name": "Kari Skogland",
-                            "ids": {
-                                "trakt": 416928,
-                                "slug": "kari-skogland",
-                                "imdb": "nm0804556",
-                                "tmdb": 22140,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Second Second Assistant Director",
-                        "jobs": [
-                            "Second Second Assistant Director"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Catherine A. Cospelich",
-                            "ids": {
-                                "trakt": 1735989,
-                                "slug": "catherine-a-cospelich",
-                                "imdb": null,
-                                "tmdb": 2552750,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "First Assistant Director",
-                        "jobs": [
-                            "First Assistant Director"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Douglas Plasse",
-                            "ids": {
-                                "trakt": 1213572,
-                                "slug": "douglas-plasse",
-                                "imdb": "nm0686731",
-                                "tmdb": 2068880,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Script Supervisor",
-                        "jobs": [
-                            "Script Supervisor"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Hajar Mainl",
-                            "ids": {
-                                "trakt": 1114729,
-                                "slug": "hajar-mainl",
-                                "imdb": null,
-                                "tmdb": 2014458,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Second Assistant Director",
-                        "jobs": [
-                            "Second Assistant Director"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Tom Brewster",
-                            "ids": {
-                                "trakt": 62245,
-                                "slug": "tom-brewster",
-                                "imdb": "nm0108305",
-                                "tmdb": 75584,
-                                "tvrage": null
-                            }
-                        }
-                    },
-                    {
-                        "job": "Second Unit Director",
-                        "jobs": [
-                            "Second Unit Director"
-                        ],
-                        "episode_count": 1,
-                        "person": {
-                            "name": "Paul Jennings",
-                            "ids": {
-                                "trakt": 19765,
-                                "slug": "paul-jennings",
-                                "imdb": "nm0421230",
-                                "tmdb": 44006,
                                 "tvrage": null
                             }
                         }
@@ -2757,13 +3080,117 @@
                         }
                     }
                 ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Kari Skogland",
+                            "ids": {
+                                "trakt": 416928,
+                                "slug": "kari-skogland",
+                                "imdb": "nm0804556",
+                                "tmdb": 22140,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Unit Director",
+                        "jobs": [
+                            "Second Unit Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Paul Jennings",
+                            "ids": {
+                                "trakt": 19765,
+                                "slug": "paul-jennings",
+                                "imdb": "nm0421230",
+                                "tmdb": 44006,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Assistant Director",
+                        "jobs": [
+                            "Second Assistant Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Tom Brewster",
+                            "ids": {
+                                "trakt": 62245,
+                                "slug": "tom-brewster",
+                                "imdb": "nm0108305",
+                                "tmdb": 75584,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Script Supervisor",
+                        "jobs": [
+                            "Script Supervisor"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Hajar Mainl",
+                            "ids": {
+                                "trakt": 1114729,
+                                "slug": "hajar-mainl",
+                                "imdb": null,
+                                "tmdb": 2014458,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "First Assistant Director",
+                        "jobs": [
+                            "First Assistant Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Douglas Plasse",
+                            "ids": {
+                                "trakt": 1213572,
+                                "slug": "douglas-plasse",
+                                "imdb": "nm0686731",
+                                "tmdb": 2068880,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Second Second Assistant Director",
+                        "jobs": [
+                            "Second Second Assistant Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Catherine A. Cospelich",
+                            "ids": {
+                                "trakt": 1735989,
+                                "slug": "catherine-a-cospelich",
+                                "imdb": null,
+                                "tmdb": 2552750,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
                 "editing": [
                     {
                         "job": "Editor",
                         "jobs": [
                             "Editor"
                         ],
-                        "episode_count": 1,
+                        "episode_count": 2,
                         "person": {
                             "name": "Jeffrey Ford",
                             "ids": {
@@ -2791,6 +3218,23 @@
                                 "tvrage": null
                             }
                         }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Todd Desrosiers",
+                            "ids": {
+                                "trakt": 533958,
+                                "slug": "todd-desrosiers",
+                                "imdb": "nm1096220",
+                                "tmdb": 1452108,
+                                "tvrage": null
+                            }
+                        }
                     }
                 ],
                 "created by": [
@@ -2815,19 +3259,19 @@
             }
         },
         "ratings": {
-            "rating": 8.07602,
-            "votes": 342,
+            "rating": 8.05932,
+            "votes": 354,
             "distribution": {
-                "1": 9,
+                "1": 10,
                 "2": 4,
                 "3": 2,
-                "4": 3,
+                "4": 4,
                 "5": 11,
-                "6": 8,
-                "7": 52,
-                "8": 92,
-                "9": 46,
-                "10": 94
+                "6": 11,
+                "7": 57,
+                "8": 101,
+                "9": 55,
+                "10": 99
             }
         },
         "relatedMovies": [
@@ -2953,15 +3397,17 @@
             }
         ],
         "stats": {
-            "watchers": 47869,
-            "plays": 60125,
-            "collectors": 15622,
-            "collected_episodes": 16326,
+            "watchers": 51343,
+            "plays": 73859,
+            "collectors": 16813,
+            "collected_episodes": 18968,
             "comments": 11,
-            "lists": 20129,
-            "votes": 343,
-            "recommended": 119
+            "lists": 20035,
+            "votes": 354,
+            "recommended": 125
         },
-        "watching": 228
-    }
+        "watching": 86
+    },
+    "title": "The Falcon and the Winter Soldier",
+    "videoType": "show"
 }

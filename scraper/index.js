@@ -1,13 +1,41 @@
 require('dotenv').config()
-const { wait, store, TYPES, redis } = require('./lib');
-const baseUrlMovieDB = `https://api.themoviedb.org/3`;
+const { getRandomInt } = require('./lib/getRandomInt');
+const { wait, store, TYPES } = require('./lib/lib');
 const axios = require('axios').default
+
+
+const request = axios.create({
+    baseURL: `https://api.themoviedb.org/3`
+})
+
+request.interceptors.request.use(config => {
+    const key = getRandomInt(1, 2)
+    if (!config.params) {
+        config.params = {}
+    }
+
+    config.params['api_key'] = process.env[`TMDB_API_KEY${key}`]
+    return config
+})
+
 
 // Get this many pages of objects, or until empty responses
 const iterations = 500
 
-getAll(TYPES.MOVIE)
-getAll(TYPES.SHOW)
+
+async function main() {
+
+    if (!process.env.DEBUG) {
+        // This can be smarter but ¯\_(ツ)_/¯
+        console.log(`Waiting 60 seconds before starting so logstash & es are booted fully`);
+        await wait(60)
+    }
+
+    getAll(TYPES.MOVIE)
+    getAll(TYPES.SHOW)
+}
+
+main()
 
 async function getAll(type) {
     let currentCursor = 1
@@ -28,43 +56,55 @@ async function getAll(type) {
                 currentCursor = iterations
             }
 
+            res.data.results = res.data.results.map(async element => {
+                const details = await getDetails(element.id, type)
+                return Object.assign(element, details.data)
+            })
+
+
+            res.data.results = await Promise.all(res.data.results)
+
             await store(res.data.results, type)
             await wait()
-            await redis.set(`${type}:${currentCursor}`, true);
         } catch (error) {
-            console.log(error);
-            console.log('Something went wrong! Lets continue after waiting a sec :)');
-            await wait(30)
+            if (process.env.DEBUG) {
+                console.log(error);
+            }
+            console.log('Something went wrong! Lets continue after waiting a bit :)');
+            console.log(error.message);
+            await wait(300)
         }
 
     }
 }
 
-
-async function get(page, type) {
-
-    const exists = await redis.exists(`${type}:${page}`)
-    if (exists) {
-        console.log(`${type}:${page} already exists, skipping.`);
-        return
-    }
-
-
+async function getDetails(id, type) {
+    console.log(`Getting details for ${type} ${id}`)
     switch (type) {
         case TYPES.MOVIE:
-            return axios.get(`${baseUrlMovieDB}/discover/movie`, {
+            return request(`/movie/${id}`)
+        case TYPES.SHOW:
+            return request(`/tv/${id}`)
+        default:
+            throw new Error('invalid type')
+    }
+
+}
+
+async function get(page, type) {
+    switch (type) {
+        case TYPES.MOVIE:
+            return request(`/discover/movie`, {
                 params: {
                     sort_by: 'popularity.desc',
                     page,
-                    api_key: process.env.TMDB_API_KEY,
                 }
             })
         case TYPES.SHOW:
-            return axios.get(`${baseUrlMovieDB}/discover/tv`, {
+            return request(`/discover/tv`, {
                 params: {
                     sort_by: 'popularity.desc',
                     page,
-                    api_key: process.env.TMDB_API_KEY,
                 }
             })
         default:

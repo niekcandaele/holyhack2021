@@ -52,20 +52,7 @@ services:
     networks:
       - elastic
     depends_on:
-      - redis
       - logstash
-  redis:
-    image: redis
-    expose:
-      - 6379
-    ports:
-      - 6379:6379
-    networks:
-      - elastic
-    volumes:
-      - redis-data:/data
-    command: ["redis-server", "--appendonly", "yes"]
-    restart: unless-stopped
   # query api
   api:
     build: ./api/

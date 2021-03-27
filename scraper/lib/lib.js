@@ -1,7 +1,6 @@
 const axios = require('axios').default
-const Redis = require("ioredis");
-const { traktTv, traktMovies } = require('./trakt');
-const redis = new Redis({ host: process.env.REDIS_HOST });
+const { traktTv, traktMovies } = require('../trakt');
+const fs = require('fs')
 
 const logstash = {
     send: async (data) => {
@@ -16,7 +15,7 @@ const logstash = {
     }
 }
 
-async function wait(seconds = 10) {
+async function wait(seconds = 30) {
     // Reeee rate limits
     return new Promise((resolve, reject) => {
         setTimeout(() => {
@@ -24,6 +23,7 @@ async function wait(seconds = 10) {
         }, seconds * 1000)
     })
 }
+
 
 
 async function store(data, type) {
@@ -39,12 +39,20 @@ async function store(data, type) {
             element.trakt = traktData
         }
 
-
-        if (process.env.DEBUG) {
-            fs.writeFileSync(`./data/movies/${element.id}.json`, JSON.stringify(element, null, 4))
+        if (element.name) {
+            element.title = element.name
         }
 
-        await logstash.send(element)
+        if (element.title) {
+            element.name = element.title
+        }
+
+        element.videoType = type
+        if (process.env.DEBUG) {
+            fs.writeFileSync(`./data/movies/${element.id}.json`, JSON.stringify(element, null, 4))
+        } else {
+            await logstash.send(element)
+        }
     });
 
     return Promise.all(promises)
@@ -58,7 +66,6 @@ const TYPES = {
 module.exports = {
     wait,
     logstash,
-    redis,
     store,
-    TYPES
+    TYPES,
 }
