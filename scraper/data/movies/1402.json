@@ -1,0 +1,3992 @@
+{
+    "backdrop_path": "/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg",
+    "first_air_date": "2010-10-31",
+    "genre_ids": [
+        10759,
+        18,
+        10765
+    ],
+    "id": 1402,
+    "name": "The Walking Dead",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Walking Dead",
+    "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+    "popularity": 896.889,
+    "poster_path": "/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+    "vote_average": 8,
+    "vote_count": 10279,
+    "created_by": [
+        {
+            "id": 4027,
+            "credit_id": "5256cb3f19c2956ff605e5de",
+            "name": "Frank Darabont",
+            "gender": 2,
+            "profile_path": "/wmUGB2vPuYQKPWNrK24SonBtyJY.jpg"
+        }
+    ],
+    "episode_run_time": [
+        42,
+        60,
+        45
+    ],
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10765,
+            "name": "Sci-Fi & Fantasy"
+        }
+    ],
+    "homepage": "https://www.amc.com/shows/the-walking-dead",
+    "in_production": true,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2021-03-21",
+    "last_episode_to_air": {
+        "air_date": "2021-03-21",
+        "episode_number": 20,
+        "id": 2455769,
+        "name": "Splinter",
+        "overview": "Eugene, Ezekiel, Yumiko and Princess are captured and separated. Princess struggles with memories of her traumatic past and tries to escape one way or another with the help of Ezekiel.",
+        "production_code": "",
+        "season_number": 10,
+        "still_path": "/vB8sDYCjcZuCe7SmkRKKZxmsAvn.jpg",
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    "next_episode_to_air": {
+        "air_date": "2021-03-28",
+        "episode_number": 21,
+        "id": 2455770,
+        "name": "Diverged",
+        "overview": "Daryl and Carol come to a fork in the road and head their separate ways. Each going into their own type of survival mode, the easiest of challenges become much harder. Will their individual journeys be the tipping point needed to mend their friendship, or is the distance between them permanent?",
+        "production_code": "",
+        "season_number": 10,
+        "still_path": "/hQn6FqIDrvJ05cw58N91gpdbKzh.jpg",
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    "networks": [
+        {
+            "name": "AMC",
+            "id": 174,
+            "logo_path": "/pmvRmATOCaDykE6JrVoeYxlFHw3.png",
+            "origin_country": "US"
+        }
+    ],
+    "number_of_episodes": 153,
+    "number_of_seasons": 10,
+    "production_companies": [
+        {
+            "id": 23242,
+            "logo_path": "/fOALFvgnO1ZdIaA9PNIAAuaDKWd.png",
+            "name": "AMC Networks",
+            "origin_country": "US"
+        },
+        {
+            "id": 23921,
+            "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+            "name": "Circle of Confusion",
+            "origin_country": "US"
+        },
+        {
+            "id": 11533,
+            "logo_path": "/tWM9pmzVYxok4GbQIttxdcml1yT.png",
+            "name": "Valhalla Motion Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3982,
+            "logo_path": "/bli7HkPOXOEWsDwDK0W7XXfeUU2.png",
+            "name": "Darkwoods Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2010-10-11",
+            "episode_count": 46,
+            "id": 3646,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/mjUvUEzOwnMz6fx75RHGOqwmPnM.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2010-10-31",
+            "episode_count": 6,
+            "id": 3643,
+            "name": "Season 1",
+            "overview": "Rick Grimes embarks on a survivalist adventure in a post-zombie apocalypse Atlanta.",
+            "poster_path": "/yaOB2Y8GcoXwjNQ3apq67bMbNHF.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2011-10-16",
+            "episode_count": 13,
+            "id": 3644,
+            "name": "Season 2",
+            "overview": "Under Rick's leadership, the group leave Atlanta in search of sanctuary.",
+            "poster_path": "/wpG9SDyz23t3vU8dTbtSvEkxv8r.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2012-10-14",
+            "episode_count": 16,
+            "id": 3645,
+            "name": "Season 3",
+            "overview": "Having seemingly found a place of security, the group are faced with an unprecedented new threat.",
+            "poster_path": "/mDVPeQ5ZaaeO2Qh7VlXZchHHuLN.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2013-10-13",
+            "episode_count": 16,
+            "id": 3647,
+            "name": "Season 4",
+            "overview": "As the group settle into life in a stable shelter, a new danger threatens disaster.",
+            "poster_path": "/pLXlKKQOoUZAjWsXwacZCj6SWIb.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2014-10-12",
+            "episode_count": 16,
+            "id": 60391,
+            "name": "Season 5",
+            "overview": "After the season 4 finale left most of the main characters at the mercy of the sadistic inhabitants of Terminus. Season 5 will offer new directions for the group of survivors as scientist Eugene Porter promises a cure to the zombie virus if he can be safely escorted to Washington DC, but getting there is easier said than done.",
+            "poster_path": "/oiQbg5WqdHqBWMrtbzJeS6vb2Lt.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2015-10-11",
+            "episode_count": 16,
+            "id": 68814,
+            "name": "Season 6",
+            "overview": "Rick attempts to use his authority in Alexandria to keep the inhabitants safe, even as a new threat looms.",
+            "poster_path": "/kwVAeAA6TlZWr6lRP2yVTyR2aif.jpg",
+            "season_number": 6
+        },
+        {
+            "air_date": "2016-10-23",
+            "episode_count": 16,
+            "id": 76834,
+            "name": "Season 7",
+            "overview": "Rick and his group's world becomes even more brutal due to Negan's deadly example of what happens if they don't live under his rules. Everyone must begin again.",
+            "poster_path": "/fz6LidJF4Ue3gspFCKtxCERMCM4.jpg",
+            "season_number": 7
+        },
+        {
+            "air_date": "2017-10-22",
+            "episode_count": 16,
+            "id": 91735,
+            "name": "Season 8",
+            "overview": "Rick and his survivors bring \"All-Out War\" to Negan and his forces. The Saviors are larger, better-equipped, and ruthless - but Rick and the unified communities are fighting for the promise of a brighter future. The battle lines are drawn as they launch into a kinetic, action-packed offensive.",
+            "poster_path": "/wmv0oIun52Xeq65sBKfHiUkiBKc.jpg",
+            "season_number": 8
+        },
+        {
+            "air_date": "2018-10-07",
+            "episode_count": 16,
+            "id": 109531,
+            "name": "Season 9",
+            "overview": "With the defeat of Negan and the Saviors, the survivors are now rebuilding civilisation under Rick’s leadership. However, the group are forced to face their biggest threat yet as the walkers around them have started whispering.",
+            "poster_path": "/5KKovNGmh20sDBnyFyuaYTOSmh8.jpg",
+            "season_number": 9
+        },
+        {
+            "air_date": "2019-10-06",
+            "episode_count": 22,
+            "id": 123967,
+            "name": "Season 10",
+            "overview": "It is now Spring, a few months after the end of Season 9, when our group of survivors dared to cross into Whisperer territory during the harsh winter. The collected communities are still dealing with the after effects of Alpha’s horrific display of power, reluctantly respecting the new borderlines being imposed on them, all while organising themselves into a militia-style fighting force, preparing for a battle that may be unavoidable. But the Whisperers are a threat unlike any they have ever faced. Backed by a massive horde of the dead it is seemingly a fight they cannot win.",
+            "poster_path": "/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+            "season_number": 10
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "Fight the dead. Fear the living.",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Живите мъртви",
+                "country": "bg"
+            },
+            {
+                "title": "Ziví mrtví",
+                "country": "cz"
+            },
+            {
+                "title": "Elavad Surnud",
+                "country": "ee"
+            },
+            {
+                "title": "Živi mrtvaci",
+                "country": "hr"
+            },
+            {
+                "title": "Mordeye moteharrek",
+                "country": "ir"
+            },
+            {
+                "title": "Vaikštantys numirėliai",
+                "country": "lt"
+            },
+            {
+                "title": "Vaiksciojantys negyveliai",
+                "country": "lt"
+            },
+            {
+                "title": "Staigajosie mironi",
+                "country": "lv"
+            },
+            {
+                "title": "Zywe trupy",
+                "country": "pl"
+            },
+            {
+                "title": "The Walking Dead: Invazia zombi",
+                "country": "ro"
+            },
+            {
+                "title": "Okružen mrtvima",
+                "country": "rs"
+            },
+            {
+                "title": "Ходячие мертвецы",
+                "country": "ru"
+            },
+            {
+                "title": "Yürüyen Ölüler",
+                "country": "tr"
+            },
+            {
+                "title": "Xac Song",
+                "country": "vn"
+            },
+            {
+                "title": "The Walking Dead",
+                "country": "ru"
+            },
+            {
+                "title": "مردگان متحرک",
+                "country": "ir"
+            },
+            {
+                "title": "Żywe trupy",
+                "country": "pl"
+            },
+            {
+                "title": "Ходячі мерці",
+                "country": "ua"
+            },
+            {
+                "title": "الموتى السائرون",
+                "country": "sa"
+            },
+            {
+                "title": "行尸走肉",
+                "country": "cn"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Vaikščiojantys negyveliai",
+                "country": "lt"
+            },
+            {
+                "title": "Gyvieji numirėliai",
+                "country": "lt"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "Οι Ζωντανοί Νεκροί",
+                "country": "gr"
+            },
+            {
+                "title": "მოსიარულე მკვდრები",
+                "country": "ge"
+            },
+            {
+                "title": "Të vdekurit e gjallë",
+                "country": "al"
+            },
+            {
+                "title": "Živí mrtví",
+                "country": "cz"
+            },
+            {
+                "title": "Elavad surnud",
+                "country": "ee"
+            },
+            {
+                "title": "Walking Dead, The",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Živí mŕtvi",
+                "country": "sk"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "워킹 데드",
+                "country": "kr"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            },
+            {
+                "title": "TWD",
+                "country": "us"
+            },
+            {
+                "title": "Walking Dead",
+                "country": "us"
+            }
+        ],
+        "translations": [
+            {
+                "title": "الموتى السائرون",
+                "overview": "يستيقظ ضابط الشرطة (ريك) من الغيبوبة التي كان بها لعدة أشهر نتيجة ﻹصابته بطلق ناري أثناء عمله، ليجد أن العالم قد أجتيج من قبل الموتى الأحياء وهو الناجي الوحيد، يعود ريك الى منزله فيجد أن زوجته وابنه مفقودان، فيتوجه للبحث عنه، ليجد نفسه امام جيش من الموتى الأحياء، وتتصاعد الأحداث.",
+                "language": "ar"
+            },
+            {
+                "title": "Живите мъртви",
+                "overview": "Сериалът проследява историята в седмиците и месеците след пандемичен апокалипсис на зомбита. Окръжен шериф Рик Граймс пътува заедно със семейството си и малка група оцелели в постоянно търсене на безопасно и защитено място за живеене. Постоянното напрежение от всекидневното отблъскване на смъртта има висока цена и води мнозина до най-низките дълбини на човешката жестокост. Докато Рик се бори да запази семейството си живо.",
+                "language": "bg"
+            },
+            {
+                "title": null,
+                "overview": "Policajca Rika Grimesa (Andrew Lincoln) nakon što je ranjen pokušavajući da zaustavi automobil s kriminalcima na putu, odvoze u bolnicu gdje gubi svijest. Nakon više dana bez svijesti, on se budi, samo da bi otkrio da je za to vrijeme, opaki virus opustošio svijet, oživljavajući mrtve koji imaju samo jedno na svom zombi umu, a to je da se hrane ljudskim mesom. Suočen sa ovom činjenicom kao i da je njegova porodica nestala, on će predvoditi grupu preživjelih u potrazi za sigurnim i bezbjednim mjestom za život.",
+                "language": "bs"
+            },
+            {
+                "title": "行屍",
+                "overview": "",
+                "language": "cn"
+            },
+            {
+                "title": "Živí mrtví",
+                "overview": "Příběh o následcích apokalypsy, která změnila lidi na zombie a sleduje příběh skupinky lidí, kteří přežili a cestují napříč USA a snaží se najít si nový domov, bez hord zombie. Skupinu vede Rick Grimes, který byl ve starém světě policejním důstojníkem. Čím více je jejich situace bezútěšnější, tím víc jejich vůle přežít nutí dělat skoro cokoliv, aby zůstali naživu.",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "Efter at være vågnet fra et koma på et forladt hospital, opdager politibetjent Rick Grimes, at den verden, han kendte, er gået under – en zombie-epidemi af apokalyptiske dimensioner raser. Et sted i nærheden, i udkanten af Atlanta, kæmper en lille gruppering af mennesker for at overleve, \"de døde\" holder øje med deres mindste bevægelser. Kan Rick og de andre bevare deres menneskelighed i kampen om at overleve i denne frygtelige, nye verden? Under de vanskelige forhold, hvor de samtidig plages af personlige kampe, ender det måske med, at de bekæmper hinanden?",
+                "language": "da"
+            },
+            {
+                "title": null,
+                "overview": "The Walking Dead spielt bislang in der Metropolregion von Atlanta, im Südosten der Vereinigten Staaten, und erzählt vom Kampf einer kleinen Gruppe Überlebender nach einer weltweiten Zombie-Apokalypse. Unter Führung des Sheriffs Rick Grimes ist die Gruppe auf der Suche nach einer dauerhaften und vor allem sicheren Bleibe. Dabei stellen die fast überall präsenten Untoten eine permanent vorhandene Bedrohung dar, die jederzeit ohne Vorwarnung zuschlagen kann. Im Laufe der Zeit wird die Gruppe daher zwangsläufig immer kleiner, da manche Mitglieder den Zombies zum Opfer fallen, andere die Gruppe verlassen oder sich für den Tod entscheiden.",
+                "language": "de"
+            },
+            {
+                "title": "Οι Ζωντανοί Νεκροί",
+                "overview": "Στον απόηχο μιας αποκάλυψης των ζόμπι, οι επιζώντες, με την ελπίδα να σώσουν την ανθρωπότητα, ενώνουν τις δυνάμεις τους και ξεκινούν έναν αγώνα για τη δική τους σωτηρία.",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+                "language": "en"
+            },
+            {
+                "title": null,
+                "overview": "El oficial Rick Grimes se despierta del coma para descubrir que el mundo está en ruinas y debe guiar a un grupo de sobrevivientes para permanecer con vida.",
+                "language": "es"
+            },
+            {
+                "title": "Elavad Surnud",
+                "overview": "",
+                "language": "et"
+            },
+            {
+                "title": "مردگان متحرک",
+                "overview": "یک افسر پلیس است که بعد از گلوله خوردن در حین ماموریت، چندین ماه در بیمارستان بیهوش بوده است. وقتی که او بیدار می شود، می فهمد که دنیای اطرافش توسط زامبی ها (مرده های متحرک) تسخیر شده است، و به نظر میرسد که او تنها شخص زنده است. او برای پیدا کردن خانواده اش به شهر آتلانتا می رود، و در آنجا به گروهی از بازمانده ها بر می خورد که در خارج از شهر ساکن شده اند. همسرش لوری و پسرش کارل و همینطور بهترین دوستش، شین در میان بازمانده ها هستند. اکنون او بهمراه دیگر بازمانده ها باید در دنیایی که پر از مرده های متحرک است، راهی برای زنده ماندن پیدا کنند...",
+                "language": "fa"
+            },
+            {
+                "title": null,
+                "overview": "Poliisi Rick Grimes herää koomasta autiossa sairaalassa, ja toteaa tuntemansa maailman muuttuneen zombien valtaamaksi, apokalyptiseksi taistelutantereeksi. Lähistöllä pieni selviytyjien leiri puolustautuu henkensä edestä kuolleiden vaaniessa joka nurkan takana. Selviääkö Rick ryhmineen zombiarmeijasta ja toisistaan uudessa, karmivassa todellisuudessa?",
+                "language": "fi"
+            },
+            {
+                "title": null,
+                "overview": "Après une apocalypse ayant transformé la quasi-totalité de la population en zombies, un groupe d'hommes et de femmes mené par l'officier Rick Grimes tente de survivre... Ensemble, ils vont devoir tant bien que mal faire face à ce nouveau monde devenu méconnaissable, à travers leur périple dans le Sud profond des États-Unis.",
+                "language": "fr"
+            },
+            {
+                "title": "המתים המהלכים",
+                "overview": "ריק גריימס הוא שוטר המתעורר בבית החולים ומגלה שמתים מהלכים השתלטו על העולם והוא בין היחידים שניצלו. הוא יוצא למסע ברחובות השוממים והריקים של ארה\"ב יחד עם קבוצת ניצולים קטנה. המצב הולך ונעשה קודר ומבעית, והייאוש משתלט על קבוצת הניצולים ודוחף אותם לקצה של אי שפיות. בכל סיבוב הם נתקלים במחזות אימה קשים מנשוא, גם כשמודבר במתים המהלכים וגם כשמדובר באנושיים, פזורים בכל מיני מקומות, הנאבקים לשמור על צלם אנוש. גם בתוך הקבוצה יתעוררו בעיות להישאר מלוכדים, ולחלקם יתרחשו דברים קשים.",
+                "language": "he"
+            },
+            {
+                "title": "Živi mrtvaci",
+                "overview": "Policajca Rika Grimesa (Andrew Lincoln) nakon što je ranjen pokušavajući da zaustavi automobil s kriminalcima na putu, odvoze u bolnicu gde gubi svjest. Nakon više dana bez svjesti, on se budi, samo da bi otkrio da je za to vrjeme, opaki virus opustošio svet, oživljavajući mrtve koji imaju samo jedno na svom zombi umu, a to je da se hrane ljudskim mesom. Suočen sa ovom činjenicom kao i da je njegova porodica nestala, on će predvoditi grupu preživelih u potrazi za sigurnim i bezbjednim mjestom za život.",
+                "language": "hr"
+            },
+            {
+                "title": null,
+                "overview": "Rick Grimes egy elhagyott kórházban ébred fel a kómából. Rémisztő felismeréssel kell szembesülnie: az általa ismert világot elpusztította egy apokaliptikus zombijárvány. Nem messze, Atlanta határában egy maroknyi ember a túléléséért küzd a környéken ólálkodó élőholtakkal szemben. Vajon Rick és társai meg tudják őrizni emberségüket ebben a rémisztő, új világban? És a mostoha körülmények és személyes ellentétek között mi óvja meg őket egymástól?",
+                "language": "hu"
+            },
+            {
+                "title": "The Walking Dead",
+                "overview": "",
+                "language": "id"
+            },
+            {
+                "title": null,
+                "overview": "Rick Grimes è un vice sceriffo vittima di un incidente durante uno scontro a fuoco con dei fuorilegge: colpito alla schiena, va in coma, lasciando tra le lacrime la moglie Lori e il figlio Carl. Il risveglio, poco tempo dopo, è traumatico: l'ospedale è distrutto ed è pieno di cadaveri. Rick non ci metterà molto a capire la situazione: il \"virus\" che sembrava essere controllato prima del suo incidente, ha preso piede. I morti si risvegliano ed attaccano i vivi, la cui presenza è sempre minore. Il vice sceriffo sfrutterà tutte le sue abilità di sopravvivenza e di capacità con le armi per sopravvivere ed uscire dalla città, trovando altri superstiti rifugiati tra i boschi: tra questi, ritrova la famiglia e il suo migliore amico Shane. Costretti poi a spostarsi, presto si accorgeranno che i veri nemici sono gli altri esseri umani, spinti unicamente dall'istinto di sopravvivenza.",
+                "language": "it"
+            },
+            {
+                "title": "ウォーキング・デッド",
+                "overview": "ある日死者が次々と蘇り、死者に噛まれると死に至りゾンビとなってしまう現象が世界で大量発生した未来が舞台である。生き残った人々は成すすべも無くただ社会文明が崩壊してくなか、必死に生きていく。元保安官リックとその家族もまた生き残るための戦いを続けていく。",
+                "language": "ja"
+            },
+            {
+                "title": "მოსიარულე მკვდრები",
+                "overview": "საშინელი ავადმყოფობის შემდეგ, რომელმაც დედამიწის მოსახლეობა ზომბებად აქცია, ცოცხლად გადარჩენილი ხალხის პატარა ჯგუფი დღიდან დღემდე იბრძვის გადასარჩენად მათთვის უკვე მტრულად განწყობილ სამყაროში. ყოფილი პოლიციელი რიკის ხელმძღვანელობით ისინი ცხოვრებისთვის უსაფრთხო ადგილს ეძებენ, მაგრამ ზომბები ყველაზე საშინელი არაა რაც ელით, ძირითადი საფრთხე - გადარჩენილთა შორის შინაგანი სასტიკი გაჯიბრებაა.",
+                "language": "ka"
+            },
+            {
+                "title": "워킹 데드",
+                "overview": "2010년 10월 AMC에서 방영을 시작한 좀비 아포칼립스물. 조지아 주의 보안관 릭은 범인 검거 중에 총상을 입고 혼수상태에 빠진다. 어느 날 혼수 상태에서 깨어난 릭은 폐허가 되어 버린 세상이 좀비들로 뒤덮여 있는 것을 발견한다. 쇠약해진 몸으로 병원을 빠져나온 릭은 워커라고 불리는 좀비들을 피해 생존자를 찾아다니고, 마을의 생존자 모건 부자의 도움을 받아 건강을 회복한 후 아내 로리와 아들 칼을 찾으러 애틀랜타로 떠나지만, 릭을 반긴 것은 셀 수 없이 많은 워커 무리들. 간신히 전차 내부로 피신한 릭을 백화점에 숨어있던 생존자 일행이 도와서 겨우 전차에서 빠져나오는데...",
+                "language": "ko"
+            },
+            {
+                "title": "Gyvi numirėliai",
+                "overview": "„Gyvi numirėliai” – vienas iš šiuo metu populiariausių pasaulio serialų – pasakoja apie šerifą Riką, kuris pabudęs po komos pamato, kad jo miestą užvaldė šiurpą keliantys gyvi numirėliai. Jam pavyksta atrasti dar kelis išlikusius žmones ir jie kartu bando nuvykti į stovyklą, kurioje, kaip jie girdėjo, galima gauti pagalbos.",
+                "language": "lt"
+            },
+            {
+                "title": "Staigajosie mironi",
+                "overview": "",
+                "language": "lv"
+            },
+            {
+                "title": "The Walking Dead",
+                "overview": "",
+                "language": "ms"
+            },
+            {
+                "title": null,
+                "overview": "Als politieagent Rick Grimes (Andrew Lincoln; “Strike Back”) wakker wordt in het ziekenhuis nadat hij is neergeschoten tijdens een achtervolging, lijkt alles verlaten. De bloemen naast zijn bed zijn verlept. Als hij naar buiten gaat om uit te zoeken wat er aan de hand is, vind hij een enorme hoeveelheid lijken naast het ziekenhuis. Als hij verdwaasd verder door het verlaten dorp loopt, komt hij Morgan Jones (Lennie James; “Jericho”) en zijn zoon tegen. Eerst wordt Rick door hen als vijand aangezien maar de twee besluiten hem toch op te vangen. Nadat Rick weer bijgekomen is, vertellen Lennie en zijn zoon wat er aan de hand is.",
+                "language": "nl"
+            },
+            {
+                "title": null,
+                "overview": "Når han våkner fra koma i et forlatt sykehus, oppdager politibetjent Rick Grimes at verden slik han kjente den er borte. Den er ødelagt av en zombiepidemi av apokalyptiske proporsjoner. Ikke langt unna, i utkanten av Atlanta, kjemper en liten gruppe for å overleve og har stadig \"de døde\" etter seg. Klarer Rick og de andre å holde på sin medmenneskelighet i denne skremmende nye verdenen? Og vil de, under de forferdelige forholdene og med personlig rivalisering, klare å holde ut med hverandre?",
+                "language": "no"
+            },
+            {
+                "title": "Żywe trupy",
+                "overview": "Serial opowiada o czasie następującym po pandemicznej apokalipsie, po której świat opanowały zombie. Szeryf Rick Grimes (Andrew Lincoln) podróżuje wraz z rodziną i z garstką ocalałych, w bezustannym poszukiwaniu bezpiecznego schronienia. Ciągła presja oraz codzienne zmagania się z zagrożeniem i śmiercią zbierają krwawe żniwo, popychając wielu ku otchłani najgłębszego ludzkiego okrucieństwa. W trakcie walki o przeżycie swojej rodziny, Rick odkrywa, że wszechogarniający strach ocalałych może być dużo bardziej niebezpieczny niż przemierzające świat zombie.",
+                "language": "pl"
+            },
+            {
+                "title": null,
+                "overview": "Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.",
+                "language": "pt"
+            },
+            {
+                "title": "The Walking Dead: Invazia zombi",
+                "overview": "The Walking Dead prezintă povestea care are loc după o „apocalipsă zombi”. Serialul urmărește un mic grup de supraviețuitori care traversează zona metropolitană Atlanta în căutarea unui nou cămin departe de hoardele de nemorți (sau umblători, așa cum sunt numiți de către supraviețuitori). Povestea este axată în principal pe elementul uman al unei lumi post-apocaliptice și modul în care luptă oamenii supraviețuitori.\n\nGrupul este condus de către Rick Grimes, care a fost ajutor de șerif într-un mic oraș din Georgia, înainte de apariția epidemiei care a transformat majoritatea oamenilor în zombi. Deoarece situația lor devine tot mai periculoasă, disperarea grupului de a supraviețui îi împinge la un pas de nebunie, totul în mijlocul unei lumi în care structurile societății globale s-au prăbușit.",
+                "language": "ro"
+            },
+            {
+                "title": "Ходячие мертвецы",
+                "overview": "Сериал рассказывает историю жизни семьи шерифа после того, как «зомби» — эпидемия апокалиптических масштабов захлестнула земной шар. Шериф Рик Граймс путешествует со своей семьей и небольшой группой выживших в поисках безопасного места для жизни. Но постоянный страх смерти каждый день приносит тяжелые потери, заставляя героев почувствовать глубины человеческой жестокости. Рик пытается спасти свою семью, и открывает для себя, что всепоглощающий страх тех, кто выжил, может быть опаснее бессмысленных мертвецов, бродящих по земле.",
+                "language": "ru"
+            },
+            {
+                "title": "Walking Dead",
+                "overview": "Hlavný hrdina šerif Rick Grimes, ktorý sa prebudí z kómy do post-apokalyptického sveta, kde dominujú mäsožravé zombie chce nájsť svoju manželku a syna. Pritom stretáva mnoho ďalších preživších.",
+                "language": "sk"
+            },
+            {
+                "title": "Të vdekurit e gjallë",
+                "overview": "",
+                "language": "sq"
+            },
+            {
+                "title": "Окружен мртвима",
+                "overview": "Заменик шерифа Рик Грајмс предводи групу преживелих у свету који су заузели живи мртваци. Боре се против мртвих, плаше се живих.",
+                "language": "sr"
+            },
+            {
+                "title": null,
+                "overview": "Den värld vi kände är borta. En epidemi av apokalyptiska proportioner har tagit över världen som får de döda att stiga och livnära sig på de levande. På bara några månader har samhället rasat. I en värld som styrs av de döda är vi tvungna att äntligen börja leva. Serien följer en polis, Rick Grimes, som vaknar upp ur ett koma endast för att upptäcka världen där zombies härjar. Han och en grupp överlevande söker tillsammans efter sina nära och kära. Baserat på en tecknad serie med samma namn skriven av Robert Kirkman.",
+                "language": "sv"
+            },
+            {
+                "title": "เดอะ วอล์กกิง เดด",
+                "overview": "The Walking Dead เป็นละครชุดแนวดรามาสยองขวัญหลังพยากรณ์ (post-apocalyptic horror drama) สร้างโดยแฟรงก์ ดาราบอนต์ มีเนื้อเรื่องยึดตามหนังสือการ์ตูนชื่อเดียวกันของโรเบิร์ต เคิร์กแมน, โทนี มัวร์ และชาร์ลี แอดลาร์ด ละครแสดงนำโดยแอนดรูว์ ลินคอล์น รับบทเป็นนายอำเภอชื่อ ริก ไกรมส์ ที่ตื่นขึ้นมาจากอาการโคมาแล้วพบกับโลกหลังพยากรณ์ที่เต็มไปด้วยซอมบีกินเนื้อ เขาออกเดินทางเพื่อตามหาครอบครัวและพบกับผู้รอดชีวิตตามทางมากมาย",
+                "language": "th"
+            },
+            {
+                "title": null,
+                "overview": "Zombi kıyametinin ardından hayatta kalanlar, birlikte verdikleri ölüm kalım mücadelesinde insanlığa karşı duydukları umuda tutunur.",
+                "language": "tr"
+            },
+            {
+                "title": "І мертві підуть",
+                "overview": "Після страшної хвороби, яка перетворила жителів Землі в зомбі, невелика група поки ще живих людей день у день бореться за виживання в новому, ворожому світі. Під проводом колишнього поліцейського Ріка вони шукають безпечне для життя місце, але зомбі - це не найстрашніше, що їх чекає, основна небезпека - це жорстоке внутрішнє суперництво серед тих, що вижили.",
+                "language": "uk"
+            },
+            {
+                "title": "Yuradigan oʻliklar",
+                "overview": "",
+                "language": "uz"
+            },
+            {
+                "title": "Xác Sống",
+                "overview": "Loạt phim xoay quanh nhân vật do nam diễn viên Andrew Lincoln thủ vai chính là phó cảnh sát trưởng Rick Grimes, người đã tỉnh dậy sau một khoảng thời gian hôn mê và nhận ra rằng thế giới đã bước vào thời kỳ hậu tận thế với sự xuất hiện tràn lan của thây ma ăn thịt. Anh lên đường tìm kiếm gia đình mình và gặp được nhiều người vẫn còn sống sót trên đường đi.",
+                "language": "vi"
+            },
+            {
+                "title": "行屍走肉",
+                "overview": "一種不知來歷的致命病毒突然瘋狂摧殘了整個世界，並將全球三分之二的人類變成了嗜血吃肉的行屍，而一小部分人類雖然在災難中因免疫力而得以倖存，但也即將為了生存而做出一系列自衛的手段，原本宣告和平的人類在災難之下開始進行掠奪、殺戮等等的措施。部分群體的生還者會在尋找生路，半路上遇見的危險總是讓這些人瀕臨崩潰，承受無盡的恐懼感，不但要面對成員的生死，也要化解與其他生還者的對立紛爭，人類社會的秩序在災難之下幾乎蕩然無存。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Daryl Dixon",
+                    "characters": [
+                        "Daryl Dixon"
+                    ],
+                    "episode_count": 145,
+                    "person": {
+                        "name": "Norman Reedus",
+                        "ids": {
+                            "trakt": 5158,
+                            "slug": "norman-reedus",
+                            "imdb": "nm0005342",
+                            "tmdb": 4886,
+                            "tvrage": 26542
+                        }
+                    }
+                },
+                {
+                    "character": "Michonne",
+                    "characters": [
+                        "Michonne"
+                    ],
+                    "episode_count": 132,
+                    "person": {
+                        "name": "Danai Gurira",
+                        "ids": {
+                            "trakt": 428014,
+                            "slug": "danai-gurira",
+                            "imdb": "nm1775091",
+                            "tmdb": 82104,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Maggie Greene",
+                    "characters": [
+                        "Maggie Greene"
+                    ],
+                    "episode_count": 132,
+                    "person": {
+                        "name": "Lauren Cohan",
+                        "ids": {
+                            "trakt": 423965,
+                            "slug": "lauren-cohan",
+                            "imdb": "nm1659348",
+                            "tmdb": 62220,
+                            "tvrage": 189339
+                        }
+                    }
+                },
+                {
+                    "character": "Rick Grimes",
+                    "characters": [
+                        "Rick Grimes"
+                    ],
+                    "episode_count": 131,
+                    "person": {
+                        "name": "Andrew Lincoln",
+                        "ids": {
+                            "trakt": 413156,
+                            "slug": "andrew-lincoln",
+                            "imdb": "nm0511088",
+                            "tmdb": 7062,
+                            "tvrage": 61194
+                        }
+                    }
+                },
+                {
+                    "character": "Carol Peletier",
+                    "characters": [
+                        "Carol Peletier"
+                    ],
+                    "episode_count": 116,
+                    "person": {
+                        "name": "Melissa McBride",
+                        "ids": {
+                            "trakt": 418547,
+                            "slug": "melissa-mcbride",
+                            "imdb": "nm0564350",
+                            "tmdb": 31535,
+                            "tvrage": 207318
+                        }
+                    }
+                },
+                {
+                    "character": "Carl Grimes",
+                    "characters": [
+                        "Carl Grimes"
+                    ],
+                    "episode_count": 115,
+                    "person": {
+                        "name": "Chandler Riggs",
+                        "ids": {
+                            "trakt": 436896,
+                            "slug": "chandler-riggs",
+                            "imdb": "nm3385128",
+                            "tmdb": 215056,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Glenn Rhee",
+                    "characters": [
+                        "Glenn Rhee"
+                    ],
+                    "episode_count": 99,
+                    "person": {
+                        "name": "Steven Yeun",
+                        "ids": {
+                            "trakt": 436936,
+                            "slug": "steven-yeun",
+                            "imdb": "nm3081796",
+                            "tmdb": 215055,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Rosita Espinosa",
+                    "characters": [
+                        "Rosita Espinosa"
+                    ],
+                    "episode_count": 68,
+                    "person": {
+                        "name": "Christian Serratos",
+                        "ids": {
+                            "trakt": 423006,
+                            "slug": "christian-serratos",
+                            "imdb": "nm1589312",
+                            "tmdb": 84224,
+                            "tvrage": 35837
+                        }
+                    }
+                },
+                {
+                    "character": "Eugene Porter",
+                    "characters": [
+                        "Eugene Porter"
+                    ],
+                    "episode_count": 68,
+                    "person": {
+                        "name": "Josh McDermitt",
+                        "ids": {
+                            "trakt": 407654,
+                            "slug": "josh-mcdermitt",
+                            "imdb": "nm3129311",
+                            "tmdb": 1252310,
+                            "tvrage": 328542
+                        }
+                    }
+                },
+                {
+                    "character": "Gabriel Stokes",
+                    "characters": [
+                        "Gabriel Stokes"
+                    ],
+                    "episode_count": 52,
+                    "person": {
+                        "name": "Seth Gilliam",
+                        "ids": {
+                            "trakt": 413361,
+                            "slug": "seth-gilliam",
+                            "imdb": "nm0319121",
+                            "tmdb": 41688,
+                            "tvrage": 33238
+                        }
+                    }
+                },
+                {
+                    "character": "Aaron",
+                    "characters": [
+                        "Aaron"
+                    ],
+                    "episode_count": 52,
+                    "person": {
+                        "name": "Ross Marquand",
+                        "ids": {
+                            "trakt": 175543,
+                            "slug": "ross-marquand",
+                            "imdb": "nm2739851",
+                            "tmdb": 555249,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Negan",
+                    "characters": [
+                        "Negan"
+                    ],
+                    "episode_count": 52,
+                    "person": {
+                        "name": "Jeffrey Dean Morgan",
+                        "ids": {
+                            "trakt": 420725,
+                            "slug": "jeffrey-dean-morgan",
+                            "imdb": "nm0604742",
+                            "tmdb": 47296,
+                            "tvrage": 11846
+                        }
+                    }
+                },
+                {
+                    "character": "Abraham Ford",
+                    "characters": [
+                        "Abraham Ford"
+                    ],
+                    "episode_count": 48,
+                    "person": {
+                        "name": "Michael Cudlitz",
+                        "ids": {
+                            "trakt": 421522,
+                            "slug": "michael-cudlitz",
+                            "imdb": "nm0191044",
+                            "tmdb": 52415,
+                            "tvrage": 1194
+                        }
+                    }
+                },
+                {
+                    "character": "Morgan Jones",
+                    "characters": [
+                        "Morgan Jones"
+                    ],
+                    "episode_count": 48,
+                    "person": {
+                        "name": "Lennie James",
+                        "ids": {
+                            "trakt": 411317,
+                            "slug": "lennie-james",
+                            "imdb": "nm0416694",
+                            "tmdb": 1120,
+                            "tvrage": 43248
+                        }
+                    }
+                },
+                {
+                    "character": "Tara Chambler",
+                    "characters": [
+                        "Tara Chambler"
+                    ],
+                    "episode_count": 48,
+                    "person": {
+                        "name": "Alanna Masterson",
+                        "ids": {
+                            "trakt": 436944,
+                            "slug": "alanna-masterson",
+                            "imdb": "nm1315153",
+                            "tmdb": 204031,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Ezekiel",
+                    "characters": [
+                        "Ezekiel"
+                    ],
+                    "episode_count": 36,
+                    "person": {
+                        "name": "Khary Payton",
+                        "ids": {
+                            "trakt": 415959,
+                            "slug": "khary-payton",
+                            "imdb": "nm1146051",
+                            "tmdb": 65640,
+                            "tvrage": 29343
+                        }
+                    }
+                },
+                {
+                    "character": "Alpha",
+                    "characters": [
+                        "Alpha"
+                    ],
+                    "episode_count": 36,
+                    "person": {
+                        "name": "Samantha Morton",
+                        "ids": {
+                            "trakt": 411734,
+                            "slug": "samantha-morton",
+                            "imdb": "nm0608090",
+                            "tmdb": 2206,
+                            "tvrage": 98320
+                        }
+                    }
+                },
+                {
+                    "character": "Andrea Harrison",
+                    "characters": [
+                        "Andrea Harrison"
+                    ],
+                    "episode_count": 35,
+                    "person": {
+                        "name": "Laurie Holden",
+                        "ids": {
+                            "trakt": 413512,
+                            "slug": "laurie-holden",
+                            "imdb": "nm0390229",
+                            "tmdb": 8332,
+                            "tvrage": 47560
+                        }
+                    }
+                },
+                {
+                    "character": "Lori Grimes",
+                    "characters": [
+                        "Lori Grimes"
+                    ],
+                    "episode_count": 35,
+                    "person": {
+                        "name": "Sarah Wayne Callies",
+                        "ids": {
+                            "trakt": 429633,
+                            "slug": "sarah-wayne-callies-50447df8-3917-4229-867a-cd60ce3f64d5",
+                            "imdb": "nm0915637",
+                            "tmdb": 86468,
+                            "tvrage": 37863
+                        }
+                    }
+                },
+                {
+                    "character": "Philip Blake",
+                    "characters": [
+                        "Philip Blake"
+                    ],
+                    "episode_count": 32,
+                    "person": {
+                        "name": "David Morrissey",
+                        "ids": {
+                            "trakt": 14919,
+                            "slug": "david-morrissey",
+                            "imdb": "nm0607375",
+                            "tmdb": 18616,
+                            "tvrage": 37707
+                        }
+                    }
+                },
+                {
+                    "character": "Sasha Williams",
+                    "characters": [
+                        "Sasha Williams"
+                    ],
+                    "episode_count": 32,
+                    "person": {
+                        "name": "Sonequa Martin-Green",
+                        "ids": {
+                            "trakt": 436943,
+                            "slug": "sonequa-martin-green",
+                            "imdb": "nm2792296",
+                            "tmdb": 1031067,
+                            "tvrage": 236800
+                        }
+                    }
+                },
+                {
+                    "character": "Beta",
+                    "characters": [
+                        "Beta"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Ryan Hurst",
+                        "ids": {
+                            "trakt": 420293,
+                            "slug": "ryan-hurst",
+                            "imdb": "nm0403652",
+                            "tmdb": 43858,
+                            "tvrage": 18142
+                        }
+                    }
+                },
+                {
+                    "character": "Dale Horvath",
+                    "characters": [
+                        "Dale Horvath"
+                    ],
+                    "episode_count": 19,
+                    "person": {
+                        "name": "Jeffrey DeMunn",
+                        "ids": {
+                            "trakt": 412388,
+                            "slug": "jeffrey-demunn",
+                            "imdb": "nm0218810",
+                            "tmdb": 12645,
+                            "tvrage": 34088
+                        }
+                    }
+                },
+                {
+                    "character": "Shane Walsh",
+                    "characters": [
+                        "Shane Walsh"
+                    ],
+                    "episode_count": 19,
+                    "person": {
+                        "name": "Jon Bernthal",
+                        "ids": {
+                            "trakt": 18712,
+                            "slug": "jon-bernthal",
+                            "imdb": "nm1256532",
+                            "tmdb": 19498,
+                            "tvrage": 56007
+                        }
+                    }
+                },
+                {
+                    "character": "Merle Dixon",
+                    "characters": [
+                        "Merle Dixon"
+                    ],
+                    "episode_count": 16,
+                    "person": {
+                        "name": "Michael Rooker",
+                        "ids": {
+                            "trakt": 13771,
+                            "slug": "michael-rooker",
+                            "imdb": "nm0740264",
+                            "tmdb": 12132,
+                            "tvrage": 27796
+                        }
+                    }
+                },
+                {
+                    "character": "Beth Greene",
+                    "characters": [
+                        "Beth Greene"
+                    ],
+                    "episode_count": 16,
+                    "person": {
+                        "name": "Emily Kinney",
+                        "ids": {
+                            "trakt": 434801,
+                            "slug": "emily-kinney",
+                            "imdb": "nm2782162",
+                            "tmdb": 1223878,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Tyreese Williams",
+                    "characters": [
+                        "Tyreese Williams"
+                    ],
+                    "episode_count": 16,
+                    "person": {
+                        "name": "Chad L. Coleman",
+                        "ids": {
+                            "trakt": 436946,
+                            "slug": "chad-l-coleman-2f5162a4-c269-494d-9e8c-a2477751ca6a",
+                            "imdb": "nm0170968",
+                            "tmdb": 124645,
+                            "tvrage": 33500
+                        }
+                    }
+                },
+                {
+                    "character": "Enid",
+                    "characters": [
+                        "Enid"
+                    ],
+                    "episode_count": 16,
+                    "person": {
+                        "name": "Katelyn Nacon",
+                        "ids": {
+                            "trakt": 498243,
+                            "slug": "katelyn-nacon",
+                            "imdb": "nm5393649",
+                            "tmdb": 1382837,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Hershel Greene",
+                    "characters": [
+                        "Hershel Greene"
+                    ],
+                    "episode_count": 16,
+                    "person": {
+                        "name": "Scott Wilson",
+                        "ids": {
+                            "trakt": 413138,
+                            "slug": "scott-wilson",
+                            "imdb": "nm0934113",
+                            "tmdb": 6914,
+                            "tvrage": 61665
+                        }
+                    }
+                },
+                {
+                    "character": "Jesus Rovia",
+                    "characters": [
+                        "Jesus Rovia"
+                    ],
+                    "episode_count": 16,
+                    "person": {
+                        "name": "Tom Payne",
+                        "ids": {
+                            "trakt": 418374,
+                            "slug": "tom-payne-6f9add0f-1d1f-4fc6-8a38-96d2a9d65ce8",
+                            "imdb": "nm2092835",
+                            "tmdb": 30319,
+                            "tvrage": 178977
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Co-Executive Producer, Executive Producer, Producer",
+                        "jobs": [
+                            "Co-Executive Producer",
+                            "Executive Producer",
+                            "Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Angela Kang",
+                            "ids": {
+                                "trakt": 569399,
+                                "slug": "angela-kang",
+                                "imdb": "nm1764891",
+                                "tmdb": 1223875,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Joe Incaprera",
+                            "ids": {
+                                "trakt": 803163,
+                                "slug": "joe-incaprera",
+                                "imdb": "nm0408417",
+                                "tmdb": 1756128,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer, Unit Production Manager, Producer",
+                        "jobs": [
+                            "Executive Producer",
+                            "Unit Production Manager",
+                            "Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Tom Luse",
+                            "ids": {
+                                "trakt": 41670,
+                                "slug": "tom-luse",
+                                "imdb": "nm0527167",
+                                "tmdb": 56350,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Supervising Producer, Producer, Executive Producer",
+                        "jobs": [
+                            "Supervising Producer",
+                            "Producer",
+                            "Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Scott M. Gimple",
+                            "ids": {
+                                "trakt": 180460,
+                                "slug": "scott-m-gimple",
+                                "imdb": "nm0991355",
+                                "tmdb": 205379,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "David Alpert",
+                            "ids": {
+                                "trakt": 165973,
+                                "slug": "david-alpert",
+                                "imdb": "nm0022398",
+                                "tmdb": 1318707,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Robert Kirkman",
+                            "ids": {
+                                "trakt": 214252,
+                                "slug": "robert-kirkman",
+                                "imdb": "nm3079117",
+                                "tmdb": 1223867,
+                                "tvrage": 330021
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer, Executive Producer, Co-Executive Producer",
+                        "jobs": [
+                            "Producer",
+                            "Executive Producer",
+                            "Co-Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Denise M. Huth",
+                            "ids": {
+                                "trakt": 33736,
+                                "slug": "denise-m-huth",
+                                "imdb": "nm1040337",
+                                "tmdb": 46348,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Gale Anne Hurd",
+                            "ids": {
+                                "trakt": 16194,
+                                "slug": "gale-anne-hurd",
+                                "imdb": "nm0005036",
+                                "tmdb": 869,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer, Consulting Producer, Co-Executive Producer",
+                        "jobs": [
+                            "Executive Producer",
+                            "Consulting Producer",
+                            "Co-Executive Producer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Gregory Nicotero",
+                            "ids": {
+                                "trakt": 6779,
+                                "slug": "gregory-nicotero",
+                                "imdb": "nm0630524",
+                                "tmdb": 59287,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 131,
+                        "person": {
+                            "name": "Sherry Thomas",
+                            "ids": {
+                                "trakt": 289476,
+                                "slug": "sherry-thomas",
+                                "imdb": "nm0859520",
+                                "tmdb": 959387,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 131,
+                        "person": {
+                            "name": "Sharon Bialy",
+                            "ids": {
+                                "trakt": 3025,
+                                "slug": "sharon-bialy",
+                                "imdb": "nm0080544",
+                                "tmdb": 6479,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer, Production Supervisor",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer",
+                            "Production Supervisor"
+                        ],
+                        "episode_count": 83,
+                        "person": {
+                            "name": "Caleb Womble",
+                            "ids": {
+                                "trakt": 490283,
+                                "slug": "caleb-womble",
+                                "imdb": "nm0002566",
+                                "tmdb": 1412312,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer"
+                        ],
+                        "episode_count": 77,
+                        "person": {
+                            "name": "Paul Gadd",
+                            "ids": {
+                                "trakt": 570112,
+                                "slug": "paul-gadd",
+                                "imdb": "nm0300510",
+                                "tmdb": 1578159,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting, Casting Associate",
+                        "jobs": [
+                            "Casting",
+                            "Casting Associate"
+                        ],
+                        "episode_count": 64,
+                        "person": {
+                            "name": "Gohar Gazazyan",
+                            "ids": {
+                                "trakt": 569398,
+                                "slug": "gohar-gazazyan",
+                                "imdb": "nm2518116",
+                                "tmdb": 1578169,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer"
+                        ],
+                        "episode_count": 64,
+                        "person": {
+                            "name": "Jolly Dale",
+                            "ids": {
+                                "trakt": 569400,
+                                "slug": "jolly-dale",
+                                "imdb": "nm0197722",
+                                "tmdb": 1578158,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 51,
+                        "person": {
+                            "name": "Frank Darabont",
+                            "ids": {
+                                "trakt": 9779,
+                                "slug": "frank-darabont",
+                                "imdb": "nm0001104",
+                                "tmdb": 4027,
+                                "tvrage": 79214
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer, Supervising Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer",
+                            "Supervising Producer"
+                        ],
+                        "episode_count": 48,
+                        "person": {
+                            "name": "Matthew Negrete",
+                            "ids": {
+                                "trakt": 568960,
+                                "slug": "matthew-negrete",
+                                "imdb": "nm0619408",
+                                "tmdb": 1215721,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer, Supervising Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer",
+                            "Supervising Producer"
+                        ],
+                        "episode_count": 48,
+                        "person": {
+                            "name": "Channing Powell",
+                            "ids": {
+                                "trakt": 569394,
+                                "slug": "channing-powell",
+                                "imdb": null,
+                                "tmdb": 1327277,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Executive Producer",
+                        "jobs": [
+                            "Co-Executive Producer"
+                        ],
+                        "episode_count": 48,
+                        "person": {
+                            "name": "Seth Hoffman",
+                            "ids": {
+                                "trakt": 180461,
+                                "slug": "seth-hoffman",
+                                "imdb": "nm2397756",
+                                "tmdb": 204847,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "episode_count": 48,
+                        "person": {
+                            "name": "Amy Barnes",
+                            "ids": {
+                                "trakt": 267121,
+                                "slug": "amy-barnes",
+                                "imdb": "nm2151017",
+                                "tmdb": 1122371,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer, Producer",
+                        "jobs": [
+                            "Co-Producer",
+                            "Producer"
+                        ],
+                        "episode_count": 32,
+                        "person": {
+                            "name": "Heather Bellson",
+                            "ids": {
+                                "trakt": 569393,
+                                "slug": "heather-bellson",
+                                "imdb": "nm4763161",
+                                "tmdb": 1376574,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Executive Producer, Supervising Producer",
+                        "jobs": [
+                            "Co-Executive Producer",
+                            "Supervising Producer"
+                        ],
+                        "episode_count": 32,
+                        "person": {
+                            "name": "Corey Reed",
+                            "ids": {
+                                "trakt": 569395,
+                                "slug": "corey-reed",
+                                "imdb": null,
+                                "tmdb": 1212197,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Alex Coley Brown",
+                            "ids": {
+                                "trakt": 569396,
+                                "slug": "alex-coley-brown",
+                                "imdb": "nm4784061",
+                                "tmdb": 1578180,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Associate Producer",
+                        "jobs": [
+                            "Associate Producer"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Christina Perez",
+                            "ids": {
+                                "trakt": 569397,
+                                "slug": "christina-perez",
+                                "imdb": "nm2971221",
+                                "tmdb": 1578184,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Comic Book, Writer",
+                        "jobs": [
+                            "Comic Book",
+                            "Writer"
+                        ],
+                        "episode_count": 138,
+                        "person": {
+                            "name": "Robert Kirkman",
+                            "ids": {
+                                "trakt": 214252,
+                                "slug": "robert-kirkman",
+                                "imdb": "nm3079117",
+                                "tmdb": 1223867,
+                                "tvrage": 330021
+                            }
+                        }
+                    },
+                    {
+                        "job": "Comic Book",
+                        "jobs": [
+                            "Comic Book"
+                        ],
+                        "episode_count": 131,
+                        "person": {
+                            "name": "Charlie Adlard",
+                            "ids": {
+                                "trakt": 466776,
+                                "slug": "charlie-adlard",
+                                "imdb": "nm1891501",
+                                "tmdb": 1223881,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Comic Book",
+                        "jobs": [
+                            "Comic Book"
+                        ],
+                        "episode_count": 131,
+                        "person": {
+                            "name": "Tony Moore",
+                            "ids": {
+                                "trakt": 570113,
+                                "slug": "tony-moore",
+                                "imdb": "nm3877885",
+                                "tmdb": 1223882,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 27,
+                        "person": {
+                            "name": "Angela Kang",
+                            "ids": {
+                                "trakt": 569399,
+                                "slug": "angela-kang",
+                                "imdb": "nm1764891",
+                                "tmdb": 1223875,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 24,
+                        "person": {
+                            "name": "Matthew Negrete",
+                            "ids": {
+                                "trakt": 568960,
+                                "slug": "matthew-negrete",
+                                "imdb": "nm0619408",
+                                "tmdb": 1215721,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 23,
+                        "person": {
+                            "name": "Scott M. Gimple",
+                            "ids": {
+                                "trakt": 180460,
+                                "slug": "scott-m-gimple",
+                                "imdb": "nm0991355",
+                                "tmdb": 205379,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 19,
+                        "person": {
+                            "name": "Channing Powell",
+                            "ids": {
+                                "trakt": 569394,
+                                "slug": "channing-powell",
+                                "imdb": null,
+                                "tmdb": 1327277,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 18,
+                        "person": {
+                            "name": "Corey Reed",
+                            "ids": {
+                                "trakt": 569395,
+                                "slug": "corey-reed",
+                                "imdb": null,
+                                "tmdb": 1212197,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 12,
+                        "person": {
+                            "name": "David Leslie Johnson-McGoldrick",
+                            "ids": {
+                                "trakt": 131464,
+                                "slug": "david-leslie-johnson-mcgoldrick",
+                                "imdb": "nm0424901",
+                                "tmdb": 142686,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Glen Mazzara",
+                            "ids": {
+                                "trakt": 383395,
+                                "slug": "glen-mazzara",
+                                "imdb": "nm1185659",
+                                "tmdb": 1216734,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Seth Hoffman",
+                            "ids": {
+                                "trakt": 180461,
+                                "slug": "seth-hoffman",
+                                "imdb": "nm2397756",
+                                "tmdb": 204847,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Frank Darabont",
+                            "ids": {
+                                "trakt": 9779,
+                                "slug": "frank-darabont",
+                                "imdb": "nm0001104",
+                                "tmdb": 4027,
+                                "tvrage": 79214
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Evan Reilly",
+                            "ids": {
+                                "trakt": 1384256,
+                                "slug": "evan-reilly",
+                                "imdb": "nm1377920",
+                                "tmdb": 1223873,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Nichole Beattie",
+                            "ids": {
+                                "trakt": 1456358,
+                                "slug": "nichole-beattie",
+                                "imdb": "nm2469074",
+                                "tmdb": 1367304,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Vivian Tse",
+                            "ids": {
+                                "trakt": 1051023,
+                                "slug": "vivian-tse",
+                                "imdb": null,
+                                "tmdb": 1957939,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Eddie Guzelian",
+                            "ids": {
+                                "trakt": 69241,
+                                "slug": "eddie-guzelian",
+                                "imdb": "nm0349966",
+                                "tmdb": 111449,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Julia Ruchman",
+                            "ids": {
+                                "trakt": 587983,
+                                "slug": "julia-ruchman",
+                                "imdb": "nm3403085",
+                                "tmdb": 1590803,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Heather Bellson",
+                            "ids": {
+                                "trakt": 569393,
+                                "slug": "heather-bellson",
+                                "imdb": "nm4763161",
+                                "tmdb": 1376574,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Geraldine Inoa",
+                            "ids": {
+                                "trakt": 1288372,
+                                "slug": "geraldine-inoa",
+                                "imdb": null,
+                                "tmdb": 2145085,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Nicole Mirante-Matthews",
+                            "ids": {
+                                "trakt": 1340656,
+                                "slug": "nicole-mirante-matthews",
+                                "imdb": "nm0592254",
+                                "tmdb": 2179752,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jim Barnes",
+                            "ids": {
+                                "trakt": 1390444,
+                                "slug": "jim-barnes",
+                                "imdb": "nm4163948",
+                                "tmdb": 1293967,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Kevin Deiboldt",
+                            "ids": {
+                                "trakt": 1024252,
+                                "slug": "kevin-deiboldt",
+                                "imdb": "nm1155009",
+                                "tmdb": 1933229,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Curtis Gwinn",
+                            "ids": {
+                                "trakt": 211042,
+                                "slug": "curtis-gwinn",
+                                "imdb": "nm1383735",
+                                "tmdb": 937878,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Eli Jorne",
+                            "ids": {
+                                "trakt": 657570,
+                                "slug": "eli-jorne",
+                                "imdb": null,
+                                "tmdb": 1639698,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Charles H. Eglee",
+                            "ids": {
+                                "trakt": 105868,
+                                "slug": "charles-h-eglee",
+                                "imdb": "nm0251050",
+                                "tmdb": 172666,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jack LoGiudice",
+                            "ids": {
+                                "trakt": 725119,
+                                "slug": "jack-logiudice",
+                                "imdb": null,
+                                "tmdb": 1223868,
+                                "tvrage": 2479
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Adam Fierro",
+                            "ids": {
+                                "trakt": 399341,
+                                "slug": "adam-fierro",
+                                "imdb": "nm1469826",
+                                "tmdb": 1223869,
+                                "tvrage": 69393
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Sang Kyu Kim",
+                            "ids": {
+                                "trakt": 1484617,
+                                "slug": "sang-kyu-kim",
+                                "imdb": "nm3162990",
+                                "tmdb": 1367307,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Frank Renzulli",
+                            "ids": {
+                                "trakt": 57689,
+                                "slug": "frank-renzulli",
+                                "imdb": null,
+                                "tmdb": 155080,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Ryan Coleman",
+                            "ids": {
+                                "trakt": 1350791,
+                                "slug": "ryan-coleman-5375f5f0-e466-411e-9718-ac3607679167",
+                                "imdb": "nm2645817",
+                                "tmdb": 2190387,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "LaToya Morgan",
+                            "ids": {
+                                "trakt": 1390507,
+                                "slug": "latoya-morgan",
+                                "imdb": "nm1487597",
+                                "tmdb": 1539831,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Erik Mountain",
+                            "ids": {
+                                "trakt": 1489893,
+                                "slug": "erik-mountain",
+                                "imdb": "nm1620014",
+                                "tmdb": 934174,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 32,
+                        "person": {
+                            "name": "Michael Satrazemis",
+                            "ids": {
+                                "trakt": 570111,
+                                "slug": "michael-satrazemis",
+                                "imdb": "nm0766349",
+                                "tmdb": 1367346,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Stephen Campbell",
+                            "ids": {
+                                "trakt": 429732,
+                                "slug": "stephen-campbell-26d27461-9624-4ef5-9b92-cf922b09f1f6",
+                                "imdb": "nm0132864",
+                                "tmdb": 1399127,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Duane Manwiller",
+                            "ids": {
+                                "trakt": 485096,
+                                "slug": "duane-manwiller",
+                                "imdb": "nm0544346",
+                                "tmdb": 1403479,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Makeup Effects",
+                        "jobs": [
+                            "Makeup Effects"
+                        ],
+                        "episode_count": 131,
+                        "person": {
+                            "name": "Gregory Nicotero",
+                            "ids": {
+                                "trakt": 6779,
+                                "slug": "gregory-nicotero",
+                                "imdb": "nm0630524",
+                                "tmdb": 59287,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Actor's Assistant",
+                        "jobs": [
+                            "Actor's Assistant"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Johnny Ramiro Torres",
+                            "ids": {
+                                "trakt": 853264,
+                                "slug": "johnny-ramiro-torres",
+                                "imdb": null,
+                                "tmdb": 1786773,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Frank Darabont",
+                            "ids": {
+                                "trakt": 9779,
+                                "slug": "frank-darabont",
+                                "imdb": "nm0001104",
+                                "tmdb": 4027,
+                                "tvrage": 79214
+                            }
+                        }
+                    },
+                    {
+                        "job": "In Memory Of",
+                        "jobs": [
+                            "In Memory Of"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Bernecker",
+                            "ids": {
+                                "trakt": 559539,
+                                "slug": "john-bernecker",
+                                "imdb": "nm2928855",
+                                "tmdb": 1502870,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Music Producer, Music, Original Music Composer",
+                        "jobs": [
+                            "Music Producer",
+                            "Music",
+                            "Original Music Composer"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Bear McCreary",
+                            "ids": {
+                                "trakt": 45352,
+                                "slug": "bear-mccreary",
+                                "imdb": "nm0566970",
+                                "tmdb": 59811,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "episode_count": 64,
+                        "person": {
+                            "name": "Graham 'Grace' Walker",
+                            "ids": {
+                                "trakt": 42993,
+                                "slug": "graham-grace-walker",
+                                "imdb": "nm0907767",
+                                "tmdb": 62743,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Elizabeth Cummings",
+                            "ids": {
+                                "trakt": 261184,
+                                "slug": "elizabeth-cummings",
+                                "imdb": "nm2611314",
+                                "tmdb": 1279522,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Jeff Schoen",
+                            "ids": {
+                                "trakt": 518708,
+                                "slug": "jeff-schoen",
+                                "imdb": "nm0774372",
+                                "tmdb": 1437792,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Set Decoration",
+                        "jobs": [
+                            "Set Decoration"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Gia Grosso",
+                            "ids": {
+                                "trakt": 692270,
+                                "slug": "gia-grosso",
+                                "imdb": "nm0343763",
+                                "tmdb": 1667823,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Special Effects Makeup Artist",
+                        "jobs": [
+                            "Special Effects Makeup Artist"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Gregory Nicotero",
+                            "ids": {
+                                "trakt": 6779,
+                                "slug": "gregory-nicotero",
+                                "imdb": "nm0630524",
+                                "tmdb": 59287,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Costume Design",
+                        "jobs": [
+                            "Costume Design"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Elaine Montalvo",
+                            "ids": {
+                                "trakt": 581531,
+                                "slug": "elaine-montalvo",
+                                "imdb": "nm0598870",
+                                "tmdb": 1530085,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 34,
+                        "person": {
+                            "name": "Gregory Nicotero",
+                            "ids": {
+                                "trakt": 6779,
+                                "slug": "gregory-nicotero",
+                                "imdb": "nm0630524",
+                                "tmdb": 59287,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 17,
+                        "person": {
+                            "name": "Michael Satrazemis",
+                            "ids": {
+                                "trakt": 570111,
+                                "slug": "michael-satrazemis",
+                                "imdb": "nm0766349",
+                                "tmdb": 1367346,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 11,
+                        "person": {
+                            "name": "Ernest R. Dickerson",
+                            "ids": {
+                                "trakt": 15558,
+                                "slug": "ernest-r-dickerson",
+                                "imdb": "nm0225416",
+                                "tmdb": 15521,
+                                "tvrage": 52436
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 11,
+                        "person": {
+                            "name": "David Boyd",
+                            "ids": {
+                                "trakt": 422147,
+                                "slug": "david-boyd",
+                                "imdb": "nm0101741",
+                                "tmdb": 55441,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Guy Ferland",
+                            "ids": {
+                                "trakt": 425873,
+                                "slug": "guy-ferland",
+                                "imdb": "nm0272704",
+                                "tmdb": 43468,
+                                "tvrage": 20015
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Billy Gierhart",
+                            "ids": {
+                                "trakt": 573805,
+                                "slug": "billy-gierhart",
+                                "imdb": "nm0317382",
+                                "tmdb": 934273,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Jeffrey F. January",
+                            "ids": {
+                                "trakt": 810403,
+                                "slug": "jeffrey-f-january",
+                                "imdb": "nm0418362",
+                                "tmdb": 1762327,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Laura Belsey",
+                            "ids": {
+                                "trakt": 931777,
+                                "slug": "laura-belsey",
+                                "imdb": "nm0069513",
+                                "tmdb": 1381991,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Michelle MacLaren",
+                            "ids": {
+                                "trakt": 12427,
+                                "slug": "michelle-maclaren",
+                                "imdb": "nm0533713",
+                                "tmdb": 29779,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Seith Mann",
+                            "ids": {
+                                "trakt": 457210,
+                                "slug": "seith-mann",
+                                "imdb": "nm0542960",
+                                "tmdb": 204250,
+                                "tvrage": 114333
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Tricia Brock",
+                            "ids": {
+                                "trakt": 348931,
+                                "slug": "tricia-brock",
+                                "imdb": "nm0110644",
+                                "tmdb": 1215145,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Michael Slovis",
+                            "ids": {
+                                "trakt": 36125,
+                                "slug": "michael-slovis",
+                                "imdb": "nm0806252",
+                                "tmdb": 52034,
+                                "tvrage": 129175
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Alrick Riley",
+                            "ids": {
+                                "trakt": 443545,
+                                "slug": "alrick-riley",
+                                "imdb": "nm0726975",
+                                "tmdb": 134696,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Rosemary Rodriguez",
+                            "ids": {
+                                "trakt": 144029,
+                                "slug": "rosemary-rodriguez",
+                                "imdb": "nm0735504",
+                                "tmdb": 176794,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Michael Cudlitz",
+                            "ids": {
+                                "trakt": 421522,
+                                "slug": "michael-cudlitz",
+                                "imdb": "nm0191044",
+                                "tmdb": 52415,
+                                "tvrage": 1194
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Gwyneth Horder-Payton",
+                            "ids": {
+                                "trakt": 870137,
+                                "slug": "gwyneth-horder-payton",
+                                "imdb": "nm0394586",
+                                "tmdb": 1216419,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Daniel Sackheim",
+                            "ids": {
+                                "trakt": 414782,
+                                "slug": "daniel-sackheim",
+                                "imdb": "nm0755261",
+                                "tmdb": 12632,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Julius Ramsay",
+                            "ids": {
+                                "trakt": 910396,
+                                "slug": "julius-ramsay",
+                                "imdb": "nm1905909",
+                                "tmdb": 1367342,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Kari Skogland",
+                            "ids": {
+                                "trakt": 416928,
+                                "slug": "kari-skogland",
+                                "imdb": "nm0804556",
+                                "tmdb": 22140,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Dan Liu",
+                            "ids": {
+                                "trakt": 763145,
+                                "slug": "dan-liu",
+                                "imdb": null,
+                                "tmdb": 1725130,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Larry Teng",
+                            "ids": {
+                                "trakt": 556963,
+                                "slug": "larry-teng",
+                                "imdb": "nm1270350",
+                                "tmdb": 212394,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Daisy von Scherler Mayer",
+                            "ids": {
+                                "trakt": 42178,
+                                "slug": "daisy-von-scherler-mayer",
+                                "imdb": "nm0902939",
+                                "tmdb": 56714,
+                                "tvrage": 113292
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Frank Darabont",
+                            "ids": {
+                                "trakt": 9779,
+                                "slug": "frank-darabont",
+                                "imdb": "nm0001104",
+                                "tmdb": 4027,
+                                "tvrage": 79214
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Johan Renck",
+                            "ids": {
+                                "trakt": 432285,
+                                "slug": "johan-renck",
+                                "imdb": "nm0719307",
+                                "tmdb": 212408,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Phil Abraham",
+                            "ids": {
+                                "trakt": 433158,
+                                "slug": "phil-abraham",
+                                "imdb": "nm0008971",
+                                "tmdb": 1214445,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Clark Johnson",
+                            "ids": {
+                                "trakt": 420549,
+                                "slug": "clark-johnson",
+                                "imdb": "nm0424800",
+                                "tmdb": 47640,
+                                "tvrage": 34007
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Daniel Attias",
+                            "ids": {
+                                "trakt": 74012,
+                                "slug": "daniel-attias",
+                                "imdb": "nm0003733",
+                                "tmdb": 1223735,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lesli Linka Glatter",
+                            "ids": {
+                                "trakt": 423226,
+                                "slug": "lesli-linka-glatter",
+                                "imdb": "nm0322128",
+                                "tmdb": 15798,
+                                "tvrage": 10684
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Stefan Schwartz",
+                            "ids": {
+                                "trakt": 436040,
+                                "slug": "stefan-schwartz",
+                                "imdb": "nm0777447",
+                                "tmdb": 94155,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Michael Uppendahl",
+                            "ids": {
+                                "trakt": 409948,
+                                "slug": "michael-uppendahl",
+                                "imdb": "nm0881461",
+                                "tmdb": 1223187,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jeremy Podeswa",
+                            "ids": {
+                                "trakt": 301580,
+                                "slug": "jeremy-podeswa",
+                                "imdb": "nm0687964",
+                                "tmdb": 88391,
+                                "tvrage": 26059
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Larysa Kondracki",
+                            "ids": {
+                                "trakt": 170232,
+                                "slug": "larysa-kondracki-f6c644ce-d14e-4b91-966a-c679cd0d8c0a",
+                                "imdb": "nm2326979",
+                                "tmdb": 562918,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Jennifer Chambers Lynch",
+                            "ids": {
+                                "trakt": 7617,
+                                "slug": "jennifer-chambers-lynch",
+                                "imdb": "nm0528337",
+                                "tmdb": 14800,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Stephen Williams",
+                            "ids": {
+                                "trakt": 452961,
+                                "slug": "stephen-williams",
+                                "imdb": "nm0931724",
+                                "tmdb": 166461,
+                                "tvrage": 21598
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Avi Youabian",
+                            "ids": {
+                                "trakt": 275971,
+                                "slug": "avi-youabian",
+                                "imdb": "nm1143132",
+                                "tmdb": 971003,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Darnell Martin",
+                            "ids": {
+                                "trakt": 429577,
+                                "slug": "darnell-martin",
+                                "imdb": "nm0552140",
+                                "tmdb": 81727,
+                                "tvrage": 29622
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Polson",
+                            "ids": {
+                                "trakt": 415236,
+                                "slug": "john-polson",
+                                "imdb": "nm0689852",
+                                "tmdb": 15337,
+                                "tvrage": 32697
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "David Boyd",
+                            "ids": {
+                                "trakt": 1467020,
+                                "slug": "david-boyd-fcae3a1f-2861-46f6-a895-0425c8b63722",
+                                "imdb": null,
+                                "tmdb": 2286576,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Meera Menon",
+                            "ids": {
+                                "trakt": 286766,
+                                "slug": "meera-menon",
+                                "imdb": "nm3652021",
+                                "tmdb": 1157091,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Liesl Tommy",
+                            "ids": {
+                                "trakt": 1060018,
+                                "slug": "liesl-tommy",
+                                "imdb": "nm8217935",
+                                "tmdb": 1966571,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Millicent Shelton",
+                            "ids": {
+                                "trakt": 455534,
+                                "slug": "millicent-shelton",
+                                "imdb": "nm0791381",
+                                "tmdb": 1214641,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Dan Liu",
+                            "ids": {
+                                "trakt": 1346184,
+                                "slug": "dan-liu-d4ab16c7-dbed-456d-978c-c26372b48dee",
+                                "imdb": "nm2364623",
+                                "tmdb": 2185108,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "John Dahl",
+                            "ids": {
+                                "trakt": 416606,
+                                "slug": "john-dahl-1a79fdf7-1cbb-4b88-8d17-2464b2034df8",
+                                "imdb": "nm0001093",
+                                "tmdb": 21053,
+                                "tvrage": 137615
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Bronwen Hughes",
+                            "ids": {
+                                "trakt": 14298,
+                                "slug": "bronwen-hughes",
+                                "imdb": "nm0400486",
+                                "tmdb": 18320,
+                                "tvrage": 87554
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Sharat Raju",
+                            "ids": {
+                                "trakt": 949620,
+                                "slug": "sharat-raju",
+                                "imdb": "nm0961594",
+                                "tmdb": 1550011,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Laura Besley",
+                            "ids": {
+                                "trakt": 1775304,
+                                "slug": "laura-besley",
+                                "imdb": null,
+                                "tmdb": 2588137,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Dan Liu",
+                            "ids": {
+                                "trakt": 1346184,
+                                "slug": "dan-liu-d4ab16c7-dbed-456d-978c-c26372b48dee",
+                                "imdb": "nm2364623",
+                                "tmdb": 2185108,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Alan Cody",
+                            "ids": {
+                                "trakt": 31658,
+                                "slug": "alan-cody",
+                                "imdb": "nm0168560",
+                                "tmdb": 43441,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Evan Schrodek",
+                            "ids": {
+                                "trakt": 766875,
+                                "slug": "evan-schrodek",
+                                "imdb": "nm2364647",
+                                "tmdb": 1728508,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 151,
+                        "person": {
+                            "name": "Frank Darabont",
+                            "ids": {
+                                "trakt": 9779,
+                                "slug": "frank-darabont",
+                                "imdb": "nm0001104",
+                                "tmdb": 4027,
+                                "tvrage": 79214
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.18021,
+            "votes": 65229,
+            "distribution": {
+                "1": 1545,
+                "2": 513,
+                "3": 712,
+                "4": 1182,
+                "5": 2292,
+                "6": 4259,
+                "7": 8502,
+                "8": 12067,
+                "9": 10478,
+                "10": 23677
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Constantine",
+                "year": 2014,
+                "ids": {
+                    "trakt": 60307,
+                    "slug": "constantine",
+                    "tvdb": 273690,
+                    "imdb": "tt3489184",
+                    "tmdb": 60743,
+                    "tvrage": 38109
+                }
+            },
+            {
+                "title": "Parasyte -the maxim-",
+                "year": 2014,
+                "ids": {
+                    "trakt": 60936,
+                    "slug": "parasyte-the-maxim",
+                    "tvdb": 279831,
+                    "imdb": "tt3358020",
+                    "tmdb": 61459,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Blood+",
+                "year": 2005,
+                "ids": {
+                    "trakt": 19757,
+                    "slug": "blood",
+                    "tvdb": 78960,
+                    "imdb": "tt0482855",
+                    "tmdb": 19849,
+                    "tvrage": 8123
+                }
+            },
+            {
+                "title": "Helstrom",
+                "year": 2020,
+                "ids": {
+                    "trakt": 147869,
+                    "slug": "helstrom",
+                    "tvdb": 364038,
+                    "imdb": "tt10266874",
+                    "tmdb": 88987,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Blade",
+                "year": 2006,
+                "ids": {
+                    "trakt": 4595,
+                    "slug": "blade-2006",
+                    "tvdb": 73192,
+                    "imdb": "tt0823333",
+                    "tmdb": 4619,
+                    "tvrage": 2822
+                }
+            },
+            {
+                "title": "Rin: Daughters of Mnemosyne",
+                "year": 2008,
+                "ids": {
+                    "trakt": 42726,
+                    "slug": "rin-daughters-of-mnemosyne",
+                    "tvdb": 81365,
+                    "imdb": "tt1196027",
+                    "tmdb": 42953,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Dance In The Vampire Bund",
+                "year": 2010,
+                "ids": {
+                    "trakt": 37026,
+                    "slug": "dance-in-the-vampire-bund",
+                    "tvdb": 128171,
+                    "imdb": "tt1586814",
+                    "tmdb": 37183,
+                    "tvrage": 24782
+                }
+            },
+            {
+                "title": "Japan Sinks: 2020",
+                "year": 2020,
+                "ids": {
+                    "trakt": 153915,
+                    "slug": "japan-sinks-2020",
+                    "tvdb": 370768,
+                    "imdb": "tt12031040",
+                    "tmdb": 94423,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Bring It On, Ghost",
+                "year": 2016,
+                "ids": {
+                    "trakt": 107447,
+                    "slug": "bring-it-on-ghost",
+                    "tvdb": 311124,
+                    "imdb": "tt5768840",
+                    "tmdb": 66393,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Lunar Legend Tsukihime",
+                "year": 2003,
+                "ids": {
+                    "trakt": 13854,
+                    "slug": "lunar-legend-tsukihime",
+                    "tvdb": 74522,
+                    "imdb": "tt0791098",
+                    "tmdb": 13915,
+                    "tvrage": 2117
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 775080,
+            "plays": 88821802,
+            "collectors": 1143092,
+            "collected_episodes": 106008631,
+            "comments": 314,
+            "lists": 208022,
+            "votes": 65230,
+            "recommended": 319
+        },
+        "watching": 24
+    }
+}

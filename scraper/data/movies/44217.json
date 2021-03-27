@@ -1,0 +1,2470 @@
+{
+    "backdrop_path": "/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+    "first_air_date": "2013-03-03",
+    "genre_ids": [
+        10759,
+        18
+    ],
+    "id": 44217,
+    "name": "Vikings",
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "popularity": 494.876,
+    "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "vote_average": 8,
+    "vote_count": 4244,
+    "created_by": [
+        {
+            "id": 37631,
+            "credit_id": "5259670b760ee346619c36f2",
+            "name": "Michael Hirst",
+            "gender": 2,
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        44
+    ],
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.history.com/shows/vikings",
+    "in_production": false,
+    "languages": [
+        "en"
+    ],
+    "last_air_date": "2020-12-30",
+    "last_episode_to_air": {
+        "air_date": "2020-12-30",
+        "episode_number": 20,
+        "id": 2582994,
+        "name": "The Last Act",
+        "overview": "Ubbe reunites with an old friend but must pass judgment on a killer. The armies of Alfred and Ivar clash as each leader looks to his god for strength.",
+        "production_code": "",
+        "season_number": 6,
+        "still_path": "/5NmZRvgBV0IRtx1tYVuMyCalx41.jpg",
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Amazon",
+            "id": 1024,
+            "logo_path": "/ifhbNuuVnlwYy5oXA5VIb2YR8AZ.png",
+            "origin_country": ""
+        },
+        {
+            "name": "History",
+            "id": 2360,
+            "logo_path": "/aeariwRHHb23lyOr3AczHz5aIhb.png",
+            "origin_country": "CA"
+        }
+    ],
+    "number_of_episodes": 89,
+    "number_of_seasons": 6,
+    "production_companies": [
+        {
+            "id": 7224,
+            "logo_path": "/aEB2TV6TTolC7NSwonWIb25MKga.png",
+            "name": "Shaw Media",
+            "origin_country": "CA"
+        },
+        {
+            "id": 7692,
+            "logo_path": null,
+            "name": "World 2000 Entertainment",
+            "origin_country": "IE"
+        },
+        {
+            "id": 39520,
+            "logo_path": "/h5qMfjH9jaJ5835UGdq2PZQ1a33.png",
+            "name": "Take 5 Productions",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2013-02-25",
+            "episode_count": 7,
+            "id": 53335,
+            "name": "Specials",
+            "overview": "",
+            "poster_path": "/woP1jNltcWMLqK6pcFqPJq6pyJ6.jpg",
+            "season_number": 0
+        },
+        {
+            "air_date": "2013-03-03",
+            "episode_count": 9,
+            "id": 53334,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": "/uYaskJzmBhBdvkitDTjlH6gj9Pt.jpg",
+            "season_number": 1
+        },
+        {
+            "air_date": "2014-02-27",
+            "episode_count": 10,
+            "id": 53336,
+            "name": "Season 2",
+            "overview": "Season two brings crises of faith, of power, of relationships. Brothers rise up against one another. Loyalties shift from friend to foe, and unlikely alliances are formed in the name of supremacy. Ragnar’s indiscretions threaten his marriage to Lagertha, tearing him and his beloved son apart. Plots are hatched, scores are settled, blood is spilled…all under the watchful eyes of the gods.",
+            "poster_path": "/g2Pgu5Dae9P99yJs0xZQtEagA76.jpg",
+            "season_number": 2
+        },
+        {
+            "air_date": "2015-02-19",
+            "episode_count": 10,
+            "id": 64422,
+            "name": "Season 3",
+            "overview": "With the promise of new land from the English, Ragnar leads his people to an uncertain fate on the shores of Wessex. King Ecbert has made many promises and it remains to be seen if he will keep them. But ever the restless wanderer, Ragnar is searching for something more … and he finds it in the mythical city of Paris.",
+            "poster_path": "/jICv5UxLDvUqCp1D2jAb0PSJWAw.jpg",
+            "season_number": 3
+        },
+        {
+            "air_date": "2016-02-18",
+            "episode_count": 20,
+            "id": 72979,
+            "name": "Season 4",
+            "overview": "A ferocious battle between the Vikings and the French eventually comes down to Ragnar against Rollo. The outcome will seal the fate of the two brothers.",
+            "poster_path": "/nHJHNRApy8vmTUvZx59l1f1GXzB.jpg",
+            "season_number": 4
+        },
+        {
+            "air_date": "2017-11-29",
+            "episode_count": 20,
+            "id": 88459,
+            "name": "Season 5",
+            "overview": "Season five begins with Ivar the Boneless asserting his leadership over the Great Heathen Army, while Lagertha reigns as Queen of Kattegat. Ivar’s murder of his brother Sigurd sets the stage for vicious battles to come as Ragnar’s sons plot their next moves after avenging their father’s death. Bjorn follows his destiny into the Mediterranean Sea and Floki who is suffering from the loss of his wife Helga, takes to the seas submitting himself to the will of the Gods. This season is full of startling alliances and unbelievable betrayals as the Vikings fight to rule the world.",
+            "poster_path": "/aFfwMjFhb05O2mC5hCfoEPPJ8xL.jpg",
+            "season_number": 5
+        },
+        {
+            "air_date": "2019-12-04",
+            "episode_count": 20,
+            "id": 133827,
+            "name": "Season 6",
+            "overview": "The final season finds Bjorn now the king of Kattegat, while Ivar is a fugitive in Russia and Lagertha plans a peaceful retirement to a country farm.",
+            "poster_path": "/3h0EDCz4eIefTUxHZaNaYwcRw47.jpg",
+            "season_number": 6
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "",
+    "type": "Scripted",
+    "trakt": {
+        "aliases": [
+            {
+                "title": "Vikingové",
+                "country": "cz"
+            },
+            {
+                "title": "Vikingos",
+                "country": "es"
+            },
+            {
+                "title": "وایکینگ‌ها",
+                "country": "ir"
+            },
+            {
+                "title": "Викинги",
+                "country": "bg"
+            },
+            {
+                "title": "Vikingai",
+                "country": "lt"
+            },
+            {
+                "title": "הויקינגים",
+                "country": "il"
+            },
+            {
+                "title": "Викинзи",
+                "country": "rs"
+            }
+        ],
+        "translations": [
+            {
+                "title": "فايكنقز",
+                "overview": "يتبع الفايكنقز مغامرات راقنار لوثبروك، أعظم بطل في عصره، حيث يرتفع ليصبح ملكا لقبيلة الفايكنقز. فضلا عن كونه محارب لا يعرف الخوف، يجسد راقنار التقاليد الإسكندنافية. تقول الأسطورة أنه كان سليل مباشر لأودين، آله الحرب .",
+                "language": "ar"
+            },
+            {
+                "title": "Викинги",
+                "overview": "Сериалът разказва за приключенията на Рагнар Лотброк – най-великият герой на своето време. Сюжетът се фокусира върху приятелите-викинги на Рагнар, действията на враговете му, неговото семейство и възхода му до лидерската позиция на крал на всички викингски племена. Освен че е безстрашен войн той спазва всички скандинавски традиции и е винаги предан на могъщите богове. Докато Рагнар разкрива възможностите си на бойното поле много хора започват да вярват, че той е директен поданик на Один – бога на войната и на всички войни.",
+                "language": "bg"
+            },
+            {
+                "title": "Vikings",
+                "overview": "Serija Vikinzi prati avanture Ragnara Lothbroka, najvećeg junaka njegovog doba. Serija govori o sagi Ragnara i njegove bande koja je sastavljena od njegove braće Vikinga i njegove obitelji, dok se trudi postati kralj vikingškog plemena. Osim što je neustrašiv borac, Ragnar je utjelovljenje nordijske tradicije odanosti bogovima. Legenda kaže da je on bio izravni potomak Odina, boga rata i ratnika. Režiseri su Johan Renck i Ciaran Donnelly, koji je režirao seriju The Tudors. U glavnim ulogama su Travis Fimmel, Clive Standen, Katheryn Winnick, Gabriel Byrne, Jessalyn Gilsig i Gustaf Skarsgård.",
+                "language": "bs"
+            },
+            {
+                "title": "Vikingové",
+                "overview": "Mladý vikinský farmář a muž od rodiny, Ragnar, je frustrovaný nedobrodružnou politikou místního náčelníka Earla Haraldsona, posílajícího je každé léto na východ, do Ruska a Baltských zemí, jejichž obyvatelé jsou chudí materiálně i na počty. Ragnar se zároveň považuje za potomka Odina, boha válečníků zabitých v boji, ale také zvědavosti, což se samozřejmě projevuje na jeho přístupu k životu.",
+                "language": "cs"
+            },
+            {
+                "title": null,
+                "overview": "Vikingernes verden bliver bragt til live gennem Ragnar Lothbroks rejse. Han er den første viking, der bevægede sig fra de oldnordiske sagn og ind i historiebøgerne – en nærmest mytisk mand. Ragnar Lothbrok er kriger og bondemand – og drømmer om at blive rig ved at gå imod traditionen for at plyndre mod øst. Ragnar har i hemmelighed arbejdet på et projekt, der vil vende op og ned på viking-verdenen.",
+                "language": "da"
+            },
+            {
+                "title": null,
+                "overview": "Inspiriert von den überlieferten Sagen des legendären Wikingerkönigs Ragnar Lothbrok entführt die gefeierte Hitserie in den eisigen Norden des europäischen Kontinents im 8. Jahrhundert: Krieger Ragnar glaubt, dass jenseits des wilden Ozeans im unerforschten Westen ein neues Land mit reichen Schätzen auf die Wikingerhorden wartet. Für seine Überzeugungen setzt er alles auf eine Karte, lässt ein neues Schiff bauen und macht sich in den packenden neun Episoden der ersten Staffel auf, um Geschichte zu schreiben.",
+                "language": "de"
+            },
+            {
+                "title": "Βίκινγκς",
+                "overview": "Η σειρά Βίκινγκς ακολουθεί τις περιπέτειες του Ράγκναρ Λόθμπροκ, του μεγαλύτερου ήρωα της εποχής του. Η σειρά αφηγείται τα έπη της ομάδας του Ράγκναρ και της οικογένειας του, όπως ο ίδιος ανεβαίνει από ένας απλός γεωργός, για να γίνει τελικά Bασιλιάς των Βίκινγκ. Εκτός του ότι είναι ατρόμητος πολεμιστής, ο Ράγκναρ ενσαρκώνει τις παραδόσεις των Νορβηγών και την αφοσίωση του στους θεούς. Ο μύθος λέει ότι ήταν άμεσος απόγονος του Όντιν, Θεού του πολέμου.",
+                "language": "el"
+            },
+            {
+                "title": null,
+                "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+                "language": "en"
+            },
+            {
+                "title": "Vikingos",
+                "overview": "Vikingos es una serie que está basada en las leyendas sobre el vikingo Ragnar Lodbrok, (Travis Fimmel) uno de los héroes más famosos de la cultura nórdica que saqueó Northumbria, Francia y Bretaña. La serie retrata a Lodbrok como un guerrero curioso y navegante, tecnológicamente innovador, ambicioso y rebelde, que hace construir un barco a su amigo Floki, para lanzarse a explorar los territorios al oeste de Escandinavia desobedeciendo al jefe tribal, el Jarl (Conde) Haraldson, que ordena viajar hacia el este (orientación cardinal en la que se especulaba con gran riqueza en aquella época).",
+                "language": "es"
+            },
+            {
+                "title": "وایکینگ‌ها",
+                "overview": "وایکینگ‌ها ماجراجویی‌های راگنار لاثبروک، بزرگترین قهرمان عصر خود را روایت ‌می‌کند. سریال حماسه‌های دارودسته‌ برادرن راگنار و خوانواده‌اش را روایت می‌کند، و اینکه او تبدیل به پادشاه قبایل وایکینگ می‌شود. همچنین به عنوان یک جنگجوی بی‌باک، راگنار مظهر سنت‌های اسکاندیناوی و ازخودگذشتگی به خدایان است.افسانه‌ها اینگونه سخن می‌گویند که او از نوادگان مستقیم اودین، خدای جنگ و جنگجویان است.",
+                "language": "fa"
+            },
+            {
+                "title": "Viikingit",
+                "overview": "",
+                "language": "fi"
+            },
+            {
+                "title": null,
+                "overview": "Les exploits d'un groupe de vikings de la fin du 8ème siècle jusqu'au milieu du 11ème, mené par Ragnar Lodbrok, l'un des plus populaires héros viking de tous les temps, qui a régné quelques temps sur le Danemark et la Suède...",
+                "language": "fr"
+            },
+            {
+                "title": "הויקינגים",
+                "overview": "דרמה היסטורית המספרת את חיי הלוחמים הויקינגים בימי הביניים, בסאגה משפחתית מלאת קונפליקטים וקרבות עקובי דם. העלילה עוקבת אחרי רגנאר לוטברוק, המבקש תמיד לפרוץ גבולות, ומחפש תמיד עולמות חדשים לכבוש. רגנאר מתוסכל מהתנהלות השליט המקומי השמרן, הרוזן הראלדסן, ובדרכו להפוך למלך השבטים הויקינגים. הפקה יוקרתית זו היא הסדרה העלילתית הראשונה בהפקת ערוץ ההיסטוריה.",
+                "language": "he"
+            },
+            {
+                "title": "Vikinzi",
+                "overview": "Serija je inspirirana pričama o vikingu Ragnaru Lothbroku, jednom od najpoznatijih nordijskih mitoloških heroja poznatom po pustošenju Engleske i Francuske. Serija predstavlja Ragnara kao nekadašnjeg farmera kao prvog koji se proslavio uspješnim pljačkanjem Engleske uz podršku suboraca, svog brata Rolloa, sina Bjorna i supruge, ratnice Lagerthe i princeze Aslaug.",
+                "language": "hr"
+            },
+            {
+                "title": "Vikingek",
+                "overview": "A Vikingek története Ragnar Lothbrok, kora legnagyobb hősének felemelkedését meséli el, aki elsőként hajózik nyugatra és jut el Nagy-Britanniába. Ragnar-nak és bajtársaiknak már elegük van abból, hogy vezérük, Earl Haraldson (Gabriel Byrne) minden évben kelet felé, ugyanarra a vidékre küldi el a törzset hódítani. Azonban Ragnar-nak, a félelmet nem ismerő harcosnak megvan a terve, hogy mindent megváltoztasson.",
+                "language": "hu"
+            },
+            {
+                "title": "Vikings",
+                "overview": "",
+                "language": "id"
+            },
+            {
+                "title": null,
+                "overview": "Vikings è una serie televisiva storica canadese iniziata nel 2013 e prodotta da History Channel .\n\nLa serie, ambientata nel IX secolo principalmente tra la Scandinavia e le isole britanniche, racconta in chiave romanzata le avventure del grande guerriero vichingo Ragnar Lothbrok che insieme alla prima moglie Lagertha è determinato ad esplorare il mondo attraversando le acque dell'oceano per conquistare nuovi territori ed in seguito la guerra fratricida dei suoi figli assetati di potere.",
+                "language": "it"
+            },
+            {
+                "title": "ヴァイキング ～海の覇者たち～",
+                "overview": "",
+                "language": "ja"
+            },
+            {
+                "title": "Vikings",
+                "overview": "",
+                "language": "km"
+            },
+            {
+                "title": "바이킹스",
+                "overview": "2013년 3월 History에서 방영을 시작한 역사물. 바이킹 영웅 라그나 로스브로크는 새로운 대륙을 향해 탐험하고 싶어하지만 카테가트의 영주인 백작은 모험적인 항해를 원치 않아 라그나의 의견을 묵살한다. 라그나는 친구이자 배를 만드는 기술자인 플로키의 도움을 받아 백작 몰래 출항에 성공한다. 라그나는 새로운 대륙인 잉글랜드를 발견하고 동료들과 함께 노섬브리아 왕국 영토에 있는 수도원을 잔인하게 약탈하고 수도승 애설스탠을 노예로 삼는다. 처음 보는 바이킹의 야만적인 침략에 노섬브리아 왕국은 크게 분노하면서도 바이킹을 두려워하는데...",
+                "language": "ko"
+            },
+            {
+                "title": "Vikingai",
+                "overview": "„Vikingai\" – naujas serialas nuotykių mėgėjams. Čia pristatomi didžiausio savo amžiaus didvyrio Ragnaro Lofbruko žygdarbiai. Serialas pasakos sakmes apie Ragnaro brolius vikingus bei jo šeimą, jam kylant hierarchijos laiptais, trokštant tapti Vikingų genčių karaliumi. Nepaisant to, kad Ragnaras yra bebaimis karys, jis įkūnija vikingų tradicijas atsiduoti dievams. Pasak legendos, jis buvo tiesioginis Odino, karo ir karių dievo, palikuonis.",
+                "language": "lt"
+            },
+            {
+                "title": "Vikingi",
+                "overview": "",
+                "language": "lv"
+            },
+            {
+                "title": "Vikings",
+                "overview": "",
+                "language": "ms"
+            },
+            {
+                "title": null,
+                "overview": "Vikings volgt de avonturen van Ragnar Lothbrok de grootste held van zijn tijd. De serie vertelt de verhalen van Ragnar's band van Viking broers en zijn familie, terwijl hij uitgroeit tot Koning van de Viking stammen, Maar ook als een onverschrokken krijger! de legende gaat dat hij een directe afstammeling is van Odin, de god van de oorlog en krijgers.",
+                "language": "nl"
+            },
+            {
+                "title": "Vikings",
+                "overview": "Vikingenes verden blir brakt til live gjennom reisen til Ragnar Lodbrok, den første vikingen fra nordiske sagn som har dukket opp på historiesidene – en mann på grensen til en myte. Vår historie begynner i det 8. århundret i Skandinavia, hvor Ragnar Lodbrok er en kriger og en bonde som drømmer om å finne rikdom ved å trosse tradisjonen med å dra østover på plyndringstokt.",
+                "language": "no"
+            },
+            {
+                "title": "Wikingowie",
+                "overview": "\"Vikings\" opowiada historię Ragnara Lothbroka oraz jego braci i rodziny. Serial ukazuje jak Ragnar staje się królem wikińskich plemion. Poza byciem nieustraszonym wojownikiem, Ragnar jest ucieleśnieniem nordyckiej tradycji i oddania się bogom. Legenda mówi, że jest on bezpośrednim potomkiem Odyna, boga wojny i wojowników.",
+                "language": "pl"
+            },
+            {
+                "title": null,
+                "overview": "Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.",
+                "language": "pt"
+            },
+            {
+                "title": "Vikings",
+                "overview": "\"Vikings\" urmărește aventurile lui Ragnar Lothbrok, cel mai mare erou al vremurilor sale. Serialul ne prezintă viața și acțiunile bandei de vikingi, dar și a familiei lui Ragnar și drumul său către tronul triburilor vikinge. Pe lângă faptul că este un luptător neînfricat, Ragnar îmbrățișază tradițiile și devotamentul către zei, legenda spunând că era un descendent direct al lui Odin, zeul războiului și al războinicilor.",
+                "language": "ro"
+            },
+            {
+                "title": "Викинги",
+                "overview": "Сериал рассказывает об отряде викингов Рагнара Лодброка. Он восстал, чтобы стать королём племён викингов. Норвежская легенда гласит, что он был прямым потомком Одина, бога войны и воинов.",
+                "language": "ru"
+            },
+            {
+                "title": "Vikingovia",
+                "overview": "Sága o rode Ragnara Lothbroka, najväčšieho hrdinu svojej doby, ktorý povstal, aby sa stal zjednotiteľom a prvým kráľom všetkých Vikingov. Príbeh jeho rodiny a bratov - spolubojovníkov sa začína na úsvite slávnej éry a vrcholí vo chvíli, keď sa Ragnarovi podarí zjednotiť všetky kmene krutých, násilných a barbarských Vikingov, aby sa stal ich kráľom. Ragnar nie je iba neohrozeným bojovníkom, ale zosobňuje aj severské tradície, ktoré spočívajú v úplnej oddanosti bohom. Podľa legendy totiž Ragnar nie je nikto iný, než priamy potomok Odina, vládcu všetkých bohov, boha vojny a všetkých bojovníkov.",
+                "language": "sk"
+            },
+            {
+                "title": "Vikingi",
+                "overview": "",
+                "language": "sl"
+            },
+            {
+                "title": "Викинзи",
+                "overview": "Серија је инспирисана причама о викингу Рагнару Лодброку, једном од најпознатијих нордијских митолошких хероја познатом по пустошењу Енглеске и Француске. Она представља Рагнара као некадашњег фармера, као првог који се прославио успешним пљачкањем Енглеске уз подршку сабораца, свог брата Ролоа, сина Бјорна и супруге, ратнице Лагерте и принцезе Аслаг.",
+                "language": "sr"
+            },
+            {
+                "title": null,
+                "overview": "Vikings är inspelad på Irland och har inspirerats av berättelserna om Ragnar Lodbrok, en av de mest ökända vikingarna som besökte Britannien och Frankrike. Han ansågs vara en plågoande för engelsmännen och fransmännen. Serien speglar Ragnar som en bonde som handlade banbrytande genom att attackera Britannien med endast några män, inklusive sin bror Rollo och sin fru, sköldmön Lagertha.",
+                "language": "sv"
+            },
+            {
+                "title": "ไวกิงส์ ยอดนักรบเรือมังกร",
+                "overview": "เรื่องราวการผจญภัยของชนเผ่า Vikings ที่นำโดย Lothbrok (Travis Fimmel) ชายหนุ่มที่เชื่อว่ายังมีดินแดนทางตะวันตกที่ยังไม่เคยมีใครในชนเผ่าได้เคยเดินทางไปถึง เพราะต้องเดินทางข้ามมหาสมุทรที่อันตรายและการเดินเรือไปในทิศทางที่ถูกต้องยังเป็นเรื่องที่ยากลำบาก ซึ่งได้สร้างความไม่พอใจให้กับผู้ปกครองคือ Earl Haraldson (Gabriel Byrne) ที่ Lothbrok ละเมิดคำสั่งห้าม คำจะค้นพบดินแดนใหม่หรือใหม่และต้องต่อสู้กับผู้ปกครองอย่างไรเพื่อให้ชีวิตเขาและครอบครัวยังอยู่รอด",
+                "language": "th"
+            },
+            {
+                "title": "Vikingler",
+                "overview": "Sekizinci yüzyıl İskandinavyası’nda geçen dizi, basit bir çiftçiyken cesur bir savaşçıya dönüşen Ragnar Lothbrok ve ailesinin öyküsünü ekranlara taşıyor. Savaş Tanrısı Odin'in soyundan geldiğine inanılan Ragnor’un acımasız ve korkusuz adamlarıyla birlikte denizlerle olan imtihanını seyrederken; savaşçı ve tüccar bir kavim olan Vikingler’in çok az işlenmiş ilgi çekici kültürüne hep birlikte tanık oluyoruz.\n\nTarihi bir drama olarak nitelendirilebilecek dizinin hikayesi, gerçek Avrupa efsanelerine ve tarihsel figürlere dayanıyor.",
+                "language": "tr"
+            },
+            {
+                "title": "Вікінги",
+                "overview": "Це історія про пригоди найбільшого героя свого часу - Рагнара Лодброка. У серіалі показаний Рагнар зі своїм племенем братів-вікінгів і його сім'єю в процесі становлення королем усіх племен вікінгів.   Рагнар - безстрашний воїн і релігійний вікінг, який об'єднує всі племена і поширює серед них поклоніння скандинавським богам. Згідно з легендою, він - прямий нащадок Одіна, бога війни і воїнів.",
+                "language": "uk"
+            },
+            {
+                "title": "Huyền Thoại Vikings",
+                "overview": "Người Viking đưa chúng ta đến thế giới tàn khốc và bí ẩn của Ragnar Lothbrok, một chiến binh và nông dân Viking khao khát khám phá - và đột kích - bờ biển xa xôi trên đại dương.",
+                "language": "vi"
+            },
+            {
+                "title": "維京傳奇",
+                "overview": "《維京傳奇》是加拿大歷史頻道製播的歷史劇，由作家麥可·赫斯特創作，拍攝於愛爾蘭，2013年3月3日在美國與加拿大首播。 《維京傳奇》取材於斯堪地那維亞半島維京人朗納爾·洛德布羅克的事跡，他是最早的知名北歐海盜，劫掠過盎格魯-撒克遜英格蘭和西法蘭克王國。",
+                "language": "zh"
+            }
+        ],
+        "people": {
+            "cast": [
+                {
+                    "character": "Lagertha Lothbrok",
+                    "characters": [
+                        "Lagertha Lothbrok"
+                    ],
+                    "episode_count": 89,
+                    "person": {
+                        "name": "Katheryn Winnick",
+                        "ids": {
+                            "trakt": 417704,
+                            "slug": "katheryn-winnick",
+                            "imdb": "nm0935395",
+                            "tmdb": 26723,
+                            "tvrage": 0
+                        }
+                    }
+                },
+                {
+                    "character": "King Harald Finehair",
+                    "characters": [
+                        "King Harald Finehair"
+                    ],
+                    "episode_count": 89,
+                    "person": {
+                        "name": "Peter Franzén",
+                        "ids": {
+                            "trakt": 300995,
+                            "slug": "peter-franzen",
+                            "imdb": "nm0291918",
+                            "tmdb": 11263,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Bjorn Lothbrok",
+                    "characters": [
+                        "Bjorn Lothbrok"
+                    ],
+                    "episode_count": 80,
+                    "person": {
+                        "name": "Alexander Ludwig",
+                        "ids": {
+                            "trakt": 417089,
+                            "slug": "alexander-ludwig",
+                            "imdb": "nm1573253",
+                            "tmdb": 23498,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Aethelwulf",
+                    "characters": [
+                        "Aethelwulf"
+                    ],
+                    "episode_count": 69,
+                    "person": {
+                        "name": "Moe Dunford",
+                        "ids": {
+                            "trakt": 348199,
+                            "slug": "moe-dunford",
+                            "imdb": "nm3974805",
+                            "tmdb": 1288730,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Halfdan the Black",
+                    "characters": [
+                        "Halfdan the Black"
+                    ],
+                    "episode_count": 69,
+                    "person": {
+                        "name": "Jasper Pääkkönen",
+                        "ids": {
+                            "trakt": 432288,
+                            "slug": "jasper-paakkonen",
+                            "imdb": "nm0701747",
+                            "tmdb": 82857,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Floki",
+                    "characters": [
+                        "Floki"
+                    ],
+                    "episode_count": 69,
+                    "person": {
+                        "name": "Gustaf Skarsgård",
+                        "ids": {
+                            "trakt": 424936,
+                            "slug": "gustaf-skarsgard",
+                            "imdb": "nm0803890",
+                            "tmdb": 63764,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Hvitserk Lothbrok",
+                    "characters": [
+                        "Hvitserk Lothbrok"
+                    ],
+                    "episode_count": 60,
+                    "person": {
+                        "name": "Marco Ilsø",
+                        "ids": {
+                            "trakt": 503737,
+                            "slug": "marco-ilso",
+                            "imdb": "nm3223453",
+                            "tmdb": 1372317,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Ivar the Boneless",
+                    "characters": [
+                        "Ivar the Boneless"
+                    ],
+                    "episode_count": 60,
+                    "person": {
+                        "name": "Alex Høgh Andersen",
+                        "ids": {
+                            "trakt": 621052,
+                            "slug": "alex-hogh-andersen",
+                            "imdb": "nm5405979",
+                            "tmdb": 1609347,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Ragnar Lothbrok",
+                    "characters": [
+                        "Ragnar Lothbrok"
+                    ],
+                    "episode_count": 49,
+                    "person": {
+                        "name": "Travis Fimmel",
+                        "ids": {
+                            "trakt": 429008,
+                            "slug": "travis-fimmel",
+                            "imdb": "nm1379938",
+                            "tmdb": 77700,
+                            "tvrage": 37864
+                        }
+                    }
+                },
+                {
+                    "character": "Rollo",
+                    "characters": [
+                        "Rollo"
+                    ],
+                    "episode_count": 49,
+                    "person": {
+                        "name": "Clive Standen",
+                        "ids": {
+                            "trakt": 433524,
+                            "slug": "clive-standen",
+                            "imdb": "nm1641140",
+                            "tmdb": 85977,
+                            "tvrage": 106487
+                        }
+                    }
+                },
+                {
+                    "character": "Helga",
+                    "characters": [
+                        "Helga"
+                    ],
+                    "episode_count": 49,
+                    "person": {
+                        "name": "Maude Hirst",
+                        "ids": {
+                            "trakt": 845870,
+                            "slug": "maude-hirst",
+                            "imdb": "nm2542123",
+                            "tmdb": 1779806,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Princess Aslaug",
+                    "characters": [
+                        "Princess Aslaug"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Alyssa Sutherland",
+                        "ids": {
+                            "trakt": 412620,
+                            "slug": "alyssa-sutherland",
+                            "imdb": "nm1451415",
+                            "tmdb": 220620,
+                            "tvrage": 212553
+                        }
+                    }
+                },
+                {
+                    "character": "Ubbe Lothbrok",
+                    "characters": [
+                        "Ubbe Lothbrok"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Jordan Patrick Smith",
+                        "ids": {
+                            "trakt": 465077,
+                            "slug": "jordan-patrick-smith",
+                            "imdb": "nm2356851",
+                            "tmdb": 1394429,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Torvi",
+                    "characters": [
+                        "Torvi"
+                    ],
+                    "episode_count": 40,
+                    "person": {
+                        "name": "Georgia Hirst",
+                        "ids": {
+                            "trakt": 1218526,
+                            "slug": "georgia-hirst",
+                            "imdb": "nm6354997",
+                            "tmdb": 2074237,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Siggy Haraldson",
+                    "characters": [
+                        "Siggy Haraldson"
+                    ],
+                    "episode_count": 29,
+                    "person": {
+                        "name": "Jessalyn Gilsig",
+                        "ids": {
+                            "trakt": 413282,
+                            "slug": "jessalyn-gilsig",
+                            "imdb": "nm0319698",
+                            "tmdb": 7523,
+                            "tvrage": 2040
+                        }
+                    }
+                },
+                {
+                    "character": "Athelstan",
+                    "characters": [
+                        "Athelstan"
+                    ],
+                    "episode_count": 29,
+                    "person": {
+                        "name": "George Blagden",
+                        "ids": {
+                            "trakt": 200576,
+                            "slug": "george-blagden",
+                            "imdb": "nm4491241",
+                            "tmdb": 1256160,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Yidu",
+                    "characters": [
+                        "Yidu"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Dianne Doan",
+                        "ids": {
+                            "trakt": 708314,
+                            "slug": "dianne-doan",
+                            "imdb": "nm3999319",
+                            "tmdb": 1368794,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Prince Oleg of Novgorod",
+                    "characters": [
+                        "Prince Oleg of Novgorod"
+                    ],
+                    "episode_count": 20,
+                    "person": {
+                        "name": "Danila Kozlovsky",
+                        "ids": {
+                            "trakt": 441541,
+                            "slug": "danila-kozlovsky",
+                            "imdb": "nm1572716",
+                            "tmdb": 562730,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Bjorn Lothbrok",
+                    "characters": [
+                        "Bjorn Lothbrok"
+                    ],
+                    "episode_count": 19,
+                    "person": {
+                        "name": "Nathan O'Toole",
+                        "ids": {
+                            "trakt": 409267,
+                            "slug": "nathan-o-toole",
+                            "imdb": "nm5050979",
+                            "tmdb": 1256159,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "King Horik",
+                    "characters": [
+                        "King Horik"
+                    ],
+                    "episode_count": 10,
+                    "person": {
+                        "name": "Donal Logue",
+                        "ids": {
+                            "trakt": 412436,
+                            "slug": "donal-logue",
+                            "imdb": "nm0006610",
+                            "tmdb": 10825,
+                            "tvrage": 31409
+                        }
+                    }
+                },
+                {
+                    "character": "Thorunn",
+                    "characters": [
+                        "Thorunn"
+                    ],
+                    "episode_count": 10,
+                    "person": {
+                        "name": "Gaia Weiss",
+                        "ids": {
+                            "trakt": 297672,
+                            "slug": "gaia-weiss",
+                            "imdb": "nm4719349",
+                            "tmdb": 1165384,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Earl Haraldson",
+                    "characters": [
+                        "Earl Haraldson"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Gabriel Byrne",
+                        "ids": {
+                            "trakt": 412641,
+                            "slug": "gabriel-byrne",
+                            "imdb": "nm0000321",
+                            "tmdb": 5168,
+                            "tvrage": 34685
+                        }
+                    }
+                },
+                {
+                    "character": "Gyda",
+                    "characters": [
+                        "Gyda"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Ruby O'Leary",
+                        "ids": {
+                            "trakt": 1488607,
+                            "slug": "ruby-o-leary",
+                            "imdb": "nm5142102",
+                            "tmdb": 1256161,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Arne",
+                    "characters": [
+                        "Arne"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Tadhg Murphy",
+                        "ids": {
+                            "trakt": 436729,
+                            "slug": "tadhg-murphy",
+                            "imdb": "nm1752532",
+                            "tmdb": 1256162,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "Torstein",
+                    "characters": [
+                        "Torstein"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "Jefferson Hall",
+                        "ids": {
+                            "trakt": 50383,
+                            "slug": "jefferson-hall",
+                            "imdb": "nm2131630",
+                            "tmdb": 109322,
+                            "tvrage": null
+                        }
+                    }
+                },
+                {
+                    "character": "The Seer",
+                    "characters": [
+                        "The Seer"
+                    ],
+                    "episode_count": 9,
+                    "person": {
+                        "name": "John Kavanagh",
+                        "ids": {
+                            "trakt": 416386,
+                            "slug": "john-kavanagh",
+                            "imdb": "nm0442559",
+                            "tmdb": 20282,
+                            "tvrage": null
+                        }
+                    }
+                }
+            ],
+            "crew": {
+                "production": [
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 89,
+                        "person": {
+                            "name": "Michael Hirst",
+                            "ids": {
+                                "trakt": 419454,
+                                "slug": "michael-hirst",
+                                "imdb": "nm0386694",
+                                "tmdb": 37631,
+                                "tvrage": 86059
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 49,
+                        "person": {
+                            "name": "James Flynn",
+                            "ids": {
+                                "trakt": 407624,
+                                "slug": "james-flynn-013039dd-bfe7-4b3d-b3f0-bc2e359dd04d",
+                                "imdb": "nm0283478",
+                                "tmdb": 1252225,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Frank Moiselle",
+                            "ids": {
+                                "trakt": 118995,
+                                "slug": "frank-moiselle",
+                                "imdb": "nm0596202",
+                                "tmdb": 968735,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Casting",
+                        "jobs": [
+                            "Casting"
+                        ],
+                        "episode_count": 30,
+                        "person": {
+                            "name": "Nuala Moiselle",
+                            "ids": {
+                                "trakt": 71771,
+                                "slug": "nuala-moiselle",
+                                "imdb": "nm0596204",
+                                "tmdb": 958799,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 21,
+                        "person": {
+                            "name": "Keith Thompson",
+                            "ids": {
+                                "trakt": 36161,
+                                "slug": "keith-thompson",
+                                "imdb": "nm1286450",
+                                "tmdb": 49972,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "John Weber",
+                            "ids": {
+                                "trakt": 401355,
+                                "slug": "john-weber",
+                                "imdb": "nm1222780",
+                                "tmdb": 1233108,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Producer",
+                        "jobs": [
+                            "Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Steve Wakefield",
+                            "ids": {
+                                "trakt": 641478,
+                                "slug": "steve-wakefield",
+                                "imdb": null,
+                                "tmdb": 1531142,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Sheila Hockin",
+                            "ids": {
+                                "trakt": 400320,
+                                "slug": "sheila-hockin",
+                                "imdb": "nm0387920",
+                                "tmdb": 1228427,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Seamus Mcinerney",
+                            "ids": {
+                                "trakt": 688414,
+                                "slug": "seamus-mcinerney",
+                                "imdb": null,
+                                "tmdb": 1664614,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Morgan O'Sullivan",
+                            "ids": {
+                                "trakt": 261523,
+                                "slug": "morgan-o-sullivan",
+                                "imdb": "nm0642789",
+                                "tmdb": 953724,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Co-Producer",
+                        "jobs": [
+                            "Co-Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Bill Goddard",
+                            "ids": {
+                                "trakt": 260940,
+                                "slug": "bill-goddard",
+                                "imdb": "nm0323765",
+                                "tmdb": 1109214,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Alan Gasmer",
+                            "ids": {
+                                "trakt": 688415,
+                                "slug": "alan-gasmer",
+                                "imdb": null,
+                                "tmdb": 1664615,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Executive Producer",
+                        "jobs": [
+                            "Executive Producer"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Sherry Marsh",
+                            "ids": {
+                                "trakt": 688418,
+                                "slug": "sherry-marsh",
+                                "imdb": null,
+                                "tmdb": 1664616,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "costume & make-up": [
+                    {
+                        "job": "Costume Design",
+                        "jobs": [
+                            "Costume Design"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Joan Bergin",
+                            "ids": {
+                                "trakt": 35524,
+                                "slug": "joan-bergin",
+                                "imdb": "nm0074645",
+                                "tmdb": 567973,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "visual effects": [
+                    {
+                        "job": "Visual Effects Supervisor",
+                        "jobs": [
+                            "Visual Effects Supervisor"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Julian Parry",
+                            "ids": {
+                                "trakt": 490761,
+                                "slug": "julian-parry",
+                                "imdb": "nm0663668",
+                                "tmdb": 1412742,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Visual Effects Supervisor",
+                        "jobs": [
+                            "Visual Effects Supervisor"
+                        ],
+                        "episode_count": 20,
+                        "person": {
+                            "name": "Dominic Remane",
+                            "ids": {
+                                "trakt": 688412,
+                                "slug": "dominic-remane",
+                                "imdb": null,
+                                "tmdb": 1664612,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "art": [
+                    {
+                        "job": "Art Direction",
+                        "jobs": [
+                            "Art Direction"
+                        ],
+                        "episode_count": 29,
+                        "person": {
+                            "name": "Jon Beer",
+                            "ids": {
+                                "trakt": 588225,
+                                "slug": "jon-beer",
+                                "imdb": null,
+                                "tmdb": 1531143,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Mark Garaghty",
+                            "ids": {
+                                "trakt": 688413,
+                                "slug": "mark-garaghty",
+                                "imdb": null,
+                                "tmdb": 1664613,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Tom Conroy",
+                            "ids": {
+                                "trakt": 415884,
+                                "slug": "tom-conroy-cd8f187f-7e22-487d-a3a4-5097f0f2ac0b",
+                                "imdb": "nm0175873",
+                                "tmdb": 1398758,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Production Design",
+                        "jobs": [
+                            "Production Design"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Mark Geraghty",
+                            "ids": {
+                                "trakt": 31428,
+                                "slug": "mark-geraghty",
+                                "imdb": "nm0313883",
+                                "tmdb": 43625,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "sound": [
+                    {
+                        "job": "Music",
+                        "jobs": [
+                            "Music"
+                        ],
+                        "episode_count": 50,
+                        "person": {
+                            "name": "Trevor Morris",
+                            "ids": {
+                                "trakt": 44979,
+                                "slug": "trevor-morris",
+                                "imdb": "nm0007129",
+                                "tmdb": 64156,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "writing": [
+                    {
+                        "job": "Writer",
+                        "jobs": [
+                            "Writer"
+                        ],
+                        "episode_count": 89,
+                        "person": {
+                            "name": "Michael Hirst",
+                            "ids": {
+                                "trakt": 419454,
+                                "slug": "michael-hirst",
+                                "imdb": "nm0386694",
+                                "tmdb": 37631,
+                                "tvrage": 86059
+                            }
+                        }
+                    }
+                ],
+                "editing": [
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 16,
+                        "person": {
+                            "name": "Aaron Marshall",
+                            "ids": {
+                                "trakt": 160067,
+                                "slug": "aaron-marshall",
+                                "imdb": "nm0550719",
+                                "tmdb": 995558,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Don Cassidy",
+                            "ids": {
+                                "trakt": 550840,
+                                "slug": "don-cassidy",
+                                "imdb": null,
+                                "tmdb": 1469170,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Tad Seaborn",
+                            "ids": {
+                                "trakt": 541966,
+                                "slug": "tad-seaborn",
+                                "imdb": "nm0780382",
+                                "tmdb": 1460275,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Michele Conroy",
+                            "ids": {
+                                "trakt": 49659,
+                                "slug": "michele-conroy",
+                                "imdb": "nm0003441",
+                                "tmdb": 64923,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Editor",
+                        "jobs": [
+                            "Editor"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Christopher Donaldson",
+                            "ids": {
+                                "trakt": 72962,
+                                "slug": "christopher-donaldson",
+                                "imdb": "nm2632761",
+                                "tmdb": 81872,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "directing": [
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 15,
+                        "person": {
+                            "name": "Ciaran Donnelly",
+                            "ids": {
+                                "trakt": 709144,
+                                "slug": "ciaran-donnelly",
+                                "imdb": "nm1012772",
+                                "tmdb": 1233099,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 14,
+                        "person": {
+                            "name": "Ken Girotti",
+                            "ids": {
+                                "trakt": 176893,
+                                "slug": "ken-girotti",
+                                "imdb": "nm0320987",
+                                "tmdb": 166437,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 10,
+                        "person": {
+                            "name": "Jeff Woolnough",
+                            "ids": {
+                                "trakt": 425883,
+                                "slug": "jeff-woolnough",
+                                "imdb": "nm0941276",
+                                "tmdb": 66240,
+                                "tvrage": 15761
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Steve Saint Leger",
+                            "ids": {
+                                "trakt": 1843830,
+                                "slug": "steve-saint-leger",
+                                "imdb": null,
+                                "tmdb": 2656366,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 8,
+                        "person": {
+                            "name": "Helen Shaver",
+                            "ids": {
+                                "trakt": 412327,
+                                "slug": "helen-shaver",
+                                "imdb": "nm0001726",
+                                "tmdb": 4160,
+                                "tvrage": 10720
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Daniel Grou",
+                            "ids": {
+                                "trakt": 121719,
+                                "slug": "daniel-grou",
+                                "imdb": "nm0343898",
+                                "tmdb": 123186,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "David Wellington",
+                            "ids": {
+                                "trakt": 105309,
+                                "slug": "david-wellington",
+                                "imdb": "nm0920001",
+                                "tmdb": 222108,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "David Frazee",
+                            "ids": {
+                                "trakt": 460166,
+                                "slug": "david-frazee",
+                                "imdb": "nm0292468",
+                                "tmdb": 1224779,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Johan Renck",
+                            "ids": {
+                                "trakt": 432285,
+                                "slug": "johan-renck",
+                                "imdb": "nm0719307",
+                                "tmdb": 212408,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Stephen St. Leger",
+                            "ids": {
+                                "trakt": 453047,
+                                "slug": "stephen-st-leger",
+                                "imdb": "nm1908892",
+                                "tmdb": 936154,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Kari Skogland",
+                            "ids": {
+                                "trakt": 416928,
+                                "slug": "kari-skogland",
+                                "imdb": "nm0804556",
+                                "tmdb": 22140,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Kelly Makin",
+                            "ids": {
+                                "trakt": 48505,
+                                "slug": "kelly-makin",
+                                "imdb": "nm0538614",
+                                "tmdb": 64030,
+                                "tvrage": 73699
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Sarah Harding",
+                            "ids": {
+                                "trakt": 112621,
+                                "slug": "sarah-harding-102fa797-2bda-4509-ace5-c4cec1b174f2",
+                                "imdb": "nm0362395",
+                                "tmdb": 210158,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Ben Bolt",
+                            "ids": {
+                                "trakt": 138152,
+                                "slug": "ben-bolt",
+                                "imdb": "nm0093322",
+                                "tmdb": 137932,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Paddy Breathnach",
+                            "ids": {
+                                "trakt": 58504,
+                                "slug": "paddy-breathnach",
+                                "imdb": "nm0106456",
+                                "tmdb": 73282,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Joshua Zimmerman",
+                            "ids": {
+                                "trakt": 1843842,
+                                "slug": "joshua-zimmerman",
+                                "imdb": null,
+                                "tmdb": 2656394,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "David Frazee",
+                            "ids": {
+                                "trakt": 1843836,
+                                "slug": "david-frazee-ddcebec1-0f8d-4f77-9e33-9cb6cec69105",
+                                "imdb": null,
+                                "tmdb": 2656362,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director",
+                        "jobs": [
+                            "Director"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Katheryn Winnick",
+                            "ids": {
+                                "trakt": 417704,
+                                "slug": "katheryn-winnick",
+                                "imdb": "nm0935395",
+                                "tmdb": 26723,
+                                "tvrage": 0
+                            }
+                        }
+                    }
+                ],
+                "camera": [
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "John S. Bartley",
+                            "ids": {
+                                "trakt": 41291,
+                                "slug": "john-s-bartley",
+                                "imdb": "nm0058933",
+                                "tmdb": 31175,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Director of Photography",
+                        "jobs": [
+                            "Director of Photography"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "P.J. Dillon",
+                            "ids": {
+                                "trakt": 186621,
+                                "slug": "p-j-dillon",
+                                "imdb": "nm0227047",
+                                "tmdb": 443498,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "crew": [
+                    {
+                        "job": "Stunt Coordinator",
+                        "jobs": [
+                            "Stunt Coordinator"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Mark Henson",
+                            "ids": {
+                                "trakt": 158712,
+                                "slug": "mark-henson",
+                                "imdb": "nm0378205",
+                                "tmdb": 1032072,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Keith Ward",
+                            "ids": {
+                                "trakt": 1451443,
+                                "slug": "keith-ward-b9804593-e136-483c-942e-346179d0dd08",
+                                "imdb": null,
+                                "tmdb": 2270889,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 9,
+                        "person": {
+                            "name": "Stav Dvorkin",
+                            "ids": {
+                                "trakt": 1451445,
+                                "slug": "stav-dvorkin",
+                                "imdb": null,
+                                "tmdb": 2270882,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Darron Costello",
+                            "ids": {
+                                "trakt": 1451446,
+                                "slug": "darron-costello",
+                                "imdb": null,
+                                "tmdb": 2270881,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Eimear O'Grady",
+                            "ids": {
+                                "trakt": 1451447,
+                                "slug": "eimear-o-grady",
+                                "imdb": null,
+                                "tmdb": 2270880,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Norman Kelly",
+                            "ids": {
+                                "trakt": 1451560,
+                                "slug": "norman-kelly",
+                                "imdb": null,
+                                "tmdb": 2270884,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Marc Redmond",
+                            "ids": {
+                                "trakt": 1451569,
+                                "slug": "marc-redmond",
+                                "imdb": null,
+                                "tmdb": 2270886,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Brendan Condren",
+                            "ids": {
+                                "trakt": 476717,
+                                "slug": "brendan-condren",
+                                "imdb": "nm0174443",
+                                "tmdb": 1401278,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Conor Hegarty",
+                            "ids": {
+                                "trakt": 732120,
+                                "slug": "conor-hegarty",
+                                "imdb": "nm2838731",
+                                "tmdb": 1700273,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Tony Condren",
+                            "ids": {
+                                "trakt": 1078283,
+                                "slug": "tony-condren",
+                                "imdb": null,
+                                "tmdb": 1982976,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 7,
+                        "person": {
+                            "name": "Gerry Behan",
+                            "ids": {
+                                "trakt": 1451441,
+                                "slug": "gerry-behan",
+                                "imdb": null,
+                                "tmdb": 2270891,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 6,
+                        "person": {
+                            "name": "Martin White",
+                            "ids": {
+                                "trakt": 1451434,
+                                "slug": "martin-white-bdd41d3a-adf9-4b27-968b-60517c0cc976",
+                                "imdb": null,
+                                "tmdb": 2270898,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "James Cosgrave",
+                            "ids": {
+                                "trakt": 1451438,
+                                "slug": "james-cosgrave",
+                                "imdb": null,
+                                "tmdb": 2270894,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 5,
+                        "person": {
+                            "name": "Peter Dillon",
+                            "ids": {
+                                "trakt": 433274,
+                                "slug": "peter-dillon",
+                                "imdb": "nm1952494",
+                                "tmdb": 1019578,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 4,
+                        "person": {
+                            "name": "Caroline Simonnet",
+                            "ids": {
+                                "trakt": 1451433,
+                                "slug": "caroline-simonnet",
+                                "imdb": null,
+                                "tmdb": 2270899,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Younes Afroukh",
+                            "ids": {
+                                "trakt": 577920,
+                                "slug": "younes-afroukh",
+                                "imdb": null,
+                                "tmdb": 1554026,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Gary Robinson",
+                            "ids": {
+                                "trakt": 1451444,
+                                "slug": "gary-robinson-619ace47-ccb8-4c46-81f1-0273ba0e5830",
+                                "imdb": null,
+                                "tmdb": 2270888,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Alan Walsh",
+                            "ids": {
+                                "trakt": 566719,
+                                "slug": "alan-walsh",
+                                "imdb": "nm0909533",
+                                "tmdb": 1534134,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Paul Thompson",
+                            "ids": {
+                                "trakt": 1488609,
+                                "slug": "paul-thompson-6239a3e4-a9fc-4079-9b2a-1146ab5fc55b",
+                                "imdb": null,
+                                "tmdb": 2270900,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Phil Lonergan",
+                            "ids": {
+                                "trakt": 839480,
+                                "slug": "phil-lonergan",
+                                "imdb": "nm0518843",
+                                "tmdb": 1774536,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Michael Hanna",
+                            "ids": {
+                                "trakt": 1488612,
+                                "slug": "michael-hanna-bd96e0f0-c662-47fb-8123-1c2757b7aeca",
+                                "imdb": null,
+                                "tmdb": 2272503,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Ciaran O'Grady",
+                            "ids": {
+                                "trakt": 202758,
+                                "slug": "ciaran-o-grady",
+                                "imdb": "nm2308450",
+                                "tmdb": 1085747,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 3,
+                        "person": {
+                            "name": "Richie Wilson",
+                            "ids": {
+                                "trakt": 1488614,
+                                "slug": "richie-wilson",
+                                "imdb": null,
+                                "tmdb": 2272527,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Lewis Peploe",
+                            "ids": {
+                                "trakt": 1451437,
+                                "slug": "lewis-peploe",
+                                "imdb": null,
+                                "tmdb": 2270895,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Max Cormac",
+                            "ids": {
+                                "trakt": 1451439,
+                                "slug": "max-cormac",
+                                "imdb": null,
+                                "tmdb": 2270893,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Aoife Byrne",
+                            "ids": {
+                                "trakt": 1488610,
+                                "slug": "aoife-byrne",
+                                "imdb": null,
+                                "tmdb": 2272496,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "David Byrne",
+                            "ids": {
+                                "trakt": 1488611,
+                                "slug": "david-byrne-3231d96f-0b4f-4dfe-b919-07f80035e3ce",
+                                "imdb": null,
+                                "tmdb": 2272498,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 2,
+                        "person": {
+                            "name": "Tristan McConnell",
+                            "ids": {
+                                "trakt": 339506,
+                                "slug": "tristan-mcconnell",
+                                "imdb": "nm3582035",
+                                "tmdb": 1283439,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Michael Byrch",
+                            "ids": {
+                                "trakt": 1451440,
+                                "slug": "michael-byrch",
+                                "imdb": null,
+                                "tmdb": 2270892,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Aldonio Danny Frietas",
+                            "ids": {
+                                "trakt": 1451450,
+                                "slug": "aldonio-danny-frietas",
+                                "imdb": null,
+                                "tmdb": 2238791,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Erol Mehmet",
+                            "ids": {
+                                "trakt": 1045713,
+                                "slug": "erol-mehmet",
+                                "imdb": "nm0973502",
+                                "tmdb": 1952370,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunt Double",
+                        "jobs": [
+                            "Stunt Double"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Richard Ryan",
+                            "ids": {
+                                "trakt": 107989,
+                                "slug": "richard-ryan",
+                                "imdb": "nm2737097",
+                                "tmdb": 128977,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Russell MacLeod",
+                            "ids": {
+                                "trakt": 358015,
+                                "slug": "russell-macleod",
+                                "imdb": "nm1915835",
+                                "tmdb": 1340727,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Rebecca Quin",
+                            "ids": {
+                                "trakt": 498007,
+                                "slug": "rebecca-quin",
+                                "imdb": "nm2656974",
+                                "tmdb": 1419127,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lee Bagley",
+                            "ids": {
+                                "trakt": 1002634,
+                                "slug": "lee-bagley",
+                                "imdb": "nm1163191",
+                                "tmdb": 1912842,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Robbie O'Brien",
+                            "ids": {
+                                "trakt": 1488613,
+                                "slug": "robbie-o-brien",
+                                "imdb": null,
+                                "tmdb": 2272526,
+                                "tvrage": null
+                            }
+                        }
+                    },
+                    {
+                        "job": "Stunts",
+                        "jobs": [
+                            "Stunts"
+                        ],
+                        "episode_count": 1,
+                        "person": {
+                            "name": "Lauterio Zamparelli",
+                            "ids": {
+                                "trakt": 693760,
+                                "slug": "lauterio-zamparelli",
+                                "imdb": null,
+                                "tmdb": 1669184,
+                                "tvrage": null
+                            }
+                        }
+                    }
+                ],
+                "created by": [
+                    {
+                        "job": "Creator",
+                        "jobs": [
+                            "Creator"
+                        ],
+                        "episode_count": 89,
+                        "person": {
+                            "name": "Michael Hirst",
+                            "ids": {
+                                "trakt": 419454,
+                                "slug": "michael-hirst",
+                                "imdb": "nm0386694",
+                                "tmdb": 37631,
+                                "tvrage": 86059
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "ratings": {
+            "rating": 8.55737,
+            "votes": 22789,
+            "distribution": {
+                "1": 176,
+                "2": 45,
+                "3": 76,
+                "4": 136,
+                "5": 305,
+                "6": 835,
+                "7": 2691,
+                "8": 5474,
+                "9": 5698,
+                "10": 7353
+            }
+        },
+        "relatedMovies": [
+            {
+                "title": "Game of Thrones",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1390,
+                    "slug": "game-of-thrones",
+                    "tvdb": 121361,
+                    "imdb": "tt0944947",
+                    "tmdb": 1399,
+                    "tvrage": 24493
+                }
+            },
+            {
+                "title": "The Walking Dead",
+                "year": 2010,
+                "ids": {
+                    "trakt": 1393,
+                    "slug": "the-walking-dead",
+                    "tvdb": 153021,
+                    "imdb": "tt1520211",
+                    "tmdb": 1402,
+                    "tvrage": 25056
+                }
+            },
+            {
+                "title": "Arrow",
+                "year": 2012,
+                "ids": {
+                    "trakt": 1403,
+                    "slug": "arrow",
+                    "tvdb": 257655,
+                    "imdb": "tt2193021",
+                    "tmdb": 1412,
+                    "tvrage": 30715
+                }
+            },
+            {
+                "title": "Homeland",
+                "year": 2011,
+                "ids": {
+                    "trakt": 1398,
+                    "slug": "homeland",
+                    "tvdb": 247897,
+                    "imdb": "tt1796960",
+                    "tmdb": 1407,
+                    "tvrage": 27811
+                }
+            },
+            {
+                "title": "Marvel's Agents of S.H.I.E.L.D.",
+                "year": 2013,
+                "ids": {
+                    "trakt": 1394,
+                    "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+                    "tvdb": 263365,
+                    "imdb": "tt2364582",
+                    "tmdb": 1403,
+                    "tvrage": 32656
+                }
+            },
+            {
+                "title": "Prison Break",
+                "year": 2005,
+                "ids": {
+                    "trakt": 2274,
+                    "slug": "prison-break",
+                    "tvdb": 360115,
+                    "imdb": "tt0455275",
+                    "tmdb": 2288,
+                    "tvrage": null
+                }
+            },
+            {
+                "title": "Doctor Who",
+                "year": 2005,
+                "ids": {
+                    "trakt": 56872,
+                    "slug": "doctor-who-2005",
+                    "tvdb": 78804,
+                    "imdb": "tt0436992",
+                    "tmdb": 57243,
+                    "tvrage": 3332
+                }
+            },
+            {
+                "title": "Marvel's Daredevil",
+                "year": 2015,
+                "ids": {
+                    "trakt": 77938,
+                    "slug": "marvel-s-daredevil",
+                    "tvdb": 281662,
+                    "imdb": "tt3322312",
+                    "tmdb": 61889,
+                    "tvrage": 38796
+                }
+            },
+            {
+                "title": "The 100",
+                "year": 2014,
+                "ids": {
+                    "trakt": 48562,
+                    "slug": "the-100",
+                    "tvdb": 268592,
+                    "imdb": "tt2661044",
+                    "tmdb": 48866,
+                    "tvrage": 34770
+                }
+            },
+            {
+                "title": "Firefly",
+                "year": 2002,
+                "ids": {
+                    "trakt": 1428,
+                    "slug": "firefly",
+                    "tvdb": 78874,
+                    "imdb": "tt0303461",
+                    "tmdb": 1437,
+                    "tvrage": 3548
+                }
+            }
+        ],
+        "stats": {
+            "watchers": 450758,
+            "plays": 24118290,
+            "collectors": 724485,
+            "collected_episodes": 34142351,
+            "comments": 113,
+            "lists": 145007,
+            "votes": 22789,
+            "recommended": 337
+        },
+        "watching": 6
+    }
+}
