@@ -32,8 +32,11 @@ async function getAll(type) {
             await wait()
             await redis.set(`${type}:${currentCursor}`, true);
         } catch (error) {
-            console.log(error);
-            console.log('Something went wrong! Lets continue after waiting a sec :)');
+            if (process.env.DEBUG) {
+                console.log(error);
+            }
+            console.log('Something went wrong! Lets continue after waiting a bit :)');
+            console.log(error.message);
             await wait(30)
         }
 
