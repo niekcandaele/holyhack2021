@@ -1,7 +1,7 @@
 const axios = require('axios').default
 const Redis = require("ioredis");
 const { traktTv, traktMovies } = require('./trakt');
-const redis = new Redis();
+const redis = new Redis({ host: process.env.REDIS_HOST });
 
 const logstash = {
     send: async (data) => {
