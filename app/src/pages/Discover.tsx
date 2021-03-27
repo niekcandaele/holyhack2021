@@ -3,6 +3,7 @@ import styled from 'styled';
 import { joiResolver } from '@hookform/resolvers/joi';
 import { useForm, SubmitHandler } from 'react-hook-form';
 import Joi from 'joi';
+import { Helmet } from 'react-helmet';
 import { SearchField, ItemCard, Spinner } from 'components';
 import { httpService } from 'services';
 import { Search } from 'icons';
@@ -126,6 +127,9 @@ export const Discover: FC = () => {
 
   return (
     <Container>
+      <Helmet>
+        <title>Vatican | Discover</title>
+      </Helmet>
       <h1>Discover</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <SearchContainer>
