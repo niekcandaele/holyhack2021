@@ -53,6 +53,7 @@ services:
       - elastic
     depends_on:
       - redis
+      - logstash
   redis:
     image: redis
     expose:
