@@ -28,6 +28,16 @@ async function getAll(type) {
                 currentCursor = iterations
             }
 
+            res.data.results = res.data.results.map(async element => {
+                const details = await getDetails(element.id, type)
+                return Object.assign(element, details.data)
+            })
+
+
+            res.data.results = await Promise.all(res.data.results)
+
+            console.log(res.data.results[0]);
+
             await store(res.data.results, type)
             await wait()
             await redis.set(`${type}:${currentCursor}`, true);
@@ -43,6 +53,26 @@ async function getAll(type) {
     }
 }
 
+async function getDetails(id, type) {
+    console.log(`Getting details for ${type} ${id}`)
+    switch (type) {
+        case TYPES.MOVIE:
+            return axios.get(`${baseUrlMovieDB}/movie/${id}`, {
+                params: {
+                    api_key: process.env.TMDB_API_KEY,
+                }
+            })
+        case TYPES.SHOW:
+            return axios.get(`${baseUrlMovieDB}/tv/${id}`, {
+                params: {
+                    api_key: process.env.TMDB_API_KEY,
+                }
+            })
+        default:
+            throw new Error('invalid type')
+    }
+
+}
 
 async function get(page, type) {
 

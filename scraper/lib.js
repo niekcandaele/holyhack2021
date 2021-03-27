@@ -2,6 +2,7 @@ const axios = require('axios').default
 const Redis = require("ioredis");
 const { traktTv, traktMovies } = require('./trakt');
 const redis = new Redis({ host: process.env.REDIS_HOST });
+const fs = require('fs')
 
 const logstash = {
     send: async (data) => {
@@ -42,9 +43,9 @@ async function store(data, type) {
 
         if (process.env.DEBUG) {
             fs.writeFileSync(`./data/movies/${element.id}.json`, JSON.stringify(element, null, 4))
+        } else {
+            await logstash.send(element)
         }
-
-        await logstash.send(element)
     });
 
     return Promise.all(promises)
