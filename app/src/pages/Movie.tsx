@@ -10,7 +10,6 @@ const Container = styled.div``;
 export const FlexContainer = styled.div`
   display: flex;
 `;
-
 export const FlexItem = styled.div`
   padding: 0 8px 0 8px;
 
@@ -26,7 +25,6 @@ export const FlexItem = styled.div`
   }
 
 `;
-
 export const StyledList = styled.ul`
   display: inline-flex;
   flex-direction: row;
@@ -36,7 +34,6 @@ export const StyledList = styled.ul`
     min-width: 50px;
   }
 `;
-
 export const Image = styled.div<{ url: string }>`
   width: 500px;
   height: 800px;
@@ -44,7 +41,6 @@ export const Image = styled.div<{ url: string }>`
   background-size: cover;
   border-radius: 1.5rem;
 `;
-
 const Part1 = styled.div`
   display: flex;
   flex-direction: row;
@@ -53,19 +49,16 @@ const Part1 = styled.div`
     margin: 0px 5px;
   }
 `;
-
 export const Title = styled.h1`
   font-size: 4rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
 `;
-
 const StyledSpinner = styled(Spinner)`
     fill: ${({ theme }) => theme.primary};
     stroke: ${({ theme }) => theme.primary};
 `;
-
 const Grid = styled.div`
   display: grid;
   grid-template-columns: 150px 650px;
@@ -75,7 +68,6 @@ const Description = styled.div`
   display: flex;
   align-items: center;
 `;
-
 const Value = styled.div`
   display: flex;
   align-items: center;

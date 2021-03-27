@@ -30,6 +30,12 @@ const List = styled.ul`
     align-items: center;
     width: 200px;
   }
+  .productionHouse, .rating {
+    width: 250px;
+  }
+  .rating{
+    width: 200px;
+  }
 `;
 
 const Header = styled.li`
@@ -89,8 +95,20 @@ export const Top5: FC = () => {
               <p className="title">Title</p>
               <p className="releaseDate">Release date</p>
               <p className="genre">Genre</p>
+              <p className="productionHouse">Production house</p>
+              <p className="rating">Rating</p>
             </Header>
-            {movieData.map((movie) => <Item genre={movie._source.genres} id={movie._id.split('_')[0]} releaseDate={movie._source.release_date} title={movie._source.name} type="movie" />)}
+            {movieData.map((movie) => (
+              <Item
+                genre={movie._source.genres}
+                id={movie._id.split('_')[0]}
+                productionHouse={movie._source.production_companies[0].name}
+                rating={movie._source.vote_average}
+                releaseDate={movie._source.release_date}
+                title={movie._source.name}
+                type="movie"
+              />
+            ))}
           </List>
         </Tab>
         <Tab label="Shows">
@@ -100,8 +118,21 @@ export const Top5: FC = () => {
               <p className="title">Title</p>
               <p className="releaseDate">Release date</p>
               <p className="genre">Genre</p>
+              <p className="productionHouse">Production house</p>
+              <p className="rating">rating</p>
             </Header>
-            {showData.map((show) => <Item genre={show._source.genres} id={show._id.split('_')[0]} releaseDate={show._source.first_air_date} title={show._source.name} type="show"/>)}
+            {showData.map((show) =>
+              (
+                <Item
+                  genre={show._source.genres}
+                  id={show._id.split('_')[0]}
+                  productionHouse={show._source.production_companies[0].name}
+                  rating={show._source.name}
+                  releaseDate={show._source.first_air_date}
+                  title={show._source.name}
+                  type="show"
+                />
+              ))}
           </List>
         </Tab>
       </TabSwitch>
@@ -131,15 +162,19 @@ interface ItemProps {
   type: 'movie' | 'show',
   id: string;
   genre: [any];
+  rating: number;
+  productionHouse: string;
 }
 
-const Item: FC<ItemProps> = ({ id, releaseDate, title, type, genre }) => {
+const Item: FC<ItemProps> = ({ id, releaseDate, title, type, genre, rating, productionHouse }) => {
   return (
     <ItemContainer>
       <Link to={`/${type}/${id}`}>
         <p className="title">{title}</p>
         <p className="releaseDate">{releaseDate}</p>
         <p className="genre"><Chip text={genre[0].name}/></p>
+        <p className="productionHouse">{productionHouse}</p>
+        <p className="rating">{rating}</p>
       </Link>
     </ItemContainer>
   );
