@@ -18,6 +18,8 @@ services:
       - data01:/usr/share/elasticsearch/data
     expose:
       - 9200
+    ports:
+      - 127.0.0.1:9200:9200
     networks:
       - elastic
   logstash:
