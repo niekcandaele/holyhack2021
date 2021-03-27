@@ -12,6 +12,7 @@ const Container = styled.div`
 const ContentContainer = styled(motion.div)`
   background-color:#e8edf5;
   width: 100%;
+  height: 100%;
   opacity: 0;
   overflow-y: auto;
 `;

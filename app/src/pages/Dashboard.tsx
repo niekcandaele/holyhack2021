@@ -1,11 +1,11 @@
 import { FC } from 'react';
 import styled from 'styled';
-import { Chip, InfoCard } from 'components';
+import { InfoCard, Top5 } from 'components';
 import { getTOD } from 'helpers';
 
 const Container = styled.div``;
 const Hello = styled.h1`
-  margin-top: 50px;
+  margin-top: 40px;
   font-size: 4rem;
   color: ${({ theme }): string => theme.secondary};
   opacity: .3;
@@ -19,10 +19,6 @@ const Grid = styled.div`
 `;
 
 export const Dashboard: FC = () => {
-  // TODO: get basic metrics
-
-  function handleDelete() { }
-
   return (
     <Container>
       <Hello>{getTOD()} Elise! </Hello>
@@ -31,7 +27,7 @@ export const Dashboard: FC = () => {
         <InfoCard amount={29033} isActive text="Most viewed" />
         <InfoCard amount={12344} text="Series" />
       </Grid>
-      <Chip onDelete={handleDelete} text="Adventure" />
+      <Top5/>
     </Container>
   );
 };

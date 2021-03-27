@@ -40,7 +40,7 @@ export const Movie: FC = () => {
 
   useEffect(() => {
     getMovie();
-  });
+  },[]);
 
   if (loading) {
     return (
