@@ -12,6 +12,7 @@ export const App: FC = () => {
       Accept: 'application/json'
     }
   };
+  console.log(process.env.REACT_APP_API);
 
   return (
     <StrictMode>

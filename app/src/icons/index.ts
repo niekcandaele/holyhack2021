@@ -1,5 +1,6 @@
 export {
   AlertTriangle, Archive, ArrowBack,
+  Bell,
   Connect, CreditCard, CheckMark, Close,
   Dashboard, Discord, Book,
   Github,
@@ -7,7 +8,7 @@ export {
   Link,
   Mail, Menu,
   Person, Plus,
-  Steam, Server, Settings, SignOut, ShoppingCart,
+  Steam, Search, Server, Settings, SignOut, ShoppingCart,
   Tracker,
   Undo
 } from './icons';

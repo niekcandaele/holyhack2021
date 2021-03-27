@@ -7,3 +7,6 @@ export { Notification } from './Notification';
 export { Navbar } from './Navbar';
 export { Header } from './Header';
 export { InfoCard } from './InfoCard';
+export { SearchField } from './SearchField';
+export { ItemCard } from './ItemCard';
+export { Spinner } from './Spinner';

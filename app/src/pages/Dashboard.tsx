@@ -6,7 +6,7 @@ import { getTOD } from 'helpers';
 const Container = styled.div``;
 const Hello = styled.h1`
   margin-top: 50px;
-  font-size: 5rem;
+  font-size: 4rem;
   color: ${({ theme }): string => theme.secondary};
   opacity: .3;
   margin-bottom: 40px;
