@@ -5,7 +5,14 @@ const redis = new Redis({ host: process.env.REDIS_HOST });
 
 const logstash = {
     send: async (data) => {
-        return axios.post(process.env.LOGSTASH_URL, JSON.stringify(data));
+        return axios.post(process.env.LOGSTASH_URL,
+            JSON.stringify(data),
+            {
+                headers:
+                {
+                    'Content-Type': 'application/json'
+                }
+            });
     }
 }
 
