@@ -6,35 +6,78 @@ import { Chip, Spinner } from 'components';
 
 const Container = styled.div``;
 
-const FlexContainer = styled.div`
+export const FlexContainer = styled.div`
   display: flex;
 `;
 
-const FlexItem = styled.div`
+export const FlexItem = styled.div`
   padding: 0 8px 0 8px;
+
+  &.details {
+    width: 750px;
+  }
+  &.overview {
+    margin-bottom: 25px;
+  }
+
+  h2 {
+    margin-top: 25px;
+  }
+
 `;
 
-const StyledList = styled.ul`
-  list-style-type: circle;
-  padding-left: 24px;
+export const StyledList = styled.ul`
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+
+  li {
+    min-width: 50px;
+  }
 `;
 
-const Image = styled.div<{ url: string }>`
-  width: 300px;
-  height: 450px;
+export const Image = styled.div<{ url: string }>`
+  width: 500px;
+  height: 800px;
   background-image: ${({ url }) => url ? `url(${url})` : null};
   background-size: cover;
   border-radius: 1.5rem;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19);
 `;
 
-const Title = styled.h1`
+const Part1 = styled.div`
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 25px;
+  p {
+    margin: 0px 5px;
+  }
+`;
+
+export const Title = styled.h1`
   font-size: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 `;
 
 const StyledSpinner = styled(Spinner)`
     fill: ${({ theme }) => theme.primary};
     stroke: ${({ theme }) => theme.primary};
+`;
+
+const Grid = styled.div`
+  display: grid;
+  grid-template-columns: 150px 650px;
+  grid-gap: 13px 0;
+`;
+const Description = styled.div`
+  display: flex;
+  align-items: center;
+`;
+
+const Value = styled.div`
+  display: flex;
+  align-items: center;
 `;
 
 export const Movie: FC = () => {
@@ -46,7 +89,6 @@ export const Movie: FC = () => {
     const response = await httpService.post('/query_movies', { query: { match: { id } } });
     if (response.ok) {
       const json = await response.json();
-      console.log(json);
       setMovie(json[0]._source);
       setLoading(false);
     }
@@ -63,48 +105,58 @@ export const Movie: FC = () => {
       </Container>
     );
   }
-
   if (!m) {
-    return <div>Movie not found</div>;
+    return <div>Movie not found. Make sure you used a correct query parameter.</div>;
   }
-
   return (
     <FlexContainer>
       <FlexItem>
-        <Image url={`https://www.themoviedb.org/t/p/w300${m.poster_path}`} />
+        <Image url={`https://www.themoviedb.org/t/p/w780${m.poster_path}`} />
       </FlexItem>
-      <FlexItem>
-        <Title>{m.title}</Title>
-        <h4>{m.overview}</h4>
-        <p>Releas date: {m.release_date}</p>
-        <p>Revenue: {m.revenue}</p>
-        <p>Budget: {m.budget}</p>
-        <p>Popularity: {m.popularity}</p>
-        <p>Runtime: {m.runtime}</p>
-        <p>User rated: {m.vote_average}</p>
-        <p>Language: {m.spoken_languages[0].name}</p>
-        <p>Actors:
-          <StyledList>
-            {m.trakt.people.cast.slice(0, 3).map((actor: any) => {
-              return <Chip text={actor.person.name}></Chip>;
-            })}
-          </StyledList>
-        </p>
-        <p>Genre:
-          <StyledList>
-            {m.genres.map((genre: any) => {
-              return <Chip text={genre.name}></Chip> ;
-            })}
-          </StyledList>
-        </p>
-        <p>Production companies:
+      <FlexItem className="details">
+        <Title>{m.title} <span> {m.vote_average} ⭐</span></Title>
+        <Part1>
+          <p> Release date: {!m.release_date ? 'unknown' : m.release_date} </p>
+          <p> | Revenue: {!m.revenue ? 'unknown' : m.revenue}</p>
+          <p> | Budget: {!m.budget ? 'unknown' : m.budget}</p>
+          <p> | Runtime: {!m.runtime ? 'unknown' : m.runtime}</p>
+        </Part1>
+
+        <h2>Overview</h2>
+        <p className="overview">{m.overview}</p>
+
+        <h2>Details</h2>
+        <Grid>
+          <Description>Language</Description>
+          <Value>{m.spoken_languages[0].name}</Value>
+
+          <Description>Starring</Description>
+          <Value>
+            <StyledList>
+              {m.trakt.people.cast.slice(0, 3).map((actor: any) => {
+                return <li> {actor.person.name} </li>;
+              })}
+            </StyledList>
+          </Value>
+
+          <Description>Genre</Description>
+          <Value>
+            <StyledList>
+              {m.genres.map((genre: any) => {
+                return <Chip text={genre.name}></Chip> ;
+              })}
+            </StyledList>
+          </Value>
+        </Grid>
+
+        <Description>Production companies:</Description>
+        <Value>
           <StyledList>
             {m.production_companies.map((pc: any) => {
-              return <Chip text={pc.name}></Chip> ;
+              return <li>{pc.name}</li>;
             })}
           </StyledList>
-        </p>
-
+        </Value>
       </FlexItem>
     </FlexContainer>
   );

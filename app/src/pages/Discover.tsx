@@ -66,19 +66,44 @@ export const Discover: FC = () => {
     setLoading(true);
     try {
       const s = search.split(',');
-      const queries = s.map((searchTerm) => {
-        const keyval = searchTerm.split(':');
-        return {
-          match: { [keyval[0].trim()]: keyval[1].trim() }
+      // const queries = s.map((searchTerm) => {
+      //   const keyval = searchTerm.split(':');
+      //   return {
+      //     match: { [keyval[0].trim()]: keyval[1].trim() }
+      //   };
+      // });
+      // console.log(queries);
+      let queries;
+      if (s.length === 2) { // assume that we're searching for a actor and genre
+        queries = {
+          must: [
+            {
+              match_phrase: { 'trakt.people.cast.person.name': s[0] }
+            },
+            {
+              match_phrase: { 'genres.name': s[1] }
+            }
+          ]
         };
-      });
-      console.log(queries);
+      } else if (s.length === 1) {
+        queries = {
+          should: [
+            {
+              match_phrase: { 'trakt.people.cast.person.name': s[0] }
+            },
+            {
+              match_phrase: { 'genres.name': s[0] }
+            },
+            {
+              match_phrase: { 'title': s[0] }
+            }
+          ]
+        };
+      }
 
       const response = await httpService.post('/query_movies', {
         query: {
-          bool: {
-            must: queries
-          }
+          bool: queries
         }
       });
       if (response.ok) {
@@ -125,7 +150,7 @@ export const Discover: FC = () => {
               :
               <List>
                 {items.map((item) => {
-                  return <ItemCard id={item._source.id} imagePath={item._source.poster_path} key={item._id} title={item._source.title} />;
+                  return <ItemCard id={item._source.id} imagePath={item._source.poster_path} key={item._id} title={item._source.title} type={item._source.videoType} />;
                 })}
               </List>
       }

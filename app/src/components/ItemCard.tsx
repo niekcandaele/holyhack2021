@@ -25,12 +25,13 @@ interface MovieCardProps {
   id: number;
   title: string;
   imagePath: string;
+  type: 'movie' | 'show';
 }
 
-export const ItemCard: FC<MovieCardProps> = ({ id, title, imagePath }) => {
+export const ItemCard: FC<MovieCardProps> = ({ id, title, imagePath, type }) => {
   return (
     <Container>
-      <Link to={`/movie/${id}`}>
+      <Link to={`/${type}/${id}`}>
         <Image url={`https://www.themoviedb.org/t/p/w300/${imagePath}`}/>
       </Link>
       <h3>{title}</h3>
