@@ -13,23 +13,29 @@ async function getAll(type) {
     let currentCursor = 1
 
     while (currentCursor < iterations) {
-        console.log(`Getting ${type} page ${currentCursor}`);
-        const res = await get(currentCursor, type)
-        currentCursor++
+        try {
+            console.log(`Getting ${type} page ${currentCursor}`);
+            const res = await get(currentCursor, type)
+            currentCursor++
 
-        if (!res) {
-            // No data returned, skipping this page
-            continue
+            if (!res) {
+                // No data returned, skipping this page
+                continue
+            }
+
+            // Empty response, end the loop
+            if (!res.data.results.length) {
+                currentCursor = iterations
+            }
+
+            await store(res.data.results, type)
+            await wait()
+            await redis.set(`${type}:${currentCursor}`, true);
+        } catch (error) {
+            console.log(error);
+            console.log('Something went wrong! Lets continue after waiting a sec :)');
+            await wait(30)
         }
-
-        // Empty response, end the loop
-        if (!res.data.results.length) {
-            currentCursor = iterations
-        }
-
-        await store(res.data.results, type)
-        await wait()
-        await redis.set(`${type}:${currentCursor}`, true);
 
     }
 }
