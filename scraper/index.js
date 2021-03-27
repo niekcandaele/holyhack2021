@@ -45,7 +45,7 @@ async function getAll(type) {
             }
             console.log('Something went wrong! Lets continue after waiting a bit :)');
             console.log(error.message);
-            await wait(30)
+            await wait(300)
         }
 
     }
