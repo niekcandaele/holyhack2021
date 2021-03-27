@@ -78,7 +78,7 @@ export const Movie: FC = () => {
         <h4>{m.overview}</h4>
         <p>Releas date: {m.release_date}</p>
         <p>Revenue: {m.revenue}</p>
-        <p>BUdget: {m.budget}</p>
+        <p>Budget: {m.budget}</p>
         <p>Popularity: {m.popularity}</p>
         <p>Runtime: {m.runtime}</p>
         <p>User rated: {m.vote_average}</p>
