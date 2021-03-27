@@ -8,7 +8,7 @@ export {
   Link,
   Mail, Menu,
   Person, Plus,
-  Steam, Search, Server, Settings, SignOut, ShoppingCart,
+  Steam, Search, Server, Settings, SignOut, ShoppingCart, Star,
   Tracker,
   Undo
 } from './icons';

@@ -10,7 +10,6 @@ const Container = styled.div`
   border-radius: 1.5rem;
   padding: 20px 40px;
   min-height: 570px;
-  display: ${({ loading }) => loading ? 'flex' : 'block'};
 `;
 
 const Tab = styled.div<{ label: string }>``;
