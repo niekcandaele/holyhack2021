@@ -5,8 +5,8 @@ const esb = require('elastic-builder');
 const queryGenres = {
     aggs: {
         genres: {
-            terms: { 
-                field: "genres" 
+            terms: {
+                field: "genres"
             }
         }
     }
