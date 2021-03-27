@@ -38,33 +38,19 @@ const queryType = async (req, res, idx) => {
     }
 };
 
-const countType = async (req, res, idx) => {
-    if (!req.query || !req.query.type || !req.query.query) {
-        console.log(req.body);
-        res.status(400);
-        res.json({
-            error: 'Bad request',
-            message: 'Missing parameter: body.query',
-            statuscode: 400
-        });
-        return;
-    }
-    console.log(req.query);
+const countType = async (req, res, idx, type) => {
     try {
         const response = await esclient.count({
             index: idx,
             body: {
-                query: req.query.query,
-                aggs: {
-                    type: {
-                        terms: {
-                            field: JSON.parse(req.query.type)
-                        }
+                query: {
+                    "match": {
+                        "videoType": type
                     }
                 }
             }
         });
-        res.json(response.hits.hits);
+        res.json(response.count);
     } catch (e) {
         res.status(e.statuscode || 500);
         res.json({
@@ -112,5 +98,5 @@ const getMovies = async (req, res, idx) => {
 module.exports = {
     queryType: queryType,
     queryAll: queryAll,
-    countType: countType 
+    countType: countType
 }

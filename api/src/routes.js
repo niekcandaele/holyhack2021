@@ -14,16 +14,16 @@ router.post('/query_movies', bodyParser.json(), async (req, res) => {
     await queryAll(req, res, 'movies');
 });
 
-router.get('/genres', async (req, res) =>  {
+router.get('/genres', async (req, res) => {
     await getGenres(req, res, 'movies');
 });
 
-/*
-// query: { match: {} }, field: videotype
-router.get('/query/count', bodyParser.json(), async (req, res) => {
-    await countType(req, res, 'movies');
-});
 
+// query: { match: {} }, field: videotype
+router.get('/query/count/:type', bodyParser.json(), async (req, res) => {
+    await countType(req, res, 'movies', req.params.type);
+});
+/*
 // 
 router.get('/movies',bodyParser.json(), async (req, res) => {
     await query(req, res, 'movies');
