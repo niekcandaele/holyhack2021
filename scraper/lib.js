@@ -17,7 +17,7 @@ const logstash = {
     }
 }
 
-async function wait(seconds = 10) {
+async function wait(seconds = 30) {
     // Reeee rate limits
     return new Promise((resolve, reject) => {
         setTimeout(() => {
