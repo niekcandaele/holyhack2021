@@ -1,7 +1,22 @@
 require('dotenv').config()
-const { wait, store, TYPES, redis } = require('./lib/lib');
-const baseUrlMovieDB = `https://api.themoviedb.org/3`;
+const { getRandomInt } = require('./lib/getRandomInt');
+const { wait, store, TYPES } = require('./lib/lib');
 const axios = require('axios').default
+
+
+const request = axios.create({
+    baseURL: `https://api.themoviedb.org/3`
+})
+
+request.interceptors.request.use(config => {
+    const key = getRandomInt(1, 2)
+    if (!config.params) {
+        config.params = {}
+    }
+
+    config.params['api_key'] = process.env[`TMDB_API_KEY${key}`]
+    return config
+})
 
 // Get this many pages of objects, or until empty responses
 const iterations = 500
@@ -54,17 +69,9 @@ async function getDetails(id, type) {
     console.log(`Getting details for ${type} ${id}`)
     switch (type) {
         case TYPES.MOVIE:
-            return axios.get(`${baseUrlMovieDB}/movie/${id}`, {
-                params: {
-                    api_key: process.env.TMDB_API_KEY,
-                }
-            })
+            return request(`/movie/${id}`)
         case TYPES.SHOW:
-            return axios.get(`${baseUrlMovieDB}/tv/${id}`, {
-                params: {
-                    api_key: process.env.TMDB_API_KEY,
-                }
-            })
+            return request(`/tv/${id}`)
         default:
             throw new Error('invalid type')
     }
@@ -74,19 +81,17 @@ async function getDetails(id, type) {
 async function get(page, type) {
     switch (type) {
         case TYPES.MOVIE:
-            return axios.get(`${baseUrlMovieDB}/discover/movie`, {
+            return request(`/discover/movie`, {
                 params: {
                     sort_by: 'popularity.desc',
                     page,
-                    api_key: process.env.TMDB_API_KEY,
                 }
             })
         case TYPES.SHOW:
-            return axios.get(`${baseUrlMovieDB}/discover/tv`, {
+            return request(`/discover/tv`, {
                 params: {
                     sort_by: 'popularity.desc',
                     page,
-                    api_key: process.env.TMDB_API_KEY,
                 }
             })
         default:

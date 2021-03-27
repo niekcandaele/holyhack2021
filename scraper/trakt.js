@@ -2,7 +2,6 @@ const axios = require('axios').default
 const { getRandomInt } = require('./lib/getRandomInt')
 
 const request = axios.create({
-    headers: { 'trakt-api-key': process.env.TRAKT_API_KEY },
     baseURL: `https://api.trakt.tv`
 })
 
