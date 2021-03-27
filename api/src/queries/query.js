@@ -85,8 +85,35 @@ const getTopVideos = async (req, res, idx, type, size) => {
     }
 };
 
+const totalRuntime = async (req, res, idx) => {
+    try {
+        const response = await esclient.search({
+            index: idx,
+            body: {
+                "aggs": {
+                  "count": {
+                    "sum": {
+                        "field": "runtime"
+                    }
+                  }
+                },
+                "size": 0
+            }
+        });
+        res.json({ "totalRuntime": response.aggregations.count.value });
+    } catch (e) {
+        res.status(e.statuscode || 500);
+        res.json({
+            error: e.name,
+            message: e.message,
+            statusCode: e.statusCode || 500
+        });
+    }
+};
+
 module.exports = {
     queryAll: queryAll,
     countType: countType,
-    getTopVideos
+    getTopVideos: getTopVideos,
+    totalRuntime: totalRuntime
 }

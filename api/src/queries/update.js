@@ -1,6 +1,6 @@
 const esclient = require('../connection');
 
-const updateOverview = (req, res, idx, id) => {
+const updateOverview = async (req, res, idx, id) => {
     if (!req.body) {
         res.status(400);
         res.json({
@@ -11,7 +11,7 @@ const updateOverview = (req, res, idx, id) => {
         return;
     }
     try {
-        const response = esclient.update({
+        await esclient.update({
             index: idx,
             id: id,
             body: {
