@@ -109,13 +109,7 @@ Jury (ivan) is a fan of catchphrases :) -> power3
 ### Demo queries
 
 ```
-trakt.people.cast.person.name: Brad Pitt
-trakt.people.cast.person.name: Brad Pitt, genres.name: comedy
-```
-
-```
 title: breaking
-name: breaking
 ```
 
 ```
