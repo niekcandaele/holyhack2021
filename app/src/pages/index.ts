@@ -4,6 +4,5 @@ export { Frame } from './Frame';
 export { Statistics } from './Statistics';
 export { Discover } from './Discover';
 export { Movie } from './Movie';
-export { Series } from './Series';
-export { Actor } from './Actor';
+export { Show } from './Show';
 export { Editor } from './Editor';

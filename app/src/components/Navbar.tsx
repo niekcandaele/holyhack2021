@@ -59,12 +59,12 @@ const Nav = styled.ul`
 export const Navbar: FC = () => {
   return (
     <Container>
-      <Link to="/view/dashboard"><h2>VATICAN</h2></Link>
+      <Link to="/dashboard"><h2>VATICAN</h2></Link>
       <Nav>
-        <NavLink to="/view/dashboard"><Dashboard /><p>Dashboard</p></NavLink>
-        <NavLink to="/view/discover"><Book /><p>Discover</p></NavLink>
-        <NavLink to="/view/editor"><CheckMark /><p>Editor</p></NavLink>
-        <NavLink to="/view/statistics"><Server /><p>Statistics</p></NavLink>
+        <NavLink to="/dashboard"><Dashboard /><p>Dashboard</p></NavLink>
+        <NavLink to="/discover"><Book /><p>Discover</p></NavLink>
+        <NavLink to="/editor"><CheckMark /><p>Editor</p></NavLink>
+        <NavLink to="/statistics"><Server /><p>Statistics</p></NavLink>
       </Nav>
     </Container>
   );

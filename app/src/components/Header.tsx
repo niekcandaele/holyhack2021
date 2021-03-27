@@ -51,7 +51,7 @@ export const Header: FC = () => {
     <Container>
       <Left>
         <Chip text="Vatican City" />
-        <Chip text="Ketnet Junior" />
+        <Chip text="Discovery channel" />
       </Left>
       <Right>
         <IconContainer>
